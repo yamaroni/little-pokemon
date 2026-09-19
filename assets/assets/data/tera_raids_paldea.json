@@ -1,0 +1,336 @@
+{
+  "crystals": [
+    {
+      "crystalId": "poco_path_crystal",
+      "crystalName": "Poco Path Crystal",
+      "locationName": "South Province — Poco Path"
+    },
+    {
+      "crystalId": "south_province_crystal",
+      "crystalName": "South Province Crystal",
+      "locationName": "South Province — Area Three"
+    },
+    {
+      "crystalId": "east_province_crystal",
+      "crystalName": "East Province Crystal",
+      "locationName": "East Province — Area Two"
+    },
+    {
+      "crystalId": "west_province_crystal",
+      "crystalName": "West Province Crystal",
+      "locationName": "West Province — Area One"
+    },
+    {
+      "crystalId": "north_province_crystal",
+      "crystalName": "North Province Crystal",
+      "locationName": "North Province — Area Three"
+    },
+    {
+      "crystalId": "asado_desert_crystal",
+      "crystalName": "Asado Desert Crystal",
+      "locationName": "West Province — Asado Desert"
+    },
+    {
+      "crystalId": "glaseado_crystal",
+      "crystalName": "Glaseado Mountain Crystal",
+      "locationName": "North Province — Glaseado Mountain"
+    },
+    {
+      "crystalId": "casseroya_crystal",
+      "crystalName": "Casseroya Lake Crystal",
+      "locationName": "West Province — Casseroya Lake"
+    },
+    {
+      "crystalId": "tagtree_crystal",
+      "crystalName": "Tagtree Thicket Crystal",
+      "locationName": "North Province — Tagtree Thicket"
+    },
+    {
+      "crystalId": "dalizapa_crystal",
+      "crystalName": "Dalizapa Passage Crystal",
+      "locationName": "East Province — Dalizapa Passage"
+    },
+    {
+      "crystalId": "socarrat_crystal",
+      "crystalName": "Socarrat Trail Crystal",
+      "locationName": "North Province — Socarrat Trail"
+    },
+    {
+      "crystalId": "area_zero_crystal",
+      "crystalName": "Area Zero Crystal",
+      "locationName": "The Great Crater of Paldea — Area Zero"
+    }
+  ],
+  "bosses": [
+    {
+      "id": 908,
+      "name": "Meowscarada",
+      "ability": "overgrow",
+      "nature": "jolly",
+      "tera": true,
+      "tera_type": "grass",
+      "moves": ["flower-trick", "knock-off", "u-turn", "play-rough"],
+      "imageUrl": "assets/sprites/home_front/908.png",
+      "win_messages": [
+        "The crystal's light flares — the raid Pokémon holds its ground!",
+        "Your team is driven back from the crystal."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 911,
+      "name": "Skeledirge",
+      "ability": "blaze",
+      "nature": "modest",
+      "tera": true,
+      "tera_type": "ghost",
+      "moves": ["torch-song", "shadow-ball", "hyper-voice", "earth-power"],
+      "imageUrl": "assets/sprites/home_front/911.png",
+      "win_messages": [
+        "The song swells and the crystal blazes on!",
+        "Your team is sung out of the raid."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 914,
+      "name": "Quaquaval",
+      "ability": "torrent",
+      "nature": "jolly",
+      "tera": true,
+      "tera_type": "water",
+      "moves": ["aqua-step", "close-combat", "wave-crash", "u-turn"],
+      "imageUrl": "assets/sprites/home_front/914.png",
+      "win_messages": [
+        "The dance never breaks — the crystal holds!",
+        "Your team is swept out of the raid."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 934,
+      "name": "Garganacl",
+      "ability": "purifying-salt",
+      "nature": "adamant",
+      "tera": true,
+      "tera_type": "rock",
+      "moves": ["salt-cure", "stone-edge", "body-press", "earthquake"],
+      "imageUrl": "assets/sprites/home_front/934.png",
+      "win_messages": [
+        "The salt pillar stands unmoved — the crystal holds!",
+        "Your team is ground down at the crystal."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 936,
+      "name": "Armarouge",
+      "ability": "flash-fire",
+      "nature": "modest",
+      "tera": true,
+      "tera_type": "psychic",
+      "moves": ["armor-cannon", "psyshock", "aura-sphere", "shadow-ball"],
+      "imageUrl": "assets/sprites/home_front/936.png",
+      "win_messages": [
+        "The cannon roars and the crystal blazes on!",
+        "Your team is shelled out of the raid."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 937,
+      "name": "Ceruledge",
+      "ability": "flash-fire",
+      "nature": "adamant",
+      "tera": true,
+      "tera_type": "fire",
+      "moves": ["bitter-blade", "shadow-claw", "close-combat", "swords-dance"],
+      "imageUrl": "assets/sprites/home_front/937.png",
+      "win_messages": [
+        "The blades drink deep — the crystal holds!",
+        "Your team is cut down at the crystal."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 959,
+      "name": "Tinkaton",
+      "ability": "mold-breaker",
+      "nature": "adamant",
+      "tera": true,
+      "tera_type": "fairy",
+      "moves": ["gigaton-hammer", "play-rough", "knock-off", "stone-edge"],
+      "imageUrl": "assets/sprites/home_front/959.png",
+      "win_messages": [
+        "The hammer falls and the crystal rings on!",
+        "Your team is hammered away from the crystal."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 970,
+      "name": "Glimmora",
+      "ability": "toxic-debris",
+      "nature": "modest",
+      "tera": true,
+      "tera_type": "poison",
+      "moves": ["sludge-wave", "earth-power", "power-gem", "mortal-spin"],
+      "imageUrl": "assets/sprites/home_front/970.png",
+      "win_messages": [
+        "The crystal flower opens wider — the raid holds!",
+        "Your team is poisoned out of the raid."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 977,
+      "name": "Dondozo",
+      "ability": "unaware",
+      "nature": "adamant",
+      "tera": true,
+      "tera_type": "water",
+      "moves": ["wave-crash", "order-up", "earthquake", "body-press"],
+      "imageUrl": "assets/sprites/home_front/977.png",
+      "win_messages": [
+        "The big fish rolls on — the crystal holds!",
+        "Your team is washed out of the raid."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 979,
+      "name": "Annihilape",
+      "ability": "vital-spirit",
+      "nature": "adamant",
+      "tera": true,
+      "tera_type": "fighting",
+      "moves": ["rage-fist", "drain-punch", "shadow-claw", "u-turn"],
+      "imageUrl": "assets/sprites/home_front/979.png",
+      "win_messages": [
+        "Its rage only grows — the crystal holds!",
+        "Your team is driven off by sheer fury."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 983,
+      "name": "Kingambit",
+      "ability": "defiant",
+      "nature": "adamant",
+      "tera": true,
+      "tera_type": "steel",
+      "moves": ["kowtow-cleave", "iron-head", "sucker-punch", "swords-dance"],
+      "imageUrl": "assets/sprites/home_front/983.png",
+      "win_messages": [
+        "The big boss keeps its throne — the crystal holds!",
+        "Your team is cut down at the crystal."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 984,
+      "name": "Great Tusk",
+      "ability": "protosynthesis",
+      "nature": "adamant",
+      "tera": true,
+      "tera_type": "ground",
+      "moves": ["headlong-rush", "close-combat", "stone-edge", "knock-off"],
+      "imageUrl": "assets/sprites/home_front/984.png",
+      "win_messages": [
+        "The ancient one charges on — the crystal holds!",
+        "Your team is trampled at the crystal."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 998,
+      "name": "Baxcalibur",
+      "ability": "thermal-exchange",
+      "nature": "adamant",
+      "tera": true,
+      "tera_type": "dragon",
+      "moves": ["glaive-rush", "icicle-crash", "earthquake", "dragon-claw"],
+      "imageUrl": "assets/sprites/home_front/998.png",
+      "win_messages": [
+        "The ice dragon stands its ground — the crystal holds!",
+        "Your team is frozen out of the raid."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 1005,
+      "name": "Roaring Moon",
+      "ability": "protosynthesis",
+      "nature": "jolly",
+      "tera": true,
+      "tera_type": "dragon",
+      "moves": ["dragon-claw", "crunch", "acrobatics", "dragon-dance"],
+      "imageUrl": "assets/sprites/home_front/1005.png",
+      "win_messages": [
+        "The roar shakes the crater — the crystal holds!",
+        "Your team is torn away from the crystal."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    },
+    {
+      "id": 1006,
+      "name": "Iron Valiant",
+      "ability": "quark-drive",
+      "nature": "jolly",
+      "tera": true,
+      "tera_type": "fairy",
+      "moves": ["moonblast", "close-combat", "spirit-break", "knock-off"],
+      "imageUrl": "assets/sprites/home_front/1006.png",
+      "win_messages": [
+        "The future one holds the line — the crystal holds!",
+        "Your team is cut apart at the crystal."
+      ],
+      "lose_messages": [
+        "The Tera crystal shatters into light!",
+        "The raid Pokémon's Terastal energy fades."
+      ]
+    }
+  ]
+}

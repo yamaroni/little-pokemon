@@ -1,0 +1,992 @@
+{
+  "dens": [
+    {
+      "denId": "soothing_wetlands_den",
+      "denName": "Soothing Wetlands Den",
+      "locationName": "Isle of Armor — Soothing Wetlands"
+    },
+    {
+      "denId": "rolling_fields_crown_den",
+      "denName": "Crown Tundra Beacon Den",
+      "locationName": "Crown Tundra — Max Lair"
+    },
+    {
+      "denId": "challenge_beach_den",
+      "denName": "Challenge Beach Den",
+      "locationName": "Isle of Armor — Challenge Beach"
+    },
+    {
+      "denId": "rolling_fields_den",
+      "denName": "Rolling Fields Den",
+      "locationName": "Wild Area — Rolling Fields"
+    },
+    {
+      "denId": "dyna_tree_hill_den",
+      "denName": "Dyna Tree Hill Den",
+      "locationName": "Crown Tundra — Dyna Tree Hill"
+    },
+    {
+      "denId": "training_lowlands_den",
+      "denName": "Training Lowlands Den",
+      "locationName": "Isle of Armor — Training Lowlands"
+    },
+    {
+      "denId": "hammerlocke_hills_den",
+      "denName": "Hammerlocke Hills Den",
+      "locationName": "Wild Area — Hammerlocke Hills"
+    },
+    {
+      "denId": "watchtower_ruins_den",
+      "denName": "Watchtower Ruins Den",
+      "locationName": "Wild Area — Watchtower Ruins"
+    },
+    {
+      "denId": "west_lake_axewell_den",
+      "denName": "West Lake Axewell Den",
+      "locationName": "Wild Area — West Lake Axewell"
+    },
+    {
+      "denId": "lake_of_outrage_den",
+      "denName": "Lake of Outrage Den",
+      "locationName": "Wild Area — Lake of Outrage"
+    },
+    {
+      "denId": "fields_of_honor_den",
+      "denName": "Fields of Honor Den",
+      "locationName": "Isle of Armor — Fields of Honor"
+    },
+    {
+      "denId": "giants_seat_den",
+      "denName": "Giant's Seat Den",
+      "locationName": "Wild Area — Giant's Seat"
+    },
+    {
+      "denId": "potbottom_desert_den",
+      "denName": "Potbottom Desert Den",
+      "locationName": "Isle of Armor — Potbottom Desert"
+    },
+    {
+      "denId": "rusted_factory_den",
+      "denName": "Rusted Factory Den",
+      "locationName": "Galar Mine No. 2 — Sealed Chamber"
+    },
+    {
+      "denId": "giants_bed_den",
+      "denName": "Giant's Bed Den",
+      "locationName": "Crown Tundra — Giant’s Bed"
+    },
+    {
+      "denId": "warm_up_tunnel_den",
+      "denName": "Warm-Up Tunnel Den",
+      "locationName": "Isle of Armor — Warm-Up Tunnel"
+    },
+    {
+      "denId": "insular_sea_den",
+      "denName": "Insular Sea Den",
+      "locationName": "Isle of Armor — Insular Sea"
+    },
+    {
+      "denId": "south_lake_miloch_den",
+      "denName": "South Lake Miloch Den",
+      "locationName": "Wild Area — South Lake Miloch"
+    },
+    {
+      "denId": "dappled_grove_den",
+      "denName": "Dappled Grove Den",
+      "locationName": "Wild Area — Dappled Grove"
+    },
+    {
+      "denId": "east_lake_axewell_den",
+      "denName": "East Lake Axewell Den",
+      "locationName": "Wild Area — East Lake Axewell"
+    },
+    {
+      "denId": "north_lake_miloch_den",
+      "denName": "North Lake Miloch Den",
+      "locationName": "Wild Area — North Lake Miloch"
+    },
+    {
+      "denId": "forest_of_focus_den",
+      "denName": "Forest of Focus Den",
+      "locationName": "Isle of Armor — Forest of Focus"
+    },
+    {
+      "denId": "ballimere_lake_den",
+      "denName": "Ballimere Lake Den",
+      "locationName": "Crown Tundra — Ballimere Lake"
+    },
+    {
+      "denId": "stony_wilderness_den",
+      "denName": "Stony Wilderness Den",
+      "locationName": "Wild Area — Stony Wilderness"
+    },
+    {
+      "denId": "motostoke_riverbank_den",
+      "denName": "Motostoke Riverbank Den",
+      "locationName": "Wild Area — Motostoke Riverbank"
+    },
+    {
+      "denId": "dusty_bowl_den",
+      "denName": "Dusty Bowl Den",
+      "locationName": "Wild Area — Dusty Bowl"
+    },
+    {
+      "denId": "bridge_field_den",
+      "denName": "Bridge Field Den",
+      "locationName": "Wild Area — Bridge Field"
+    },
+    {
+      "denId": "old_cemetery_den",
+      "denName": "Old Cemetery Den",
+      "locationName": "Crown Tundra — Old Cemetery"
+    },
+    {
+      "denId": "giants_cap_den",
+      "denName": "Giant's Cap Den",
+      "locationName": "Wild Area — Giant's Cap"
+    },
+    {
+      "denId": "giants_mirror_den",
+      "denName": "Giant's Mirror Den",
+      "locationName": "Wild Area — Giant's Mirror"
+    },
+    {
+      "denId": "axews_eye_den",
+      "denName": "Axew's Eye Den",
+      "locationName": "Wild Area — Axew's Eye"
+    },
+    {
+      "denId": "isle_of_armor_den",
+      "denName": "Master Dojo Den",
+      "locationName": "Isle of Armor — Master Dojo"
+    },
+    {
+      "denId": "tower_of_waters_den",
+      "denName": "Tower of Waters Den",
+      "locationName": "Isle of Armor — Tower of Waters"
+    },
+    {
+      "denId": "three_point_pass_den",
+      "denName": "Three-Point Pass Den",
+      "locationName": "Crown Tundra — Three-Point Pass"
+    }
+  ],
+  "bosses": [
+    {
+      "id": 3,
+      "name": "Gigantamax Venusaur",
+      "form": "venusaur-gmax",
+      "form_sprite": "10195",
+      "form_battle_sprite": "10195",
+      "ability": "overgrow",
+      "nature": "modest",
+      "moves": [
+        "giga-drain",
+        "sludge-bomb",
+        "leech-seed",
+        "sleep-powder"
+      ],
+      "imageUrl": "assets/sprites/home_front/10195.png",
+      "win_messages": [
+        "The petals close over your team!",
+        "Venusaur settles back into the marsh. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Venusaur's flower folds shut!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Gigantamax Charizard",
+      "form": "charizard-gmax",
+      "form_sprite": "10196",
+      "form_battle_sprite": "10196",
+      "ability": "blaze",
+      "nature": "timid",
+      "moves": [
+        "flamethrower",
+        "air-slash",
+        "dragon-pulse",
+        "solar-beam"
+      ],
+      "imageUrl": "assets/sprites/home_front/10196.png",
+      "win_messages": [
+        "A pillar of flame erupts from the den. You're driven out!",
+        "Charizard roars from the beacon. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Charizard's flames finally gutter out!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Gigantamax Blastoise",
+      "form": "blastoise-gmax",
+      "form_sprite": "10197",
+      "form_battle_sprite": "10197",
+      "ability": "torrent",
+      "nature": "modest",
+      "moves": [
+        "hydro-pump",
+        "ice-beam",
+        "flash-cannon",
+        "aura-sphere"
+      ],
+      "imageUrl": "assets/sprites/home_front/10197.png",
+      "win_messages": [
+        "A wall of water sweeps the beach clean!",
+        "Blastoise reloads every cannon. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Blastoise's cannons run dry!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Gigantamax Butterfree",
+      "form": "butterfree-gmax",
+      "form_sprite": "10198",
+      "form_battle_sprite": "10198",
+      "ability": "compound-eyes",
+      "nature": "modest",
+      "moves": [
+        "bug-buzz",
+        "air-slash",
+        "sleep-powder",
+        "psychic"
+      ],
+      "imageUrl": "assets/sprites/home_front/10198.png",
+      "win_messages": [
+        "The Dynamax energy overwhelms your team!",
+        "The den's red beam fades. The raid failed."
+      ],
+      "lose_messages": [
+        "The Gigantamax Pokémon shrinks back down!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Gigantamax Pikachu",
+      "form": "pikachu-gmax",
+      "form_sprite": "10199",
+      "form_battle_sprite": "10199",
+      "ability": "static",
+      "nature": "modest",
+      "moves": [
+        "thunderbolt",
+        "nuzzle",
+        "iron-tail",
+        "thunder"
+      ],
+      "imageUrl": "assets/sprites/home_front/10199.png",
+      "win_messages": [
+        "The whole hill lights up — and your team goes down!",
+        "Pikachu keeps sparking. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Pikachu powers down with a happy cry!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Gigantamax Meowth",
+      "form": "meowth-gmax",
+      "form_sprite": "10200",
+      "form_battle_sprite": "10200",
+      "ability": "technician",
+      "nature": "adamant",
+      "moves": [
+        "fake-out",
+        "night-slash",
+        "u-turn",
+        "screech"
+      ],
+      "imageUrl": "assets/sprites/home_front/10200.png",
+      "win_messages": [
+        "The endless coin toss buries your team!",
+        "Meowth struts off with your money."
+      ],
+      "lose_messages": [
+        "Gigantamax Meowth shrinks back to pocket size!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Gigantamax Machamp",
+      "form": "machamp-gmax",
+      "form_sprite": "10201",
+      "form_battle_sprite": "10201",
+      "ability": "no-guard",
+      "nature": "adamant",
+      "moves": [
+        "dynamic-punch",
+        "stone-edge",
+        "knock-off",
+        "bullet-punch"
+      ],
+      "imageUrl": "assets/sprites/home_front/10201.png",
+      "win_messages": [
+        "All four arms come down at once. You're beaten!",
+        "Machamp flexes. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Machamp gives you a thumbs up!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Gigantamax Gengar",
+      "form": "gengar-gmax",
+      "form_sprite": "10202",
+      "form_battle_sprite": "10202",
+      "ability": "cursed-body",
+      "nature": "timid",
+      "moves": [
+        "shadow-ball",
+        "sludge-wave",
+        "hex",
+        "dark-pulse"
+      ],
+      "imageUrl": "assets/sprites/home_front/10202.png",
+      "win_messages": [
+        "The giant mouth in the ground swallows your team!",
+        "Gengar's laughter echoes through the ruins."
+      ],
+      "lose_messages": [
+        "Gigantamax Gengar's grin finally fades!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Gigantamax Kingler",
+      "form": "kingler-gmax",
+      "form_sprite": "10203",
+      "form_battle_sprite": "10203",
+      "ability": "sheer-force",
+      "nature": "adamant",
+      "moves": [
+        "crabhammer",
+        "x-scissor",
+        "rock-slide",
+        "agility"
+      ],
+      "imageUrl": "assets/sprites/home_front/10203.png",
+      "win_messages": [
+        "That giant pincer was the last thing you saw!",
+        "Kingler blows bubbles at your fainted team."
+      ],
+      "lose_messages": [
+        "Gigantamax Kingler scuttles back into the water!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Gigantamax Lapras",
+      "form": "lapras-gmax",
+      "form_sprite": "10204",
+      "form_battle_sprite": "10204",
+      "ability": "water-absorb",
+      "nature": "modest",
+      "moves": [
+        "surf",
+        "ice-beam",
+        "thunderbolt",
+        "freeze-dry"
+      ],
+      "imageUrl": "assets/sprites/home_front/10204.png",
+      "win_messages": [
+        "The ring of ice closes around your team!",
+        "Lapras sings a mournful song as you retreat."
+      ],
+      "lose_messages": [
+        "Gigantamax Lapras dives beneath the lake!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Gigantamax Eevee",
+      "form": "eevee-gmax",
+      "form_sprite": "10205",
+      "form_battle_sprite": "10205",
+      "ability": "adaptability",
+      "nature": "adamant",
+      "moves": [
+        "last-resort",
+        "quick-attack",
+        "bite",
+        "baby-doll-eyes"
+      ],
+      "imageUrl": "assets/sprites/home_front/10205.png",
+      "win_messages": [
+        "You are smothered by an enormous mane of fur!",
+        "Eevee bounds away across the fields."
+      ],
+      "lose_messages": [
+        "Gigantamax Eevee nuzzles you and shrinks down!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Gigantamax Snorlax",
+      "form": "snorlax-gmax",
+      "form_sprite": "10206",
+      "form_battle_sprite": "10206",
+      "ability": "thick-fat",
+      "nature": "adamant",
+      "moves": [
+        "body-slam",
+        "high-horsepower",
+        "crunch",
+        "rest"
+      ],
+      "imageUrl": "assets/sprites/home_front/10206.png",
+      "win_messages": [
+        "The mountain of a Pokémon rolls over your team!",
+        "Snorlax goes back to sleep on top of you."
+      ],
+      "lose_messages": [
+        "Gigantamax Snorlax finally naps for good!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 569,
+      "name": "Gigantamax Garbodor",
+      "form": "garbodor-gmax",
+      "form_sprite": "10207",
+      "form_battle_sprite": "10207",
+      "ability": "aftermath",
+      "nature": "adamant",
+      "moves": [
+        "gunk-shot",
+        "drain-punch",
+        "rock-blast",
+        "toxic-spikes"
+      ],
+      "imageUrl": "assets/sprites/home_front/10207.png",
+      "win_messages": [
+        "The poison cloud swallows the whole den!",
+        "Garbodor keeps piling on the trash."
+      ],
+      "lose_messages": [
+        "Gigantamax Garbodor collapses into a heap!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 809,
+      "name": "Gigantamax Melmetal",
+      "form": "melmetal-gmax",
+      "form_sprite": "10208",
+      "form_battle_sprite": "10208",
+      "ability": "iron-fist",
+      "nature": "adamant",
+      "moves": [
+        "double-iron-bash",
+        "thunder-punch",
+        "earthquake",
+        "ice-punch"
+      ],
+      "imageUrl": "assets/sprites/home_front/10208.png",
+      "win_messages": [
+        "The giant nut hand flattens your team!",
+        "Melmetal seals the chamber behind you."
+      ],
+      "lose_messages": [
+        "Gigantamax Melmetal powers down at last!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 812,
+      "name": "Gigantamax Rillaboom",
+      "form": "rillaboom-gmax",
+      "form_sprite": "10209",
+      "form_battle_sprite": "10209",
+      "ability": "grassy-surge",
+      "nature": "adamant",
+      "moves": [
+        "drum-beating",
+        "wood-hammer",
+        "drain-punch",
+        "knock-off"
+      ],
+      "imageUrl": "assets/sprites/home_front/10209.png",
+      "win_messages": [
+        "The drum solo shakes your team apart!",
+        "Rillaboom keeps the beat going. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Rillaboom sets down its drum!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 815,
+      "name": "Gigantamax Cinderace",
+      "form": "cinderace-gmax",
+      "form_sprite": "10210",
+      "form_battle_sprite": "10210",
+      "ability": "libero",
+      "nature": "jolly",
+      "moves": [
+        "pyro-ball",
+        "high-jump-kick",
+        "sucker-punch",
+        "u-turn"
+      ],
+      "imageUrl": "assets/sprites/home_front/10210.png",
+      "win_messages": [
+        "One shot from that blazing ball ends the match!",
+        "Cinderace lines up another kick. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Cinderace kicks the fire out!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 818,
+      "name": "Gigantamax Inteleon",
+      "form": "inteleon-gmax",
+      "form_sprite": "10211",
+      "form_battle_sprite": "10211",
+      "ability": "sniper",
+      "nature": "timid",
+      "moves": [
+        "snipe-shot",
+        "ice-beam",
+        "dark-pulse",
+        "air-slash"
+      ],
+      "imageUrl": "assets/sprites/home_front/10211.png",
+      "win_messages": [
+        "You never even saw the shot coming!",
+        "Inteleon vanishes back into the water tower."
+      ],
+      "lose_messages": [
+        "Gigantamax Inteleon lowers its aim at last!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 823,
+      "name": "Gigantamax Corviknight",
+      "form": "corviknight-gmax",
+      "form_sprite": "10212",
+      "form_battle_sprite": "10212",
+      "ability": "pressure",
+      "nature": "adamant",
+      "moves": [
+        "brave-bird",
+        "iron-head",
+        "bulk-up",
+        "roost"
+      ],
+      "imageUrl": "assets/sprites/home_front/10212.png",
+      "win_messages": [
+        "Corviknight's steel wings drive you off!",
+        "The raven vanishes into the storm clouds."
+      ],
+      "lose_messages": [
+        "Gigantamax Corviknight folds its wings and lands!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 826,
+      "name": "Gigantamax Orbeetle",
+      "form": "orbeetle-gmax",
+      "form_sprite": "10213",
+      "form_battle_sprite": "10213",
+      "ability": "swarm",
+      "nature": "modest",
+      "moves": [
+        "psychic",
+        "bug-buzz",
+        "calm-mind",
+        "recover"
+      ],
+      "imageUrl": "assets/sprites/home_front/10213.png",
+      "win_messages": [
+        "Orbeetle's psychic wave scatters your team!",
+        "The grove falls silent. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Orbeetle powers down!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 834,
+      "name": "Gigantamax Drednaw",
+      "form": "drednaw-gmax",
+      "form_sprite": "10214",
+      "form_battle_sprite": "10214",
+      "ability": "strong-jaw",
+      "nature": "adamant",
+      "moves": [
+        "liquidation",
+        "crunch",
+        "rock-slide",
+        "earthquake"
+      ],
+      "imageUrl": "assets/sprites/home_front/10214.png",
+      "win_messages": [
+        "Drednaw's giant jaws snap your challenge shut!",
+        "The lake churns. Come back stronger."
+      ],
+      "lose_messages": [
+        "Gigantamax Drednaw sinks back beneath the lake!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 839,
+      "name": "Gigantamax Coalossal",
+      "form": "coalossal-gmax",
+      "form_sprite": "10215",
+      "form_battle_sprite": "10215",
+      "ability": "steam-engine",
+      "nature": "adamant",
+      "moves": [
+        "heat-crash",
+        "stone-edge",
+        "will-o-wisp",
+        "earthquake"
+      ],
+      "imageUrl": "assets/sprites/home_front/10215.png",
+      "win_messages": [
+        "The coal furnace roars and the cavern collapses on you!",
+        "Coalossal's flames drive you back."
+      ],
+      "lose_messages": [
+        "Gigantamax Coalossal's fire dies down!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 841,
+      "name": "Gigantamax Flapple",
+      "form": "flapple-gmax",
+      "form_sprite": "10216",
+      "form_battle_sprite": "10216",
+      "ability": "hustle",
+      "nature": "adamant",
+      "moves": [
+        "grav-apple",
+        "dragon-claw",
+        "u-turn",
+        "sucker-punch"
+      ],
+      "imageUrl": "assets/sprites/home_front/10216.png",
+      "win_messages": [
+        "The apple falls — right on your last Pokémon!",
+        "Flapple circles overhead. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Flapple drops back out of the canopy!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 842,
+      "name": "Gigantamax Appletun",
+      "form": "appletun-gmax",
+      "form_sprite": "10217",
+      "form_battle_sprite": "10217",
+      "ability": "thick-fat",
+      "nature": "modest",
+      "moves": [
+        "apple-acid",
+        "dragon-pulse",
+        "body-slam",
+        "protect"
+      ],
+      "imageUrl": "assets/sprites/home_front/10217.png",
+      "win_messages": [
+        "You sink into the syrup and never get out!",
+        "Appletun settles down by the lake."
+      ],
+      "lose_messages": [
+        "Gigantamax Appletun deflates with a sigh!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 844,
+      "name": "Gigantamax Sandaconda",
+      "form": "sandaconda-gmax",
+      "form_sprite": "10218",
+      "form_battle_sprite": "10218",
+      "ability": "sand-spit",
+      "nature": "adamant",
+      "moves": [
+        "earthquake",
+        "coil",
+        "glare",
+        "rock-slide"
+      ],
+      "imageUrl": "assets/sprites/home_front/10218.png",
+      "win_messages": [
+        "The sandstorm swallows your team whole!",
+        "Sandaconda coils tighter. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Sandaconda uncoils and slips away!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 849,
+      "name": "Gigantamax Toxtricity (Amped)",
+      "form": "toxtricity-amped-gmax",
+      "form_sprite": "10219",
+      "form_battle_sprite": "10219",
+      "ability": "punk-rock",
+      "nature": "modest",
+      "moves": [
+        "overdrive",
+        "sludge-bomb",
+        "boomburst",
+        "volt-switch"
+      ],
+      "imageUrl": "assets/sprites/home_front/10219.png",
+      "win_messages": [
+        "The power chord blows your team off the stage!",
+        "Toxtricity keeps shredding. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Toxtricity drops the amp and powers down!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 851,
+      "name": "Gigantamax Centiskorch",
+      "form": "centiskorch-gmax",
+      "form_sprite": "10220",
+      "form_battle_sprite": "10220",
+      "ability": "flame-body",
+      "nature": "adamant",
+      "moves": [
+        "fire-lash",
+        "leech-life",
+        "power-whip",
+        "coil"
+      ],
+      "imageUrl": "assets/sprites/home_front/10220.png",
+      "win_messages": [
+        "The burning coils wrap around your last Pokémon!",
+        "Centiskorch blazes on. The raid failed."
+      ],
+      "lose_messages": [
+        "Gigantamax Centiskorch's flames burn out!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 858,
+      "name": "Gigantamax Hatterene",
+      "form": "hatterene-gmax",
+      "form_sprite": "10221",
+      "form_battle_sprite": "10221",
+      "ability": "magic-bounce",
+      "nature": "modest",
+      "moves": [
+        "psychic",
+        "dazzling-gleam",
+        "mystical-fire",
+        "calm-mind"
+      ],
+      "imageUrl": "assets/sprites/home_front/10221.png",
+      "win_messages": [
+        "Hatterene silences you for making too much noise!",
+        "The witch of the forest turns away."
+      ],
+      "lose_messages": [
+        "Gigantamax Hatterene calms at last!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 861,
+      "name": "Gigantamax Grimmsnarl",
+      "form": "grimmsnarl-gmax",
+      "form_sprite": "10222",
+      "form_battle_sprite": "10222",
+      "ability": "prankster",
+      "nature": "adamant",
+      "moves": [
+        "spirit-break",
+        "sucker-punch",
+        "darkest-lariat",
+        "bulk-up"
+      ],
+      "imageUrl": "assets/sprites/home_front/10222.png",
+      "win_messages": [
+        "The hair wraps around your team and squeezes!",
+        "Grimmsnarl grins from the headstones."
+      ],
+      "lose_messages": [
+        "Gigantamax Grimmsnarl unravels its hair!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 869,
+      "name": "Gigantamax Alcremie",
+      "form": "alcremie-gmax",
+      "form_sprite": "10223",
+      "form_battle_sprite": "10223",
+      "ability": "sweet-veil",
+      "nature": "modest",
+      "moves": [
+        "dazzling-gleam",
+        "psychic",
+        "recover",
+        "calm-mind"
+      ],
+      "imageUrl": "assets/sprites/home_front/10223.png",
+      "win_messages": [
+        "You're buried under a mountain of cream!",
+        "Alcremie decorates the den with your defeat."
+      ],
+      "lose_messages": [
+        "Gigantamax Alcremie melts back down to size!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 879,
+      "name": "Gigantamax Copperajah",
+      "form": "copperajah-gmax",
+      "form_sprite": "10224",
+      "form_battle_sprite": "10224",
+      "ability": "sheer-force",
+      "nature": "adamant",
+      "moves": [
+        "heavy-slam",
+        "earthquake",
+        "iron-head",
+        "play-rough"
+      ],
+      "imageUrl": "assets/sprites/home_front/10224.png",
+      "win_messages": [
+        "The copper elephant tramples your whole team!",
+        "Copperajah trumpets in triumph."
+      ],
+      "lose_messages": [
+        "Gigantamax Copperajah kneels down!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 884,
+      "name": "Gigantamax Duraludon",
+      "form": "duraludon-gmax",
+      "form_sprite": "10225",
+      "form_battle_sprite": "10225",
+      "ability": "light-metal",
+      "nature": "modest",
+      "moves": [
+        "draco-meteor",
+        "flash-cannon",
+        "thunderbolt",
+        "body-press"
+      ],
+      "imageUrl": "assets/sprites/home_front/10225.png",
+      "win_messages": [
+        "The skyscraper Pokémon towers over your fainted team!",
+        "Duraludon's alloy body shrugs everything off."
+      ],
+      "lose_messages": [
+        "Gigantamax Duraludon's tower crumbles!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 892,
+      "name": "Gigantamax Urshifu (Single Strike)",
+      "form": "urshifu-single-strike-gmax",
+      "form_sprite": "10226",
+      "form_battle_sprite": "10226",
+      "ability": "unseen-fist",
+      "nature": "jolly",
+      "moves": [
+        "wicked-blow",
+        "close-combat",
+        "sucker-punch",
+        "iron-head"
+      ],
+      "imageUrl": "assets/sprites/home_front/10226.png",
+      "win_messages": [
+        "One strike. That's all it took.",
+        "Urshifu returns to its stance, unmoved."
+      ],
+      "lose_messages": [
+        "Gigantamax Urshifu bows to you!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 892,
+      "name": "Gigantamax Urshifu (Rapid Strike)",
+      "form": "urshifu-rapid-strike-gmax",
+      "form_sprite": "10227",
+      "form_battle_sprite": "10227",
+      "ability": "unseen-fist",
+      "nature": "jolly",
+      "moves": [
+        "liquidation",
+        "close-combat",
+        "aqua-jet",
+        "iron-head"
+      ],
+      "imageUrl": "assets/sprites/home_front/10227.png",
+      "win_messages": [
+        "A flurry of strikes — your team never landed one!",
+        "Urshifu returns to the tower, untouched."
+      ],
+      "lose_messages": [
+        "Gigantamax Urshifu ends its flurry and bows!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    },
+    {
+      "id": 849,
+      "name": "Gigantamax Toxtricity (Low Key)",
+      "form": "toxtricity-low-key-gmax",
+      "form_sprite": "10228",
+      "form_battle_sprite": "10228",
+      "ability": "punk-rock",
+      "nature": "modest",
+      "moves": [
+        "overdrive",
+        "sludge-wave",
+        "snarl",
+        "volt-switch"
+      ],
+      "imageUrl": "assets/sprites/home_front/10228.png",
+      "win_messages": [
+        "The bassline levels the whole pass!",
+        "Toxtricity keeps playing to an empty crowd."
+      ],
+      "lose_messages": [
+        "Gigantamax Toxtricity unplugs at last!",
+        "Raid cleared! The den's energy is yours."
+      ]
+    }
+  ]
+}

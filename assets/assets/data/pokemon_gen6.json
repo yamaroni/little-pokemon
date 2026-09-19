@@ -1,0 +1,8970 @@
+[
+  {
+    "id": 650,
+    "name": "chespin",
+    "generation": 6,
+    "base_experience": 63,
+    "height": 4,
+    "weight": 90,
+    "species": "chespin",
+    "forms": [
+      "chespin"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/650.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "overgrow",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "bulletproof",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 56,
+      "attack": 61,
+      "defense": 65,
+      "special_attack": 48,
+      "special_defense": 45,
+      "speed": 38
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "vine-whip",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "pin-missile",
+      "bite",
+      "growl",
+      "leech-seed",
+      "rollout",
+      "pain-split",
+      "bulk-up",
+      "mud-shot",
+      "seed-bomb",
+      "wood-hammer"
+    ],
+    "egg_moves": [
+      "belly-drum",
+      "curse",
+      "defense-curl",
+      "power-up-punch",
+      "quick-guard",
+      "spikes",
+      "super-fang",
+      "synthesis",
+      "wide-guard"
+    ],
+    "machine_moves": [
+      "aerial-ace",
+      "attract",
+      "brick-break",
+      "bulldoze",
+      "bullet-seed",
+      "confide",
+      "cut",
+      "dig",
+      "double-team",
+      "drain-punch",
+      "endeavor",
+      "endure",
+      "energy-ball",
+      "facade",
+      "flash",
+      "fling",
+      "focus-punch",
+      "frustration",
+      "giga-drain",
+      "grass-knot",
+      "grass-pledge",
+      "grassy-glide",
+      "grassy-terrain",
+      "gyro-ball",
+      "helping-hand",
+      "hidden-power",
+      "iron-head",
+      "leaf-storm",
+      "low-kick",
+      "low-sweep",
+      "magical-leaf",
+      "metal-claw",
+      "nature-power",
+      "payback",
+      "poison-jab",
+      "protect",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "retaliate",
+      "return",
+      "roar",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "secret-power",
+      "shadow-claw",
+      "sleep-talk",
+      "sludge-bomb",
+      "smack-down",
+      "solar-beam",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "swords-dance",
+      "taunt",
+      "tera-blast",
+      "thunder-punch",
+      "toxic",
+      "trailblaze",
+      "work-up",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 651,
+    "name": "quilladin",
+    "generation": 6,
+    "base_experience": 142,
+    "height": 7,
+    "weight": 290,
+    "species": "quilladin",
+    "forms": [
+      "quilladin"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/651.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "overgrow",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "bulletproof",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 61,
+      "attack": 78,
+      "defense": 95,
+      "special_attack": 56,
+      "special_defense": 58,
+      "speed": 57
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "vine-whip",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "pin-missile",
+      "bite",
+      "growl",
+      "leech-seed",
+      "rollout",
+      "pain-split",
+      "needle-arm",
+      "bulk-up",
+      "mud-shot",
+      "seed-bomb",
+      "wood-hammer"
+    ],
+    "egg_moves": [
+      "belly-drum",
+      "curse",
+      "quick-guard",
+      "spikes",
+      "super-fang",
+      "synthesis",
+      "wide-guard"
+    ],
+    "machine_moves": [
+      "aerial-ace",
+      "attract",
+      "brick-break",
+      "bulldoze",
+      "bullet-seed",
+      "confide",
+      "cut",
+      "dig",
+      "double-team",
+      "drain-punch",
+      "endeavor",
+      "endure",
+      "energy-ball",
+      "facade",
+      "flash",
+      "fling",
+      "focus-punch",
+      "frustration",
+      "giga-drain",
+      "grass-knot",
+      "grass-pledge",
+      "grassy-glide",
+      "grassy-terrain",
+      "gyro-ball",
+      "helping-hand",
+      "hidden-power",
+      "hone-claws",
+      "iron-defense",
+      "iron-head",
+      "leaf-storm",
+      "low-kick",
+      "low-sweep",
+      "magical-leaf",
+      "metal-claw",
+      "nature-power",
+      "payback",
+      "poison-jab",
+      "power-up-punch",
+      "protect",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "retaliate",
+      "return",
+      "roar",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "secret-power",
+      "shadow-claw",
+      "sleep-talk",
+      "sludge-bomb",
+      "smack-down",
+      "solar-beam",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "swords-dance",
+      "taunt",
+      "tera-blast",
+      "thunder-punch",
+      "toxic",
+      "trailblaze",
+      "work-up",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 652,
+    "name": "chesnaught",
+    "generation": 6,
+    "base_experience": 239,
+    "height": 16,
+    "weight": 900,
+    "species": "chesnaught",
+    "forms": [
+      "chesnaught"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/652.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "overgrow",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "bulletproof",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 88,
+      "attack": 107,
+      "defense": 122,
+      "special_attack": 74,
+      "special_defense": 75,
+      "speed": 64
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "vine-whip",
+      "tackle",
+      "body-slam",
+      "take-down",
+      "pin-missile",
+      "bite",
+      "growl",
+      "leech-seed",
+      "belly-drum",
+      "rollout",
+      "pain-split",
+      "needle-arm",
+      "bulk-up",
+      "mud-shot",
+      "hammer-arm",
+      "feint",
+      "seed-bomb",
+      "giga-impact",
+      "wood-hammer",
+      "spiky-shield"
+    ],
+    "egg_moves": [
+      "curse",
+      "quick-guard",
+      "spikes",
+      "super-fang",
+      "synthesis",
+      "wide-guard"
+    ],
+    "machine_moves": [
+      "aerial-ace",
+      "attract",
+      "body-press",
+      "brick-break",
+      "bulldoze",
+      "bullet-seed",
+      "close-combat",
+      "coaching",
+      "confide",
+      "crunch",
+      "cut",
+      "dig",
+      "double-edge",
+      "double-team",
+      "dragon-claw",
+      "drain-punch",
+      "earthquake",
+      "endeavor",
+      "endure",
+      "energy-ball",
+      "facade",
+      "flash",
+      "fling",
+      "focus-blast",
+      "focus-punch",
+      "frenzy-plant",
+      "frustration",
+      "giga-drain",
+      "grass-knot",
+      "grass-pledge",
+      "grassy-glide",
+      "grassy-terrain",
+      "gyro-ball",
+      "helping-hand",
+      "hidden-power",
+      "high-horsepower",
+      "hone-claws",
+      "hyper-beam",
+      "iron-defense",
+      "iron-head",
+      "knock-off",
+      "leaf-storm",
+      "low-kick",
+      "low-sweep",
+      "magical-leaf",
+      "metal-claw",
+      "mud-slap",
+      "nature-power",
+      "payback",
+      "poison-jab",
+      "power-up-punch",
+      "protect",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "retaliate",
+      "return",
+      "reversal",
+      "roar",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "scary-face",
+      "secret-power",
+      "shadow-claw",
+      "sleep-talk",
+      "sludge-bomb",
+      "smack-down",
+      "solar-beam",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "swords-dance",
+      "taunt",
+      "tera-blast",
+      "thunder-punch",
+      "toxic",
+      "trailblaze",
+      "work-up",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 653,
+    "name": "fennekin",
+    "generation": 6,
+    "base_experience": 61,
+    "height": 4,
+    "weight": 94,
+    "species": "fennekin",
+    "forms": [
+      "fennekin"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/653.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "blaze",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "magician",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "special_attack": 62,
+      "special_defense": 60,
+      "speed": 60
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "scratch",
+      "tail-whip",
+      "ember",
+      "flamethrower",
+      "psybeam",
+      "fire-spin",
+      "psychic",
+      "light-screen",
+      "fire-blast",
+      "sunny-day",
+      "will-o-wisp",
+      "howl",
+      "lucky-chant",
+      "psyshock",
+      "magic-room",
+      "flame-charge"
+    ],
+    "egg_moves": [
+      "copycat",
+      "heat-wave",
+      "hypnosis",
+      "magic-coat",
+      "psychic-terrain",
+      "wish"
+    ],
+    "machine_moves": [
+      "agility",
+      "attract",
+      "burning-jealousy",
+      "calm-mind",
+      "charm",
+      "confide",
+      "cut",
+      "double-team",
+      "dream-eater",
+      "echoed-voice",
+      "embargo",
+      "encore",
+      "endure",
+      "facade",
+      "fire-pledge",
+      "flare-blitz",
+      "foul-play",
+      "frustration",
+      "grass-knot",
+      "helping-hand",
+      "hidden-power",
+      "imprison",
+      "incinerate",
+      "mud-shot",
+      "mud-slap",
+      "overheat",
+      "power-up-punch",
+      "protect",
+      "psych-up",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "safeguard",
+      "secret-power",
+      "skill-swap",
+      "sleep-talk",
+      "solar-beam",
+      "stored-power",
+      "substitute",
+      "swagger",
+      "swift",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "trick",
+      "trick-room",
+      "work-up"
+    ]
+  },
+  {
+    "id": 654,
+    "name": "braixen",
+    "generation": 6,
+    "base_experience": 143,
+    "height": 10,
+    "weight": 145,
+    "species": "braixen",
+    "forms": [
+      "braixen"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/654.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "blaze",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "magician",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 59,
+      "attack": 59,
+      "defense": 58,
+      "special_attack": 90,
+      "special_defense": 70,
+      "speed": 73
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "scratch",
+      "tail-whip",
+      "ember",
+      "flamethrower",
+      "psybeam",
+      "fire-spin",
+      "psychic",
+      "light-screen",
+      "fire-blast",
+      "sunny-day",
+      "will-o-wisp",
+      "howl",
+      "lucky-chant",
+      "psyshock",
+      "magic-room",
+      "flame-charge"
+    ],
+    "egg_moves": [
+      "copycat",
+      "heat-wave",
+      "hypnosis",
+      "wish"
+    ],
+    "machine_moves": [
+      "agility",
+      "attract",
+      "burning-jealousy",
+      "calm-mind",
+      "charm",
+      "confide",
+      "cut",
+      "double-team",
+      "dream-eater",
+      "echoed-voice",
+      "embargo",
+      "encore",
+      "endure",
+      "facade",
+      "fire-pledge",
+      "fire-punch",
+      "flare-blitz",
+      "foul-play",
+      "frustration",
+      "grass-knot",
+      "helping-hand",
+      "hidden-power",
+      "imprison",
+      "incinerate",
+      "low-kick",
+      "mud-shot",
+      "mud-slap",
+      "overheat",
+      "power-up-punch",
+      "protect",
+      "psych-up",
+      "psychic-terrain",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "safeguard",
+      "secret-power",
+      "skill-swap",
+      "sleep-talk",
+      "solar-beam",
+      "stored-power",
+      "substitute",
+      "swagger",
+      "swift",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "thunder-punch",
+      "toxic",
+      "trick",
+      "trick-room",
+      "work-up",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 655,
+    "name": "delphox",
+    "generation": 6,
+    "base_experience": 240,
+    "height": 15,
+    "weight": 390,
+    "species": "delphox",
+    "forms": [
+      "delphox"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/655.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "blaze",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "magician",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 75,
+      "attack": 69,
+      "defense": 72,
+      "special_attack": 114,
+      "special_defense": 100,
+      "speed": 104
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "scratch",
+      "tail-whip",
+      "ember",
+      "flamethrower",
+      "psybeam",
+      "fire-spin",
+      "psychic",
+      "light-screen",
+      "fire-blast",
+      "sunny-day",
+      "shadow-ball",
+      "future-sight",
+      "will-o-wisp",
+      "role-play",
+      "howl",
+      "lucky-chant",
+      "switcheroo",
+      "psyshock",
+      "magic-room",
+      "flame-charge",
+      "mystical-fire"
+    ],
+    "egg_moves": [
+      "copycat",
+      "heat-wave",
+      "hypnosis",
+      "wish"
+    ],
+    "machine_moves": [
+      "agility",
+      "attract",
+      "blast-burn",
+      "burning-jealousy",
+      "calm-mind",
+      "charm",
+      "confide",
+      "confuse-ray",
+      "cut",
+      "dazzling-gleam",
+      "double-team",
+      "dream-eater",
+      "echoed-voice",
+      "embargo",
+      "encore",
+      "endure",
+      "expanding-force",
+      "facade",
+      "fire-pledge",
+      "fire-punch",
+      "flare-blitz",
+      "focus-blast",
+      "foul-play",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "helping-hand",
+      "hex",
+      "hidden-power",
+      "hyper-beam",
+      "hyper-voice",
+      "imprison",
+      "incinerate",
+      "low-kick",
+      "metronome",
+      "mud-shot",
+      "mud-slap",
+      "nasty-plot",
+      "night-shade",
+      "overheat",
+      "power-up-punch",
+      "protect",
+      "psych-up",
+      "psychic-noise",
+      "psychic-terrain",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "round",
+      "safeguard",
+      "scorching-sands",
+      "secret-power",
+      "skill-swap",
+      "sleep-talk",
+      "solar-beam",
+      "stored-power",
+      "substitute",
+      "swagger",
+      "swift",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "thunder-punch",
+      "toxic",
+      "trick",
+      "trick-room",
+      "work-up",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 656,
+    "name": "froakie",
+    "generation": 6,
+    "base_experience": 63,
+    "height": 3,
+    "weight": 70,
+    "species": "froakie",
+    "forms": [
+      "froakie"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/656.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "torrent",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "protean",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 41,
+      "attack": 56,
+      "defense": 40,
+      "special_attack": 62,
+      "special_defense": 44,
+      "speed": 71
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "pound",
+      "growl",
+      "water-gun",
+      "hydro-pump",
+      "quick-attack",
+      "double-team",
+      "smokescreen",
+      "lick",
+      "bubble",
+      "substitute",
+      "bounce",
+      "water-pulse",
+      "fling",
+      "smack-down",
+      "round"
+    ],
+    "egg_moves": [
+      "bestow",
+      "camouflage",
+      "counter",
+      "mind-reader",
+      "mud-sport",
+      "power-up-punch",
+      "retaliate",
+      "spikes",
+      "switcheroo",
+      "toxic-spikes",
+      "water-sport"
+    ],
+    "machine_moves": [
+      "acrobatics",
+      "aerial-ace",
+      "attract",
+      "blizzard",
+      "chilling-water",
+      "confide",
+      "cut",
+      "dig",
+      "dive",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "false-swipe",
+      "frustration",
+      "grass-knot",
+      "helping-hand",
+      "hidden-power",
+      "ice-beam",
+      "icy-wind",
+      "liquidation",
+      "mud-shot",
+      "mud-slap",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "scald",
+      "secret-power",
+      "sleep-talk",
+      "snowscape",
+      "strength",
+      "surf",
+      "swagger",
+      "swift",
+      "take-down",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "trailblaze",
+      "u-turn",
+      "water-pledge",
+      "waterfall",
+      "work-up"
+    ]
+  },
+  {
+    "id": 657,
+    "name": "frogadier",
+    "generation": 6,
+    "base_experience": 142,
+    "height": 6,
+    "weight": 109,
+    "species": "frogadier",
+    "forms": [
+      "frogadier"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/657.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "torrent",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "protean",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 54,
+      "attack": 63,
+      "defense": 52,
+      "special_attack": 83,
+      "special_defense": 56,
+      "speed": 97
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "pound",
+      "growl",
+      "water-gun",
+      "hydro-pump",
+      "quick-attack",
+      "double-team",
+      "smokescreen",
+      "lick",
+      "bubble",
+      "substitute",
+      "bounce",
+      "water-pulse",
+      "fling",
+      "smack-down",
+      "round"
+    ],
+    "egg_moves": [
+      "counter",
+      "retaliate",
+      "spikes",
+      "switcheroo",
+      "toxic-spikes"
+    ],
+    "machine_moves": [
+      "acrobatics",
+      "aerial-ace",
+      "attract",
+      "blizzard",
+      "chilling-water",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "dig",
+      "dive",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "false-swipe",
+      "frustration",
+      "grass-knot",
+      "gunk-shot",
+      "helping-hand",
+      "hidden-power",
+      "ice-beam",
+      "ice-punch",
+      "icy-wind",
+      "liquidation",
+      "low-kick",
+      "mud-shot",
+      "mud-slap",
+      "power-up-punch",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "scald",
+      "secret-power",
+      "sleep-talk",
+      "snowscape",
+      "strength",
+      "surf",
+      "swagger",
+      "swift",
+      "swords-dance",
+      "take-down",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "trailblaze",
+      "u-turn",
+      "water-pledge",
+      "waterfall",
+      "work-up"
+    ]
+  },
+  {
+    "id": 658,
+    "name": "greninja",
+    "generation": 6,
+    "base_experience": 239,
+    "height": 15,
+    "weight": 400,
+    "species": "greninja",
+    "forms": [
+      "greninja"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/658.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "torrent",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "protean",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 72,
+      "attack": 95,
+      "defense": 67,
+      "special_attack": 103,
+      "special_defense": 71,
+      "speed": 122
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "pound",
+      "growl",
+      "water-gun",
+      "hydro-pump",
+      "quick-attack",
+      "double-team",
+      "smokescreen",
+      "haze",
+      "lick",
+      "bubble",
+      "substitute",
+      "feint-attack",
+      "spikes",
+      "role-play",
+      "extrasensory",
+      "aerial-ace",
+      "water-pulse",
+      "night-slash",
+      "shadow-sneak",
+      "mat-block",
+      "water-shuriken"
+    ],
+    "egg_moves": [
+      "counter",
+      "retaliate",
+      "switcheroo",
+      "toxic-spikes"
+    ],
+    "machine_moves": [
+      "acrobatics",
+      "attract",
+      "blizzard",
+      "brick-break",
+      "brutal-swing",
+      "chilling-water",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "dig",
+      "dive",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "false-swipe",
+      "fling",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "gunk-shot",
+      "helping-hand",
+      "hidden-power",
+      "hydro-cannon",
+      "hyper-beam",
+      "ice-beam",
+      "ice-punch",
+      "icy-wind",
+      "liquidation",
+      "low-kick",
+      "low-sweep",
+      "mud-shot",
+      "mud-slap",
+      "power-up-punch",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "scald",
+      "secret-power",
+      "sleep-talk",
+      "sludge-wave",
+      "smack-down",
+      "snowscape",
+      "strength",
+      "surf",
+      "swagger",
+      "swift",
+      "swords-dance",
+      "take-down",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "trailblaze",
+      "u-turn",
+      "upper-hand",
+      "water-pledge",
+      "waterfall",
+      "weather-ball",
+      "work-up"
+    ]
+  },
+  {
+    "id": 659,
+    "name": "bunnelby",
+    "generation": 6,
+    "base_experience": 47,
+    "height": 4,
+    "weight": 50,
+    "species": "bunnelby",
+    "forms": [
+      "bunnelby"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/659.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "pickup",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "cheek-pouch",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "huge-power",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 38,
+      "attack": 36,
+      "defense": 38,
+      "special_attack": 32,
+      "special_defense": 36,
+      "speed": 57
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "double-slap",
+      "swords-dance",
+      "double-kick",
+      "tackle",
+      "take-down",
+      "leer",
+      "earthquake",
+      "dig",
+      "agility",
+      "quick-attack",
+      "super-fang",
+      "flail",
+      "mud-slap",
+      "facade",
+      "odor-sleuth",
+      "bounce",
+      "mud-shot",
+      "bulldoze",
+      "laser-focus"
+    ],
+    "egg_moves": [
+      "defense-curl",
+      "rollout",
+      "spikes"
+    ],
+    "machine_moves": [
+      "attract",
+      "brick-break",
+      "bulk-up",
+      "confide",
+      "cut",
+      "double-team",
+      "endure",
+      "fling",
+      "frustration",
+      "grass-knot",
+      "hidden-power",
+      "iron-head",
+      "iron-tail",
+      "nature-power",
+      "payback",
+      "power-up-punch",
+      "protect",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "sandstorm",
+      "secret-power",
+      "sleep-talk",
+      "sludge-bomb",
+      "smack-down",
+      "snore",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "surf",
+      "swagger",
+      "thief",
+      "torment",
+      "toxic",
+      "u-turn",
+      "wild-charge",
+      "work-up"
+    ]
+  },
+  {
+    "id": 660,
+    "name": "diggersby",
+    "generation": 6,
+    "base_experience": 148,
+    "height": 10,
+    "weight": 424,
+    "species": "diggersby",
+    "forms": [
+      "diggersby"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/660.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "type": {
+          "name": "ground"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "pickup",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "cheek-pouch",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "huge-power",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 85,
+      "attack": 56,
+      "defense": 77,
+      "special_attack": 50,
+      "special_defense": 77,
+      "speed": 78
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "double-slap",
+      "swords-dance",
+      "double-kick",
+      "tackle",
+      "take-down",
+      "leer",
+      "earthquake",
+      "dig",
+      "agility",
+      "quick-attack",
+      "super-fang",
+      "flail",
+      "mud-slap",
+      "facade",
+      "odor-sleuth",
+      "bounce",
+      "mud-shot",
+      "hammer-arm",
+      "bulldoze",
+      "rototiller",
+      "laser-focus"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "attract",
+      "body-slam",
+      "brick-break",
+      "brutal-swing",
+      "bulk-up",
+      "confide",
+      "cut",
+      "double-team",
+      "earth-power",
+      "endure",
+      "fire-punch",
+      "fling",
+      "foul-play",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "gunk-shot",
+      "hidden-power",
+      "high-horsepower",
+      "hyper-beam",
+      "ice-punch",
+      "iron-head",
+      "iron-tail",
+      "low-kick",
+      "mega-kick",
+      "mega-punch",
+      "nature-power",
+      "payback",
+      "power-up-punch",
+      "protect",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "sand-tomb",
+      "sandstorm",
+      "secret-power",
+      "sleep-talk",
+      "sludge-bomb",
+      "smack-down",
+      "snore",
+      "spikes",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "superpower",
+      "surf",
+      "swagger",
+      "thief",
+      "thunder-punch",
+      "torment",
+      "toxic",
+      "u-turn",
+      "uproar",
+      "wild-charge",
+      "work-up"
+    ]
+  },
+  {
+    "id": 661,
+    "name": "fletchling",
+    "generation": 6,
+    "base_experience": 56,
+    "height": 3,
+    "weight": 17,
+    "species": "fletchling",
+    "forms": [
+      "fletchling"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/661.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "big-pecks",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "gale-wings",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 43,
+      "special_attack": 40,
+      "special_defense": 38,
+      "speed": 62
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "razor-wind",
+      "fly",
+      "tackle",
+      "growl",
+      "ember",
+      "peck",
+      "agility",
+      "quick-attack",
+      "flail",
+      "steel-wing",
+      "aerial-ace",
+      "roost",
+      "natural-gift",
+      "tailwind",
+      "me-first",
+      "flame-charge",
+      "acrobatics"
+    ],
+    "egg_moves": [
+      "defog",
+      "quick-guard",
+      "snatch"
+    ],
+    "machine_moves": [
+      "air-cutter",
+      "air-slash",
+      "attract",
+      "brave-bird",
+      "confide",
+      "double-edge",
+      "double-team",
+      "dual-wingbeat",
+      "endure",
+      "facade",
+      "feather-dance",
+      "flare-blitz",
+      "frustration",
+      "heat-wave",
+      "hidden-power",
+      "hurricane",
+      "overheat",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "swords-dance",
+      "take-down",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "u-turn",
+      "will-o-wisp",
+      "work-up"
+    ]
+  },
+  {
+    "id": 662,
+    "name": "fletchinder",
+    "generation": 6,
+    "base_experience": 134,
+    "height": 7,
+    "weight": 160,
+    "species": "fletchinder",
+    "forms": [
+      "fletchinder"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/662.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "flame-body",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "gale-wings",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 62,
+      "attack": 73,
+      "defense": 55,
+      "special_attack": 56,
+      "special_defense": 52,
+      "speed": 84
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "razor-wind",
+      "fly",
+      "tackle",
+      "growl",
+      "ember",
+      "peck",
+      "agility",
+      "quick-attack",
+      "flail",
+      "steel-wing",
+      "aerial-ace",
+      "roost",
+      "natural-gift",
+      "feint",
+      "tailwind",
+      "me-first",
+      "flame-charge",
+      "acrobatics"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "air-cutter",
+      "air-slash",
+      "attract",
+      "brave-bird",
+      "confide",
+      "double-edge",
+      "double-team",
+      "dual-wingbeat",
+      "endure",
+      "facade",
+      "feather-dance",
+      "fire-blast",
+      "fire-spin",
+      "flamethrower",
+      "flare-blitz",
+      "frustration",
+      "heat-wave",
+      "hidden-power",
+      "hurricane",
+      "incinerate",
+      "overheat",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "swords-dance",
+      "take-down",
+      "taunt",
+      "temper-flare",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "u-turn",
+      "will-o-wisp",
+      "work-up"
+    ]
+  },
+  {
+    "id": 663,
+    "name": "talonflame",
+    "generation": 6,
+    "base_experience": 175,
+    "height": 12,
+    "weight": 245,
+    "species": "talonflame",
+    "forms": [
+      "talonflame"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/663.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "flame-body",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "gale-wings",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 78,
+      "attack": 81,
+      "defense": 71,
+      "special_attack": 74,
+      "special_defense": 69,
+      "speed": 126
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "razor-wind",
+      "fly",
+      "tackle",
+      "growl",
+      "ember",
+      "peck",
+      "agility",
+      "quick-attack",
+      "flail",
+      "steel-wing",
+      "aerial-ace",
+      "roost",
+      "natural-gift",
+      "feint",
+      "tailwind",
+      "me-first",
+      "flare-blitz",
+      "brave-bird",
+      "flame-charge",
+      "acrobatics"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "air-cutter",
+      "air-slash",
+      "attract",
+      "bulk-up",
+      "confide",
+      "double-edge",
+      "double-team",
+      "dual-wingbeat",
+      "endure",
+      "facade",
+      "feather-dance",
+      "fire-blast",
+      "fire-spin",
+      "flamethrower",
+      "frustration",
+      "giga-impact",
+      "heat-wave",
+      "hidden-power",
+      "hone-claws",
+      "hurricane",
+      "hyper-beam",
+      "incinerate",
+      "overheat",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "solar-beam",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "swords-dance",
+      "take-down",
+      "taunt",
+      "temper-flare",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "u-turn",
+      "upper-hand",
+      "will-o-wisp",
+      "work-up"
+    ]
+  },
+  {
+    "id": 664,
+    "name": "scatterbug",
+    "generation": 6,
+    "base_experience": 40,
+    "height": 3,
+    "weight": 25,
+    "species": "scatterbug",
+    "forms": [
+      "scatterbug-icy-snow",
+      "scatterbug-polar",
+      "scatterbug-tundra",
+      "scatterbug-continental",
+      "scatterbug-garden",
+      "scatterbug-elegant",
+      "scatterbug-meadow",
+      "scatterbug-modern",
+      "scatterbug-marine",
+      "scatterbug-archipelago",
+      "scatterbug-high-plains",
+      "scatterbug-sandstorm",
+      "scatterbug-river",
+      "scatterbug-monsoon",
+      "scatterbug-savanna",
+      "scatterbug-sun",
+      "scatterbug-ocean",
+      "scatterbug-jungle",
+      "scatterbug-fancy",
+      "scatterbug-poke-ball"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/664.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "bug"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shield-dust",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "compound-eyes",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "friend-guard",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 38,
+      "attack": 35,
+      "defense": 40,
+      "special_attack": 27,
+      "special_defense": 25,
+      "speed": 35
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "stun-spore",
+      "string-shot",
+      "bug-bite"
+    ],
+    "egg_moves": [
+      "poison-powder",
+      "rage-powder"
+    ],
+    "machine_moves": [
+      "pounce",
+      "struggle-bug",
+      "tera-blast"
+    ]
+  },
+  {
+    "id": 665,
+    "name": "spewpa",
+    "generation": 6,
+    "base_experience": 75,
+    "height": 3,
+    "weight": 84,
+    "species": "spewpa",
+    "forms": [
+      "spewpa-icy-snow",
+      "spewpa-polar",
+      "spewpa-tundra",
+      "spewpa-continental",
+      "spewpa-garden",
+      "spewpa-elegant",
+      "spewpa-meadow",
+      "spewpa-modern",
+      "spewpa-marine",
+      "spewpa-archipelago",
+      "spewpa-high-plains",
+      "spewpa-sandstorm",
+      "spewpa-river",
+      "spewpa-monsoon",
+      "spewpa-savanna",
+      "spewpa-sun",
+      "spewpa-ocean",
+      "spewpa-jungle",
+      "spewpa-fancy",
+      "spewpa-poke-ball"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/665.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "bug"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shed-skin",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "friend-guard",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 45,
+      "attack": 22,
+      "defense": 60,
+      "special_attack": 27,
+      "special_defense": 30,
+      "speed": 29
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "harden",
+      "protect"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "bug-bite",
+      "iron-defense",
+      "pounce",
+      "struggle-bug",
+      "tera-blast"
+    ]
+  },
+  {
+    "id": 666,
+    "name": "vivillon",
+    "generation": 6,
+    "base_experience": 185,
+    "height": 12,
+    "weight": 170,
+    "species": "vivillon",
+    "forms": [
+      "vivillon-meadow",
+      "vivillon-icy-snow",
+      "vivillon-polar",
+      "vivillon-tundra",
+      "vivillon-continental",
+      "vivillon-garden",
+      "vivillon-elegant",
+      "vivillon-modern",
+      "vivillon-marine",
+      "vivillon-archipelago",
+      "vivillon-high-plains",
+      "vivillon-sandstorm",
+      "vivillon-river",
+      "vivillon-monsoon",
+      "vivillon-savanna",
+      "vivillon-sun",
+      "vivillon-ocean",
+      "vivillon-jungle",
+      "vivillon-fancy",
+      "vivillon-poke-ball"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/666.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shield-dust",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "compound-eyes",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "friend-guard",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 80,
+      "attack": 52,
+      "defense": 50,
+      "special_attack": 90,
+      "special_defense": 50,
+      "speed": 89
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "gust",
+      "supersonic",
+      "psybeam",
+      "poison-powder",
+      "stun-spore",
+      "sleep-powder",
+      "light-screen",
+      "safeguard",
+      "aromatherapy",
+      "bug-buzz",
+      "quiver-dance",
+      "struggle-bug",
+      "hurricane",
+      "draining-kiss",
+      "powder"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "acrobatics",
+      "aerial-ace",
+      "air-cutter",
+      "air-slash",
+      "attract",
+      "bug-bite",
+      "calm-mind",
+      "confide",
+      "confuse-ray",
+      "double-team",
+      "dream-eater",
+      "endure",
+      "energy-ball",
+      "facade",
+      "flash",
+      "frustration",
+      "giga-drain",
+      "giga-impact",
+      "hidden-power",
+      "hyper-beam",
+      "infestation",
+      "iron-defense",
+      "pollen-puff",
+      "pounce",
+      "protect",
+      "psych-up",
+      "psychic",
+      "rain-dance",
+      "rest",
+      "return",
+      "roost",
+      "round",
+      "secret-power",
+      "skitter-smack",
+      "sleep-talk",
+      "solar-beam",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "tailwind",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "u-turn",
+      "weather-ball"
+    ]
+  },
+  {
+    "id": 667,
+    "name": "litleo",
+    "generation": 6,
+    "base_experience": 74,
+    "height": 6,
+    "weight": 135,
+    "species": "litleo",
+    "forms": [
+      "litleo"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/667.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "rivalry",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "unnerve",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "moxie",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 62,
+      "attack": 50,
+      "defense": 58,
+      "special_attack": 73,
+      "special_defense": 54,
+      "speed": 72
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "leer",
+      "ember",
+      "flamethrower",
+      "crunch",
+      "endeavor",
+      "hyper-voice",
+      "overheat",
+      "fire-fang",
+      "echoed-voice",
+      "incinerate",
+      "work-up",
+      "noble-roar"
+    ],
+    "egg_moves": [
+      "entrainment",
+      "fire-spin",
+      "flare-blitz",
+      "snatch",
+      "yawn"
+    ],
+    "machine_moves": [
+      "acrobatics",
+      "attract",
+      "body-slam",
+      "bulldoze",
+      "confide",
+      "dark-pulse",
+      "dig",
+      "double-edge",
+      "double-team",
+      "endure",
+      "facade",
+      "fire-blast",
+      "flame-charge",
+      "frustration",
+      "heat-wave",
+      "helping-hand",
+      "hidden-power",
+      "mud-slap",
+      "payback",
+      "protect",
+      "psychic-fangs",
+      "rain-dance",
+      "rest",
+      "retaliate",
+      "return",
+      "roar",
+      "rock-smash",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "snarl",
+      "solar-beam",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "thunder-fang",
+      "toxic",
+      "trailblaze",
+      "wild-charge",
+      "will-o-wisp"
+    ]
+  },
+  {
+    "id": 668,
+    "name": "pyroar",
+    "generation": 6,
+    "base_experience": 177,
+    "height": 15,
+    "weight": 815,
+    "species": "pyroar",
+    "forms": [
+      "pyroar-male",
+      "pyroar-female"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/668.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "rivalry",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "unnerve",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "moxie",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 86,
+      "attack": 68,
+      "defense": 72,
+      "special_attack": 109,
+      "special_defense": 66,
+      "speed": 106
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "headbutt",
+      "tackle",
+      "take-down",
+      "leer",
+      "ember",
+      "flamethrower",
+      "hyper-beam",
+      "crunch",
+      "endeavor",
+      "hyper-voice",
+      "overheat",
+      "fire-fang",
+      "echoed-voice",
+      "incinerate",
+      "work-up",
+      "noble-roar"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "acrobatics",
+      "attract",
+      "body-slam",
+      "bulldoze",
+      "burning-jealousy",
+      "confide",
+      "dark-pulse",
+      "dig",
+      "double-edge",
+      "double-team",
+      "endure",
+      "facade",
+      "fire-blast",
+      "fire-spin",
+      "flame-charge",
+      "flare-blitz",
+      "frustration",
+      "giga-impact",
+      "heat-wave",
+      "helping-hand",
+      "hidden-power",
+      "mud-slap",
+      "payback",
+      "protect",
+      "psychic-fangs",
+      "rain-dance",
+      "rest",
+      "retaliate",
+      "return",
+      "roar",
+      "rock-smash",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "snarl",
+      "solar-beam",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "taunt",
+      "temper-flare",
+      "tera-blast",
+      "thief",
+      "thunder-fang",
+      "toxic",
+      "trailblaze",
+      "wild-charge",
+      "will-o-wisp"
+    ]
+  },
+  {
+    "id": 669,
+    "name": "flabebe",
+    "generation": 6,
+    "base_experience": 61,
+    "height": 1,
+    "weight": 1,
+    "species": "flabebe",
+    "forms": [
+      "flabebe-red",
+      "flabebe-yellow",
+      "flabebe-orange",
+      "flabebe-blue",
+      "flabebe-white"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/669.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "flower-veil",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "symbiosis",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 44,
+      "attack": 38,
+      "defense": 39,
+      "special_attack": 61,
+      "special_defense": 79,
+      "speed": 42
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "vine-whip",
+      "tackle",
+      "razor-leaf",
+      "solar-beam",
+      "petal-dance",
+      "safeguard",
+      "synthesis",
+      "wish",
+      "aromatherapy",
+      "magical-leaf",
+      "lucky-chant",
+      "petal-blizzard",
+      "grassy-terrain",
+      "misty-terrain",
+      "fairy-wind",
+      "moonblast"
+    ],
+    "egg_moves": [
+      "camouflage",
+      "captivate",
+      "copycat",
+      "endeavor",
+      "tearful-look"
+    ],
+    "machine_moves": [
+      "alluring-voice",
+      "attract",
+      "baton-pass",
+      "calm-mind",
+      "charm",
+      "chilling-water",
+      "confide",
+      "dazzling-gleam",
+      "disarming-voice",
+      "double-team",
+      "draining-kiss",
+      "echoed-voice",
+      "endure",
+      "energy-ball",
+      "facade",
+      "flash",
+      "frustration",
+      "giga-drain",
+      "grass-knot",
+      "helping-hand",
+      "hidden-power",
+      "light-screen",
+      "nature-power",
+      "pollen-puff",
+      "protect",
+      "psychic",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "secret-power",
+      "seed-bomb",
+      "sleep-talk",
+      "stored-power",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "tera-blast",
+      "toxic",
+      "trailblaze"
+    ]
+  },
+  {
+    "id": 670,
+    "name": "floette",
+    "generation": 6,
+    "base_experience": 130,
+    "height": 2,
+    "weight": 9,
+    "species": "floette",
+    "forms": [
+      "floette-red",
+      "floette-yellow",
+      "floette-orange",
+      "floette-blue",
+      "floette-white"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/670.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "flower-veil",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "symbiosis",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 54,
+      "attack": 45,
+      "defense": 47,
+      "special_attack": 75,
+      "special_defense": 98,
+      "speed": 52
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "vine-whip",
+      "tackle",
+      "razor-leaf",
+      "solar-beam",
+      "petal-dance",
+      "safeguard",
+      "synthesis",
+      "wish",
+      "aromatherapy",
+      "magical-leaf",
+      "lucky-chant",
+      "petal-blizzard",
+      "grassy-terrain",
+      "misty-terrain",
+      "fairy-wind",
+      "moonblast"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "alluring-voice",
+      "attract",
+      "baton-pass",
+      "calm-mind",
+      "charm",
+      "chilling-water",
+      "confide",
+      "dazzling-gleam",
+      "disarming-voice",
+      "double-team",
+      "draining-kiss",
+      "echoed-voice",
+      "endeavor",
+      "endure",
+      "energy-ball",
+      "facade",
+      "flash",
+      "frustration",
+      "giga-drain",
+      "grass-knot",
+      "helping-hand",
+      "hidden-power",
+      "light-screen",
+      "metronome",
+      "nature-power",
+      "pollen-puff",
+      "protect",
+      "psychic",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "secret-power",
+      "seed-bomb",
+      "skill-swap",
+      "sleep-talk",
+      "stored-power",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "tera-blast",
+      "toxic",
+      "trailblaze",
+      "trick"
+    ]
+  },
+  {
+    "id": 671,
+    "name": "florges",
+    "generation": 6,
+    "base_experience": 248,
+    "height": 11,
+    "weight": 100,
+    "species": "florges",
+    "forms": [
+      "florges-red",
+      "florges-yellow",
+      "florges-orange",
+      "florges-blue",
+      "florges-white"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/671.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "flower-veil",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "symbiosis",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 78,
+      "attack": 65,
+      "defense": 68,
+      "special_attack": 112,
+      "special_defense": 154,
+      "speed": 75
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "solar-beam",
+      "petal-dance",
+      "safeguard",
+      "synthesis",
+      "wish",
+      "aromatherapy",
+      "magical-leaf",
+      "lucky-chant",
+      "grass-knot",
+      "petal-blizzard",
+      "disarming-voice",
+      "flower-shield",
+      "grassy-terrain",
+      "misty-terrain",
+      "moonblast"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "alluring-voice",
+      "attract",
+      "baton-pass",
+      "calm-mind",
+      "charm",
+      "chilling-water",
+      "confide",
+      "dazzling-gleam",
+      "double-team",
+      "draining-kiss",
+      "echoed-voice",
+      "endeavor",
+      "endure",
+      "energy-ball",
+      "facade",
+      "flash",
+      "frustration",
+      "giga-drain",
+      "giga-impact",
+      "helping-hand",
+      "hidden-power",
+      "hyper-beam",
+      "light-screen",
+      "metronome",
+      "misty-explosion",
+      "nature-power",
+      "pollen-puff",
+      "protect",
+      "psychic",
+      "psychic-noise",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "secret-power",
+      "seed-bomb",
+      "skill-swap",
+      "sleep-talk",
+      "stored-power",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "tera-blast",
+      "toxic",
+      "trailblaze",
+      "trick"
+    ]
+  },
+  {
+    "id": 672,
+    "name": "skiddo",
+    "generation": 6,
+    "base_experience": 70,
+    "height": 9,
+    "weight": 310,
+    "species": "skiddo",
+    "forms": [
+      "skiddo"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/672.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sap-sipper",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "grass-pelt",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 66,
+      "attack": 65,
+      "defense": 48,
+      "special_attack": 62,
+      "special_defense": 57,
+      "speed": 52
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "vine-whip",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "leech-seed",
+      "growth",
+      "razor-leaf",
+      "milk-drink",
+      "synthesis",
+      "bulk-up",
+      "leaf-blade",
+      "worry-seed",
+      "seed-bomb",
+      "bulldoze",
+      "horn-leech"
+    ],
+    "egg_moves": [
+      "defense-curl",
+      "grassy-terrain",
+      "rollout"
+    ],
+    "machine_moves": [
+      "attract",
+      "body-slam",
+      "brick-break",
+      "bullet-seed",
+      "confide",
+      "dig",
+      "double-team",
+      "endeavor",
+      "endure",
+      "energy-ball",
+      "facade",
+      "frustration",
+      "giga-drain",
+      "grass-knot",
+      "grassy-glide",
+      "helping-hand",
+      "hidden-power",
+      "leaf-storm",
+      "magical-leaf",
+      "mud-shot",
+      "mud-slap",
+      "nature-power",
+      "payback",
+      "play-rough",
+      "protect",
+      "rain-dance",
+      "rest",
+      "retaliate",
+      "return",
+      "roar",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "solar-beam",
+      "stomping-tantrum",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "surf",
+      "swagger",
+      "tera-blast",
+      "toxic",
+      "trailblaze",
+      "wild-charge",
+      "work-up",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 673,
+    "name": "gogoat",
+    "generation": 6,
+    "base_experience": 186,
+    "height": 17,
+    "weight": 910,
+    "species": "gogoat",
+    "forms": [
+      "gogoat"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/673.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sap-sipper",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "grass-pelt",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 123,
+      "attack": 100,
+      "defense": 62,
+      "special_attack": 97,
+      "special_defense": 81,
+      "speed": 68
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "vine-whip",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "leech-seed",
+      "growth",
+      "razor-leaf",
+      "earthquake",
+      "milk-drink",
+      "synthesis",
+      "aerial-ace",
+      "bulk-up",
+      "leaf-blade",
+      "worry-seed",
+      "seed-bomb",
+      "bulldoze",
+      "horn-leech"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "attract",
+      "body-slam",
+      "brick-break",
+      "bullet-seed",
+      "confide",
+      "dig",
+      "double-team",
+      "endeavor",
+      "endure",
+      "energy-ball",
+      "facade",
+      "frustration",
+      "giga-drain",
+      "giga-impact",
+      "grass-knot",
+      "grassy-glide",
+      "grassy-terrain",
+      "helping-hand",
+      "hidden-power",
+      "high-horsepower",
+      "hyper-beam",
+      "leaf-storm",
+      "magical-leaf",
+      "mud-shot",
+      "mud-slap",
+      "nature-power",
+      "payback",
+      "play-rough",
+      "protect",
+      "rain-dance",
+      "rest",
+      "retaliate",
+      "return",
+      "roar",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "solar-beam",
+      "stomping-tantrum",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "surf",
+      "swagger",
+      "tera-blast",
+      "throat-chop",
+      "toxic",
+      "trailblaze",
+      "wild-charge",
+      "work-up",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 674,
+    "name": "pancham",
+    "generation": 6,
+    "base_experience": 70,
+    "height": 6,
+    "weight": 80,
+    "species": "pancham",
+    "forms": [
+      "pancham"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/674.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "iron-fist",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "mold-breaker",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "scrappy",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 67,
+      "attack": 82,
+      "defense": 62,
+      "special_attack": 46,
+      "special_defense": 48,
+      "speed": 43
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "karate-chop",
+      "comet-punch",
+      "tackle",
+      "body-slam",
+      "leer",
+      "slash",
+      "vital-throw",
+      "crunch",
+      "taunt",
+      "arm-thrust",
+      "sky-uppercut",
+      "low-sweep",
+      "entrainment",
+      "circle-throw",
+      "work-up",
+      "parting-shot"
+    ],
+    "egg_moves": [
+      "foul-play",
+      "me-first",
+      "power-trip",
+      "quash",
+      "quick-guard",
+      "seismic-toss",
+      "storm-throw"
+    ],
+    "machine_moves": [
+      "aerial-ace",
+      "attract",
+      "brick-break",
+      "bulk-up",
+      "bulldoze",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "dig",
+      "double-team",
+      "drain-punch",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "false-swipe",
+      "fire-punch",
+      "fling",
+      "frustration",
+      "grass-knot",
+      "gunk-shot",
+      "helping-hand",
+      "hidden-power",
+      "hyper-voice",
+      "ice-punch",
+      "iron-head",
+      "low-kick",
+      "mega-kick",
+      "mega-punch",
+      "payback",
+      "power-up-punch",
+      "protect",
+      "rain-dance",
+      "rest",
+      "retaliate",
+      "return",
+      "roar",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "secret-power",
+      "shadow-claw",
+      "sleep-talk",
+      "sludge-bomb",
+      "snore",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "superpower",
+      "surf",
+      "swagger",
+      "swords-dance",
+      "thunder-punch",
+      "torment",
+      "toxic",
+      "uproar",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 675,
+    "name": "pangoro",
+    "generation": 6,
+    "base_experience": 173,
+    "height": 21,
+    "weight": 1360,
+    "species": "pangoro",
+    "forms": [
+      "pangoro"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/675.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "iron-fist",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "mold-breaker",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "scrappy",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 95,
+      "attack": 124,
+      "defense": 78,
+      "special_attack": 69,
+      "special_defense": 71,
+      "speed": 58
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "karate-chop",
+      "comet-punch",
+      "tackle",
+      "body-slam",
+      "leer",
+      "slash",
+      "vital-throw",
+      "crunch",
+      "taunt",
+      "arm-thrust",
+      "sky-uppercut",
+      "hammer-arm",
+      "night-slash",
+      "bullet-punch",
+      "low-sweep",
+      "entrainment",
+      "circle-throw",
+      "work-up",
+      "parting-shot"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "aerial-ace",
+      "attract",
+      "beat-up",
+      "brick-break",
+      "bulk-up",
+      "bulldoze",
+      "close-combat",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "darkest-lariat",
+      "dig",
+      "double-team",
+      "dragon-claw",
+      "drain-punch",
+      "earthquake",
+      "echoed-voice",
+      "embargo",
+      "endure",
+      "facade",
+      "false-swipe",
+      "fire-punch",
+      "fling",
+      "focus-blast",
+      "focus-energy",
+      "foul-play",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "gunk-shot",
+      "helping-hand",
+      "hidden-power",
+      "hone-claws",
+      "hyper-beam",
+      "hyper-voice",
+      "ice-punch",
+      "infestation",
+      "iron-head",
+      "low-kick",
+      "mega-kick",
+      "mega-punch",
+      "outrage",
+      "payback",
+      "poison-jab",
+      "power-up-punch",
+      "protect",
+      "quash",
+      "rain-dance",
+      "rest",
+      "retaliate",
+      "return",
+      "revenge",
+      "reversal",
+      "roar",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "scary-face",
+      "secret-power",
+      "shadow-claw",
+      "sleep-talk",
+      "sludge-bomb",
+      "snarl",
+      "snore",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "superpower",
+      "surf",
+      "swagger",
+      "swords-dance",
+      "thief",
+      "throat-chop",
+      "thunder-punch",
+      "torment",
+      "toxic",
+      "uproar",
+      "x-scissor",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 676,
+    "name": "furfrou",
+    "generation": 6,
+    "base_experience": 165,
+    "height": 12,
+    "weight": 280,
+    "species": "furfrou",
+    "forms": [
+      "furfrou-natural",
+      "furfrou-heart",
+      "furfrou-star",
+      "furfrou-diamond",
+      "furfrou-debutante",
+      "furfrou-matron",
+      "furfrou-dandy",
+      "furfrou-la-reine",
+      "furfrou-kabuki",
+      "furfrou-pharaoh"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/676.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "fur-coat",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 60,
+      "special_attack": 65,
+      "special_defense": 90,
+      "speed": 102
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "sand-attack",
+      "headbutt",
+      "tackle",
+      "take-down",
+      "tail-whip",
+      "bite",
+      "growl",
+      "charm",
+      "odor-sleuth",
+      "sucker-punch",
+      "retaliate",
+      "cotton-guard",
+      "baby-doll-eyes"
+    ],
+    "egg_moves": [
+      "captivate",
+      "mimic",
+      "refresh",
+      "role-play",
+      "work-up"
+    ],
+    "machine_moves": [
+      "attract",
+      "charge-beam",
+      "confide",
+      "dark-pulse",
+      "dig",
+      "double-team",
+      "echoed-voice",
+      "facade",
+      "flash",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "hidden-power",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "roar",
+      "rock-smash",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "snarl",
+      "substitute",
+      "sunny-day",
+      "surf",
+      "swagger",
+      "thunder-wave",
+      "toxic",
+      "u-turn",
+      "wild-charge"
+    ]
+  },
+  {
+    "id": 677,
+    "name": "espurr",
+    "generation": 6,
+    "base_experience": 71,
+    "height": 3,
+    "weight": 35,
+    "species": "espurr",
+    "forms": [
+      "espurr"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/677.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "keen-eye",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "infiltrator",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "own-tempo",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 62,
+      "attack": 48,
+      "defense": 54,
+      "special_attack": 63,
+      "special_defense": 60,
+      "speed": 68
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "scratch",
+      "leer",
+      "psybeam",
+      "confusion",
+      "light-screen",
+      "reflect",
+      "fake-out",
+      "covet",
+      "psyshock",
+      "disarming-voice"
+    ],
+    "egg_moves": [
+      "assist",
+      "barrier",
+      "tickle",
+      "trick",
+      "yawn"
+    ],
+    "machine_moves": [
+      "ally-switch",
+      "attract",
+      "calm-mind",
+      "charge-beam",
+      "charm",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "double-team",
+      "dream-eater",
+      "echoed-voice",
+      "endure",
+      "energy-ball",
+      "expanding-force",
+      "facade",
+      "fake-tears",
+      "flash",
+      "frustration",
+      "gravity",
+      "helping-hand",
+      "hidden-power",
+      "iron-tail",
+      "magic-room",
+      "nasty-plot",
+      "pay-day",
+      "payback",
+      "play-rough",
+      "protect",
+      "psych-up",
+      "psychic",
+      "psychic-noise",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "safeguard",
+      "secret-power",
+      "shadow-ball",
+      "skill-swap",
+      "sleep-talk",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "tera-blast",
+      "thunder-wave",
+      "thunderbolt",
+      "torment",
+      "toxic",
+      "trick-room",
+      "wonder-room",
+      "work-up",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 678,
+    "name": "meowstic",
+    "generation": 6,
+    "base_experience": 163,
+    "height": 6,
+    "weight": 85,
+    "species": "meowstic",
+    "forms": [
+      "meowstic-male"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/678.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "keen-eye",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "infiltrator",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "prankster",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 74,
+      "attack": 48,
+      "defense": 76,
+      "special_attack": 83,
+      "special_defense": 81,
+      "speed": 104
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "scratch",
+      "leer",
+      "psybeam",
+      "confusion",
+      "psychic",
+      "light-screen",
+      "reflect",
+      "charm",
+      "mean-look",
+      "fake-out",
+      "helping-hand",
+      "role-play",
+      "imprison",
+      "covet",
+      "miracle-eye",
+      "sucker-punch",
+      "psyshock",
+      "quick-guard",
+      "disarming-voice",
+      "misty-terrain"
+    ],
+    "egg_moves": [
+      "tickle",
+      "yawn"
+    ],
+    "machine_moves": [
+      "alluring-voice",
+      "ally-switch",
+      "attract",
+      "baton-pass",
+      "calm-mind",
+      "charge-beam",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "dig",
+      "double-team",
+      "dream-eater",
+      "echoed-voice",
+      "endure",
+      "energy-ball",
+      "expanding-force",
+      "facade",
+      "fake-tears",
+      "flash",
+      "frustration",
+      "giga-impact",
+      "gravity",
+      "hidden-power",
+      "hyper-beam",
+      "iron-tail",
+      "magic-room",
+      "nasty-plot",
+      "pay-day",
+      "payback",
+      "play-rough",
+      "power-up-punch",
+      "protect",
+      "psych-up",
+      "psychic-noise",
+      "psychic-terrain",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "safeguard",
+      "secret-power",
+      "shadow-ball",
+      "skill-swap",
+      "sleep-talk",
+      "snore",
+      "stored-power",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "tail-slap",
+      "tera-blast",
+      "thunder-wave",
+      "thunderbolt",
+      "torment",
+      "toxic",
+      "trailblaze",
+      "trick",
+      "trick-room",
+      "wonder-room",
+      "work-up",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 679,
+    "name": "honedge",
+    "generation": 6,
+    "base_experience": 65,
+    "height": 8,
+    "weight": 20,
+    "species": "honedge",
+    "forms": [
+      "honedge"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/679.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "no-guard",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 45,
+      "attack": 80,
+      "defense": 100,
+      "special_attack": 35,
+      "special_defense": 37,
+      "speed": 28
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "swords-dance",
+      "tackle",
+      "slash",
+      "fury-cutter",
+      "pursuit",
+      "metal-sound",
+      "aerial-ace",
+      "iron-defense",
+      "power-trick",
+      "night-slash",
+      "shadow-sneak",
+      "iron-head",
+      "autotomize",
+      "retaliate",
+      "sacred-sword"
+    ],
+    "egg_moves": [
+      "block",
+      "destiny-bond",
+      "wide-guard"
+    ],
+    "machine_moves": [
+      "attract",
+      "brick-break",
+      "brutal-swing",
+      "close-combat",
+      "confide",
+      "cut",
+      "double-team",
+      "endure",
+      "facade",
+      "false-swipe",
+      "flash-cannon",
+      "frustration",
+      "gyro-ball",
+      "hidden-power",
+      "protect",
+      "psycho-cut",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "reversal",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "screech",
+      "secret-power",
+      "shadow-claw",
+      "sleep-talk",
+      "snore",
+      "solar-blade",
+      "substitute",
+      "swagger",
+      "toxic"
+    ]
+  },
+  {
+    "id": 680,
+    "name": "doublade",
+    "generation": 6,
+    "base_experience": 157,
+    "height": 8,
+    "weight": 45,
+    "species": "doublade",
+    "forms": [
+      "doublade"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/680.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "no-guard",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 59,
+      "attack": 110,
+      "defense": 150,
+      "special_attack": 45,
+      "special_defense": 49,
+      "speed": 35
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "swords-dance",
+      "tackle",
+      "slash",
+      "fury-cutter",
+      "pursuit",
+      "metal-sound",
+      "aerial-ace",
+      "iron-defense",
+      "power-trick",
+      "night-slash",
+      "shadow-sneak",
+      "iron-head",
+      "autotomize",
+      "retaliate",
+      "sacred-sword"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "attract",
+      "brick-break",
+      "brutal-swing",
+      "close-combat",
+      "confide",
+      "cut",
+      "double-team",
+      "endure",
+      "facade",
+      "false-swipe",
+      "flash-cannon",
+      "frustration",
+      "gyro-ball",
+      "hidden-power",
+      "protect",
+      "psycho-cut",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "reversal",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "screech",
+      "secret-power",
+      "shadow-claw",
+      "sleep-talk",
+      "snore",
+      "solar-blade",
+      "substitute",
+      "swagger",
+      "toxic"
+    ]
+  },
+  {
+    "id": 681,
+    "name": "aegislash",
+    "generation": 6,
+    "base_experience": 234,
+    "height": 17,
+    "weight": 530,
+    "species": "aegislash",
+    "forms": [
+      "aegislash-shield"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/681.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "stance-change",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 140,
+      "special_attack": 50,
+      "special_defense": 140,
+      "speed": 60
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "swords-dance",
+      "tackle",
+      "slash",
+      "fury-cutter",
+      "pursuit",
+      "metal-sound",
+      "aerial-ace",
+      "iron-defense",
+      "power-trick",
+      "night-slash",
+      "shadow-sneak",
+      "iron-head",
+      "head-smash",
+      "autotomize",
+      "retaliate",
+      "sacred-sword",
+      "kings-shield"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "air-slash",
+      "attract",
+      "brick-break",
+      "brutal-swing",
+      "close-combat",
+      "confide",
+      "cut",
+      "double-team",
+      "endure",
+      "facade",
+      "false-swipe",
+      "flash-cannon",
+      "frustration",
+      "giga-impact",
+      "gyro-ball",
+      "hidden-power",
+      "hyper-beam",
+      "protect",
+      "psycho-cut",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "reversal",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "screech",
+      "secret-power",
+      "shadow-ball",
+      "shadow-claw",
+      "sleep-talk",
+      "snore",
+      "solar-blade",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "toxic"
+    ]
+  },
+  {
+    "id": 682,
+    "name": "spritzee",
+    "generation": 6,
+    "base_experience": 68,
+    "height": 2,
+    "weight": 5,
+    "species": "spritzee",
+    "forms": [
+      "spritzee"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/682.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "healer",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "aroma-veil",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 78,
+      "attack": 52,
+      "defense": 60,
+      "special_attack": 63,
+      "special_defense": 65,
+      "speed": 23
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "psychic",
+      "flail",
+      "sweet-kiss",
+      "charm",
+      "attract",
+      "sweet-scent",
+      "skill-swap",
+      "aromatherapy",
+      "odor-sleuth",
+      "calm-mind",
+      "echoed-voice",
+      "disarming-voice",
+      "draining-kiss",
+      "misty-terrain",
+      "fairy-wind",
+      "moonblast"
+    ],
+    "egg_moves": [
+      "after-you",
+      "captivate",
+      "disable",
+      "nasty-plot",
+      "refresh",
+      "wish"
+    ],
+    "machine_moves": [
+      "ally-switch",
+      "charge-beam",
+      "confide",
+      "dazzling-gleam",
+      "double-team",
+      "dream-eater",
+      "encore",
+      "endure",
+      "energy-ball",
+      "facade",
+      "fake-tears",
+      "flash",
+      "flash-cannon",
+      "frustration",
+      "gyro-ball",
+      "helping-hand",
+      "hidden-power",
+      "light-screen",
+      "protect",
+      "psych-up",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "thunderbolt",
+      "torment",
+      "toxic",
+      "trick-room"
+    ]
+  },
+  {
+    "id": 683,
+    "name": "aromatisse",
+    "generation": 6,
+    "base_experience": 162,
+    "height": 8,
+    "weight": 155,
+    "species": "aromatisse",
+    "forms": [
+      "aromatisse"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/683.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "healer",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "aroma-veil",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 101,
+      "attack": 72,
+      "defense": 72,
+      "special_attack": 99,
+      "special_defense": 89,
+      "speed": 29
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "psychic",
+      "reflect",
+      "flail",
+      "sweet-kiss",
+      "charm",
+      "attract",
+      "sweet-scent",
+      "psych-up",
+      "skill-swap",
+      "aromatherapy",
+      "odor-sleuth",
+      "calm-mind",
+      "echoed-voice",
+      "heal-pulse",
+      "disarming-voice",
+      "draining-kiss",
+      "misty-terrain",
+      "fairy-wind",
+      "moonblast",
+      "aromatic-mist"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "ally-switch",
+      "charge-beam",
+      "confide",
+      "dazzling-gleam",
+      "double-team",
+      "drain-punch",
+      "dream-eater",
+      "encore",
+      "endure",
+      "energy-ball",
+      "facade",
+      "fake-tears",
+      "flash",
+      "flash-cannon",
+      "frustration",
+      "giga-impact",
+      "gyro-ball",
+      "helping-hand",
+      "hidden-power",
+      "hyper-beam",
+      "light-screen",
+      "metronome",
+      "nasty-plot",
+      "protect",
+      "psyshock",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "thunder",
+      "thunderbolt",
+      "torment",
+      "toxic",
+      "trick-room"
+    ]
+  },
+  {
+    "id": 684,
+    "name": "swirlix",
+    "generation": 6,
+    "base_experience": 68,
+    "height": 4,
+    "weight": 35,
+    "species": "swirlix",
+    "forms": [
+      "swirlix"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/684.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sweet-veil",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "unburden",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 62,
+      "attack": 48,
+      "defense": 66,
+      "special_attack": 59,
+      "special_defense": 57,
+      "speed": 49
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "string-shot",
+      "light-screen",
+      "cotton-spore",
+      "safeguard",
+      "sweet-scent",
+      "wish",
+      "endeavor",
+      "aromatherapy",
+      "fake-tears",
+      "energy-ball",
+      "round",
+      "cotton-guard",
+      "draining-kiss",
+      "play-rough",
+      "fairy-wind",
+      "play-nice"
+    ],
+    "egg_moves": [
+      "after-you",
+      "belly-drum",
+      "copycat",
+      "sticky-web",
+      "yawn"
+    ],
+    "machine_moves": [
+      "amnesia",
+      "attract",
+      "calm-mind",
+      "charm",
+      "confide",
+      "dazzling-gleam",
+      "double-team",
+      "dream-eater",
+      "endure",
+      "facade",
+      "flamethrower",
+      "flash",
+      "frustration",
+      "helping-hand",
+      "hidden-power",
+      "protect",
+      "psych-up",
+      "psychic",
+      "rain-dance",
+      "rest",
+      "return",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "surf",
+      "swagger",
+      "thief",
+      "thunderbolt",
+      "toxic"
+    ]
+  },
+  {
+    "id": 685,
+    "name": "slurpuff",
+    "generation": 6,
+    "base_experience": 168,
+    "height": 8,
+    "weight": 50,
+    "species": "slurpuff",
+    "forms": [
+      "slurpuff"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/685.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sweet-veil",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "unburden",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 82,
+      "attack": 80,
+      "defense": 86,
+      "special_attack": 85,
+      "special_defense": 75,
+      "speed": 72
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "string-shot",
+      "light-screen",
+      "cotton-spore",
+      "safeguard",
+      "sweet-scent",
+      "wish",
+      "endeavor",
+      "aromatherapy",
+      "fake-tears",
+      "energy-ball",
+      "round",
+      "cotton-guard",
+      "sticky-web",
+      "draining-kiss",
+      "play-rough",
+      "fairy-wind",
+      "play-nice"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "amnesia",
+      "attract",
+      "calm-mind",
+      "charm",
+      "confide",
+      "dazzling-gleam",
+      "double-team",
+      "drain-punch",
+      "dream-eater",
+      "endure",
+      "facade",
+      "flamethrower",
+      "flash",
+      "frustration",
+      "giga-impact",
+      "helping-hand",
+      "hidden-power",
+      "hyper-beam",
+      "metronome",
+      "protect",
+      "psych-up",
+      "psychic",
+      "rain-dance",
+      "rest",
+      "return",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "surf",
+      "swagger",
+      "thief",
+      "thunder",
+      "thunderbolt",
+      "toxic"
+    ]
+  },
+  {
+    "id": 686,
+    "name": "inkay",
+    "generation": 6,
+    "base_experience": 58,
+    "height": 4,
+    "weight": 35,
+    "species": "inkay",
+    "forms": [
+      "inkay"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/686.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "contrary",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "suction-cups",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "infiltrator",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 53,
+      "attack": 54,
+      "defense": 53,
+      "special_attack": 37,
+      "special_defense": 46,
+      "speed": 45
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "wrap",
+      "psybeam",
+      "peck",
+      "hypnosis",
+      "light-screen",
+      "reflect",
+      "constrict",
+      "psywave",
+      "slash",
+      "swagger",
+      "superpower",
+      "pluck",
+      "payback",
+      "night-slash",
+      "switcheroo",
+      "psycho-cut",
+      "foul-play",
+      "topsy-turvy"
+    ],
+    "egg_moves": [
+      "acupressure",
+      "camouflage",
+      "destiny-bond",
+      "disable",
+      "flatter",
+      "guard-swap",
+      "power-split",
+      "simple-beam"
+    ],
+    "machine_moves": [
+      "aerial-ace",
+      "ally-switch",
+      "attract",
+      "baton-pass",
+      "calm-mind",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "double-team",
+      "embargo",
+      "endure",
+      "expanding-force",
+      "facade",
+      "fake-tears",
+      "flamethrower",
+      "flash",
+      "fling",
+      "frustration",
+      "future-sight",
+      "gravity",
+      "helping-hand",
+      "hidden-power",
+      "knock-off",
+      "lash-out",
+      "liquidation",
+      "lunge",
+      "nasty-plot",
+      "protect",
+      "psych-up",
+      "psychic",
+      "psyshock",
+      "rain-dance",
+      "rest",
+      "retaliate",
+      "return",
+      "rock-slide",
+      "round",
+      "secret-power",
+      "skill-swap",
+      "sleep-talk",
+      "snore",
+      "spite",
+      "stored-power",
+      "substitute",
+      "sunny-day",
+      "swift",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "thunderbolt",
+      "torment",
+      "toxic",
+      "trick",
+      "trick-room"
+    ]
+  },
+  {
+    "id": 687,
+    "name": "malamar",
+    "generation": 6,
+    "base_experience": 169,
+    "height": 15,
+    "weight": 470,
+    "species": "malamar",
+    "forms": [
+      "malamar"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/687.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "contrary",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "suction-cups",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "infiltrator",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 86,
+      "attack": 92,
+      "defense": 88,
+      "special_attack": 68,
+      "special_defense": 75,
+      "speed": 73
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "wrap",
+      "psybeam",
+      "peck",
+      "hypnosis",
+      "light-screen",
+      "reflect",
+      "constrict",
+      "psywave",
+      "slash",
+      "reversal",
+      "swagger",
+      "superpower",
+      "pluck",
+      "payback",
+      "night-slash",
+      "switcheroo",
+      "psycho-cut",
+      "foul-play",
+      "topsy-turvy"
+    ],
+    "egg_moves": [
+      "acupressure",
+      "destiny-bond",
+      "disable"
+    ],
+    "machine_moves": [
+      "aerial-ace",
+      "ally-switch",
+      "attract",
+      "baton-pass",
+      "brutal-swing",
+      "calm-mind",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "double-team",
+      "embargo",
+      "endure",
+      "expanding-force",
+      "facade",
+      "fake-tears",
+      "flamethrower",
+      "flash",
+      "fling",
+      "frustration",
+      "future-sight",
+      "giga-impact",
+      "gravity",
+      "guard-swap",
+      "helping-hand",
+      "hidden-power",
+      "hyper-beam",
+      "knock-off",
+      "lash-out",
+      "liquidation",
+      "lunge",
+      "nasty-plot",
+      "protect",
+      "psych-up",
+      "psychic",
+      "psychic-noise",
+      "psyshock",
+      "rain-dance",
+      "rest",
+      "retaliate",
+      "return",
+      "rock-slide",
+      "round",
+      "scary-face",
+      "secret-power",
+      "skill-swap",
+      "sleep-talk",
+      "snore",
+      "spite",
+      "stored-power",
+      "substitute",
+      "sunny-day",
+      "swift",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "throat-chop",
+      "thunderbolt",
+      "torment",
+      "toxic",
+      "trailblaze",
+      "trick",
+      "trick-room"
+    ]
+  },
+  {
+    "id": 688,
+    "name": "binacle",
+    "generation": 6,
+    "base_experience": 61,
+    "height": 5,
+    "weight": 310,
+    "species": "binacle",
+    "forms": [
+      "binacle"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/688.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "tough-claws",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "sniper",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "pickpocket",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 42,
+      "attack": 52,
+      "defense": 67,
+      "special_attack": 39,
+      "special_defense": 56,
+      "speed": 50
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "scratch",
+      "sand-attack",
+      "water-gun",
+      "withdraw",
+      "clamp",
+      "fury-swipes",
+      "slash",
+      "mud-slap",
+      "fury-cutter",
+      "cross-chop",
+      "ancient-power",
+      "rock-polish",
+      "night-slash",
+      "hone-claws",
+      "shell-smash",
+      "razor-shell"
+    ],
+    "egg_moves": [
+      "helping-hand",
+      "switcheroo",
+      "tickle",
+      "water-sport"
+    ],
+    "machine_moves": [
+      "aerial-ace",
+      "assurance",
+      "attract",
+      "beat-up",
+      "blizzard",
+      "brick-break",
+      "bulldoze",
+      "confide",
+      "cut",
+      "dig",
+      "double-team",
+      "earthquake",
+      "embargo",
+      "endure",
+      "facade",
+      "false-swipe",
+      "fling",
+      "frustration",
+      "grass-knot",
+      "hidden-power",
+      "ice-beam",
+      "icy-wind",
+      "infestation",
+      "iron-defense",
+      "liquidation",
+      "mud-shot",
+      "nature-power",
+      "payback",
+      "poison-jab",
+      "power-up-punch",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-blast",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "safeguard",
+      "sandstorm",
+      "scald",
+      "screech",
+      "secret-power",
+      "shadow-claw",
+      "sleep-talk",
+      "sludge-bomb",
+      "sludge-wave",
+      "smack-down",
+      "snore",
+      "stealth-rock",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "surf",
+      "swagger",
+      "swords-dance",
+      "taunt",
+      "thief",
+      "torment",
+      "toxic",
+      "uproar",
+      "x-scissor"
+    ]
+  },
+  {
+    "id": 689,
+    "name": "barbaracle",
+    "generation": 6,
+    "base_experience": 175,
+    "height": 13,
+    "weight": 960,
+    "species": "barbaracle",
+    "forms": [
+      "barbaracle"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/689.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "tough-claws",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "sniper",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "pickpocket",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 72,
+      "attack": 105,
+      "defense": 115,
+      "special_attack": 54,
+      "special_defense": 86,
+      "speed": 68
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "scratch",
+      "sand-attack",
+      "water-gun",
+      "withdraw",
+      "clamp",
+      "skull-bash",
+      "fury-swipes",
+      "slash",
+      "mud-slap",
+      "fury-cutter",
+      "cross-chop",
+      "ancient-power",
+      "rock-polish",
+      "night-slash",
+      "stone-edge",
+      "hone-claws",
+      "shell-smash",
+      "razor-shell"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "aerial-ace",
+      "assurance",
+      "attract",
+      "beat-up",
+      "blizzard",
+      "brick-break",
+      "brutal-swing",
+      "bulk-up",
+      "bulldoze",
+      "confide",
+      "cut",
+      "dig",
+      "dive",
+      "double-team",
+      "dragon-claw",
+      "earth-power",
+      "earthquake",
+      "embargo",
+      "endure",
+      "facade",
+      "false-swipe",
+      "fling",
+      "focus-blast",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "helping-hand",
+      "hidden-power",
+      "hyper-beam",
+      "ice-beam",
+      "icy-wind",
+      "infestation",
+      "iron-defense",
+      "liquidation",
+      "low-kick",
+      "mud-shot",
+      "muddy-water",
+      "nature-power",
+      "payback",
+      "poison-jab",
+      "power-up-punch",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-blast",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "safeguard",
+      "sandstorm",
+      "scald",
+      "screech",
+      "secret-power",
+      "shadow-claw",
+      "sleep-talk",
+      "sludge-bomb",
+      "sludge-wave",
+      "smack-down",
+      "snore",
+      "stealth-rock",
+      "strength",
+      "substitute",
+      "superpower",
+      "surf",
+      "swagger",
+      "swords-dance",
+      "taunt",
+      "thief",
+      "torment",
+      "toxic",
+      "uproar",
+      "whirlpool",
+      "x-scissor"
+    ]
+  },
+  {
+    "id": 690,
+    "name": "skrelp",
+    "generation": 6,
+    "base_experience": 64,
+    "height": 5,
+    "weight": 73,
+    "species": "skrelp",
+    "forms": [
+      "skrelp"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/690.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "poison"
+        }
+      },
+      {
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "poison-point",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "poison-touch",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "adaptability",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 50,
+      "attack": 60,
+      "defense": 60,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 30
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "tail-whip",
+      "acid",
+      "water-gun",
+      "hydro-pump",
+      "toxic",
+      "double-team",
+      "smokescreen",
+      "bubble",
+      "feint-attack",
+      "sludge-bomb",
+      "camouflage",
+      "poison-tail",
+      "water-pulse",
+      "aqua-tail",
+      "dragon-pulse"
+    ],
+    "egg_moves": [
+      "acid-armor",
+      "dragon-tail",
+      "haze",
+      "play-rough",
+      "toxic-spikes",
+      "twister",
+      "venom-drench"
+    ],
+    "machine_moves": [
+      "acid-spray",
+      "attract",
+      "bounce",
+      "chilling-water",
+      "confide",
+      "dive",
+      "endure",
+      "facade",
+      "flip-turn",
+      "frustration",
+      "gunk-shot",
+      "hail",
+      "hidden-power",
+      "icy-wind",
+      "iron-tail",
+      "liquidation",
+      "mud-shot",
+      "mud-slap",
+      "muddy-water",
+      "outrage",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "scald",
+      "scale-shot",
+      "scary-face",
+      "secret-power",
+      "shadow-ball",
+      "sleep-talk",
+      "sludge-wave",
+      "snore",
+      "snowscape",
+      "spite",
+      "substitute",
+      "surf",
+      "swagger",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "thunderbolt",
+      "venoshock",
+      "waterfall",
+      "whirlpool"
+    ]
+  },
+  {
+    "id": 691,
+    "name": "dragalge",
+    "generation": 6,
+    "base_experience": 173,
+    "height": 18,
+    "weight": 815,
+    "species": "dragalge",
+    "forms": [
+      "dragalge"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/691.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "poison"
+        }
+      },
+      {
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "poison-point",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "poison-touch",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "adaptability",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 65,
+      "attack": 75,
+      "defense": 90,
+      "special_attack": 97,
+      "special_defense": 123,
+      "speed": 44
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "tail-whip",
+      "acid",
+      "water-gun",
+      "hydro-pump",
+      "toxic",
+      "double-team",
+      "smokescreen",
+      "bubble",
+      "feint-attack",
+      "sludge-bomb",
+      "outrage",
+      "twister",
+      "camouflage",
+      "poison-tail",
+      "water-pulse",
+      "aqua-tail",
+      "dragon-pulse",
+      "dragon-tail"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "acid-spray",
+      "attract",
+      "bounce",
+      "chilling-water",
+      "confide",
+      "dive",
+      "draco-meteor",
+      "endure",
+      "facade",
+      "flip-turn",
+      "focus-blast",
+      "frustration",
+      "giga-impact",
+      "gunk-shot",
+      "hail",
+      "haze",
+      "hidden-power",
+      "hyper-beam",
+      "icy-wind",
+      "iron-tail",
+      "liquidation",
+      "mud-shot",
+      "mud-slap",
+      "muddy-water",
+      "play-rough",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "round",
+      "scald",
+      "scale-shot",
+      "scary-face",
+      "secret-power",
+      "shadow-ball",
+      "sleep-talk",
+      "sludge-wave",
+      "snore",
+      "snowscape",
+      "spite",
+      "substitute",
+      "surf",
+      "swagger",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "thunder",
+      "thunderbolt",
+      "toxic-spikes",
+      "venom-drench",
+      "venoshock",
+      "waterfall",
+      "whirlpool"
+    ]
+  },
+  {
+    "id": 692,
+    "name": "clauncher",
+    "generation": 6,
+    "base_experience": 66,
+    "height": 5,
+    "weight": 83,
+    "species": "clauncher",
+    "forms": [
+      "clauncher"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/692.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "mega-launcher",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 50,
+      "attack": 53,
+      "defense": 62,
+      "special_attack": 58,
+      "special_defense": 63,
+      "speed": 44
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "vice-grip",
+      "swords-dance",
+      "water-gun",
+      "bubble-beam",
+      "bubble",
+      "splash",
+      "crabhammer",
+      "flail",
+      "muddy-water",
+      "bounce",
+      "water-sport",
+      "water-pulse",
+      "aura-sphere",
+      "aqua-jet",
+      "hone-claws",
+      "smack-down"
+    ],
+    "egg_moves": [
+      "aqua-tail",
+      "endure",
+      "entrainment",
+      "helping-hand"
+    ],
+    "machine_moves": [
+      "attract",
+      "blizzard",
+      "chilling-water",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "dive",
+      "double-team",
+      "dragon-pulse",
+      "facade",
+      "flash-cannon",
+      "flip-turn",
+      "frustration",
+      "hidden-power",
+      "hydro-pump",
+      "ice-beam",
+      "icy-wind",
+      "iron-tail",
+      "liquidation",
+      "mud-shot",
+      "mud-slap",
+      "pounce",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-slide",
+      "round",
+      "scald",
+      "secret-power",
+      "sleep-talk",
+      "sludge-bomb",
+      "sludge-wave",
+      "snore",
+      "substitute",
+      "surf",
+      "swagger",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "u-turn",
+      "venoshock",
+      "waterfall",
+      "weather-ball"
+    ]
+  },
+  {
+    "id": 693,
+    "name": "clawitzer",
+    "generation": 6,
+    "base_experience": 100,
+    "height": 13,
+    "weight": 353,
+    "species": "clawitzer",
+    "forms": [
+      "clawitzer"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/693.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "mega-launcher",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 71,
+      "attack": 73,
+      "defense": 88,
+      "special_attack": 120,
+      "special_defense": 89,
+      "speed": 59
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "vice-grip",
+      "swords-dance",
+      "water-gun",
+      "bubble-beam",
+      "bubble",
+      "splash",
+      "crabhammer",
+      "flail",
+      "muddy-water",
+      "bounce",
+      "water-sport",
+      "water-pulse",
+      "aura-sphere",
+      "dark-pulse",
+      "dragon-pulse",
+      "aqua-jet",
+      "hone-claws",
+      "smack-down",
+      "heal-pulse"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "attract",
+      "blizzard",
+      "body-slam",
+      "chilling-water",
+      "confide",
+      "cut",
+      "dive",
+      "double-team",
+      "endure",
+      "facade",
+      "flash-cannon",
+      "flip-turn",
+      "focus-blast",
+      "frustration",
+      "giga-impact",
+      "helping-hand",
+      "hidden-power",
+      "hydro-pump",
+      "hyper-beam",
+      "ice-beam",
+      "icy-wind",
+      "iron-tail",
+      "liquidation",
+      "mud-shot",
+      "mud-slap",
+      "pounce",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-slide",
+      "round",
+      "scald",
+      "scary-face",
+      "secret-power",
+      "shadow-ball",
+      "sleep-talk",
+      "sludge-bomb",
+      "sludge-wave",
+      "snore",
+      "substitute",
+      "surf",
+      "swagger",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "u-turn",
+      "venoshock",
+      "waterfall",
+      "weather-ball"
+    ]
+  },
+  {
+    "id": 694,
+    "name": "helioptile",
+    "generation": 6,
+    "base_experience": 58,
+    "height": 5,
+    "weight": 60,
+    "species": "helioptile",
+    "forms": [
+      "helioptile"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/694.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "dry-skin",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "sand-veil",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "solar-power",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 44,
+      "attack": 38,
+      "defense": 33,
+      "special_attack": 61,
+      "special_defense": 43,
+      "speed": 70
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "pound",
+      "razor-wind",
+      "tail-whip",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "quick-attack",
+      "mud-slap",
+      "charge",
+      "volt-switch",
+      "bulldoze",
+      "parabolic-charge",
+      "electrify"
+    ],
+    "egg_moves": [
+      "agility",
+      "camouflage",
+      "dragon-rush",
+      "dragon-tail",
+      "electric-terrain",
+      "glare"
+    ],
+    "machine_moves": [
+      "ally-switch",
+      "attract",
+      "charge-beam",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "dig",
+      "double-team",
+      "electro-ball",
+      "electroweb",
+      "endure",
+      "facade",
+      "flash",
+      "frustration",
+      "grass-knot",
+      "hidden-power",
+      "iron-tail",
+      "light-screen",
+      "low-sweep",
+      "protect",
+      "psych-up",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-tomb",
+      "round",
+      "sandstorm",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "substitute",
+      "surf",
+      "swagger",
+      "swift",
+      "toxic",
+      "u-turn",
+      "wild-charge"
+    ]
+  },
+  {
+    "id": 695,
+    "name": "heliolisk",
+    "generation": 6,
+    "base_experience": 168,
+    "height": 10,
+    "weight": 210,
+    "species": "heliolisk",
+    "forms": [
+      "heliolisk"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/695.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "dry-skin",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "sand-veil",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "solar-power",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 62,
+      "attack": 55,
+      "defense": 52,
+      "special_attack": 109,
+      "special_defense": 94,
+      "speed": 109
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "pound",
+      "razor-wind",
+      "tail-whip",
+      "thunder-shock",
+      "thunderbolt",
+      "thunder-wave",
+      "thunder",
+      "quick-attack",
+      "mud-slap",
+      "charge",
+      "discharge",
+      "volt-switch",
+      "bulldoze",
+      "parabolic-charge",
+      "electrify",
+      "eerie-impulse"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "agility",
+      "ally-switch",
+      "attract",
+      "breaking-swipe",
+      "brutal-swing",
+      "charge-beam",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "dig",
+      "double-team",
+      "dragon-pulse",
+      "dragon-tail",
+      "electric-terrain",
+      "electro-ball",
+      "electroweb",
+      "endure",
+      "facade",
+      "fire-punch",
+      "flash",
+      "focus-blast",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "hidden-power",
+      "hyper-beam",
+      "hyper-voice",
+      "iron-tail",
+      "light-screen",
+      "low-kick",
+      "low-sweep",
+      "mega-kick",
+      "mega-punch",
+      "protect",
+      "psych-up",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-tomb",
+      "round",
+      "sandstorm",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "solar-beam",
+      "substitute",
+      "sunny-day",
+      "surf",
+      "swagger",
+      "swift",
+      "thunder-punch",
+      "toxic",
+      "u-turn",
+      "weather-ball",
+      "wild-charge"
+    ]
+  },
+  {
+    "id": 696,
+    "name": "tyrunt",
+    "generation": 6,
+    "base_experience": 72,
+    "height": 8,
+    "weight": 260,
+    "species": "tyrunt",
+    "forms": [
+      "tyrunt"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/696.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "strong-jaw",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 58,
+      "attack": 89,
+      "defense": 77,
+      "special_attack": 45,
+      "special_defense": 45,
+      "speed": 48
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "stomp",
+      "horn-drill",
+      "tackle",
+      "thrash",
+      "tail-whip",
+      "bite",
+      "roar",
+      "earthquake",
+      "bide",
+      "rock-slide",
+      "charm",
+      "crunch",
+      "ancient-power",
+      "dragon-claw",
+      "stealth-rock",
+      "dragon-tail"
+    ],
+    "egg_moves": [
+      "curse",
+      "dragon-dance",
+      "fire-fang",
+      "ice-fang",
+      "poison-fang",
+      "rock-polish",
+      "rock-throw",
+      "thunder-fang"
+    ],
+    "machine_moves": [
+      "aerial-ace",
+      "assurance",
+      "attract",
+      "body-slam",
+      "brick-break",
+      "bulldoze",
+      "close-combat",
+      "confide",
+      "dark-pulse",
+      "dig",
+      "double-team",
+      "dragon-pulse",
+      "earth-power",
+      "endure",
+      "facade",
+      "frustration",
+      "hidden-power",
+      "hone-claws",
+      "hyper-voice",
+      "iron-defense",
+      "iron-head",
+      "iron-tail",
+      "outrage",
+      "play-rough",
+      "protect",
+      "psychic-fangs",
+      "rest",
+      "return",
+      "rock-blast",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "sandstorm",
+      "scary-face",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "superpower",
+      "swagger",
+      "toxic",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 697,
+    "name": "tyrantrum",
+    "generation": 6,
+    "base_experience": 182,
+    "height": 25,
+    "weight": 2700,
+    "species": "tyrantrum",
+    "forms": [
+      "tyrantrum"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/697.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "strong-jaw",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "rock-head",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 82,
+      "attack": 121,
+      "defense": 119,
+      "special_attack": 69,
+      "special_defense": 59,
+      "speed": 71
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "stomp",
+      "horn-drill",
+      "tackle",
+      "thrash",
+      "tail-whip",
+      "bite",
+      "roar",
+      "earthquake",
+      "bide",
+      "rock-slide",
+      "charm",
+      "crunch",
+      "ancient-power",
+      "dragon-claw",
+      "giga-impact",
+      "stealth-rock",
+      "head-smash",
+      "dragon-tail"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "aerial-ace",
+      "assurance",
+      "attract",
+      "body-slam",
+      "breaking-swipe",
+      "brick-break",
+      "brutal-swing",
+      "bulldoze",
+      "close-combat",
+      "confide",
+      "dark-pulse",
+      "dig",
+      "double-team",
+      "dragon-dance",
+      "dragon-pulse",
+      "earth-power",
+      "endure",
+      "facade",
+      "fire-fang",
+      "frustration",
+      "hidden-power",
+      "high-horsepower",
+      "hone-claws",
+      "hyper-beam",
+      "hyper-voice",
+      "ice-fang",
+      "iron-defense",
+      "iron-head",
+      "iron-tail",
+      "outrage",
+      "play-rough",
+      "protect",
+      "psychic-fangs",
+      "rest",
+      "return",
+      "rock-blast",
+      "rock-polish",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "sandstorm",
+      "scary-face",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "superpower",
+      "swagger",
+      "thunder-fang",
+      "toxic",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 698,
+    "name": "amaura",
+    "generation": 6,
+    "base_experience": 72,
+    "height": 13,
+    "weight": 252,
+    "species": "amaura",
+    "forms": [
+      "amaura"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/698.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "refrigerate",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "snow-warning",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 77,
+      "attack": 59,
+      "defense": 50,
+      "special_attack": 67,
+      "special_defense": 63,
+      "speed": 46
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "take-down",
+      "growl",
+      "mist",
+      "ice-beam",
+      "blizzard",
+      "aurora-beam",
+      "hyper-beam",
+      "thunder-wave",
+      "rock-throw",
+      "light-screen",
+      "powder-snow",
+      "icy-wind",
+      "encore",
+      "ancient-power",
+      "hail",
+      "nature-power",
+      "avalanche",
+      "round",
+      "freeze-dry"
+    ],
+    "egg_moves": [
+      "aurora-veil",
+      "barrier",
+      "discharge",
+      "haze",
+      "magnet-rise",
+      "mirror-coat"
+    ],
+    "machine_moves": [
+      "attract",
+      "body-slam",
+      "bulldoze",
+      "calm-mind",
+      "charge-beam",
+      "confide",
+      "dark-pulse",
+      "double-team",
+      "dragon-tail",
+      "dream-eater",
+      "earth-power",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "flash",
+      "flash-cannon",
+      "frost-breath",
+      "frustration",
+      "hidden-power",
+      "hyper-voice",
+      "iron-defense",
+      "iron-head",
+      "iron-tail",
+      "mud-shot",
+      "outrage",
+      "protect",
+      "psych-up",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "roar",
+      "rock-blast",
+      "rock-polish",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "safeguard",
+      "sandstorm",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "stealth-rock",
+      "stone-edge",
+      "substitute",
+      "swagger",
+      "thunderbolt",
+      "toxic",
+      "weather-ball",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 699,
+    "name": "aurorus",
+    "generation": 6,
+    "base_experience": 104,
+    "height": 27,
+    "weight": 2250,
+    "species": "aurorus",
+    "forms": [
+      "aurorus"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/699.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "refrigerate",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "snow-warning",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 123,
+      "attack": 77,
+      "defense": 72,
+      "special_attack": 99,
+      "special_defense": 92,
+      "speed": 58
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "take-down",
+      "growl",
+      "mist",
+      "ice-beam",
+      "blizzard",
+      "aurora-beam",
+      "hyper-beam",
+      "thunder-wave",
+      "rock-throw",
+      "light-screen",
+      "powder-snow",
+      "icy-wind",
+      "encore",
+      "ancient-power",
+      "hail",
+      "nature-power",
+      "avalanche",
+      "round",
+      "freeze-dry"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "attract",
+      "body-slam",
+      "bulldoze",
+      "calm-mind",
+      "charge-beam",
+      "confide",
+      "dark-pulse",
+      "double-team",
+      "dragon-tail",
+      "dream-eater",
+      "earth-power",
+      "earthquake",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "flash",
+      "flash-cannon",
+      "frost-breath",
+      "frustration",
+      "giga-impact",
+      "hidden-power",
+      "hyper-voice",
+      "icicle-spear",
+      "iron-defense",
+      "iron-head",
+      "iron-tail",
+      "mud-shot",
+      "outrage",
+      "protect",
+      "psych-up",
+      "psychic",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "roar",
+      "rock-blast",
+      "rock-polish",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "safeguard",
+      "sandstorm",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "stealth-rock",
+      "stone-edge",
+      "substitute",
+      "swagger",
+      "thunder",
+      "thunderbolt",
+      "toxic",
+      "weather-ball",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 700,
+    "name": "sylveon",
+    "generation": 6,
+    "base_experience": 184,
+    "height": 10,
+    "weight": 235,
+    "species": "sylveon",
+    "forms": [
+      "sylveon"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/700.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "cute-charm",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "pixilate",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 95,
+      "attack": 65,
+      "defense": 65,
+      "special_attack": 110,
+      "special_defense": 130,
+      "speed": 60
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "sand-attack",
+      "tackle",
+      "take-down",
+      "double-edge",
+      "tail-whip",
+      "bite",
+      "growl",
+      "quick-attack",
+      "mimic",
+      "light-screen",
+      "swift",
+      "charm",
+      "baton-pass",
+      "psych-up",
+      "helping-hand",
+      "skill-swap",
+      "covet",
+      "calm-mind",
+      "copycat",
+      "last-resort",
+      "disarming-voice",
+      "draining-kiss",
+      "misty-terrain",
+      "play-rough",
+      "fairy-wind",
+      "moonblast",
+      "baby-doll-eyes"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "alluring-voice",
+      "attract",
+      "body-slam",
+      "confide",
+      "curse",
+      "cut",
+      "dazzling-gleam",
+      "dig",
+      "double-team",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "fake-tears",
+      "flash",
+      "focus-energy",
+      "frustration",
+      "giga-impact",
+      "hidden-power",
+      "hyper-beam",
+      "hyper-voice",
+      "iron-tail",
+      "magical-leaf",
+      "misty-explosion",
+      "mystical-fire",
+      "pay-day",
+      "protect",
+      "psychic",
+      "psyshock",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "retaliate",
+      "return",
+      "roar",
+      "round",
+      "safeguard",
+      "secret-power",
+      "shadow-ball",
+      "sleep-talk",
+      "snore",
+      "stored-power",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "tera-blast",
+      "toxic",
+      "trailblaze",
+      "weather-ball",
+      "work-up"
+    ]
+  },
+  {
+    "id": 701,
+    "name": "hawlucha",
+    "generation": 6,
+    "base_experience": 175,
+    "height": 8,
+    "weight": 215,
+    "species": "hawlucha",
+    "forms": [
+      "hawlucha"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/701.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "limber",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "unburden",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "mold-breaker",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 78,
+      "attack": 92,
+      "defense": 75,
+      "special_attack": 74,
+      "special_defense": 63,
+      "speed": 118
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "karate-chop",
+      "swords-dance",
+      "wing-attack",
+      "tackle",
+      "submission",
+      "high-jump-kick",
+      "sky-attack",
+      "detect",
+      "encore",
+      "taunt",
+      "brick-break",
+      "endeavor",
+      "feather-dance",
+      "aerial-ace",
+      "bounce",
+      "roost",
+      "fling",
+      "hone-claws",
+      "sky-drop",
+      "flying-press"
+    ],
+    "egg_moves": [
+      "agility",
+      "ally-switch",
+      "baton-pass",
+      "cross-chop",
+      "defog",
+      "entrainment",
+      "feint",
+      "me-first",
+      "mean-look",
+      "mud-sport",
+      "quick-guard"
+    ],
+    "machine_moves": [
+      "acrobatics",
+      "assurance",
+      "attract",
+      "body-press",
+      "body-slam",
+      "brave-bird",
+      "bulk-up",
+      "close-combat",
+      "coaching",
+      "confide",
+      "cut",
+      "dig",
+      "double-team",
+      "drain-punch",
+      "dual-wingbeat",
+      "endure",
+      "facade",
+      "false-swipe",
+      "fire-punch",
+      "fly",
+      "focus-blast",
+      "focus-punch",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "helping-hand",
+      "hidden-power",
+      "hyper-beam",
+      "iron-head",
+      "low-kick",
+      "low-sweep",
+      "lunge",
+      "mega-kick",
+      "mega-punch",
+      "payback",
+      "poison-jab",
+      "power-up-punch",
+      "protect",
+      "rain-dance",
+      "rest",
+      "retaliate",
+      "return",
+      "revenge",
+      "reversal",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "steel-wing",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "superpower",
+      "swagger",
+      "swift",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "throat-chop",
+      "thunder-punch",
+      "torment",
+      "toxic",
+      "trailblaze",
+      "u-turn",
+      "upper-hand",
+      "uproar",
+      "work-up",
+      "x-scissor",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 702,
+    "name": "dedenne",
+    "generation": 6,
+    "base_experience": 151,
+    "height": 2,
+    "weight": 22,
+    "species": "dedenne",
+    "forms": [
+      "dedenne"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/702.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "cheek-pouch",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "pickup",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "plus",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 67,
+      "attack": 58,
+      "defense": 57,
+      "special_attack": 81,
+      "special_defense": 67,
+      "speed": 101
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "tail-whip",
+      "thunder-shock",
+      "thunder-wave",
+      "thunder",
+      "rest",
+      "super-fang",
+      "snore",
+      "charm",
+      "charge",
+      "discharge",
+      "charge-beam",
+      "entrainment",
+      "volt-switch",
+      "parabolic-charge",
+      "play-rough",
+      "nuzzle"
+    ],
+    "egg_moves": [
+      "covet",
+      "eerie-impulse",
+      "helping-hand",
+      "magnet-rise",
+      "natural-gift",
+      "tearful-look"
+    ],
+    "machine_moves": [
+      "aerial-ace",
+      "agility",
+      "ally-switch",
+      "attract",
+      "confide",
+      "cut",
+      "dazzling-gleam",
+      "dig",
+      "double-team",
+      "draining-kiss",
+      "electric-terrain",
+      "electro-ball",
+      "electroweb",
+      "endeavor",
+      "endure",
+      "facade",
+      "flash",
+      "fling",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "hidden-power",
+      "hyper-beam",
+      "iron-tail",
+      "light-screen",
+      "misty-terrain",
+      "protect",
+      "rain-dance",
+      "retaliate",
+      "return",
+      "round",
+      "secret-power",
+      "seed-bomb",
+      "sleep-talk",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "thunder-punch",
+      "thunderbolt",
+      "toxic",
+      "trailblaze",
+      "u-turn",
+      "wild-charge"
+    ]
+  },
+  {
+    "id": 703,
+    "name": "carbink",
+    "generation": 6,
+    "base_experience": 100,
+    "height": 3,
+    "weight": 57,
+    "species": "carbink",
+    "forms": [
+      "carbink"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/703.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "clear-body",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 150,
+      "special_attack": 50,
+      "special_defense": 150,
+      "speed": 50
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "rock-throw",
+      "harden",
+      "light-screen",
+      "reflect",
+      "rock-slide",
+      "sharpen",
+      "flail",
+      "safeguard",
+      "ancient-power",
+      "skill-swap",
+      "rock-polish",
+      "power-gem",
+      "stone-edge",
+      "stealth-rock",
+      "guard-split",
+      "smack-down",
+      "moonblast"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "ally-switch",
+      "body-press",
+      "body-slam",
+      "calm-mind",
+      "charm",
+      "confide",
+      "dazzling-gleam",
+      "double-edge",
+      "double-team",
+      "earth-power",
+      "endeavor",
+      "endure",
+      "explosion",
+      "facade",
+      "flash",
+      "flash-cannon",
+      "frustration",
+      "giga-impact",
+      "gravity",
+      "guard-swap",
+      "gyro-ball",
+      "hail",
+      "heavy-slam",
+      "hidden-power",
+      "hyper-beam",
+      "iron-defense",
+      "iron-head",
+      "meteor-beam",
+      "misty-explosion",
+      "misty-terrain",
+      "nature-power",
+      "protect",
+      "psych-up",
+      "psychic",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-blast",
+      "rock-tomb",
+      "round",
+      "sand-tomb",
+      "sandstorm",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "spikes",
+      "stomping-tantrum",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "take-down",
+      "tera-blast",
+      "toxic",
+      "trick-room",
+      "wonder-room"
+    ]
+  },
+  {
+    "id": 704,
+    "name": "goomy",
+    "generation": 6,
+    "base_experience": 60,
+    "height": 3,
+    "weight": 28,
+    "species": "goomy",
+    "forms": [
+      "goomy"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/704.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sap-sipper",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "hydration",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "gooey",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 35,
+      "special_attack": 55,
+      "special_defense": 75,
+      "speed": 40
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "body-slam",
+      "water-gun",
+      "hydro-pump",
+      "absorb",
+      "bide",
+      "bubble",
+      "acid-armor",
+      "curse",
+      "flail",
+      "protect",
+      "dragon-breath",
+      "rain-dance",
+      "muddy-water",
+      "water-pulse",
+      "dragon-pulse",
+      "acid-spray",
+      "shelter"
+    ],
+    "egg_moves": [
+      "counter",
+      "endure",
+      "iron-tail",
+      "life-dew",
+      "poison-tail"
+    ],
+    "machine_moves": [
+      "attract",
+      "charm",
+      "chilling-water",
+      "confide",
+      "double-team",
+      "draco-meteor",
+      "facade",
+      "frustration",
+      "hidden-power",
+      "infestation",
+      "mud-shot",
+      "outrage",
+      "rest",
+      "return",
+      "rock-slide",
+      "round",
+      "secret-power",
+      "skitter-smack",
+      "sleep-talk",
+      "sludge-bomb",
+      "sludge-wave",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "take-down",
+      "tera-blast",
+      "thunderbolt",
+      "toxic"
+    ]
+  },
+  {
+    "id": 705,
+    "name": "sliggoo",
+    "generation": 6,
+    "base_experience": 158,
+    "height": 8,
+    "weight": 175,
+    "species": "sliggoo",
+    "forms": [
+      "sliggoo"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sap-sipper",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "hydration",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "gooey",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 68,
+      "attack": 75,
+      "defense": 53,
+      "special_attack": 83,
+      "special_defense": 113,
+      "speed": 60
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "body-slam",
+      "water-gun",
+      "absorb",
+      "bide",
+      "bubble",
+      "acid-armor",
+      "curse",
+      "flail",
+      "protect",
+      "dragon-breath",
+      "rain-dance",
+      "muddy-water",
+      "water-pulse",
+      "dragon-pulse",
+      "acid-spray"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "attract",
+      "blizzard",
+      "charm",
+      "chilling-water",
+      "confide",
+      "double-team",
+      "draco-meteor",
+      "endure",
+      "facade",
+      "frustration",
+      "hidden-power",
+      "ice-beam",
+      "infestation",
+      "iron-tail",
+      "mud-shot",
+      "outrage",
+      "rest",
+      "return",
+      "rock-slide",
+      "round",
+      "secret-power",
+      "skitter-smack",
+      "sleep-talk",
+      "sludge-bomb",
+      "sludge-wave",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "take-down",
+      "tera-blast",
+      "thunder",
+      "thunderbolt",
+      "toxic"
+    ]
+  },
+  {
+    "id": 706,
+    "name": "goodra",
+    "generation": 6,
+    "base_experience": 270,
+    "height": 20,
+    "weight": 1505,
+    "species": "goodra",
+    "forms": [
+      "goodra"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/706.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sap-sipper",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "hydration",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "gooey",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 70,
+      "special_attack": 110,
+      "special_defense": 150,
+      "speed": 80
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "body-slam",
+      "water-gun",
+      "absorb",
+      "bide",
+      "bubble",
+      "curse",
+      "flail",
+      "protect",
+      "outrage",
+      "dragon-breath",
+      "rain-dance",
+      "muddy-water",
+      "poison-tail",
+      "water-pulse",
+      "feint",
+      "aqua-tail",
+      "dragon-pulse",
+      "power-whip",
+      "acid-spray",
+      "tearful-look"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "assurance",
+      "attract",
+      "blizzard",
+      "body-press",
+      "breaking-swipe",
+      "brutal-swing",
+      "bulldoze",
+      "charm",
+      "chilling-water",
+      "confide",
+      "double-team",
+      "draco-meteor",
+      "dragon-cheer",
+      "dragon-claw",
+      "dragon-tail",
+      "earthquake",
+      "endure",
+      "facade",
+      "fire-blast",
+      "fire-punch",
+      "flamethrower",
+      "focus-blast",
+      "focus-punch",
+      "frustration",
+      "giga-impact",
+      "hail",
+      "hidden-power",
+      "hydro-pump",
+      "hyper-beam",
+      "ice-beam",
+      "incinerate",
+      "infestation",
+      "iron-tail",
+      "knock-off",
+      "mega-kick",
+      "mega-punch",
+      "mud-shot",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "scald",
+      "secret-power",
+      "skitter-smack",
+      "sleep-talk",
+      "sludge-bomb",
+      "sludge-wave",
+      "snore",
+      "stomping-tantrum",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "superpower",
+      "surf",
+      "swagger",
+      "take-down",
+      "tera-blast",
+      "thunder",
+      "thunder-punch",
+      "thunderbolt",
+      "toxic",
+      "weather-ball"
+    ]
+  },
+  {
+    "id": 707,
+    "name": "klefki",
+    "generation": 6,
+    "base_experience": 165,
+    "height": 2,
+    "weight": 30,
+    "species": "klefki",
+    "forms": [
+      "klefki"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/707.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "prankster",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "magician",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 57,
+      "attack": 80,
+      "defense": 91,
+      "special_attack": 80,
+      "special_defense": 87,
+      "speed": 75
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "spikes",
+      "torment",
+      "recycle",
+      "imprison",
+      "astonish",
+      "metal-sound",
+      "heal-block",
+      "last-resort",
+      "mirror-shot",
+      "flash-cannon",
+      "magic-room",
+      "foul-play",
+      "draining-kiss",
+      "crafty-shield",
+      "play-rough",
+      "fairy-wind",
+      "fairy-lock"
+    ],
+    "egg_moves": [
+      "iron-defense",
+      "lock-on",
+      "magnet-rise",
+      "switcheroo",
+      "thief"
+    ],
+    "machine_moves": [
+      "attract",
+      "calm-mind",
+      "confide",
+      "cut",
+      "dazzling-gleam",
+      "double-team",
+      "endure",
+      "facade",
+      "frustration",
+      "giga-impact",
+      "hidden-power",
+      "hyper-beam",
+      "light-screen",
+      "misty-terrain",
+      "protect",
+      "psych-up",
+      "psychic",
+      "psyshock",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "round",
+      "safeguard",
+      "sandstorm",
+      "secret-power",
+      "skitter-smack",
+      "sleep-talk",
+      "snore",
+      "steel-beam",
+      "stored-power",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "tera-blast",
+      "thunder-wave",
+      "toxic",
+      "trick-room"
+    ]
+  },
+  {
+    "id": 708,
+    "name": "phantump",
+    "generation": 6,
+    "base_experience": 62,
+    "height": 4,
+    "weight": 70,
+    "species": "phantump",
+    "forms": [
+      "phantump"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/708.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "ghost"
+        }
+      },
+      {
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "natural-cure",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "frisk",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "harvest",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 43,
+      "attack": 70,
+      "defense": 48,
+      "special_attack": 50,
+      "special_defense": 60,
+      "speed": 38
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "leech-seed",
+      "growth",
+      "confuse-ray",
+      "curse",
+      "feint-attack",
+      "destiny-bond",
+      "will-o-wisp",
+      "ingrain",
+      "astonish",
+      "wood-hammer",
+      "hex",
+      "horn-leech",
+      "phantom-force",
+      "forests-curse",
+      "branch-poke"
+    ],
+    "egg_moves": [
+      "ally-switch",
+      "bestow",
+      "disable",
+      "grudge",
+      "imprison",
+      "power-up-punch",
+      "sucker-punch",
+      "venom-drench"
+    ],
+    "machine_moves": [
+      "attract",
+      "bulldoze",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "dig",
+      "double-team",
+      "dream-eater",
+      "endure",
+      "energy-ball",
+      "facade",
+      "foul-play",
+      "frustration",
+      "giga-drain",
+      "grass-knot",
+      "grassy-glide",
+      "grassy-terrain",
+      "hidden-power",
+      "lash-out",
+      "magical-leaf",
+      "nature-power",
+      "night-shade",
+      "pain-split",
+      "poison-jab",
+      "poltergeist",
+      "protect",
+      "psych-up",
+      "psychic",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "safeguard",
+      "secret-power",
+      "seed-bomb",
+      "shadow-ball",
+      "shadow-claw",
+      "skill-swap",
+      "skitter-smack",
+      "sleep-talk",
+      "snore",
+      "solar-beam",
+      "spite",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "trailblaze",
+      "trick",
+      "trick-room"
+    ]
+  },
+  {
+    "id": 709,
+    "name": "trevenant",
+    "generation": 6,
+    "base_experience": 166,
+    "height": 15,
+    "weight": 710,
+    "species": "trevenant",
+    "forms": [
+      "trevenant"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/709.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "ghost"
+        }
+      },
+      {
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "natural-cure",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "frisk",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "harvest",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 85,
+      "attack": 110,
+      "defense": 76,
+      "special_attack": 65,
+      "special_defense": 82,
+      "speed": 56
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "leech-seed",
+      "growth",
+      "confuse-ray",
+      "curse",
+      "feint-attack",
+      "destiny-bond",
+      "will-o-wisp",
+      "ingrain",
+      "astonish",
+      "shadow-claw",
+      "wood-hammer",
+      "hex",
+      "horn-leech",
+      "phantom-force",
+      "forests-curse",
+      "branch-poke"
+    ],
+    "egg_moves": [
+      "ally-switch",
+      "disable",
+      "sucker-punch"
+    ],
+    "machine_moves": [
+      "attract",
+      "brutal-swing",
+      "bulldoze",
+      "burning-jealousy",
+      "calm-mind",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "dig",
+      "double-team",
+      "drain-punch",
+      "dream-eater",
+      "earthquake",
+      "endure",
+      "energy-ball",
+      "facade",
+      "focus-blast",
+      "foul-play",
+      "frustration",
+      "giga-drain",
+      "giga-impact",
+      "grass-knot",
+      "grassy-glide",
+      "grassy-terrain",
+      "haze",
+      "hidden-power",
+      "hone-claws",
+      "hyper-beam",
+      "imprison",
+      "knock-off",
+      "lash-out",
+      "leaf-storm",
+      "magical-leaf",
+      "nature-power",
+      "night-shade",
+      "pain-split",
+      "poison-jab",
+      "poltergeist",
+      "power-up-punch",
+      "protect",
+      "psych-up",
+      "psychic",
+      "psychic-noise",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "safeguard",
+      "scary-face",
+      "secret-power",
+      "seed-bomb",
+      "shadow-ball",
+      "skill-swap",
+      "skitter-smack",
+      "sleep-talk",
+      "snore",
+      "solar-beam",
+      "spite",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "take-down",
+      "tera-blast",
+      "thief",
+      "toxic",
+      "trailblaze",
+      "trick",
+      "trick-room",
+      "venom-drench",
+      "x-scissor"
+    ]
+  },
+  {
+    "id": 710,
+    "name": "pumpkaboo",
+    "generation": 6,
+    "base_experience": 67,
+    "height": 4,
+    "weight": 50,
+    "species": "pumpkaboo",
+    "forms": [
+      "pumpkaboo-average"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/710.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "ghost"
+        }
+      },
+      {
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "pickup",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "frisk",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "insomnia",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 49,
+      "attack": 66,
+      "defense": 70,
+      "special_attack": 44,
+      "special_defense": 55,
+      "speed": 51
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "leech-seed",
+      "razor-leaf",
+      "confuse-ray",
+      "scary-face",
+      "pain-split",
+      "shadow-ball",
+      "trick",
+      "astonish",
+      "bullet-seed",
+      "worry-seed",
+      "seed-bomb",
+      "shadow-sneak",
+      "trick-or-treat"
+    ],
+    "egg_moves": [
+      "bestow",
+      "curse",
+      "destiny-bond",
+      "disable"
+    ],
+    "machine_moves": [
+      "ally-switch",
+      "attract",
+      "charge-beam",
+      "confide",
+      "dark-pulse",
+      "double-team",
+      "dream-eater",
+      "endure",
+      "energy-ball",
+      "explosion",
+      "facade",
+      "fire-blast",
+      "flame-charge",
+      "flamethrower",
+      "flash",
+      "foul-play",
+      "frustration",
+      "giga-drain",
+      "grass-knot",
+      "gyro-ball",
+      "hex",
+      "hidden-power",
+      "imprison",
+      "incinerate",
+      "light-screen",
+      "mystical-fire",
+      "nature-power",
+      "protect",
+      "psychic",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "safeguard",
+      "secret-power",
+      "skill-swap",
+      "sleep-talk",
+      "sludge-bomb",
+      "snore",
+      "solar-beam",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "thief",
+      "toxic",
+      "trick-room",
+      "will-o-wisp"
+    ]
+  },
+  {
+    "id": 711,
+    "name": "gourgeist",
+    "generation": 6,
+    "base_experience": 173,
+    "height": 9,
+    "weight": 125,
+    "species": "gourgeist",
+    "forms": [
+      "gourgeist-average"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/711.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "ghost"
+        }
+      },
+      {
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "pickup",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "frisk",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "insomnia",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 122,
+      "special_attack": 58,
+      "special_defense": 75,
+      "speed": 84
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "leech-seed",
+      "razor-leaf",
+      "confuse-ray",
+      "explosion",
+      "scary-face",
+      "pain-split",
+      "shadow-ball",
+      "trick",
+      "astonish",
+      "bullet-seed",
+      "worry-seed",
+      "seed-bomb",
+      "shadow-sneak",
+      "phantom-force",
+      "trick-or-treat",
+      "moonblast"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "ally-switch",
+      "attract",
+      "brutal-swing",
+      "charge-beam",
+      "confide",
+      "dark-pulse",
+      "double-team",
+      "dream-eater",
+      "endure",
+      "energy-ball",
+      "facade",
+      "fire-blast",
+      "flame-charge",
+      "flamethrower",
+      "flash",
+      "focus-blast",
+      "foul-play",
+      "frustration",
+      "giga-drain",
+      "giga-impact",
+      "grass-knot",
+      "gyro-ball",
+      "hex",
+      "hidden-power",
+      "hyper-beam",
+      "imprison",
+      "incinerate",
+      "light-screen",
+      "mystical-fire",
+      "nasty-plot",
+      "nature-power",
+      "power-whip",
+      "protect",
+      "psychic",
+      "rest",
+      "return",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "safeguard",
+      "secret-power",
+      "skill-swap",
+      "sleep-talk",
+      "sludge-bomb",
+      "snore",
+      "solar-beam",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "thief",
+      "toxic",
+      "trick-room",
+      "will-o-wisp"
+    ]
+  },
+  {
+    "id": 712,
+    "name": "bergmite",
+    "generation": 6,
+    "base_experience": 61,
+    "height": 10,
+    "weight": 995,
+    "species": "bergmite",
+    "forms": [
+      "bergmite"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/712.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "own-tempo",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "ice-body",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 55,
+      "attack": 69,
+      "defense": 85,
+      "special_attack": 32,
+      "special_defense": 35,
+      "speed": 28
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "take-down",
+      "double-edge",
+      "bite",
+      "blizzard",
+      "recover",
+      "harden",
+      "sharpen",
+      "curse",
+      "powder-snow",
+      "protect",
+      "icy-wind",
+      "rapid-spin",
+      "crunch",
+      "ice-ball",
+      "iron-defense",
+      "avalanche",
+      "ice-shard",
+      "ice-fang"
+    ],
+    "egg_moves": [
+      "aurora-veil",
+      "barrier",
+      "mirror-coat",
+      "mist"
+    ],
+    "machine_moves": [
+      "attract",
+      "body-slam",
+      "bulldoze",
+      "chilling-water",
+      "confide",
+      "double-team",
+      "endure",
+      "facade",
+      "flash",
+      "flash-cannon",
+      "frost-breath",
+      "frustration",
+      "gyro-ball",
+      "hail",
+      "hidden-power",
+      "ice-beam",
+      "ice-spinner",
+      "icicle-spear",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-polish",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "safeguard",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "snowscape",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "surf",
+      "swagger",
+      "tera-blast",
+      "toxic"
+    ]
+  },
+  {
+    "id": 713,
+    "name": "avalugg",
+    "generation": 6,
+    "base_experience": 180,
+    "height": 20,
+    "weight": 5050,
+    "species": "avalugg",
+    "forms": [
+      "avalugg"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/713.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "own-tempo",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "ice-body",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 95,
+      "attack": 117,
+      "defense": 184,
+      "special_attack": 44,
+      "special_defense": 46,
+      "speed": 28
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "body-slam",
+      "take-down",
+      "double-edge",
+      "bite",
+      "blizzard",
+      "recover",
+      "harden",
+      "skull-bash",
+      "sharpen",
+      "curse",
+      "powder-snow",
+      "protect",
+      "icy-wind",
+      "rapid-spin",
+      "crunch",
+      "ice-ball",
+      "iron-defense",
+      "avalanche",
+      "ice-fang",
+      "wide-guard",
+      "icicle-crash"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "attract",
+      "body-press",
+      "bulldoze",
+      "chilling-water",
+      "confide",
+      "double-team",
+      "earthquake",
+      "endure",
+      "facade",
+      "flash",
+      "flash-cannon",
+      "frost-breath",
+      "frustration",
+      "giga-impact",
+      "gyro-ball",
+      "hail",
+      "heavy-slam",
+      "hidden-power",
+      "high-horsepower",
+      "hydro-pump",
+      "hyper-beam",
+      "ice-beam",
+      "ice-spinner",
+      "icicle-spear",
+      "iron-head",
+      "rain-dance",
+      "rest",
+      "return",
+      "roar",
+      "rock-polish",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "safeguard",
+      "scary-face",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "snowscape",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "superpower",
+      "surf",
+      "swagger",
+      "tera-blast",
+      "toxic"
+    ]
+  },
+  {
+    "id": 714,
+    "name": "noibat",
+    "generation": 6,
+    "base_experience": 49,
+    "height": 5,
+    "weight": 80,
+    "species": "noibat",
+    "forms": [
+      "noibat"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/714.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "flying"
+        }
+      },
+      {
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "frisk",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "infiltrator",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "telepathy",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 35,
+      "special_attack": 45,
+      "special_defense": 40,
+      "speed": 55
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "razor-wind",
+      "gust",
+      "wing-attack",
+      "whirlwind",
+      "tackle",
+      "bite",
+      "supersonic",
+      "absorb",
+      "agility",
+      "screech",
+      "double-team",
+      "leech-life",
+      "super-fang",
+      "air-cutter",
+      "roost",
+      "tailwind",
+      "air-slash",
+      "hurricane"
+    ],
+    "egg_moves": [
+      "defog",
+      "dragon-rush",
+      "outrage",
+      "snatch",
+      "switcheroo"
+    ],
+    "machine_moves": [
+      "acrobatics",
+      "aerial-ace",
+      "attract",
+      "brick-break",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "draco-meteor",
+      "dragon-claw",
+      "dragon-pulse",
+      "dream-eater",
+      "dual-wingbeat",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "fly",
+      "frustration",
+      "heat-wave",
+      "hidden-power",
+      "hyper-voice",
+      "iron-tail",
+      "protect",
+      "psychic",
+      "rest",
+      "return",
+      "round",
+      "secret-power",
+      "shadow-ball",
+      "shadow-claw",
+      "sleep-talk",
+      "snore",
+      "solar-beam",
+      "steel-wing",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "take-down",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "torment",
+      "toxic",
+      "u-turn",
+      "uproar",
+      "wild-charge",
+      "x-scissor"
+    ]
+  },
+  {
+    "id": 715,
+    "name": "noivern",
+    "generation": 6,
+    "base_experience": 187,
+    "height": 15,
+    "weight": 850,
+    "species": "noivern",
+    "forms": [
+      "noivern"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/715.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "flying"
+        }
+      },
+      {
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "frisk",
+        "is_hidden": false,
+        "slot": 1
+      },
+      {
+        "name": "infiltrator",
+        "is_hidden": false,
+        "slot": 2
+      },
+      {
+        "name": "telepathy",
+        "is_hidden": true,
+        "slot": 3
+      }
+    ],
+    "stats_cached": {
+      "hp": 85,
+      "attack": 70,
+      "defense": 80,
+      "special_attack": 97,
+      "special_defense": 80,
+      "speed": 123
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "razor-wind",
+      "gust",
+      "wing-attack",
+      "whirlwind",
+      "tackle",
+      "bite",
+      "supersonic",
+      "absorb",
+      "agility",
+      "screech",
+      "double-team",
+      "leech-life",
+      "super-fang",
+      "moonlight",
+      "air-cutter",
+      "roost",
+      "tailwind",
+      "air-slash",
+      "dragon-pulse",
+      "hurricane",
+      "boomburst"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "acrobatics",
+      "aerial-ace",
+      "attract",
+      "body-slam",
+      "breaking-swipe",
+      "brick-break",
+      "confide",
+      "cut",
+      "dark-pulse",
+      "double-edge",
+      "draco-meteor",
+      "dragon-cheer",
+      "dragon-claw",
+      "dragon-dance",
+      "dragon-tail",
+      "dream-eater",
+      "dual-wingbeat",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "flamethrower",
+      "fly",
+      "focus-blast",
+      "frustration",
+      "giga-impact",
+      "heat-wave",
+      "hidden-power",
+      "hone-claws",
+      "hyper-beam",
+      "hyper-voice",
+      "iron-tail",
+      "outrage",
+      "protect",
+      "psychic",
+      "psychic-noise",
+      "rest",
+      "return",
+      "round",
+      "scary-face",
+      "secret-power",
+      "shadow-ball",
+      "shadow-claw",
+      "sleep-talk",
+      "snore",
+      "solar-beam",
+      "steel-wing",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "take-down",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "torment",
+      "toxic",
+      "u-turn",
+      "uproar",
+      "water-pulse",
+      "wild-charge",
+      "x-scissor"
+    ]
+  },
+  {
+    "id": 716,
+    "name": "xerneas",
+    "generation": 6,
+    "base_experience": 306,
+    "height": 30,
+    "weight": 2150,
+    "species": "xerneas",
+    "forms": [
+      "xerneas-active",
+      "xerneas-neutral"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/716.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "fairy-aura",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 126,
+      "attack": 131,
+      "defense": 95,
+      "special_attack": 131,
+      "special_defense": 98,
+      "speed": 99
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "take-down",
+      "aurora-beam",
+      "light-screen",
+      "outrage",
+      "megahorn",
+      "psych-up",
+      "nature-power",
+      "ingrain",
+      "aromatherapy",
+      "gravity",
+      "close-combat",
+      "night-slash",
+      "giga-impact",
+      "heal-pulse",
+      "horn-leech",
+      "misty-terrain",
+      "moonblast",
+      "geomancy"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "body-slam",
+      "calm-mind",
+      "confide",
+      "cut",
+      "dazzling-gleam",
+      "double-team",
+      "draining-kiss",
+      "echoed-voice",
+      "endure",
+      "facade",
+      "flash",
+      "flash-cannon",
+      "focus-blast",
+      "frustration",
+      "grass-knot",
+      "hail",
+      "hidden-power",
+      "hyper-beam",
+      "hyper-voice",
+      "play-rough",
+      "protect",
+      "psychic",
+      "psyshock",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "roar",
+      "rock-slide",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "smart-strike",
+      "snore",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "thunder",
+      "thunder-wave",
+      "thunderbolt",
+      "toxic",
+      "wonder-room",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 717,
+    "name": "yveltal",
+    "generation": 6,
+    "base_experience": 306,
+    "height": 58,
+    "weight": 2030,
+    "species": "yveltal",
+    "forms": [
+      "yveltal"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/717.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "dark-aura",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 126,
+      "attack": 131,
+      "defense": 95,
+      "special_attack": 131,
+      "special_defense": 98,
+      "speed": 99
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "razor-wind",
+      "gust",
+      "disable",
+      "hyper-beam",
+      "psychic",
+      "double-team",
+      "sky-attack",
+      "taunt",
+      "roost",
+      "tailwind",
+      "sucker-punch",
+      "dark-pulse",
+      "air-slash",
+      "dragon-rush",
+      "focus-blast",
+      "foul-play",
+      "hurricane",
+      "snarl",
+      "phantom-force",
+      "oblivion-wing"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "acrobatics",
+      "aerial-ace",
+      "body-slam",
+      "confide",
+      "cut",
+      "dragon-claw",
+      "dream-eater",
+      "embargo",
+      "endure",
+      "facade",
+      "fly",
+      "frustration",
+      "giga-impact",
+      "heat-wave",
+      "hidden-power",
+      "hone-claws",
+      "hyper-voice",
+      "payback",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-slide",
+      "round",
+      "secret-power",
+      "shadow-ball",
+      "shadow-claw",
+      "sky-drop",
+      "sleep-talk",
+      "snore",
+      "steel-wing",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "thief",
+      "torment",
+      "toxic",
+      "u-turn",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 718,
+    "name": "zygarde",
+    "generation": 6,
+    "base_experience": 270,
+    "height": 50,
+    "weight": 3050,
+    "species": "zygarde",
+    "forms": [
+      "zygarde"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/718.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "type": {
+          "name": "ground"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "aura-break",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 108,
+      "attack": 100,
+      "defense": 121,
+      "special_attack": 81,
+      "special_defense": 95,
+      "speed": 95
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "bind",
+      "bite",
+      "earthquake",
+      "dig",
+      "haze",
+      "glare",
+      "outrage",
+      "sandstorm",
+      "safeguard",
+      "dragon-breath",
+      "crunch",
+      "extreme-speed",
+      "camouflage",
+      "dragon-dance",
+      "dragon-pulse",
+      "coil",
+      "bulldoze",
+      "thousand-arrows",
+      "thousand-waves",
+      "lands-wrath",
+      "core-enforcer"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "body-slam",
+      "breaking-swipe",
+      "brick-break",
+      "confide",
+      "double-team",
+      "dragon-tail",
+      "earth-power",
+      "endure",
+      "facade",
+      "focus-blast",
+      "frustration",
+      "giga-impact",
+      "grass-knot",
+      "hidden-power",
+      "high-horsepower",
+      "hyper-beam",
+      "hyper-voice",
+      "iron-tail",
+      "payback",
+      "protect",
+      "rest",
+      "retaliate",
+      "return",
+      "reversal",
+      "rock-slide",
+      "rock-smash",
+      "round",
+      "secret-power",
+      "sleep-talk",
+      "sludge-wave",
+      "snore",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "superpower",
+      "swagger",
+      "swift",
+      "toxic",
+      "zen-headbutt"
+    ]
+  },
+  {
+    "id": 719,
+    "name": "diancie",
+    "generation": 6,
+    "base_experience": 270,
+    "height": 7,
+    "weight": 88,
+    "species": "diancie",
+    "forms": [
+      "diancie"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/719.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "clear-body",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 50,
+      "attack": 100,
+      "defense": 150,
+      "special_attack": 100,
+      "special_defense": 150,
+      "speed": 50
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "tackle",
+      "rock-throw",
+      "harden",
+      "light-screen",
+      "reflect",
+      "rock-slide",
+      "sharpen",
+      "flail",
+      "safeguard",
+      "ancient-power",
+      "skill-swap",
+      "rock-polish",
+      "power-gem",
+      "trick-room",
+      "stone-edge",
+      "stealth-rock",
+      "guard-split",
+      "smack-down",
+      "moonblast",
+      "diamond-storm"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "ally-switch",
+      "amnesia",
+      "baton-pass",
+      "body-press",
+      "body-slam",
+      "bulldoze",
+      "calm-mind",
+      "charm",
+      "confide",
+      "dazzling-gleam",
+      "double-team",
+      "draining-kiss",
+      "earth-power",
+      "encore",
+      "endeavor",
+      "endure",
+      "explosion",
+      "facade",
+      "fake-tears",
+      "flash",
+      "flash-cannon",
+      "frustration",
+      "giga-impact",
+      "gravity",
+      "guard-swap",
+      "gyro-ball",
+      "hail",
+      "helping-hand",
+      "hidden-power",
+      "hyper-beam",
+      "iron-defense",
+      "meteor-beam",
+      "metronome",
+      "misty-explosion",
+      "mystical-fire",
+      "nature-power",
+      "play-rough",
+      "protect",
+      "psych-up",
+      "psychic",
+      "psyshock",
+      "rain-dance",
+      "rest",
+      "return",
+      "rock-tomb",
+      "round",
+      "sand-tomb",
+      "sandstorm",
+      "scorching-sands",
+      "secret-power",
+      "sleep-talk",
+      "snore",
+      "snowscape",
+      "spikes",
+      "stored-power",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "take-down",
+      "tera-blast",
+      "toxic",
+      "wonder-room"
+    ]
+  },
+  {
+    "id": 720,
+    "name": "hoopa",
+    "generation": 6,
+    "base_experience": 270,
+    "height": 5,
+    "weight": 90,
+    "species": "hoopa",
+    "forms": [
+      "hoopa"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/720.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "magician",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 80,
+      "attack": 110,
+      "defense": 60,
+      "special_attack": 150,
+      "special_defense": 130,
+      "speed": 70
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "psybeam",
+      "confusion",
+      "psychic",
+      "light-screen",
+      "destiny-bond",
+      "shadow-ball",
+      "trick",
+      "magic-coat",
+      "skill-swap",
+      "astonish",
+      "nasty-plot",
+      "zen-headbutt",
+      "trick-room",
+      "guard-split",
+      "power-split",
+      "wonder-room",
+      "ally-switch",
+      "phantom-force",
+      "hyperspace-hole"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "brick-break",
+      "calm-mind",
+      "charge-beam",
+      "confide",
+      "dark-pulse",
+      "double-team",
+      "drain-punch",
+      "dream-eater",
+      "embargo",
+      "endure",
+      "energy-ball",
+      "expanding-force",
+      "facade",
+      "fire-punch",
+      "flash",
+      "fling",
+      "focus-blast",
+      "focus-punch",
+      "foul-play",
+      "frustration",
+      "future-sight",
+      "giga-impact",
+      "grass-knot",
+      "gravity",
+      "gunk-shot",
+      "hidden-power",
+      "hyper-beam",
+      "ice-punch",
+      "knock-off",
+      "lash-out",
+      "power-up-punch",
+      "protect",
+      "psych-up",
+      "psychic-noise",
+      "psychic-terrain",
+      "psyshock",
+      "quash",
+      "rain-dance",
+      "reflect",
+      "rest",
+      "return",
+      "rock-tomb",
+      "round",
+      "safeguard",
+      "sandstorm",
+      "scary-face",
+      "secret-power",
+      "skitter-smack",
+      "sleep-talk",
+      "substitute",
+      "sunny-day",
+      "swagger",
+      "swift",
+      "take-down",
+      "taunt",
+      "tera-blast",
+      "thief",
+      "throat-chop",
+      "thunder-punch",
+      "thunder-wave",
+      "thunderbolt",
+      "torment",
+      "toxic"
+    ]
+  },
+  {
+    "id": 721,
+    "name": "volcanion",
+    "generation": 6,
+    "base_experience": 270,
+    "height": 17,
+    "weight": 1950,
+    "species": "volcanion",
+    "forms": [
+      "volcanion"
+    ],
+    "cries": {
+      "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/721.ogg",
+      "legacy": null
+    },
+    "types": [
+      {
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "water-absorb",
+        "is_hidden": false,
+        "slot": 1
+      }
+    ],
+    "stats_cached": {
+      "hp": 80,
+      "attack": 110,
+      "defense": 120,
+      "special_attack": 130,
+      "special_defense": 90,
+      "speed": 70
+    },
+    "past_types": [],
+    "learnable_moves": [
+      "stomp",
+      "body-slam",
+      "take-down",
+      "leer",
+      "mist",
+      "water-gun",
+      "hydro-pump",
+      "fire-spin",
+      "haze",
+      "explosion",
+      "scary-face",
+      "weather-ball",
+      "overheat",
+      "water-pulse",
+      "flare-blitz",
+      "flame-charge",
+      "scald",
+      "incinerate",
+      "steam-eruption"
+    ],
+    "egg_moves": [],
+    "machine_moves": [
+      "body-press",
+      "brick-break",
+      "bulldoze",
+      "confide",
+      "cut",
+      "dig",
+      "double-edge",
+      "double-team",
+      "earth-power",
+      "earthquake",
+      "endure",
+      "facade",
+      "fire-blast",
+      "fire-fang",
+      "flamethrower",
+      "flash-cannon",
+      "fling",
+      "focus-blast",
+      "focus-energy",
+      "frustration",
+      "giga-impact",
+      "gyro-ball",
+      "heat-crash",
+      "heat-wave",
+      "heavy-slam",
+      "hidden-power",
+      "hyper-beam",
+      "liquidation",
+      "misty-terrain",
+      "mud-shot",
+      "protect",
+      "rain-dance",
+      "rest",
+      "return",
+      "roar",
+      "rock-slide",
+      "rock-smash",
+      "rock-tomb",
+      "round",
+      "sandstorm",
+      "scorching-sands",
+      "secret-power",
+      "self-destruct",
+      "sleep-talk",
+      "sludge-bomb",
+      "sludge-wave",
+      "smack-down",
+      "snore",
+      "solar-beam",
+      "stomping-tantrum",
+      "stone-edge",
+      "strength",
+      "substitute",
+      "sunny-day",
+      "superpower",
+      "swagger",
+      "taunt",
+      "tera-blast",
+      "thunder-fang",
+      "toxic",
+      "wild-charge",
+      "will-o-wisp"
+    ]
+  }
+]

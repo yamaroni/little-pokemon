@@ -1,0 +1,2177 @@
+[
+  {
+    "id": "johto_route_29",
+    "region": "johto",
+    "parentLocationId": "new_bark_area",
+    "name": "Johto Route 29",
+    "description": "A grassy path between New Bark Town and Cherrygrove City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 165,
+        "weight": 10,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 191,
+        "weight": 5,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 172,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_30",
+    "region": "johto",
+    "parentLocationId": "new_bark_area",
+    "name": "Johto Route 30",
+    "description": "A wooded road north of Cherrygrove City climbing toward Mr. Pokémon's house.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 165,
+        "weight": 20,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 10,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 5,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 152,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_31",
+    "region": "johto",
+    "parentLocationId": "new_bark_area",
+    "name": "Johto Route 31",
+    "description": "A path east of Violet City running past the entrance to Dark Cave.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 69,
+        "weight": 20,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 167,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 10,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 165,
+        "weight": 5,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 175,
+        "weight": 1,
+        "types": [
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dark_cave",
+    "region": "johto",
+    "parentLocationId": "new_bark_area",
+    "name": "Dark Cave",
+    "description": "A pitch-black cavern linking the routes around Violet and Blackthorn, requiring Flash to explore.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 206,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 216,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 203,
+        "weight": 1,
+        "types": [
+          "normal",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_new_bark_area",
+    "region": "johto",
+    "parentLocationId": "new_bark_area",
+    "name": "Sea",
+    "description": "A tranquil expanse of sparkling waters teeming with abundant water‑type Pokémon, where gentle waves lull travelers.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 5,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 158,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_new_bark_area",
+    "region": "johto",
+    "parentLocationId": "new_bark_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 10,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 5,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 223,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sprout_tower",
+    "region": "johto",
+    "parentLocationId": "violet_area",
+    "name": "Sprout Tower",
+    "description": "A swaying three-story pagoda in Violet City where sages train with Bellsprout.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 19,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 92,
+        "weight": 20,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 16,
+        "weight": 1,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_32",
+    "region": "johto",
+    "parentLocationId": "violet_area",
+    "name": "Johto Route 32",
+    "description": "A long southern road from Violet City down to Union Cave and the coast.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 69,
+        "weight": 20,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 179,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 167,
+        "weight": 5,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 23,
+        "weight": 1,
+        "types": [
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruins_of_alph",
+    "region": "johto",
+    "parentLocationId": "violet_area",
+    "name": "Ruins of Alph",
+    "description": "Ancient ruins south of Violet City whose sealed chambers swarm with the mysterious Unown.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 163,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 201,
+        "weight": 20,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 206,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 202,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 235,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "union_cave",
+    "region": "johto",
+    "parentLocationId": "violet_area",
+    "name": "Union Cave",
+    "description": "A damp cave connecting Route 32 to Azalea Town, with deeper flooded levels.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 220,
+        "weight": 1,
+        "types": [
+          "ice",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_33",
+    "region": "johto",
+    "parentLocationId": "violet_area",
+    "name": "Johto Route 33",
+    "description": "A short rocky descent from Union Cave into Azalea Town.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 187,
+        "weight": 10,
+        "types": [
+          "grass",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 177,
+        "weight": 1,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_violet_area",
+    "region": "johto",
+    "parentLocationId": "violet_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 10,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 170,
+        "weight": 1,
+        "types": [
+          "water",
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "slowpoke_well",
+    "region": "johto",
+    "parentLocationId": "azalea_area",
+    "name": "Slowpoke Well",
+    "description": "A spring beneath Azalea Town where Slowpoke gather around the water.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 79,
+        "weight": 20,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 1,
+        "types": [
+          "water",
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ilex_forest",
+    "region": "johto",
+    "parentLocationId": "azalea_area",
+    "name": "Ilex Forest",
+    "description": "A protected old-growth forest west of Azalea Town, guardian of its shrine.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 10,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 167,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 190,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 214,
+        "weight": 1,
+        "types": [
+          "bug",
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_34",
+    "region": "johto",
+    "parentLocationId": "azalea_area",
+    "name": "Johto Route 34",
+    "description": "A breezy farmland road south of Goldenrod City beside the Day-Care.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 96,
+        "weight": 20,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 209,
+        "weight": 20,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 132,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 63,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 174,
+        "weight": 1,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_35",
+    "region": "johto",
+    "parentLocationId": "azalea_area",
+    "name": "Johto Route 35",
+    "description": "A grassy lane north of Goldenrod City leading to the National Park gate.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 29,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 63,
+        "weight": 20,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 187,
+        "weight": 10,
+        "types": [
+          "grass",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 132,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 193,
+        "weight": 1,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "national_park",
+    "region": "johto",
+    "parentLocationId": "azalea_area",
+    "name": "National Park",
+    "description": "A peaceful park between Goldenrod and Ecruteak that hosts the Bug-Catching Contest.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 10,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 29,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 191,
+        "weight": 5,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 204,
+        "weight": 1,
+        "types": [
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_azalea_area",
+    "region": "johto",
+    "parentLocationId": "azalea_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 5,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_36",
+    "region": "johto",
+    "parentLocationId": "ecruteak_area",
+    "name": "Johto Route 36",
+    "description": "A wide grassland road west of the Ruins of Alph leading toward Ecruteak City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 234,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 187,
+        "weight": 20,
+        "types": [
+          "grass",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 29,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 155,
+        "weight": 5,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 185,
+        "weight": 1,
+        "types": [
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_37",
+    "region": "johto",
+    "parentLocationId": "ecruteak_area",
+    "name": "Johto Route 37",
+    "description": "A short tree-lined road just south of Ecruteak City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 234,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 167,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 37,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 58,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 228,
+        "weight": 1,
+        "types": [
+          "dark",
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "burned_tower",
+    "region": "johto",
+    "parentLocationId": "ecruteak_area",
+    "name": "Burned Tower",
+    "description": "The charred ruins of a tower in Ecruteak City, said to stir the legendary beasts.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 19,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 218,
+        "weight": 20,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 109,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 92,
+        "weight": 5,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 240,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_38",
+    "region": "johto",
+    "parentLocationId": "ecruteak_area",
+    "name": "Johto Route 38",
+    "description": "An open ranch road west of Ecruteak City running past the Miltank farm.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 81,
+        "weight": 20,
+        "types": [
+          "electric",
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 128,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 241,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 209,
+        "weight": 10,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 239,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_39",
+    "region": "johto",
+    "parentLocationId": "ecruteak_area",
+    "name": "Johto Route 39",
+    "description": "A pastoral road descending from the Miltank farm toward Olivine City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 128,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 241,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 81,
+        "weight": 10,
+        "types": [
+          "electric",
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 58,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 209,
+        "weight": 5,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 52,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mt_mortar",
+    "region": "johto",
+    "parentLocationId": "olivine_area",
+    "name": "Mt. Mortar",
+    "description": "A vast multi-level cave between Ecruteak and Mahogany, where a karate master trains.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 20,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 5,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 236,
+        "weight": 1,
+        "types": [
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "whirl_islands",
+    "region": "johto",
+    "parentLocationId": "olivine_area",
+    "name": "Whirl Islands",
+    "description": "A cluster of sea caves off the western coast, lair of the guardian of the seas.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 211,
+        "weight": 1,
+        "types": [
+          "water",
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_40",
+    "region": "johto",
+    "parentLocationId": "olivine_area",
+    "name": "Johto Route 40",
+    "description": "An open sea route between Olivine City and Cianwood City crossed by swimming.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 223,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 226,
+        "weight": 1,
+        "types": [
+          "water",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_41",
+    "region": "johto",
+    "parentLocationId": "olivine_area",
+    "name": "Johto Route 41",
+    "description": "A windy stretch of open sea dotted with the Whirl Islands.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 223,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 116,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 222,
+        "weight": 1,
+        "types": [
+          "water",
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_42",
+    "region": "johto",
+    "parentLocationId": "olivine_area",
+    "name": "Johto Route 42",
+    "description": "A mountainside road east of Ecruteak winding past Mt. Mortar to Mahogany Town.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 56,
+        "weight": 20,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 179,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 161,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_olivine_area",
+    "region": "johto",
+    "parentLocationId": "olivine_area",
+    "name": "Sea",
+    "description": "A tranquil expanse of sparkling waters teeming with abundant water‑type Pokémon, where gentle waves lull travelers.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 223,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 116,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_olivine_area",
+    "region": "johto",
+    "parentLocationId": "olivine_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 120,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 223,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_43",
+    "region": "johto",
+    "parentLocationId": "mahogany_area",
+    "name": "Johto Route 43",
+    "description": "A toll road north of Mahogany Town running alongside the Lake of Rage.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 179,
+        "weight": 20,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 190,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 187,
+        "weight": 5,
+        "types": [
+          "grass",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 198,
+        "weight": 1,
+        "types": [
+          "dark",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_44",
+    "region": "johto",
+    "parentLocationId": "mahogany_area",
+    "name": "Johto Route 44",
+    "description": "A leafy road east of Mahogany Town leading to the Ice Path and Blackthorn City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 60,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 114,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 165,
+        "weight": 10,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 167,
+        "weight": 5,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 46,
+        "weight": 1,
+        "types": [
+          "bug",
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lake_of_rage",
+    "region": "johto",
+    "parentLocationId": "mahogany_area",
+    "name": "Lake of Rage",
+    "description": "A great lake north of Mahogany Town stirred by the rampage of a red Gyarados.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 5,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 183,
+        "weight": 1,
+        "types": [
+          "water",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ice_path",
+    "region": "johto",
+    "parentLocationId": "mahogany_area",
+    "name": "Ice Path",
+    "description": "A frozen cave of slick floors and falling icicles between Mahogany and Blackthorn.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 163,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 225,
+        "weight": 10,
+        "types": [
+          "ice",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 215,
+        "weight": 10,
+        "types": [
+          "dark",
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 86,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 238,
+        "weight": 1,
+        "types": [
+          "ice",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dragons_den",
+    "region": "johto",
+    "parentLocationId": "blackthorn_area",
+    "name": "Dragon's Den",
+    "description": "A sacred cavern behind Blackthorn City where the Dragon Clan raises Dratini.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 116,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 147,
+        "weight": 1,
+        "types": [
+          "dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_45",
+    "region": "johto",
+    "parentLocationId": "blackthorn_area",
+    "name": "Johto Route 45",
+    "description": "A steep mountain road south of Blackthorn City strewn with boulders.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 231,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 216,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 227,
+        "weight": 10,
+        "types": [
+          "steel",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 213,
+        "weight": 1,
+        "types": [
+          "bug",
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johto_route_46",
+    "region": "johto",
+    "parentLocationId": "blackthorn_area",
+    "name": "Johto Route 46",
+    "description": "A dry plateau road south of Dark Cave overlooking the lowlands.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 216,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 231,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 56,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 207,
+        "weight": 1,
+        "types": [
+          "ground",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tohjo_falls",
+    "region": "johto",
+    "parentLocationId": "blackthorn_area",
+    "name": "Tohjo Falls",
+    "description": "A misty waterfall cave on the border of Johto and Kanto along Route 27.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 79,
+        "weight": 20,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mt_silver",
+    "region": "johto",
+    "parentLocationId": "blackthorn_area",
+    "name": "Mt. Silver",
+    "description": "The towering, untamed peak beyond Victory Road where only the strongest Pokémon dwell.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 216,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 215,
+        "weight": 10,
+        "types": [
+          "dark",
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 200,
+        "weight": 10,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 173,
+        "weight": 5,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 246,
+        "weight": 1,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      }
+    ]
+  }
+]

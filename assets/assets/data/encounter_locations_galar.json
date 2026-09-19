@@ -1,0 +1,74 @@
+[
+  {
+    "id": "postwick_area",
+    "region": "galar",
+    "name": "Postwick Area",
+    "description": "The green southern countryside where the journey begins, from the sheep pastures of Postwick and Wedgehurst to the mist-wrapped Slumbering Weald.",
+    "mapSprite": "assets/maps/galar.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "wild_area",
+    "region": "galar",
+    "name": "Wild Area",
+    "description": "The vast open heartland of Galar, a sprawl of rolling fields, riverbanks, dusty basins and wind-swept lakes where almost anything can appear.",
+    "mapSprite": "assets/maps/galar.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "motostoke_area",
+    "region": "galar",
+    "name": "Motostoke Area",
+    "description": "The soot-stained industrial belt around Motostoke, climbing from the steam-lit streets down into the coal seams of the Galar Mine.",
+    "mapSprite": "assets/maps/galar.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "turffield_area",
+    "region": "galar",
+    "name": "Turffield Area",
+    "description": "The farmland and geoglyph hills of Turffield running east to the harbour town of Hulbury and its seafood-rich coast.",
+    "mapSprite": "assets/maps/galar.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "hammerlocke_area",
+    "region": "galar",
+    "name": "Hammerlocke Area",
+    "description": "The stone-walled dragon city of Hammerlocke and the rugged pass beyond it toward Stow-on-Side, cut through by Galar Mine No. 2.",
+    "mapSprite": "assets/maps/galar.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "ballonlea_area",
+    "region": "galar",
+    "name": "Ballonlea Area",
+    "description": "The hushed woodland south of Stow-on-Side, where the glowing fungi of Glimwood Tangle light the road to Ballonlea.",
+    "mapSprite": "assets/maps/galar.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "circhester_area",
+    "region": "galar",
+    "name": "Circhester Area",
+    "description": "The snowbound spa town of Circhester, its icy mountain approach along Steamdrift Way, and the cold bay below.",
+    "mapSprite": "assets/maps/galar.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "wyndon_area",
+    "region": "galar",
+    "name": "Wyndon Area",
+    "description": "The final stretch north past Spikemuth's back alleys and over the frozen highlands into the capital, Wyndon.",
+    "mapSprite": "assets/maps/galar.png",
+    "mapBackground": "",
+    "encounters": []
+  }
+]

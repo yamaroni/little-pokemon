@@ -1,0 +1,519 @@
+[
+  {
+    "locationId": "new_bark_area",
+    "locationName": "New Bark Area",
+    "trainers": [
+      {
+        "name": "Earl",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 500,
+        "team": [
+          {
+            "id": 161,
+            "name": "sentret"
+          }
+        ]
+      },
+      {
+        "name": "Fiona",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1000,
+        "team": [
+          {
+            "id": 152,
+            "name": "chikorita"
+          },
+          {
+            "id": 175,
+            "name": "togepi"
+          }
+        ]
+      },
+      {
+        "name": "Celeste",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 152,
+            "name": "chikorita"
+          },
+          {
+            "id": 155,
+            "name": "cyndaquil"
+          },
+          {
+            "id": 158,
+            "name": "totodile"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "violet_area",
+    "locationName": "Violet Area",
+    "trainers": [
+      {
+        "name": "Kevin",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1000,
+        "team": [
+          {
+            "id": 163,
+            "name": "hoothoot"
+          },
+          {
+            "id": 177,
+            "name": "natu"
+          }
+        ]
+      },
+      {
+        "name": "Lara",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 175,
+            "name": "togepi"
+          },
+          {
+            "id": 165,
+            "name": "ledyba"
+          },
+          {
+            "id": 177,
+            "name": "natu"
+          }
+        ]
+      },
+      {
+        "name": "Portia",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 164,
+            "name": "noctowl"
+          },
+          {
+            "id": 177,
+            "name": "natu"
+          },
+          {
+            "id": 42,
+            "name": "golbat"
+          },
+          {
+            "id": 188,
+            "name": "skiploom"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "azalea_area",
+    "locationName": "Azalea Area",
+    "trainers": [
+      {
+        "name": "Chad",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 166,
+            "name": "ledian"
+          },
+          {
+            "id": 193,
+            "name": "yanma"
+          },
+          {
+            "id": 168,
+            "name": "ariados"
+          }
+        ]
+      },
+      {
+        "name": "Wes",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 123,
+            "name": "scyther"
+          },
+          {
+            "id": 204,
+            "name": "pineco"
+          },
+          {
+            "id": 214,
+            "name": "heracross"
+          }
+        ]
+      },
+      {
+        "name": "Polly",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 214,
+            "name": "heracross"
+          },
+          {
+            "id": 123,
+            "name": "scyther"
+          },
+          {
+            "id": 166,
+            "name": "ledian"
+          },
+          {
+            "id": 188,
+            "name": "skiploom"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "ecruteak_area",
+    "locationName": "Ecruteak Area",
+    "trainers": [
+      {
+        "name": "Victor",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 198,
+            "name": "murkrow"
+          },
+          {
+            "id": 200,
+            "name": "misdreavus"
+          },
+          {
+            "id": 228,
+            "name": "houndour"
+          }
+        ]
+      },
+      {
+        "name": "Duncan",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 200,
+            "name": "misdreavus"
+          },
+          {
+            "id": 229,
+            "name": "houndoom"
+          },
+          {
+            "id": 198,
+            "name": "murkrow"
+          },
+          {
+            "id": 197,
+            "name": "umbreon"
+          }
+        ]
+      },
+      {
+        "name": "Yvonne",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2400,
+        "team": [
+          {
+            "id": 229,
+            "name": "houndoom"
+          },
+          {
+            "id": 200,
+            "name": "misdreavus"
+          },
+          {
+            "id": 197,
+            "name": "umbreon"
+          },
+          {
+            "id": 196,
+            "name": "espeon"
+          },
+          {
+            "id": 199,
+            "name": "slowking"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "olivine_area",
+    "locationName": "Olivine Area",
+    "trainers": [
+      {
+        "name": "Hector",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 214,
+            "name": "heracross"
+          },
+          {
+            "id": 237,
+            "name": "hitmontop"
+          },
+          {
+            "id": 212,
+            "name": "scizor"
+          }
+        ]
+      },
+      {
+        "name": "Delia",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 117,
+            "name": "seadra"
+          },
+          {
+            "id": 226,
+            "name": "mantine"
+          },
+          {
+            "id": 222,
+            "name": "corsola"
+          },
+          {
+            "id": 160,
+            "name": "feraligatr"
+          }
+        ]
+      },
+      {
+        "name": "Selena",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2400,
+        "team": [
+          {
+            "id": 214,
+            "name": "heracross"
+          },
+          {
+            "id": 230,
+            "name": "kingdra"
+          },
+          {
+            "id": 227,
+            "name": "skarmory"
+          },
+          {
+            "id": 208,
+            "name": "steelix"
+          },
+          {
+            "id": 160,
+            "name": "feraligatr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "mahogany_area",
+    "locationName": "Mahogany Area",
+    "trainers": [
+      {
+        "name": "Erik",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 221,
+            "name": "piloswine"
+          },
+          {
+            "id": 225,
+            "name": "delibird"
+          },
+          {
+            "id": 215,
+            "name": "sneasel"
+          },
+          {
+            "id": 234,
+            "name": "stantler"
+          }
+        ]
+      },
+      {
+        "name": "Bjorn",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2400,
+        "team": [
+          {
+            "id": 221,
+            "name": "piloswine"
+          },
+          {
+            "id": 215,
+            "name": "sneasel"
+          },
+          {
+            "id": 225,
+            "name": "delibird"
+          },
+          {
+            "id": 234,
+            "name": "stantler"
+          },
+          {
+            "id": 217,
+            "name": "ursaring"
+          }
+        ]
+      },
+      {
+        "name": "Ingrid",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2400,
+        "team": [
+          {
+            "id": 221,
+            "name": "piloswine"
+          },
+          {
+            "id": 215,
+            "name": "sneasel"
+          },
+          {
+            "id": 184,
+            "name": "azumarill"
+          },
+          {
+            "id": 199,
+            "name": "slowking"
+          },
+          {
+            "id": 217,
+            "name": "ursaring"
+          },
+          {
+            "id": 225,
+            "name": "delibird"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "blackthorn_area",
+    "locationName": "Blackthorn Area",
+    "trainers": [
+      {
+        "name": "Jasper",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2400,
+        "team": [
+          {
+            "id": 214,
+            "name": "heracross"
+          },
+          {
+            "id": 212,
+            "name": "scizor"
+          },
+          {
+            "id": 208,
+            "name": "steelix"
+          },
+          {
+            "id": 205,
+            "name": "forretress"
+          },
+          {
+            "id": 227,
+            "name": "skarmory"
+          },
+          {
+            "id": 237,
+            "name": "hitmontop"
+          }
+        ]
+      },
+      {
+        "name": "Celia",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2400,
+        "team": [
+          {
+            "id": 196,
+            "name": "espeon"
+          },
+          {
+            "id": 197,
+            "name": "umbreon"
+          },
+          {
+            "id": 229,
+            "name": "houndoom"
+          },
+          {
+            "id": 198,
+            "name": "murkrow"
+          },
+          {
+            "id": 203,
+            "name": "girafarig"
+          },
+          {
+            "id": 234,
+            "name": "stantler"
+          }
+        ]
+      },
+      {
+        "name": "Damien",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2400,
+        "team": [
+          {
+            "id": 230,
+            "name": "kingdra"
+          },
+          {
+            "id": 248,
+            "name": "tyranitar"
+          },
+          {
+            "id": 212,
+            "name": "scizor"
+          },
+          {
+            "id": 214,
+            "name": "heracross"
+          },
+          {
+            "id": 169,
+            "name": "crobat"
+          },
+          {
+            "id": 160,
+            "name": "feraligatr"
+          }
+        ]
+      }
+    ]
+  }
+]

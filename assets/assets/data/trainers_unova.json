@@ -1,0 +1,534 @@
+[
+  {
+    "locationId": "nuvema_area",
+    "locationName": "Nuvema Area",
+    "trainers": [
+      {
+        "name": "Ben",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1000,
+        "team": [
+          {
+            "id": 504,
+            "name": "patrat"
+          },
+          {
+            "id": 506,
+            "name": "lillipup"
+          }
+        ]
+      },
+      {
+        "name": "Tina",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 509,
+            "name": "purrloin"
+          },
+          {
+            "id": 519,
+            "name": "pidove"
+          },
+          {
+            "id": 511,
+            "name": "pansage"
+          }
+        ]
+      },
+      {
+        "name": "Cheren",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 510,
+            "name": "liepard"
+          },
+          {
+            "id": 507,
+            "name": "herdier"
+          },
+          {
+            "id": 520,
+            "name": "tranquill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "nacrene_area",
+    "locationName": "Nacrene Area",
+    "trainers": [
+      {
+        "name": "Dex",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1000,
+        "team": [
+          {
+            "id": 540,
+            "name": "sewaddle"
+          },
+          {
+            "id": 543,
+            "name": "venipede"
+          }
+        ]
+      },
+      {
+        "name": "Rina",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 532,
+            "name": "timburr"
+          },
+          {
+            "id": 538,
+            "name": "throh"
+          },
+          {
+            "id": 539,
+            "name": "sawk"
+          }
+        ]
+      },
+      {
+        "name": "Bianca",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 541,
+            "name": "swadloon"
+          },
+          {
+            "id": 544,
+            "name": "whirlipede"
+          },
+          {
+            "id": 512,
+            "name": "simisage"
+          },
+          {
+            "id": 516,
+            "name": "simipour"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "castelia_area",
+    "locationName": "Castelia Area",
+    "trainers": [
+      {
+        "name": "Otto",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 552,
+            "name": "krokorok"
+          },
+          {
+            "id": 554,
+            "name": "darumaka"
+          },
+          {
+            "id": 557,
+            "name": "dwebble"
+          }
+        ]
+      },
+      {
+        "name": "Nadia",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 560,
+            "name": "scrafty"
+          },
+          {
+            "id": 561,
+            "name": "sigilyph"
+          },
+          {
+            "id": 553,
+            "name": "krookodile"
+          }
+        ]
+      },
+      {
+        "name": "Cyrus",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 569,
+            "name": "garbodor"
+          },
+          {
+            "id": 573,
+            "name": "cinccino"
+          },
+          {
+            "id": 510,
+            "name": "liepard"
+          },
+          {
+            "id": 552,
+            "name": "krokorok"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "nimbasa_area",
+    "locationName": "Nimbasa Area",
+    "trainers": [
+      {
+        "name": "Lila",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 575,
+            "name": "gothorita"
+          },
+          {
+            "id": 578,
+            "name": "duosion"
+          },
+          {
+            "id": 573,
+            "name": "cinccino"
+          }
+        ]
+      },
+      {
+        "name": "Marlon",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 523,
+            "name": "zebstrika"
+          },
+          {
+            "id": 604,
+            "name": "eelektross"
+          },
+          {
+            "id": 596,
+            "name": "galvantula"
+          }
+        ]
+      },
+      {
+        "name": "Gus",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 520,
+            "name": "tranquill"
+          },
+          {
+            "id": 587,
+            "name": "emolga"
+          },
+          {
+            "id": 604,
+            "name": "eelektross"
+          },
+          {
+            "id": 523,
+            "name": "zebstrika"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "driftveil_area",
+    "locationName": "Driftveil Area",
+    "trainers": [
+      {
+        "name": "Bruno",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 525,
+            "name": "boldore"
+          },
+          {
+            "id": 533,
+            "name": "gurdurr"
+          },
+          {
+            "id": 526,
+            "name": "gigalith"
+          }
+        ]
+      },
+      {
+        "name": "Iona",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 586,
+            "name": "sawsbuck"
+          },
+          {
+            "id": 537,
+            "name": "seismitoad"
+          },
+          {
+            "id": 600,
+            "name": "klang"
+          }
+        ]
+      },
+      {
+        "name": "Fennel",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 596,
+            "name": "galvantula"
+          },
+          {
+            "id": 603,
+            "name": "eelektrik"
+          },
+          {
+            "id": 583,
+            "name": "vanillish"
+          },
+          {
+            "id": 597,
+            "name": "ferroseed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "mistralton_area",
+    "locationName": "Mistralton Area",
+    "trainers": [
+      {
+        "name": "Skyler",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 521,
+            "name": "unfezant"
+          },
+          {
+            "id": 581,
+            "name": "swanna"
+          },
+          {
+            "id": 561,
+            "name": "sigilyph"
+          }
+        ]
+      },
+      {
+        "name": "Vera",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 608,
+            "name": "lampent"
+          },
+          {
+            "id": 606,
+            "name": "beheeyem"
+          },
+          {
+            "id": 631,
+            "name": "heatmor"
+          }
+        ]
+      },
+      {
+        "name": "Marco",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 526,
+            "name": "gigalith"
+          },
+          {
+            "id": 534,
+            "name": "conkeldurr"
+          },
+          {
+            "id": 632,
+            "name": "durant"
+          },
+          {
+            "id": 614,
+            "name": "beartic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "icirrus_area",
+    "locationName": "Icirrus Area",
+    "trainers": [
+      {
+        "name": "Cole",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 537,
+            "name": "seismitoad"
+          },
+          {
+            "id": 594,
+            "name": "alomomola"
+          },
+          {
+            "id": 581,
+            "name": "swanna"
+          }
+        ]
+      },
+      {
+        "name": "Naoki",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 584,
+            "name": "vanilluxe"
+          },
+          {
+            "id": 615,
+            "name": "cryogonal"
+          },
+          {
+            "id": 623,
+            "name": "golurk"
+          }
+        ]
+      },
+      {
+        "name": "Willa",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 602,
+            "name": "tynamo"
+          },
+          {
+            "id": 617,
+            "name": "accelgor"
+          },
+          {
+            "id": 589,
+            "name": "escavalier"
+          },
+          {
+            "id": 542,
+            "name": "leavanny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "opelucid_area",
+    "locationName": "Opelucid Area",
+    "trainers": [
+      {
+        "name": "Kaito",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          {
+            "id": 611,
+            "name": "fraxure"
+          },
+          {
+            "id": 634,
+            "name": "zweilous"
+          },
+          {
+            "id": 625,
+            "name": "bisharp"
+          }
+        ]
+      },
+      {
+        "name": "Hana",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          {
+            "id": 621,
+            "name": "druddigon"
+          },
+          {
+            "id": 630,
+            "name": "mandibuzz"
+          },
+          {
+            "id": 628,
+            "name": "braviary"
+          },
+          {
+            "id": 552,
+            "name": "krokorok"
+          }
+        ]
+      },
+      {
+        "name": "Reo",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2400,
+        "team": [
+          {
+            "id": 610,
+            "name": "axew"
+          },
+          {
+            "id": 611,
+            "name": "fraxure"
+          },
+          {
+            "id": 621,
+            "name": "druddigon"
+          },
+          {
+            "id": 634,
+            "name": "zweilous"
+          },
+          {
+            "id": 623,
+            "name": "golurk"
+          }
+        ]
+      }
+    ]
+  }
+]

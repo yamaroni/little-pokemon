@@ -1,0 +1,74 @@
+[
+  {
+    "id": "nuvema_area",
+    "region": "unova",
+    "name": "Nuvema Area",
+    "description": "The green southern start of Unova around Nuvema Town and Accumula, spanning the first routes, the Dreamyard, and Striaton City.",
+    "mapSprite": "assets/maps/unova.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "nacrene_area",
+    "region": "unova",
+    "name": "Nacrene Area",
+    "description": "The wooded west around Nacrene City, home to the sprawling Pinwheel Forest and the dark Wellspring Cave.",
+    "mapSprite": "assets/maps/unova.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "castelia_area",
+    "region": "unova",
+    "name": "Castelia Area",
+    "description": "The bustling metropolis of Castelia City and the parched Desert Resort that stretches beyond Route 4.",
+    "mapSprite": "assets/maps/unova.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "nimbasa_area",
+    "region": "unova",
+    "name": "Nimbasa Area",
+    "description": "The neon amusement city of Nimbasa, Route 5, and the long Driftveil Drawbridge spanning the bay.",
+    "mapSprite": "assets/maps/unova.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "driftveil_area",
+    "region": "unova",
+    "name": "Driftveil Area",
+    "description": "The rugged market port of Driftveil, the electric Chargestone Cave, and the frozen Cold Storage.",
+    "mapSprite": "assets/maps/unova.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "mistralton_area",
+    "region": "unova",
+    "name": "Mistralton Area",
+    "description": "The windswept runway town of Mistralton, Route 7, the towering Celestial Tower, and Twist Mountain.",
+    "mapSprite": "assets/maps/unova.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "icirrus_area",
+    "region": "unova",
+    "name": "Icirrus Area",
+    "description": "The snowbound north around Icirrus City, the boggy Moor of Icirrus, and the ancient Dragonspiral Tower.",
+    "mapSprite": "assets/maps/unova.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "opelucid_area",
+    "region": "unova",
+    "name": "Opelucid Area",
+    "description": "The dragon-tamers' city of Opelucid, the eastern routes, and the winding climb of Victory Road.",
+    "mapSprite": "assets/maps/unova.png",
+    "mapBackground": "",
+    "encounters": []
+  }
+]

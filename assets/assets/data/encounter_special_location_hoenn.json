@@ -1,0 +1,1444 @@
+[
+  {
+    "id": "hoenn_route_101",
+    "region": "hoenn",
+    "parentLocationId": "littleroot_area",
+    "name": "Hoenn Route 101",
+    "description": "A short grassy path between Littleroot and Oldale Town where new trainers take their first steps.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 261,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 265,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 270,
+        "weight": 10,
+        "types": [
+          "water",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 276,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 280,
+        "weight": 1,
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoenn_route_102",
+    "region": "hoenn",
+    "parentLocationId": "littleroot_area",
+    "name": "Hoenn Route 102",
+    "description": "A river-crossed route west of Oldale Town dotted with tall grass and quiet ponds.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 270,
+        "weight": 20,
+        "types": [
+          "water",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 273,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 261,
+        "weight": 10,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 265,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 258,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoenn_route_103",
+    "region": "hoenn",
+    "parentLocationId": "littleroot_area",
+    "name": "Hoenn Route 103",
+    "description": "A breezy seaside route north of Oldale Town, a favourite training ground by the shore.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 276,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 261,
+        "weight": 10,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 10,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 270,
+        "weight": 5,
+        "types": [
+          "water",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 298,
+        "weight": 1,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "petalburg_woods",
+    "region": "hoenn",
+    "parentLocationId": "littleroot_area",
+    "name": "Petalburg Woods",
+    "description": "A dim, humid forest north of Petalburg City alive with the buzz of Bug Pokémon.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 265,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 285,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 287,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 290,
+        "weight": 10,
+        "types": [
+          "bug",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 263,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 252,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoenn_route_104",
+    "region": "hoenn",
+    "parentLocationId": "rustboro_area",
+    "name": "Hoenn Route 104",
+    "description": "A long coastal route linking Petalburg Woods to Rustboro City, with flower beds and a sandy beach.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 276,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 270,
+        "weight": 10,
+        "types": [
+          "water",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 265,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 283,
+        "weight": 1,
+        "types": [
+          "bug",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoenn_route_116",
+    "region": "hoenn",
+    "parentLocationId": "rustboro_area",
+    "name": "Hoenn Route 116",
+    "description": "A tree-lined route east of Rustboro City leading to the entrance of Rusturf Tunnel.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 293,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 290,
+        "weight": 10,
+        "types": [
+          "bug",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 276,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 261,
+        "weight": 5,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 300,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rusturf_tunnel",
+    "region": "hoenn",
+    "parentLocationId": "rustboro_area",
+    "name": "Rusturf Tunnel",
+    "description": "An unfinished tunnel boring through the mountains between Rustboro and Verdanturf.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 293,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 296,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 290,
+        "weight": 5,
+        "types": [
+          "bug",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 227,
+        "weight": 1,
+        "types": [
+          "steel",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meteor_falls",
+    "region": "hoenn",
+    "parentLocationId": "rustboro_area",
+    "name": "Meteor Falls",
+    "description": "A vast waterfall cavern in northwest Hoenn lit by a fallen star, haunt of cosmic Pokémon.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 337,
+        "weight": 20,
+        "types": [
+          "rock",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 338,
+        "weight": 10,
+        "types": [
+          "rock",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 339,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 374,
+        "weight": 1,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "granite_cave",
+    "region": "hoenn",
+    "parentLocationId": "dewford_area",
+    "name": "Granite Cave",
+    "description": "A many-layered cavern on Dewford Island where rare ore and shy Pokémon hide in the dark.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 296,
+        "weight": 20,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 304,
+        "weight": 10,
+        "types": [
+          "steel",
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 303,
+        "weight": 10,
+        "types": [
+          "steel",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 299,
+        "weight": 5,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 302,
+        "weight": 1,
+        "types": [
+          "dark",
+          "ghost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_dewford_area",
+    "region": "hoenn",
+    "parentLocationId": "dewford_area",
+    "name": "Dewford Sea",
+    "description": "The open waters around Dewford Island, churning with hardy aquatic Pokémon.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 320,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 270,
+        "weight": 10,
+        "types": [
+          "water",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 318,
+        "weight": 10,
+        "types": [
+          "water",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 370,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 369,
+        "weight": 1,
+        "types": [
+          "water",
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoenn_route_110",
+    "region": "hoenn",
+    "parentLocationId": "mauville_area",
+    "name": "Hoenn Route 110",
+    "description": "A seaside cycling road between Slateport and Mauville, flanked by tall grass and the trick house.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 309,
+        "weight": 20,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 311,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 316,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 5,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 313,
+        "weight": 1,
+        "types": [
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoenn_route_117",
+    "region": "hoenn",
+    "parentLocationId": "mauville_area",
+    "name": "Hoenn Route 117",
+    "description": "A gentle meadow route between Mauville and Verdanturf, popular with Pokémon breeders.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 20,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 285,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 315,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 360,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 314,
+        "weight": 1,
+        "types": [
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "new_mauville",
+    "region": "hoenn",
+    "parentLocationId": "mauville_area",
+    "name": "New Mauville",
+    "description": "An abandoned underground power plant humming with restless Electric Pokémon.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 100,
+        "weight": 20,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 81,
+        "weight": 20,
+        "types": [
+          "electric",
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 309,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 311,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 316,
+        "weight": 5,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 312,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_mauville_area",
+    "region": "hoenn",
+    "parentLocationId": "mauville_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 339,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 341,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 318,
+        "weight": 5,
+        "types": [
+          "water",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 349,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fiery_path",
+    "region": "hoenn",
+    "parentLocationId": "lavaridge_area",
+    "name": "Fiery Path",
+    "description": "A scorching tunnel through the base of Mt. Chimney, thick with steam and cinders.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 322,
+        "weight": 20,
+        "types": [
+          "fire",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 88,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 109,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 296,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 324,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mt_chimney",
+    "region": "hoenn",
+    "parentLocationId": "lavaridge_area",
+    "name": "Mt. Chimney",
+    "description": "The smoking summit of Hoenn's great volcano, reached by the Jagged Pass and the cable car.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 322,
+        "weight": 20,
+        "types": [
+          "fire",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 20,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 290,
+        "weight": 10,
+        "types": [
+          "bug",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 328,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 343,
+        "weight": 5,
+        "types": [
+          "ground",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 255,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jagged_pass",
+    "region": "hoenn",
+    "parentLocationId": "lavaridge_area",
+    "name": "Jagged Pass",
+    "description": "A steep, ash-strewn slope winding down from Mt. Chimney toward Lavaridge Town.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 322,
+        "weight": 20,
+        "types": [
+          "fire",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 307,
+        "weight": 20,
+        "types": [
+          "fighting",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 333,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 325,
+        "weight": 1,
+        "types": [
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "route_111_desert",
+    "region": "hoenn",
+    "parentLocationId": "lavaridge_area",
+    "name": "Route 111 Desert",
+    "description": "A wind-scoured sandstorm desert in central Hoenn where hardy ground-dwellers and ancient fossils lie buried.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 328,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 331,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 327,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 343,
+        "weight": 10,
+        "types": [
+          "ground",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 345,
+        "weight": 1,
+        "types": [
+          "rock",
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoenn_route_119",
+    "region": "hoenn",
+    "parentLocationId": "fortree_area",
+    "name": "Hoenn Route 119",
+    "description": "A rain-soaked jungle route of tall grass and rivers leading up to Fortree City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 285,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 287,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 357,
+        "weight": 10,
+        "types": [
+          "grass",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 333,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 351,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoenn_route_120",
+    "region": "hoenn",
+    "parentLocationId": "fortree_area",
+    "name": "Hoenn Route 120",
+    "description": "A misty grassland east of Fortree City crossed by ancient bridges and hidden ponds.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 261,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 315,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 353,
+        "weight": 10,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 355,
+        "weight": 5,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 359,
+        "weight": 1,
+        "types": [
+          "dark"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoenn_route_123",
+    "region": "hoenn",
+    "parentLocationId": "fortree_area",
+    "name": "Hoenn Route 123",
+    "description": "A terraced flower-farm route running along the south coast east of Mauville.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 276,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 336,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 335,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 315,
+        "weight": 5,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 352,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_mossdeep_area",
+    "region": "hoenn",
+    "parentLocationId": "mossdeep_area",
+    "name": "Mossdeep Sea",
+    "description": "The deep eastern waters around Mossdeep City, home to large schools of sea Pokémon.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 320,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 318,
+        "weight": 10,
+        "types": [
+          "water",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 370,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 366,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shoal_cave",
+    "region": "hoenn",
+    "parentLocationId": "mossdeep_area",
+    "name": "Shoal Cave",
+    "description": "A tidal cavern near Mossdeep whose flooded halls shift with the rising and falling sea.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 363,
+        "weight": 20,
+        "types": [
+          "ice",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 318,
+        "weight": 10,
+        "types": [
+          "water",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 361,
+        "weight": 1,
+        "types": [
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mt_pyre",
+    "region": "hoenn",
+    "parentLocationId": "mossdeep_area",
+    "name": "Mt. Pyre",
+    "description": "A solemn seaside mountain where trainers lay departed Pokémon to rest, thick with ghostly presences.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 353,
+        "weight": 20,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 355,
+        "weight": 20,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 37,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 307,
+        "weight": 5,
+        "types": [
+          "fighting",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 358,
+        "weight": 1,
+        "types": [
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_sootopolis_area",
+    "region": "hoenn",
+    "parentLocationId": "sootopolis_area",
+    "name": "Ever Grande Sea",
+    "description": "The vast open ocean ringing Sootopolis and Ever Grande City, where only seasoned trainers venture.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 320,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 339,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 370,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 366,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 347,
+        "weight": 1,
+        "types": [
+          "rock",
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sky_pillar",
+    "region": "hoenn",
+    "parentLocationId": "sootopolis_area",
+    "name": "Sky Pillar",
+    "description": "A crumbling ancient tower rising above the eastern sea, said to be where Rayquaza slumbers.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 353,
+        "weight": 20,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 355,
+        "weight": 10,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 343,
+        "weight": 10,
+        "types": [
+          "ground",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 333,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 371,
+        "weight": 1,
+        "types": [
+          "dragon"
+        ]
+      }
+    ]
+  }
+]

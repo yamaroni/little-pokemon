@@ -1,0 +1,652 @@
+[
+  {
+    "locationId": "galar_elite_marnie",
+    "locationName": "Wyndon Stadium — Marnie",
+    "isChampion": false,
+    "leader": {
+      "name": "Marnie",
+      "title": "Champion Cup — Dark",
+      "imageUrl": "assets/sprites/trainers/avatar/marnie.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 510,
+          "name": "Liepard",
+          "ability": "prankster",
+          "nature": "jolly",
+          "moves": [
+            "knock-off",
+            "throat-chop",
+            "play-rough",
+            "u-turn"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 560,
+          "name": "Scrafty",
+          "ability": "shed-skin",
+          "nature": "impish",
+          "moves": [
+            "drain-punch",
+            "knock-off",
+            "bulk-up",
+            "ice-punch"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 452,
+          "name": "Drapion",
+          "ability": "sniper",
+          "nature": "adamant",
+          "moves": [
+            "cross-poison",
+            "knock-off",
+            "earthquake",
+            "x-scissor"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 630,
+          "name": "Mandibuzz",
+          "ability": "overcoat",
+          "nature": "bold",
+          "moves": [
+            "foul-play",
+            "roost",
+            "toxic",
+            "knock-off"
+          ],
+          "held_item": "rocky-helmet",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 877,
+          "name": "Morpeko",
+          "ability": "hunger-switch",
+          "nature": "jolly",
+          "moves": [
+            "aura-wheel",
+            "crunch",
+            "seed-bomb",
+            "thunder-wave"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 861,
+          "name": "Grimmsnarl",
+          "ability": "prankster",
+          "nature": "adamant",
+          "moves": [
+            "spirit-break",
+            "false-surrender",
+            "sucker-punch",
+            "thunder-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          },
+          "dynamax": true
+        }
+      ],
+      "win_messages": [
+        "Sorry, but Spikemuth doesn't lose twice in a row.",
+        "You're strong. Just not strong enough for me."
+      ],
+      "lose_messages": [
+        "...You're proper strong. I can see why they cheer for you.",
+        "Go on then. Take the Cup for Galar."
+      ]
+    }
+  },
+  {
+    "locationId": "galar_elite_allister",
+    "locationName": "Wyndon Stadium — Allister",
+    "isChampion": false,
+    "leader": {
+      "name": "Allister",
+      "title": "Champion Cup — Ghost",
+      "imageUrl": "assets/sprites/trainers/avatar/allister.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 778,
+          "name": "Mimikyu",
+          "ability": "disguise",
+          "nature": "jolly",
+          "moves": [
+            "play-rough",
+            "shadow-claw",
+            "shadow-sneak",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 864,
+          "name": "Cursola",
+          "ability": "perish-body",
+          "nature": "modest",
+          "moves": [
+            "shadow-ball",
+            "ice-beam",
+            "power-gem",
+            "will-o-wisp"
+          ],
+          "held_item": "wise-glasses",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 855,
+          "name": "Polteageist",
+          "ability": "cursed-body",
+          "nature": "timid",
+          "moves": [
+            "shell-smash",
+            "shadow-ball",
+            "giga-drain",
+            "stored-power"
+          ],
+          "held_item": "white-herb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 867,
+          "name": "Runerigus",
+          "ability": "wandering-spirit",
+          "nature": "impish",
+          "moves": [
+            "earthquake",
+            "shadow-claw",
+            "will-o-wisp",
+            "body-press"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 477,
+          "name": "Dusknoir",
+          "ability": "pressure",
+          "nature": "adamant",
+          "moves": [
+            "shadow-punch",
+            "earthquake",
+            "ice-punch",
+            "will-o-wisp"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 94,
+          "name": "Gengar",
+          "ability": "cursed-body",
+          "nature": "timid",
+          "moves": [
+            "shadow-ball",
+            "sludge-wave",
+            "focus-blast",
+            "dazzling-gleam"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          },
+          "dynamax": true
+        }
+      ],
+      "win_messages": [
+        "...The spirits were not finished with you.",
+        "You should not have looked behind my mask."
+      ],
+      "lose_messages": [
+        "...You saw through the fear. Well done.",
+        "The spirits are pleased with you. Go on."
+      ]
+    }
+  },
+  {
+    "locationId": "galar_elite_melony",
+    "locationName": "Wyndon Stadium — Melony",
+    "isChampion": false,
+    "leader": {
+      "name": "Melony",
+      "title": "Champion Cup — Ice",
+      "imageUrl": "assets/sprites/trainers/avatar/melony.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 460,
+          "name": "Abomasnow",
+          "ability": "snow-warning",
+          "nature": "adamant",
+          "moves": [
+            "wood-hammer",
+            "ice-punch",
+            "earthquake",
+            "ice-shard"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 873,
+          "name": "Frosmoth",
+          "ability": "ice-scales",
+          "nature": "timid",
+          "moves": [
+            "ice-beam",
+            "bug-buzz",
+            "quiver-dance",
+            "giga-drain"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 866,
+          "name": "Mr. Rime",
+          "ability": "ice-body",
+          "nature": "modest",
+          "moves": [
+            "freeze-dry",
+            "psychic",
+            "focus-blast",
+            "slack-off"
+          ],
+          "held_item": "wise-glasses",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 881,
+          "name": "Arctozolt",
+          "ability": "volt-absorb",
+          "nature": "adamant",
+          "moves": [
+            "bolt-beak",
+            "icicle-crash",
+            "low-kick",
+            "thrash"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 461,
+          "name": "Weavile",
+          "ability": "pressure",
+          "nature": "jolly",
+          "moves": [
+            "triple-axel",
+            "knock-off",
+            "ice-shard",
+            "low-kick"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 131,
+          "name": "Lapras",
+          "ability": "water-absorb",
+          "nature": "modest",
+          "moves": [
+            "freeze-dry",
+            "surf",
+            "thunderbolt",
+            "psychic"
+          ],
+          "held_item": "assault-vest",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          },
+          "dynamax": true
+        }
+      ],
+      "win_messages": [
+        "Aww, did the cold get to you? Mum knows best, dear.",
+        "You'll catch your breath eventually. My ice won't melt."
+      ],
+      "lose_messages": [
+        "My, my! You melted right through me.",
+        "Go on, love. The Champion is waiting for you."
+      ]
+    }
+  },
+  {
+    "locationId": "galar_elite_hop",
+    "locationName": "Wyndon Stadium — Hop",
+    "isChampion": false,
+    "leader": {
+      "name": "Hop",
+      "title": "Champion Cup — Rival",
+      "imageUrl": "assets/sprites/trainers/avatar/hop.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 832,
+          "name": "Dubwool",
+          "ability": "fluffy",
+          "nature": "impish",
+          "moves": [
+            "body-press",
+            "double-edge",
+            "cotton-guard",
+            "wild-charge"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 823,
+          "name": "Corviknight",
+          "ability": "pressure",
+          "nature": "impish",
+          "moves": [
+            "brave-bird",
+            "body-press",
+            "roost",
+            "u-turn"
+          ],
+          "held_item": "rocky-helmet",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 836,
+          "name": "Boltund",
+          "ability": "strong-jaw",
+          "nature": "jolly",
+          "moves": [
+            "thunder-fang",
+            "crunch",
+            "psychic-fangs",
+            "play-rough"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 845,
+          "name": "Cramorant",
+          "ability": "gulp-missile",
+          "nature": "modest",
+          "moves": [
+            "surf",
+            "hurricane",
+            "ice-beam",
+            "roost"
+          ],
+          "held_item": "wise-glasses",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 143,
+          "name": "Snorlax",
+          "ability": "thick-fat",
+          "nature": "adamant",
+          "moves": [
+            "body-slam",
+            "high-horsepower",
+            "crunch",
+            "curse"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 812,
+          "name": "Rillaboom",
+          "ability": "grassy-surge",
+          "nature": "adamant",
+          "moves": [
+            "grassy-glide",
+            "wood-hammer",
+            "knock-off",
+            "superpower"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": true
+        }
+      ],
+      "win_messages": [
+        "Yes! Did you see that? I'm getting closer to my brother!",
+        "Not this time, mate! I've been training loads!"
+      ],
+      "lose_messages": [
+        "Aw, man! You're really something, you know that?",
+        "Go beat Lee for me. I know you can do it!"
+      ]
+    }
+  },
+  {
+    "locationId": "galar_champion_leon",
+    "locationName": "Wyndon Stadium — Champion Leon",
+    "isChampion": true,
+    "leader": {
+      "name": "Leon",
+      "title": "Champion",
+      "imageUrl": "assets/sprites/trainers/avatar/leon.png",
+      "prizeMoney": 10000,
+      "team": [
+        {
+          "id": 681,
+          "name": "Aegislash",
+          "ability": "stance-change",
+          "nature": "adamant",
+          "moves": [
+            "sacred-sword",
+            "iron-head",
+            "shadow-sneak",
+            "swords-dance"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 537,
+          "name": "Seismitoad",
+          "ability": "water-absorb",
+          "nature": "modest",
+          "moves": [
+            "hydro-pump",
+            "earth-power",
+            "sludge-bomb",
+            "focus-blast"
+          ],
+          "held_item": "assault-vest",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 612,
+          "name": "Haxorus",
+          "ability": "mold-breaker",
+          "nature": "jolly",
+          "moves": [
+            "outrage",
+            "earthquake",
+            "poison-jab",
+            "dragon-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 815,
+          "name": "Cinderace",
+          "ability": "blaze",
+          "nature": "jolly",
+          "moves": [
+            "pyro-ball",
+            "high-jump-kick",
+            "gunk-shot",
+            "u-turn"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 887,
+          "name": "Dragapult",
+          "ability": "infiltrator",
+          "nature": "timid",
+          "moves": [
+            "dragon-pulse",
+            "shadow-ball",
+            "flamethrower",
+            "thunderbolt"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 6,
+          "name": "Charizard",
+          "ability": "blaze",
+          "nature": "timid",
+          "moves": [
+            "flamethrower",
+            "air-slash",
+            "focus-blast",
+            "dragon-pulse"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          },
+          "dynamax": true
+        }
+      ],
+      "win_messages": [
+        "Champion time! My winning streak isn't ending today!",
+        "You've got talent — but the strongest Champion is still me!"
+      ],
+      "lose_messages": [
+        "What a battle! My unbeatable record ends here... and I'm glad it's you.",
+        "The new Champion of Galar! Let the whole stadium hear it!"
+      ]
+    }
+  }
+]

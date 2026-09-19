@@ -1,0 +1,65 @@
+{
+  "name": "Team Rocket",
+  "sprite": "assets/sprites/trainers/avatar/team_rocket_grunt_m.png",
+  "ambushChance": 25,
+  "penalty": {
+    "expLoss": 500,
+    "moneyLoss": 1500
+  },
+  "win_messages": [
+    "Heh heh heh! Team Rocket makes off with your Pokémon!",
+    "Beaten by your own Pokémon? Thanks for the donation, kid!"
+  ],
+  "lose_messages": [
+    "Gah! Fine, take your Pokémon back—this time!",
+    "Curses! Team Rocket blasts off again!"
+  ],
+  "reward": {
+    "money": 2000,
+    "items": [
+      "oran-berry",
+      "sitrus-berry",
+      "cheri-berry",
+      "chesto-berry",
+      "pecha-berry",
+      "rawst-berry",
+      "aspear-berry",
+      "persim-berry",
+      "silver-powder",
+      "hard-stone",
+      "soft-sand",
+      "miracle-seed",
+      "black-glasses",
+      "black-belt",
+      "magnet",
+      "mystic-water",
+      "sharp-beak",
+      "poison-barb",
+      "never-melt-ice",
+      "spell-tag",
+      "twisted-spoon",
+      "charcoal",
+      "dragon-fang",
+      "silk-scarf",
+      "metal-coat",
+      "normal-incense",
+      "fire-incense",
+      "water-incense",
+      "electric-incense",
+      "grass-incense",
+      "ice-incense",
+      "fighting-incense",
+      "poison-incense",
+      "ground-incense",
+      "flying-incense",
+      "psychic-incense",
+      "bug-incense",
+      "rock-incense",
+      "ghost-incense",
+      "dragon-incense",
+      "dark-incense",
+      "steel-incense",
+      "fairy-incense"
+    ]
+  }
+}

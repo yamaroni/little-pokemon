@@ -1,0 +1,647 @@
+[
+  {
+    "locationId": "sinnoh_elite_aaron",
+    "locationName": "Pok\u00e9mon League \u2014 Aaron",
+    "isChampion": false,
+    "leader": {
+      "name": "Aaron",
+      "title": "Elite Four \u2014 Bug",
+      "imageUrl": "assets/sprites/trainers/avatar/aaron.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 416,
+          "name": "Vespiquen",
+          "ability": "pressure",
+          "nature": "impish",
+          "moves": [
+            "attack-order",
+            "u-turn",
+            "roost",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 212,
+          "name": "Scizor",
+          "ability": "technician",
+          "nature": "adamant",
+          "moves": [
+            "bullet-punch",
+            "u-turn",
+            "knock-off",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 469,
+          "name": "Yanmega",
+          "ability": "tinted-lens",
+          "nature": "modest",
+          "moves": [
+            "bug-buzz",
+            "air-slash",
+            "giga-drain",
+            "substitute"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 452,
+          "name": "Drapion",
+          "ability": "battle-armor",
+          "nature": "jolly",
+          "moves": [
+            "knock-off",
+            "poison-jab",
+            "earthquake",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 637,
+          "name": "Volcarona",
+          "ability": "flame-body",
+          "nature": "timid",
+          "moves": [
+            "bug-buzz",
+            "fiery-dance",
+            "giga-drain",
+            "quiver-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 214,
+          "name": "Heracross",
+          "ability": "moxie",
+          "nature": "jolly",
+          "moves": [
+            "close-combat",
+            "megahorn",
+            "stone-edge",
+            "knock-off"
+          ],
+          "held_item": "heracronite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My beloved bug Pok\u00e9mon carried the day!",
+        "Don't underestimate the strength of Bug-types!"
+      ],
+      "lose_messages": [
+        "Ack! My bugs and I gave it our all...",
+        "You're strong! I lost, but I have no regrets."
+      ]
+    }
+  },
+  {
+    "locationId": "sinnoh_elite_bertha",
+    "locationName": "Pok\u00e9mon League \u2014 Bertha",
+    "isChampion": false,
+    "leader": {
+      "name": "Bertha",
+      "title": "Elite Four \u2014 Ground",
+      "imageUrl": "assets/sprites/trainers/avatar/bertha.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 472,
+          "name": "Gliscor",
+          "ability": "poison-heal",
+          "nature": "impish",
+          "moves": [
+            "earthquake",
+            "knock-off",
+            "toxic",
+            "roost"
+          ],
+          "held_item": "toxic-orb",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 450,
+          "name": "Hippowdon",
+          "ability": "sand-stream",
+          "nature": "impish",
+          "moves": [
+            "earthquake",
+            "stone-edge",
+            "slack-off",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 464,
+          "name": "Rhyperior",
+          "ability": "solid-rock",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "stone-edge",
+            "megahorn",
+            "ice-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 423,
+          "name": "Gastrodon",
+          "ability": "storm-drain",
+          "nature": "calm",
+          "moves": [
+            "earth-power",
+            "scald",
+            "ice-beam",
+            "recover"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 76,
+          "name": "Golem",
+          "ability": "sturdy",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "stone-edge",
+            "explosion",
+            "stealth-rock"
+          ],
+          "held_item": "custap-berry",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 530,
+          "name": "Excadrill",
+          "ability": "sand-rush",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "iron-head",
+            "rock-slide",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Hohoho! The earth swallowed your dreams, dearie.",
+        "You've a ways to go yet, youngster."
+      ],
+      "lose_messages": [
+        "Hohoho! You're a strong one, dearie.",
+        "Well now! The old lady is impressed. Move along."
+      ]
+    }
+  },
+  {
+    "locationId": "sinnoh_elite_flint",
+    "locationName": "Pok\u00e9mon League \u2014 Flint",
+    "isChampion": false,
+    "leader": {
+      "name": "Flint",
+      "title": "Elite Four \u2014 Fire",
+      "imageUrl": "assets/sprites/trainers/avatar/flint.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 392,
+          "name": "Infernape",
+          "ability": "blaze",
+          "nature": "naive",
+          "moves": [
+            "flare-blitz",
+            "close-combat",
+            "u-turn",
+            "mach-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 467,
+          "name": "Magmortar",
+          "ability": "flame-body",
+          "nature": "modest",
+          "moves": [
+            "fire-blast",
+            "thunderbolt",
+            "focus-blast",
+            "psychic"
+          ],
+          "held_item": "choice-specs",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 5,
+          "name": "Charmeleon",
+          "ability": "blaze",
+          "nature": "timid",
+          "moves": [
+            "flamethrower",
+            "dragon-pulse",
+            "focus-blast",
+            "fire-spin"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 78,
+          "name": "Rapidash",
+          "ability": "flash-fire",
+          "nature": "jolly",
+          "moves": [
+            "flare-blitz",
+            "wild-charge",
+            "megahorn",
+            "morning-sun"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 136,
+          "name": "Flareon",
+          "ability": "guts",
+          "nature": "adamant",
+          "moves": [
+            "flare-blitz",
+            "facade",
+            "quick-attack",
+            "superpower"
+          ],
+          "held_item": "toxic-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 59,
+          "name": "Arcanine",
+          "ability": "intimidate",
+          "nature": "adamant",
+          "moves": [
+            "flare-blitz",
+            "wild-charge",
+            "extreme-speed",
+            "close-combat"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My fire burned too hot for you!",
+        "You couldn't stand the heat!"
+      ],
+      "lose_messages": [
+        "Whoa! You doused my flames completely!",
+        "That was red-hot! You've got real talent."
+      ]
+    }
+  },
+  {
+    "locationId": "sinnoh_elite_lucian",
+    "locationName": "Pok\u00e9mon League \u2014 Lucian",
+    "isChampion": false,
+    "leader": {
+      "name": "Lucian",
+      "title": "Elite Four \u2014 Psychic",
+      "imageUrl": "assets/sprites/trainers/avatar/lucian.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 437,
+          "name": "Bronzong",
+          "ability": "levitate",
+          "nature": "sassy",
+          "moves": [
+            "psychic",
+            "gyro-ball",
+            "stealth-rock",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 282,
+          "name": "Gardevoir",
+          "ability": "trace",
+          "nature": "timid",
+          "moves": [
+            "psychic",
+            "moonblast",
+            "focus-blast",
+            "calm-mind"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 65,
+          "name": "Alakazam",
+          "ability": "magic-guard",
+          "nature": "timid",
+          "moves": [
+            "psychic",
+            "focus-blast",
+            "shadow-ball",
+            "nasty-plot"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 196,
+          "name": "Espeon",
+          "ability": "magic-bounce",
+          "nature": "timid",
+          "moves": [
+            "psychic",
+            "dazzling-gleam",
+            "shadow-ball",
+            "calm-mind"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 376,
+          "name": "Metagross",
+          "ability": "clear-body",
+          "nature": "adamant",
+          "moves": [
+            "meteor-mash",
+            "zen-headbutt",
+            "earthquake",
+            "bullet-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 475,
+          "name": "Gallade",
+          "ability": "steadfast",
+          "nature": "adamant",
+          "moves": [
+            "psycho-cut",
+            "close-combat",
+            "knock-off",
+            "swords-dance"
+          ],
+          "held_item": "galladite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "The final page of your story\u2014defeat.",
+        "My psychic Pok\u00e9mon read your every move."
+      ],
+      "lose_messages": [
+        "Hmm, I must return to my books. Well played.",
+        "You've written a fine chapter today. Proceed."
+      ]
+    }
+  },
+  {
+    "locationId": "sinnoh_champion_cynthia",
+    "locationName": "Pok\u00e9mon League \u2014 Champion Cynthia",
+    "isChampion": true,
+    "leader": {
+      "name": "Cynthia",
+      "title": "Champion",
+      "imageUrl": "assets/sprites/trainers/avatar/cynthia.png",
+      "prizeMoney": 10000,
+      "team": [
+        {
+          "id": 442,
+          "name": "Spiritomb",
+          "ability": "infiltrator",
+          "nature": "bold",
+          "moves": [
+            "shadow-ball",
+            "dark-pulse",
+            "will-o-wisp",
+            "pain-split"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 423,
+          "name": "Gastrodon",
+          "ability": "storm-drain",
+          "nature": "calm",
+          "moves": [
+            "earth-power",
+            "scald",
+            "ice-beam",
+            "recover"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 407,
+          "name": "Roserade",
+          "ability": "natural-cure",
+          "nature": "timid",
+          "moves": [
+            "leaf-storm",
+            "sludge-bomb",
+            "sleep-powder",
+            "giga-drain"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 448,
+          "name": "Lucario",
+          "ability": "inner-focus",
+          "nature": "adamant",
+          "moves": [
+            "close-combat",
+            "meteor-mash",
+            "extreme-speed",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 350,
+          "name": "Milotic",
+          "ability": "marvel-scale",
+          "nature": "bold",
+          "moves": [
+            "scald",
+            "ice-beam",
+            "recover",
+            "haze"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 445,
+          "name": "Garchomp",
+          "ability": "rough-skin",
+          "nature": "jolly",
+          "moves": [
+            "earthquake",
+            "outrage",
+            "stone-edge",
+            "swords-dance"
+          ],
+          "held_item": "garchompite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "There's no shame in losing to the Champion.",
+        "You must understand your Pok\u00e9mon far better to win."
+      ],
+      "lose_messages": [
+        "That was breathtaking... you truly deserve this.",
+        "You have surpassed me. Congratulations, Champion."
+      ]
+    }
+  }
+]

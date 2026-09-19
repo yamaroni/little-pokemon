@@ -1,0 +1,307 @@
+[
+  {
+    "name": "g-max-vine-lash",
+    "display_name": "G-Max Vine Lash",
+    "type": "grass",
+    "forms": ["venusaur-gmax"],
+    "power": null,
+    "effect": "Deals damage and, for four turns, hurts the target's side each turn unless it is Grass-type.",
+    "gmax_effect": { "kind": "residual", "immune_type": "grass", "turns": 4, "fraction": 6 }
+  },
+  {
+    "name": "g-max-wildfire",
+    "display_name": "G-Max Wildfire",
+    "type": "fire",
+    "forms": ["charizard-gmax"],
+    "power": null,
+    "effect": "Deals damage and, for four turns, hurts the target's side each turn unless it is Fire-type.",
+    "gmax_effect": { "kind": "residual", "immune_type": "fire", "turns": 4, "fraction": 6 }
+  },
+  {
+    "name": "g-max-cannonade",
+    "display_name": "G-Max Cannonade",
+    "type": "water",
+    "forms": ["blastoise-gmax"],
+    "power": null,
+    "effect": "Deals damage and, for four turns, hurts the target's side each turn unless it is Water-type.",
+    "gmax_effect": { "kind": "residual", "immune_type": "water", "turns": 4, "fraction": 6 }
+  },
+  {
+    "name": "g-max-volcalith",
+    "display_name": "G-Max Volcalith",
+    "type": "rock",
+    "forms": ["coalossal-gmax"],
+    "power": null,
+    "effect": "Deals damage and, for four turns, hurts the target's side each turn unless it is Rock-type.",
+    "gmax_effect": { "kind": "residual", "immune_type": "rock", "turns": 4, "fraction": 6 }
+  },
+  {
+    "name": "g-max-befuddle",
+    "display_name": "G-Max Befuddle",
+    "type": "bug",
+    "forms": ["butterfree-gmax"],
+    "power": null,
+    "effect": "Deals damage and leaves the target poisoned, paralyzed or asleep.",
+    "gmax_effect": {
+      "kind": "status-random",
+      "ailments": ["sleep", "paralysis", "poison"]
+    }
+  },
+  {
+    "name": "g-max-volt-crash",
+    "display_name": "G-Max Volt Crash",
+    "type": "electric",
+    "forms": ["pikachu-gmax"],
+    "power": null,
+    "effect": "Deals damage and paralyzes the target.",
+    "gmax_effect": { "kind": "status", "ailment": "paralysis" }
+  },
+  {
+    "name": "g-max-stun-shock",
+    "display_name": "G-Max Stun Shock",
+    "type": "electric",
+    "forms": ["toxtricity-amped-gmax", "toxtricity-low-key-gmax"],
+    "power": null,
+    "effect": "Deals damage and leaves the target poisoned or paralyzed.",
+    "gmax_effect": { "kind": "status-random", "ailments": ["paralysis", "poison"] }
+  },
+  {
+    "name": "g-max-malodor",
+    "display_name": "G-Max Malodor",
+    "type": "poison",
+    "forms": ["garbodor-gmax"],
+    "power": null,
+    "effect": "Deals damage and poisons the target.",
+    "gmax_effect": { "kind": "status", "ailment": "poison" }
+  },
+  {
+    "name": "g-max-gold-rush",
+    "display_name": "G-Max Gold Rush",
+    "type": "normal",
+    "forms": ["meowth-gmax"],
+    "power": null,
+    "effect": "Deals damage and confuses the target.",
+    "gmax_effect": { "kind": "confuse" }
+  },
+  {
+    "name": "g-max-smite",
+    "display_name": "G-Max Smite",
+    "type": "fairy",
+    "forms": ["hatterene-gmax"],
+    "power": null,
+    "effect": "Deals damage and confuses the target.",
+    "gmax_effect": { "kind": "confuse" }
+  },
+  {
+    "name": "g-max-cuddle",
+    "display_name": "G-Max Cuddle",
+    "type": "normal",
+    "forms": ["eevee-gmax"],
+    "power": null,
+    "effect": "Deals damage and infatuates the target.",
+    "gmax_effect": { "kind": "attract" }
+  },
+  {
+    "name": "g-max-meltdown",
+    "display_name": "G-Max Meltdown",
+    "type": "steel",
+    "forms": ["melmetal-gmax"],
+    "power": null,
+    "effect": "Deals damage and torments the target, so it can't use the same move twice in a row.",
+    "gmax_effect": { "kind": "torment" }
+  },
+  {
+    "name": "g-max-snooze",
+    "display_name": "G-Max Snooze",
+    "type": "dark",
+    "forms": ["grimmsnarl-gmax"],
+    "power": null,
+    "effect": "Deals damage and, half the time, makes the target drowsy so it falls asleep next turn.",
+    "gmax_effect": { "kind": "yawn", "chance": 50 }
+  },
+  {
+    "name": "g-max-foam-burst",
+    "display_name": "G-Max Foam Burst",
+    "type": "water",
+    "forms": ["kingler-gmax"],
+    "power": null,
+    "effect": "Deals damage and harshly lowers the target's Speed.",
+    "gmax_effect": { "kind": "stat-drop", "stat": "speed", "stages": -2 }
+  },
+  {
+    "name": "g-max-tartness",
+    "display_name": "G-Max Tartness",
+    "type": "grass",
+    "forms": ["flapple-gmax"],
+    "power": null,
+    "effect": "Deals damage and lowers the target's evasiveness.",
+    "gmax_effect": { "kind": "stat-drop", "stat": "evasion", "stages": -1 }
+  },
+  {
+    "name": "g-max-chi-strike",
+    "display_name": "G-Max Chi Strike",
+    "type": "fighting",
+    "forms": ["machamp-gmax"],
+    "power": null,
+    "effect": "Deals damage and raises the user's chance of landing a critical hit.",
+    "gmax_effect": { "kind": "crit-boost", "stages": 1 }
+  },
+  {
+    "name": "g-max-terror",
+    "display_name": "G-Max Terror",
+    "type": "ghost",
+    "forms": ["gengar-gmax"],
+    "power": null,
+    "effect": "Deals damage and traps the target, so it can no longer flee or switch out.",
+    "gmax_effect": { "kind": "no-escape" }
+  },
+  {
+    "name": "g-max-centiferno",
+    "display_name": "G-Max Centiferno",
+    "type": "fire",
+    "forms": ["centiskorch-gmax"],
+    "power": null,
+    "effect": "Deals damage and traps the target in flames for four to five turns.",
+    "gmax_effect": { "kind": "partial-trap" }
+  },
+  {
+    "name": "g-max-sandblast",
+    "display_name": "G-Max Sandblast",
+    "type": "ground",
+    "forms": ["sandaconda-gmax"],
+    "power": null,
+    "effect": "Deals damage and traps the target in a sandstorm for four to five turns.",
+    "gmax_effect": { "kind": "partial-trap" }
+  },
+  {
+    "name": "g-max-resonance",
+    "display_name": "G-Max Resonance",
+    "type": "ice",
+    "forms": ["lapras-gmax"],
+    "power": null,
+    "effect": "Deals damage and shields the user's side with Aurora Veil for five turns.",
+    "gmax_effect": { "kind": "aurora-veil", "turns": 5 }
+  },
+  {
+    "name": "g-max-gravitas",
+    "display_name": "G-Max Gravitas",
+    "type": "psychic",
+    "forms": ["orbeetle-gmax"],
+    "power": null,
+    "effect": "Deals damage and intensifies gravity for five turns.",
+    "gmax_effect": { "kind": "gravity", "turns": 5 }
+  },
+  {
+    "name": "g-max-stonesurge",
+    "display_name": "G-Max Stonesurge",
+    "type": "water",
+    "forms": ["drednaw-gmax"],
+    "power": null,
+    "effect": "Deals damage and scatters pointed stones around the target's side.",
+    "gmax_effect": { "kind": "hazard", "hazard": "stealth-rock" }
+  },
+  {
+    "name": "g-max-steelsurge",
+    "display_name": "G-Max Steelsurge",
+    "type": "steel",
+    "forms": ["copperajah-gmax"],
+    "power": null,
+    "effect": "Deals damage and scatters sharp steel spikes around the target's side.",
+    "gmax_effect": { "kind": "hazard", "hazard": "steelsurge" }
+  },
+  {
+    "name": "g-max-finale",
+    "display_name": "G-Max Finale",
+    "type": "fairy",
+    "forms": ["alcremie-gmax"],
+    "power": null,
+    "effect": "Deals damage and restores the user's HP.",
+    "gmax_effect": { "kind": "heal", "fraction": 6 }
+  },
+  {
+    "name": "g-max-sweetness",
+    "display_name": "G-Max Sweetness",
+    "type": "grass",
+    "forms": ["appletun-gmax"],
+    "power": null,
+    "effect": "Deals damage and cures the user's status condition.",
+    "gmax_effect": { "kind": "cure-status" }
+  },
+  {
+    "name": "g-max-replenish",
+    "display_name": "G-Max Replenish",
+    "type": "normal",
+    "forms": ["snorlax-gmax"],
+    "power": null,
+    "effect": "Deals damage and, half the time, restores a Berry the user has eaten.",
+    "gmax_effect": { "kind": "restore-berry", "chance": 50 }
+  },
+  {
+    "name": "g-max-depletion",
+    "display_name": "G-Max Depletion",
+    "type": "dragon",
+    "forms": ["duraludon-gmax"],
+    "power": null,
+    "effect": "Deals damage and drains two PP from the last move the target used.",
+    "gmax_effect": { "kind": "pp-drain", "amount": 2 }
+  },
+  {
+    "name": "g-max-wind-rage",
+    "display_name": "G-Max Wind Rage",
+    "type": "flying",
+    "forms": ["corviknight-gmax"],
+    "power": null,
+    "effect": "Deals damage and blows away the target's screens, both sides' entry hazards and the terrain.",
+    "gmax_effect": { "kind": "clear-field" }
+  },
+  {
+    "name": "g-max-drum-solo",
+    "display_name": "G-Max Drum Solo",
+    "type": "grass",
+    "forms": ["rillaboom-gmax"],
+    "power": 160,
+    "ignore_ability": true,
+    "effect": "Deals fixed 160-power damage, ignoring the target's Ability.",
+    "gmax_effect": { "kind": "none" }
+  },
+  {
+    "name": "g-max-fireball",
+    "display_name": "G-Max Fireball",
+    "type": "fire",
+    "forms": ["cinderace-gmax"],
+    "power": 160,
+    "ignore_ability": true,
+    "effect": "Deals fixed 160-power damage, ignoring the target's Ability.",
+    "gmax_effect": { "kind": "none" }
+  },
+  {
+    "name": "g-max-hydrosnipe",
+    "display_name": "G-Max Hydrosnipe",
+    "type": "water",
+    "forms": ["inteleon-gmax"],
+    "power": 160,
+    "ignore_ability": true,
+    "effect": "Deals fixed 160-power damage, ignoring the target's Ability.",
+    "gmax_effect": { "kind": "none" }
+  },
+  {
+    "name": "g-max-one-blow",
+    "display_name": "G-Max One Blow",
+    "type": "dark",
+    "forms": ["urshifu-single-strike-gmax"],
+    "power": null,
+    "bypass_protect": true,
+    "effect": "Deals damage that pierces Protect and Detect.",
+    "gmax_effect": { "kind": "none" }
+  },
+  {
+    "name": "g-max-rapid-flow",
+    "display_name": "G-Max Rapid Flow",
+    "type": "water",
+    "forms": ["urshifu-rapid-strike-gmax"],
+    "power": null,
+    "bypass_protect": true,
+    "effect": "Deals damage that pierces Protect and Detect.",
+    "gmax_effect": { "kind": "none" }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "poke-ball",
+    "name": "Poké Ball",
+    "category": "ball",
+    "cost": 200,
+    "description": "A device for catching wild Pokémon."
+  },
+  {
+    "id": "beast-ball",
+    "name": "Beast Ball",
+    "category": "ball",
+    "cost": 200,
+    "description": "A special ball that works best on Ultra Beasts."
+  },
+  {
+    "id": "master-ball",
+    "name": "Master Ball",
+    "category": "ball",
+    "cost": 200000,
+    "description": "The best Ball. It will catch any wild Pokémon without fail."
+  },
+  {
+    "id": "ether",
+    "name": "Ether",
+    "category": "medicine",
+    "cost": 1000,
+    "description": "Restores PP of all moves of one Pokémon in battle."
+  },
+  {
+    "id": "potion",
+    "name": "Potion",
+    "category": "medicine",
+    "cost": 500,
+    "description": "Heals one Pokémon by 50 HP."
+  }
+]

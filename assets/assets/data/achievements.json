@@ -1,0 +1,108 @@
+[
+  { "id": "catch_first", "counter": "pokemon_caught", "threshold": 1, "title": "Gotcha!", "description": "Catch your first Pokémon." },
+  { "id": "catch_10", "counter": "pokemon_caught", "threshold": 10, "title": "Budding Collector", "description": "Catch 10 Pokémon." },
+  { "id": "catch_50", "counter": "pokemon_caught", "threshold": 50, "title": "Seasoned Trainer", "description": "Catch 50 Pokémon." },
+  { "id": "catch_100", "counter": "pokemon_caught", "threshold": 100, "title": "Centurion Catcher", "description": "Catch 100 Pokémon." },
+  { "id": "catch_250", "counter": "pokemon_caught", "threshold": 250, "title": "Devoted Collector", "description": "Catch 250 Pokémon." },
+  { "id": "catch_500", "counter": "pokemon_caught", "threshold": 500, "title": "Master Collector", "description": "Catch 500 Pokémon." },
+  { "id": "catch_1000", "counter": "pokemon_caught", "threshold": 1000, "title": "Legendary Collector", "description": "Catch 1000 Pokémon." },
+
+  { "id": "shiny_first", "counter": "shiny_caught", "threshold": 1, "title": "Sparkle Spotter", "description": "Catch your first shiny Pokémon." },
+  { "id": "shiny_5", "counter": "shiny_caught", "threshold": 5, "title": "Shiny Hunter", "description": "Catch 5 shiny Pokémon." },
+  { "id": "shiny_25", "counter": "shiny_caught", "threshold": 25, "title": "Chromatic Legend", "description": "Catch 25 shiny Pokémon." },
+  { "id": "shiny_100", "counter": "shiny_caught", "threshold": 100, "title": "Master of Shinies", "description": "Catch 100 shiny Pokémon." },
+
+  { "id": "defeat_10", "counter": "pokemon_defeated", "threshold": 10, "title": "First Blood", "description": "Defeat 10 Pokémon in battle." },
+  { "id": "defeat_100", "counter": "pokemon_defeated", "threshold": 100, "title": "Battle-Hardened", "description": "Defeat 100 Pokémon in battle." },
+  { "id": "defeat_500", "counter": "pokemon_defeated", "threshold": 500, "title": "Warpath", "description": "Defeat 500 Pokémon in battle." },
+  { "id": "defeat_1000", "counter": "pokemon_defeated", "threshold": 1000, "title": "Unstoppable Force", "description": "Defeat 1,000 Pokémon in battle." },
+
+  { "id": "shiny_defeat_1", "counter": "shiny_defeated", "threshold": 1, "title": "Glint of Battle", "description": "Defeat a shiny Pokémon in battle." },
+  { "id": "shiny_defeat_10", "counter": "shiny_defeated", "threshold": 10, "title": "Rare Conqueror", "description": "Defeat 10 shiny Pokémon in battle." },
+  { "id": "shiny_defeat_50", "counter": "shiny_defeated", "threshold": 50, "title": "Shiny Slayer", "description": "Defeat 50 shiny Pokémon in battle." },
+
+  { "id": "trainer_1", "counter": "trainers_beaten", "threshold": 1, "title": "Rival Crusher", "description": "Beat your first trainer." },
+  { "id": "trainer_10", "counter": "trainers_beaten", "threshold": 10, "title": "Road Warrior", "description": "Beat 10 trainers." },
+  { "id": "trainer_50", "counter": "trainers_beaten", "threshold": 50, "title": "Route Dominator", "description": "Beat 50 trainers." },
+  { "id": "trainer_100", "counter": "trainers_beaten", "threshold": 100, "title": "Trainer's Bane", "description": "Beat 100 trainers." },
+  { "id": "trainer_1000", "counter": "trainers_beaten", "threshold": 1000, "title": "Trainer Slayer", "description": "Beat 1000 trainers." },
+
+  { "id": "gym_1", "counter": "gym_leaders_beaten", "threshold": 1, "title": "Badge Earner", "description": "Beat your first Gym Leader." },
+  { "id": "gym_8", "counter": "gym_leaders_beaten", "threshold": 8, "title": "Regional Competitor", "description": "Beat 8 Gym Leaders." },
+  { "id": "gym_16", "counter": "gym_leaders_beaten", "threshold": 16, "title": "Globetrotter", "description": "Beat 16 Gym Leaders." },
+  { "id": "gym_128", "counter": "gym_leaders_beaten", "threshold": 128, "title": "Gym Slayer", "description": "Beat 128 Gym Leaders." },
+
+  { "id": "spend_money_10k", "counter": "money_spent", "threshold": 10000, "title": "Window Shopper", "description": "Spend ₽1,0000 in total." },
+  { "id": "spend_money_100k", "counter": "money_spent", "threshold": 100000, "title": "Regular Customer", "description": "Spend ₽10,0000 in total." },
+  { "id": "spend_money_1m", "counter": "money_spent", "threshold": 1000000, "title": "Big Spender", "description": "Spend ₽1,0000,000 in total." },
+  { "id": "spend_money_10m", "counter": "money_spent", "threshold": 10000000, "title": "Crazy Rich", "description": "Spend ₽10,0000,000 in total." },
+
+  { "id": "spend_exp_1k", "counter": "exp_spent_total", "threshold": 1000, "title": "Quick Learner", "description": "Spend 1,000 EXP in total." },
+  { "id": "spend_exp_10k", "counter": "exp_spent_total", "threshold": 10000, "title": "Overtime", "description": "Spend 10,000 EXP in total." },
+  { "id": "spend_exp_100k", "counter": "exp_spent_total", "threshold": 100000, "title": "Level Grinder", "description": "Spend 100,000 EXP in total." },
+
+  { "id": "pokeball_1", "counter": "poke_balls_used", "threshold": 1, "title": "First Throw", "description": "Throw your first Poké Ball." },
+  { "id": "pokeball_50", "counter": "poke_balls_used", "threshold": 50, "title": "Ball Tosser", "description": "Throw 50 Poké Balls." },
+  { "id": "pokeball_250", "counter": "poke_balls_used", "threshold": 250, "title": "Pitching Arm", "description": "Throw 250 Poké Balls." },
+  { "id": "pokeball_1000", "counter": "poke_balls_used", "threshold": 1000, "title": "Ace Pitcher", "description": "Throw 1,000 Poké Balls." },
+
+  { "id": "masterball_1", "counter": "master_balls_used", "threshold": 1, "title": "No Risk", "description": "Throw your first Master Ball." },
+  { "id": "masterball_5", "counter": "master_balls_used", "threshold": 5, "title": "Guaranteed Catch", "description": "Throw 5 Master Balls." },
+  { "id": "masterball_20", "counter": "master_balls_used", "threshold": 20, "title": "Master Hoarder", "description": "Throw 20 Master Balls." },
+
+  { "id": "potion_1", "counter": "potions_used", "threshold": 1, "title": "First Aid", "description": "Use your first Potion." },
+  { "id": "potion_50", "counter": "potions_used", "threshold": 50, "title": "Field Medic", "description": "Use 50 Potions." },
+  { "id": "potion_250", "counter": "potions_used", "threshold": 250, "title": "Combat Nurse", "description": "Use 250 Potions." },
+
+  { "id": "ether_1", "counter": "ethers_used", "threshold": 1, "title": "Topped Up", "description": "Use your first Ether." },
+  { "id": "ether_25", "counter": "ethers_used", "threshold": 25, "title": "PP Restorer", "description": "Use 25 Ethers." },
+  { "id": "ether_100", "counter": "ethers_used", "threshold": 100, "title": "Never Out", "description": "Use 100 Ethers." },
+
+  { "id": "flee_1", "counter": "battles_fled", "threshold": 1, "title": "Tactical Retreat", "description": "Run away from a battle." },
+  { "id": "flee_25", "counter": "battles_fled", "threshold": 25, "title": "Got Away Safely", "description": "Run away from 25 battles." },
+  { "id": "flee_100", "counter": "battles_fled", "threshold": 100, "title": "Born to Run", "description": "Run away from 100 battles." },
+
+  { "id": "surrender_1", "counter": "battles_surrendered", "threshold": 1, "title": "White Flag", "description": "Forfeit a trainer battle." },
+  { "id": "surrender_10", "counter": "battles_surrendered", "threshold": 10, "title": "Strategic Withdrawal", "description": "Forfeit 10 trainer battles." },
+
+  { "id": "rocket_ambush_1", "counter": "rocket_ambushes", "threshold": 1, "title": "Prepare for Trouble", "description": "Get ambushed by Team Rocket." },
+  { "id": "rocket_ambush_10", "counter": "rocket_ambushes", "threshold": 10, "title": "Team Rocket Impostor", "description": "Get ambushed by Team Rocket 10 times." },
+  { "id": "rocket_ambush_100", "counter": "rocket_ambushes", "threshold": 100, "title": "Team Rocket Magnet", "description": "Get ambushed by Team Rocket 100 times." },
+
+  { "id": "rocket_win_1", "counter": "rocket_victories", "threshold": 1, "title": "Blasting Off Again", "description": "Win a battle against Team Rocket." },
+  { "id": "rocket_win_10", "counter": "rocket_victories", "threshold": 10, "title": "Team Rocket Buster", "description": "Win 10 battles against Team Rocket." },
+  { "id": "rocket_win_100", "counter": "rocket_victories", "threshold": 100, "title": "Team Rocket Slayer", "description": "Win 100 battles against Team Rocket." },
+
+  { "id": "zmove_1", "counter": "z_moves_used", "threshold": 1, "title": "Z-Power Unleashed", "description": "Use your first Z-Move." },
+  { "id": "zmove_10", "counter": "z_moves_used", "threshold": 10, "title": "Full Force", "description": "Use 10 Z-Moves." },
+  { "id": "zmove_50", "counter": "z_moves_used", "threshold": 50, "title": "Z-Ring Veteran", "description": "Use 50 Z-Moves." },
+  { "id": "zmove_100", "counter": "z_moves_used", "threshold": 100, "title": "Master of Z-Power", "description": "Use 100 Z-Moves." },
+
+  { "id": "mega_1", "counter": "mega_evolutions", "threshold": 1, "title": "Beyond Evolution", "description": "Mega Evolve for the first time." },
+  { "id": "mega_10", "counter": "mega_evolutions", "threshold": 10, "title": "Keystone Bearer", "description": "Mega Evolve 10 times." },
+  { "id": "mega_50", "counter": "mega_evolutions", "threshold": 50, "title": "Bond Phenomenon", "description": "Mega Evolve 50 times." },
+  { "id": "mega_100", "counter": "mega_evolutions", "threshold": 100, "title": "Mega Master", "description": "Mega Evolve 100 times." },
+
+  { "id": "primal_1", "counter": "primal_reversions", "threshold": 1, "title": "Ancient Awakening", "description": "Trigger your first Primal Reversion." },
+  { "id": "primal_10", "counter": "primal_reversions", "threshold": 10, "title": "Force of Nature", "description": "Trigger 10 Primal Reversions." },
+  { "id": "primal_50", "counter": "primal_reversions", "threshold": 50, "title": "Primordial Sovereign", "description": "Trigger 50 Primal Reversions." },
+
+  { "id": "ultra_burst_1", "counter": "ultra_bursts", "threshold": 1, "title": "Light of Ultra Space", "description": "Trigger your first Ultra Burst." },
+  { "id": "ultra_burst_10", "counter": "ultra_bursts", "threshold": 10, "title": "Blinding One", "description": "Trigger 10 Ultra Bursts." },
+  { "id": "ultra_burst_50", "counter": "ultra_bursts", "threshold": 50, "title": "Prism Ascendant", "description": "Trigger 50 Ultra Bursts." },
+
+  { "id": "tera_1", "counter": "terastallizations", "threshold": 1, "title": "Crystal Crown", "description": "Terastallize for the first time." },
+  { "id": "tera_10", "counter": "terastallizations", "threshold": 10, "title": "Orb Bearer", "description": "Terastallize 10 times." },
+  { "id": "tera_50", "counter": "terastallizations", "threshold": 50, "title": "Treasure of Ruin", "description": "Terastallize 50 times." },
+  { "id": "tera_100", "counter": "terastallizations", "threshold": 100, "title": "Paldean Champion", "description": "Terastallize 100 times." },
+
+  { "id": "dex_kanto", "region": "kanto", "title": "Kanto Complete", "description": "Complete the Kanto Pokédex." },
+  { "id": "dex_johto", "region": "johto", "title": "Johto Complete", "description": "Complete the Johto Pokédex." },
+  { "id": "dex_hoenn", "region": "hoenn", "title": "Hoenn Complete", "description": "Complete the Hoenn Pokédex." },
+  { "id": "dex_sinnoh", "region": "sinnoh", "title": "Sinnoh Complete", "description": "Complete the Sinnoh Pokédex." },
+  { "id": "dex_unova", "region": "unova", "title": "Unova Complete", "description": "Complete the Unova Pokédex." },
+  { "id": "dex_kalos", "region": "kalos", "title": "Kalos Complete", "description": "Complete the Kalos Pokédex." },
+  { "id": "dex_alola", "region": "alola", "title": "Alola Complete", "description": "Complete the Alola Pokédex." },
+  { "id": "dex_galar", "region": "galar", "title": "Galar Complete", "description": "Complete the Galar Pokédex." },
+  { "id": "dex_paldea", "region": "paldea", "title": "Paldea Complete", "description": "Complete the Paldea Pokédex." }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "shiny-incense",
+    "name": "Shiny Incense",
+    "category": "incense",
+    "duration": 600,
+    "effect": "Boost shiny encounter chance",
+    "shiny_odds": 2,
+    "cost": 50000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 6, "odds": 2.5 },
+      { "minutes": 2, "odds": 3 },
+      { "minutes": 1, "odds": 4 }
+    ]
+  },
+  {
+    "id": "sweet-incense",
+    "name": "Sweet Incense",
+    "category": "incense",
+    "duration": 600,
+    "effect": "2x wild catch rate",
+    "catch_odds": 2,
+    "cost": 25000
+  },
+  {
+    "id": "dung-incense",
+    "name": "Dung Incense",
+    "category": "incense",
+    "duration": 600,
+    "effect": "No Team Rocket ambushes",
+    "blocks_ambush": true,
+    "cost": 10000
+  },
+  {
+    "id": "exp-incense",
+    "name": "Lucky Incense",
+    "category": "incense",
+    "duration": 300,
+    "effect": "2x battle EXP gained",
+    "exp_odds": 2,
+    "cost": 10000
+  },
+  {
+    "id": "money-incense",
+    "name": "Coins Incense",
+    "category": "incense",
+    "duration": 300,
+    "effect": "2x trainer prize money",
+    "money_odds": 2,
+    "cost": 10000
+  },
+  {
+    "id": "normal-incense",
+    "name": "Normal Incense",
+    "category": "incense",
+    "type": "normal",
+    "duration": 600,
+    "effect": "Boost normal encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "fire-incense",
+    "name": "Fire Incense",
+    "category": "incense",
+    "type": "fire",
+    "duration": 600,
+    "effect": "Boost fire encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "water-incense",
+    "name": "Water Incense",
+    "category": "incense",
+    "type": "water",
+    "duration": 600,
+    "effect": "Boost water encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "electric-incense",
+    "name": "Electric Incense",
+    "category": "incense",
+    "type": "electric",
+    "duration": 600,
+    "effect": "Boost electric encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "grass-incense",
+    "name": "Grass Incense",
+    "category": "incense",
+    "type": "grass",
+    "duration": 600,
+    "effect": "Boost grass encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "ice-incense",
+    "name": "Ice Incense",
+    "category": "incense",
+    "type": "ice",
+    "duration": 600,
+    "effect": "Boost ice encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "fighting-incense",
+    "name": "Fighting Incense",
+    "category": "incense",
+    "type": "fighting",
+    "duration": 600,
+    "effect": "Boost fighting encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "poison-incense",
+    "name": "Poison Incense",
+    "category": "incense",
+    "type": "poison",
+    "duration": 600,
+    "effect": "Boost poison encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "ground-incense",
+    "name": "Ground Incense",
+    "category": "incense",
+    "type": "ground",
+    "duration": 600,
+    "effect": "Boost ground encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "flying-incense",
+    "name": "Flying Incense",
+    "category": "incense",
+    "type": "flying",
+    "duration": 600,
+    "effect": "Boost flying encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "psychic-incense",
+    "name": "Psychic Incense",
+    "category": "incense",
+    "type": "psychic",
+    "duration": 600,
+    "effect": "Boost psychic encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "bug-incense",
+    "name": "Bug Incense",
+    "category": "incense",
+    "type": "bug",
+    "duration": 600,
+    "effect": "Boost bug encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "rock-incense",
+    "name": "Rock Incense",
+    "category": "incense",
+    "type": "rock",
+    "duration": 600,
+    "effect": "Boost rock encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "ghost-incense",
+    "name": "Ghost Incense",
+    "category": "incense",
+    "type": "ghost",
+    "duration": 600,
+    "effect": "Boost ghost encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "dragon-incense",
+    "name": "Dragon Incense",
+    "category": "incense",
+    "type": "dragon",
+    "duration": 600,
+    "effect": "Boost dragon encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "dark-incense",
+    "name": "Dark Incense",
+    "category": "incense",
+    "type": "dark",
+    "duration": 600,
+    "effect": "Boost dark encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "steel-incense",
+    "name": "Steel Incense",
+    "category": "incense",
+    "type": "steel",
+    "duration": 600,
+    "effect": "Boost steel encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  },
+  {
+    "id": "fairy-incense",
+    "name": "Fairy Incense",
+    "category": "incense",
+    "type": "fairy",
+    "duration": 600,
+    "effect": "Boost fairy encounter chance",
+    "type_odds": 2,
+    "cost": 10000,
+    "tiers": [
+      { "minutes": 10, "odds": 2 },
+      { "minutes": 8, "odds": 2.5 },
+      { "minutes": 6, "odds": 3 },
+      { "minutes": 4, "odds": 3.5 },
+      { "minutes": 2, "odds": 4 },
+      { "minutes": 1, "odds": 5 }
+    ]
+  }
+]

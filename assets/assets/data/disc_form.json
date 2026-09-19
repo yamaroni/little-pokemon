@@ -1,0 +1,132 @@
+{
+  "649": [
+    {
+      "form_id": 10066,
+      "slug": "genesect-burn",
+      "display_name": "Genesect Burn",
+      "category": "other",
+      "battle_only": false,
+      "item": "burn-drive",
+      "trigger": "item-swap",
+      "form_name": "burn",
+      "sprite_home": "649",
+      "sprite_battle": "649-burn",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "special_attack": 120,
+        "special_defense": 95,
+        "speed": 99
+      },
+      "abilities": [
+        {
+          "name": "download",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1610
+    },
+    {
+      "form_id": 10067,
+      "slug": "genesect-chill",
+      "display_name": "Genesect Chill",
+      "category": "other",
+      "battle_only": false,
+      "item": "chill-drive",
+      "trigger": "item-swap",
+      "form_name": "chill",
+      "sprite_home": "649",
+      "sprite_battle": "649-chill",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "special_attack": 120,
+        "special_defense": 95,
+        "speed": 99
+      },
+      "abilities": [
+        {
+          "name": "download",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 206
+    },
+    {
+      "form_id": 10064,
+      "slug": "genesect-douse",
+      "display_name": "Genesect Douse",
+      "category": "other",
+      "battle_only": false,
+      "item": "douse-drive",
+      "trigger": "item-swap",
+      "form_name": "douse",
+      "sprite_home": "649",
+      "sprite_battle": "649-douse",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "special_attack": 120,
+        "special_defense": 95,
+        "speed": 99
+      },
+      "abilities": [
+        {
+          "name": "download",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1020
+    },
+    {
+      "form_id": 10065,
+      "slug": "genesect-shock",
+      "display_name": "Genesect Shock",
+      "category": "other",
+      "battle_only": false,
+      "item": "shock-drive",
+      "trigger": "item-swap",
+      "form_name": "shock",
+      "sprite_home": "649",
+      "sprite_battle": "649-shock",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "special_attack": 120,
+        "special_defense": 95,
+        "speed": 99
+      },
+      "abilities": [
+        {
+          "name": "download",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 552
+    }
+  ]
+}

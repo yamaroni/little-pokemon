@@ -1,0 +1,952 @@
+[
+  {
+    "id": "route_1_hauoli",
+    "region": "alola",
+    "parentLocationId": "melemele_area",
+    "name": "Route 1 — Hau'oli Outskirts",
+    "description": "The grassy trail winding north from Hau'oli City toward Iki Town, alive with the island's most common Pokémon.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 734,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 731,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 736,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 744,
+        "weight": 10,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 739,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 722,
+        "weight": 1,
+        "types": [
+          "grass",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "melemele_meadow",
+    "region": "alola",
+    "parentLocationId": "melemele_area",
+    "name": "Melemele Meadow",
+    "description": "A hidden valley carpeted in yellow flowers, where fairy and grass Pokémon flit between the blooms.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 742,
+        "weight": 20,
+        "types": [
+          "bug",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 741,
+        "weight": 20,
+        "types": [
+          "fire",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 755,
+        "weight": 10,
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 546,
+        "weight": 10,
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 669,
+        "weight": 5,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 548,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ten_carat_hill",
+    "region": "alola",
+    "parentLocationId": "melemele_area",
+    "name": "Ten Carat Hill",
+    "description": "A rocky cave riddled with tunnels and glittering ore, sheltering hardy rock-type Pokémon.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 524,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 20,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 744,
+        "weight": 10,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 302,
+        "weight": 10,
+        "types": [
+          "dark",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 50,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 703,
+        "weight": 1,
+        "types": [
+          "rock",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalae_bay",
+    "region": "alola",
+    "parentLocationId": "melemele_area",
+    "name": "Kala'e Bay",
+    "description": "A secluded cove on Melemele's western shore, reachable only through a cave, where the surf hides schools of water Pokémon.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 746,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 728,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paniola_ranch",
+    "region": "alola",
+    "parentLocationId": "akala_area",
+    "name": "Paniola Ranch",
+    "description": "Rolling ranch pastures on Akala's western meadows, home to sturdy herd Pokémon and grazers.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 759,
+        "weight": 20,
+        "types": [
+          "normal",
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 761,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 749,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 179,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 128,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 725,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brooklet_hill",
+    "region": "alola",
+    "parentLocationId": "akala_area",
+    "name": "Brooklet Hill",
+    "description": "A hillside of clear pools and cascading streams where water Pokémon thrive beneath the surface.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 746,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 349,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 10,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 456,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 771,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 751,
+        "weight": 1,
+        "types": [
+          "water",
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lush_jungle",
+    "region": "alola",
+    "parentLocationId": "akala_area",
+    "name": "Lush Jungle",
+    "description": "A dense, humid rainforest at the heart of Akala Island, teeming with grass and fairy Pokémon.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 753,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 755,
+        "weight": 20,
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 761,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 766,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 757,
+        "weight": 5,
+        "types": [
+          "poison",
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 765,
+        "weight": 1,
+        "types": [
+          "normal",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wela_volcano_park",
+    "region": "alola",
+    "parentLocationId": "akala_area",
+    "name": "Wela Volcano Park",
+    "description": "A smouldering volcanic slope on Akala's southern flank, where fire Pokémon bask in the heat of the crater.",
+    "mapSprite": "mountain_b",
+    "mapBackground": "assets/sprites/battle_bg/mountain_b.jpg",
+    "encounters": [
+      {
+        "pokemonId": 104,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 757,
+        "weight": 20,
+        "types": [
+          "poison",
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 240,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 661,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 115,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 776,
+        "weight": 1,
+        "types": [
+          "fire",
+          "dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hano_beach",
+    "region": "alola",
+    "parentLocationId": "akala_area",
+    "name": "Hano Beach",
+    "description": "The white-sand resort shore south of Heahea City, where sand-heap Pokémon lurk between the sunbathers and the shallows.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 769,
+        "weight": 20,
+        "types": [
+          "ghost",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 120,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 771,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 456,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 5,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 779,
+        "weight": 1,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tapu_village",
+    "region": "alola",
+    "parentLocationId": "ulaula_area",
+    "name": "Tapu Village",
+    "description": "A quiet, weather-worn village on the edge of Ula'ula's wilds, where dark and flying Pokémon gather.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 775,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 629,
+        "weight": 20,
+        "types": [
+          "dark",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 551,
+        "weight": 10,
+        "types": [
+          "ground",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 227,
+        "weight": 10,
+        "types": [
+          "steel",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 215,
+        "weight": 5,
+        "types": [
+          "dark",
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 778,
+        "weight": 1,
+        "types": [
+          "ghost",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "haina_desert",
+    "region": "alola",
+    "parentLocationId": "ulaula_area",
+    "name": "Haina Desert",
+    "description": "A disorienting stretch of shifting sand and ancient ruins, where ground and ghost Pokémon lie in wait.",
+    "mapSprite": "mountain_b",
+    "mapBackground": "assets/sprites/battle_bg/mountain_b.jpg",
+    "encounters": [
+      {
+        "pokemonId": 551,
+        "weight": 20,
+        "types": [
+          "ground",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 328,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 622,
+        "weight": 10,
+        "types": [
+          "ground",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 351,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 50,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 343,
+        "weight": 1,
+        "types": [
+          "ground",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mount_hokulani",
+    "region": "alola",
+    "parentLocationId": "ulaula_area",
+    "name": "Mount Hokulani",
+    "description": "A high mountain crowned by an observatory, drawing electric and steel Pokémon under its starry skies.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 239,
+        "weight": 20,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 777,
+        "weight": 20,
+        "types": [
+          "electric",
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 374,
+        "weight": 10,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 227,
+        "weight": 10,
+        "types": [
+          "steel",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 780,
+        "weight": 5,
+        "types": [
+          "normal",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 774,
+        "weight": 1,
+        "types": [
+          "rock",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mount_lanakila",
+    "region": "alola",
+    "parentLocationId": "ulaula_area",
+    "name": "Mount Lanakila",
+    "description": "Alola's highest peak, capped in snow and thin air, where ice Pokémon prowl the frozen approach to the League.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 361,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 215,
+        "weight": 20,
+        "types": [
+          "dark",
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 37,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 739,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 173,
+        "weight": 5,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 686,
+        "weight": 1,
+        "types": [
+          "dark",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "poni_wilds",
+    "region": "alola",
+    "parentLocationId": "poni_area",
+    "name": "Poni Wilds",
+    "description": "The overgrown coastal wilds of Poni Island, roamed by an eclectic mix of poison, ghost, and grass Pokémon.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 747,
+        "weight": 20,
+        "types": [
+          "poison",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 767,
+        "weight": 20,
+        "types": [
+          "bug",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 746,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 102,
+        "weight": 10,
+        "types": [
+          "grass",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 200,
+        "weight": 5,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 781,
+        "weight": 1,
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vast_poni_canyon",
+    "region": "alola",
+    "parentLocationId": "poni_area",
+    "name": "Vast Poni Canyon",
+    "description": "A vast maze of cliffs and caverns guarding the road to the Altar, where dragon and rock Pokémon dwell.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 782,
+        "weight": 20,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 731,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 524,
+        "weight": 10,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 780,
+        "weight": 5,
+        "types": [
+          "normal",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 714,
+        "weight": 1,
+        "types": [
+          "flying",
+          "dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "poni_meadow",
+    "region": "alola",
+    "parentLocationId": "poni_area",
+    "name": "Poni Meadow",
+    "description": "A windswept flower field near the island's northern tip, humming with bug and fairy Pokémon.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 742,
+        "weight": 20,
+        "types": [
+          "bug",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 741,
+        "weight": 20,
+        "types": [
+          "fire",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 755,
+        "weight": 10,
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 546,
+        "weight": 10,
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 669,
+        "weight": 5,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 764,
+        "weight": 1,
+        "types": [
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "resolution_cave",
+    "region": "alola",
+    "parentLocationId": "poni_area",
+    "name": "Resolution Cave",
+    "description": "A deep cavern beneath Poni's canyon floor, its pitch-black tunnels echoing with the wings of dragons.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 780,
+        "weight": 20,
+        "types": [
+          "normal",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 621,
+        "weight": 20,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 50,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 782,
+        "weight": 10,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 200,
+        "weight": 5,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 1,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      }
+    ]
+  }
+]

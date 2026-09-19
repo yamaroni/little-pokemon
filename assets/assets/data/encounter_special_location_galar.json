@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "galar_route_1",
+    "region": "galar",
+    "parentLocationId": "postwick_area",
+    "name": "Galar Route 1",
+    "description": "A short lane of hedgerows and berry trees linking Postwick to Wedgehurst.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 819,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 831,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 821,
+        "weight": 10,
+        "types": [
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 824,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 827,
+        "weight": 5,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 813,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_route_2",
+    "region": "galar",
+    "parentLocationId": "postwick_area",
+    "name": "Galar Route 2",
+    "description": "A lakeside path north of Wedgehurst that opens onto the Wild Area.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 821,
+        "weight": 20,
+        "types": [
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 824,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 833,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 509,
+        "weight": 10,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 816,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "slumbering_weald",
+    "region": "galar",
+    "parentLocationId": "postwick_area",
+    "name": "Slumbering Weald",
+    "description": "An ancient fog-bound forest west of Postwick where old legends are said to sleep.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 824,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 819,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 821,
+        "weight": 10,
+        "types": [
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 517,
+        "weight": 10,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 263,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 810,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rolling_fields",
+    "region": "galar",
+    "parentLocationId": "wild_area",
+    "name": "Rolling Fields",
+    "description": "Wide grassland at the southern edge of the Wild Area, dotted with grazing herds.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 831,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 819,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 835,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 415,
+        "weight": 10,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 263,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 868,
+        "weight": 1,
+        "types": [
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bridge_field",
+    "region": "galar",
+    "parentLocationId": "wild_area",
+    "name": "Bridge Field",
+    "description": "Marshy flats beneath the great bridge, thick with tall grass and rustling bushes.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 568,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 824,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 742,
+        "weight": 10,
+        "types": [
+          "bug",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 859,
+        "weight": 10,
+        "types": [
+          "dark",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 37,
+        "weight": 5,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 877,
+        "weight": 1,
+        "types": [
+          "electric",
+          "dark"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "motostoke_riverbank",
+    "region": "galar",
+    "parentLocationId": "wild_area",
+    "name": "Motostoke Riverbank",
+    "description": "The reedy river shallows below Motostoke, where sand-dwellers and coal crawlers meet.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 843,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 837,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 532,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 339,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 833,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 290,
+        "weight": 1,
+        "types": [
+          "bug",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dusty_bowl",
+    "region": "galar",
+    "parentLocationId": "wild_area",
+    "name": "Dusty Bowl",
+    "description": "A dry, cratered basin of grit and standing stones in the middle of the Wild Area.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 328,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 343,
+        "weight": 20,
+        "types": [
+          "ground",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 449,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 880,
+        "weight": 5,
+        "types": [
+          "electric",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 874,
+        "weight": 1,
+        "types": [
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lake_of_outrage",
+    "region": "galar",
+    "parentLocationId": "wild_area",
+    "name": "Lake of Outrage",
+    "description": "A remote island lake in the far west of the Wild Area, haunted by unusually powerful rarities.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 371,
+        "weight": 20,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 246,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 633,
+        "weight": 10,
+        "types": [
+          "dark",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 704,
+        "weight": 10,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 782,
+        "weight": 5,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 885,
+        "weight": 1,
+        "types": [
+          "dragon",
+          "ghost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_wild_area",
+    "region": "galar",
+    "parentLocationId": "wild_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 846,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 833,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 550,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 349,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 882,
+        "weight": 1,
+        "types": [
+          "water",
+          "dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_route_3",
+    "region": "galar",
+    "parentLocationId": "motostoke_area",
+    "name": "Galar Route 3",
+    "description": "A hilly road out of Motostoke that climbs toward the mouth of the Galar Mine.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 821,
+        "weight": 20,
+        "types": [
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 827,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 835,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 572,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 837,
+        "weight": 5,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 850,
+        "weight": 1,
+        "types": [
+          "fire",
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_mine",
+    "region": "galar",
+    "parentLocationId": "motostoke_area",
+    "name": "Galar Mine",
+    "description": "A working coal mine of rattling carts and glittering ore veins.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 837,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 527,
+        "weight": 20,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 532,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 529,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 92,
+        "weight": 5,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 50,
+        "weight": 1,
+        "types": [
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_route_4",
+    "region": "galar",
+    "parentLocationId": "turffield_area",
+    "name": "Galar Route 4",
+    "description": "Terraced farmland between the mine exit and the geoglyph hills of Turffield.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 831,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 829,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 824,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 659,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 191,
+        "weight": 5,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 840,
+        "weight": 1,
+        "types": [
+          "grass",
+          "dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_route_5",
+    "region": "galar",
+    "parentLocationId": "turffield_area",
+    "name": "Galar Route 5",
+    "description": "A breezy coastal road east of Turffield running down to Hulbury harbour.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 761,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 83,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 835,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 829,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 742,
+        "weight": 5,
+        "types": [
+          "bug",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 845,
+        "weight": 1,
+        "types": [
+          "flying",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_hulbury",
+    "region": "galar",
+    "parentLocationId": "turffield_area",
+    "name": "Sea",
+    "description": "A tranquil expanse of sparkling waters teeming with abundant water-type Pokémon, where gentle waves lull travelers.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 846,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 747,
+        "weight": 10,
+        "types": [
+          "poison",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 320,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 871,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_hulbury",
+    "region": "galar",
+    "parentLocationId": "turffield_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 170,
+        "weight": 10,
+        "types": [
+          "water",
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 339,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 592,
+        "weight": 5,
+        "types": [
+          "water",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 852,
+        "weight": 1,
+        "types": [
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_route_6",
+    "region": "galar",
+    "parentLocationId": "hammerlocke_area",
+    "name": "Galar Route 6",
+    "description": "A stony pass west of Hammerlocke strewn with dug-out tunnels and scrap metal.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 843,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 878,
+        "weight": 20,
+        "types": [
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 610,
+        "weight": 10,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 328,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 632,
+        "weight": 5,
+        "types": [
+          "bug",
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 884,
+        "weight": 1,
+        "types": [
+          "steel",
+          "dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_mine_no_2",
+    "region": "galar",
+    "parentLocationId": "hammerlocke_area",
+    "name": "Galar Mine No. 2",
+    "description": "A flooded, disused mine on the road to Stow-on-Side, dripping and dim.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 527,
+        "weight": 20,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 453,
+        "weight": 20,
+        "types": [
+          "poison",
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 529,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 92,
+        "weight": 10,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 767,
+        "weight": 5,
+        "types": [
+          "bug",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 848,
+        "weight": 1,
+        "types": [
+          "electric",
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_route_7",
+    "region": "galar",
+    "parentLocationId": "ballonlea_area",
+    "name": "Galar Route 7",
+    "description": "A quiet wooded lane south of Stow-on-Side leading to the mouth of Glimwood Tangle.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 761,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 859,
+        "weight": 20,
+        "types": [
+          "dark",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 517,
+        "weight": 10,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 755,
+        "weight": 10,
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 710,
+        "weight": 5,
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 854,
+        "weight": 1,
+        "types": [
+          "ghost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glimwood_tangle",
+    "region": "galar",
+    "parentLocationId": "ballonlea_area",
+    "name": "Glimwood Tangle",
+    "description": "A dark fairy-tale forest lit only by glowing fungi and drifting spores.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 755,
+        "weight": 20,
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 856,
+        "weight": 20,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 859,
+        "weight": 10,
+        "types": [
+          "dark",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 682,
+        "weight": 10,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 684,
+        "weight": 5,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 876,
+        "weight": 1,
+        "types": [
+          "psychic",
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_route_8",
+    "region": "galar",
+    "parentLocationId": "circhester_area",
+    "name": "Galar Route 8",
+    "description": "Steamdrift Way — a blizzard-blasted mountain road above the hot springs of Circhester.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 872,
+        "weight": 20,
+        "types": [
+          "ice",
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 582,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 613,
+        "weight": 10,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 459,
+        "weight": 10,
+        "types": [
+          "grass",
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 225,
+        "weight": 5,
+        "types": [
+          "ice",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 875,
+        "weight": 1,
+        "types": [
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "circhester_bay",
+    "region": "galar",
+    "parentLocationId": "circhester_area",
+    "name": "Circhester Bay",
+    "description": "A cold grey bay beneath the spa town, where jellyfish drift under the surf.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 592,
+        "weight": 20,
+        "types": [
+          "water",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 458,
+        "weight": 10,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 170,
+        "weight": 10,
+        "types": [
+          "water",
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 833,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 883,
+        "weight": 1,
+        "types": [
+          "water",
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_route_9",
+    "region": "galar",
+    "parentLocationId": "wyndon_area",
+    "name": "Galar Route 9",
+    "description": "The litter-strewn outskirts of Spikemuth, all chain-link fences and rusted drums.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 568,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 453,
+        "weight": 20,
+        "types": [
+          "poison",
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 757,
+        "weight": 10,
+        "types": [
+          "poison",
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 451,
+        "weight": 10,
+        "types": [
+          "poison",
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 559,
+        "weight": 5,
+        "types": [
+          "dark",
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 870,
+        "weight": 1,
+        "types": [
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "galar_route_10",
+    "region": "galar",
+    "parentLocationId": "wyndon_area",
+    "name": "Galar Route 10",
+    "description": "The frozen final climb over Route 10's rail line and snowfields into Wyndon.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 872,
+        "weight": 20,
+        "types": [
+          "ice",
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 582,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 712,
+        "weight": 10,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 605,
+        "weight": 10,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 215,
+        "weight": 5,
+        "types": [
+          "dark",
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 881,
+        "weight": 1,
+        "types": [
+          "electric",
+          "ice"
+        ]
+      }
+    ]
+  }
+]

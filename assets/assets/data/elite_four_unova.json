@@ -1,0 +1,647 @@
+[
+  {
+    "locationId": "unova_elite_shauntal",
+    "locationName": "Pok\u00e9mon League \u2014 Shauntal",
+    "isChampion": false,
+    "leader": {
+      "name": "Shauntal",
+      "title": "Elite Four \u2014 Ghost",
+      "imageUrl": "assets/sprites/trainers/avatar/shauntal.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 563,
+          "name": "Cofagrigus",
+          "ability": "mummy",
+          "nature": "bold",
+          "moves": [
+            "shadow-ball",
+            "nasty-plot",
+            "will-o-wisp",
+            "hidden-power"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 593,
+          "name": "Jellicent",
+          "ability": "water-absorb",
+          "nature": "bold",
+          "moves": [
+            "scald",
+            "shadow-ball",
+            "recover",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 609,
+          "name": "Chandelure",
+          "ability": "flash-fire",
+          "nature": "timid",
+          "moves": [
+            "shadow-ball",
+            "fire-blast",
+            "energy-ball",
+            "calm-mind"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 623,
+          "name": "Golurk",
+          "ability": "iron-fist",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "shadow-punch",
+            "ice-punch",
+            "stone-edge"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 608,
+          "name": "Lampent",
+          "ability": "flash-fire",
+          "nature": "modest",
+          "moves": [
+            "shadow-ball",
+            "fire-blast",
+            "energy-ball",
+            "pain-split"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 562,
+          "name": "Yamask",
+          "ability": "mummy",
+          "nature": "bold",
+          "moves": [
+            "shadow-ball",
+            "will-o-wisp",
+            "toxic",
+            "rest"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        }
+      ],
+      "win_messages": [
+        "And so your tale ends in defeat\u2014how tragic!",
+        "My ghosts wrote the ending to your story."
+      ],
+      "lose_messages": [
+        "Oh! What a thrilling plot twist you are!",
+        "You've given me a wonderful ending. Do go on."
+      ]
+    }
+  },
+  {
+    "locationId": "unova_elite_marshal",
+    "locationName": "Pok\u00e9mon League \u2014 Marshal",
+    "isChampion": false,
+    "leader": {
+      "name": "Marshal",
+      "title": "Elite Four \u2014 Fighting",
+      "imageUrl": "assets/sprites/trainers/avatar/marshal.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 534,
+          "name": "Conkeldurr",
+          "ability": "guts",
+          "nature": "adamant",
+          "moves": [
+            "drain-punch",
+            "mach-punch",
+            "knock-off",
+            "ice-punch"
+          ],
+          "held_item": "flame-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 620,
+          "name": "Mienshao",
+          "ability": "regenerator",
+          "nature": "jolly",
+          "moves": [
+            "high-jump-kick",
+            "u-turn",
+            "knock-off",
+            "stone-edge"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 539,
+          "name": "Sawk",
+          "ability": "mold-breaker",
+          "nature": "adamant",
+          "moves": [
+            "close-combat",
+            "earthquake",
+            "stone-edge",
+            "ice-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 538,
+          "name": "Throh",
+          "ability": "guts",
+          "nature": "adamant",
+          "moves": [
+            "circle-throw",
+            "bulk-up",
+            "knock-off",
+            "ice-punch"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 533,
+          "name": "Gurdurr",
+          "ability": "guts",
+          "nature": "adamant",
+          "moves": [
+            "drain-punch",
+            "mach-punch",
+            "knock-off",
+            "bulk-up"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 638,
+          "name": "Cobalion",
+          "ability": "justified",
+          "nature": "jolly",
+          "moves": [
+            "close-combat",
+            "iron-head",
+            "stone-edge",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My fighting spirit smashed straight through you!",
+        "You must train your body and mind harder!"
+      ],
+      "lose_messages": [
+        "Hurah! Your strength is the real thing!",
+        "You've shown me true power. I am satisfied."
+      ]
+    }
+  },
+  {
+    "locationId": "unova_elite_grimsley",
+    "locationName": "Pok\u00e9mon League \u2014 Grimsley",
+    "isChampion": false,
+    "leader": {
+      "name": "Grimsley",
+      "title": "Elite Four \u2014 Dark",
+      "imageUrl": "assets/sprites/trainers/avatar/grimsley.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 625,
+          "name": "Bisharp",
+          "ability": "defiant",
+          "nature": "adamant",
+          "moves": [
+            "knock-off",
+            "iron-head",
+            "sucker-punch",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 553,
+          "name": "Krookodile",
+          "ability": "intimidate",
+          "nature": "jolly",
+          "moves": [
+            "earthquake",
+            "knock-off",
+            "stone-edge",
+            "outrage"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 560,
+          "name": "Scrafty",
+          "ability": "moxie",
+          "nature": "adamant",
+          "moves": [
+            "drain-punch",
+            "crunch",
+            "ice-punch",
+            "dragon-dance"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 510,
+          "name": "Liepard",
+          "ability": "prankster",
+          "nature": "jolly",
+          "moves": [
+            "knock-off",
+            "sucker-punch",
+            "u-turn",
+            "thunder-wave"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 571,
+          "name": "Zoroark",
+          "ability": "illusion",
+          "nature": "timid",
+          "moves": [
+            "dark-pulse",
+            "flamethrower",
+            "focus-blast",
+            "nasty-plot"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 630,
+          "name": "Mandibuzz",
+          "ability": "overcoat",
+          "nature": "bold",
+          "moves": [
+            "foul-play",
+            "air-slash",
+            "roost",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        }
+      ],
+      "win_messages": [
+        "The dice fell my way\u2014you lose.",
+        "In the gamble of battle, I hold the winning hand."
+      ],
+      "lose_messages": [
+        "Ha! A losing hand for me, then. Well gambled.",
+        "You played your cards perfectly. Move on."
+      ]
+    }
+  },
+  {
+    "locationId": "unova_elite_caitlin",
+    "locationName": "Pok\u00e9mon League \u2014 Caitlin",
+    "isChampion": false,
+    "leader": {
+      "name": "Caitlin",
+      "title": "Elite Four \u2014 Psychic",
+      "imageUrl": "assets/sprites/trainers/avatar/caitlin.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 579,
+          "name": "Reuniclus",
+          "ability": "magic-guard",
+          "nature": "bold",
+          "moves": [
+            "psychic",
+            "focus-blast",
+            "shadow-ball",
+            "calm-mind"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 576,
+          "name": "Gothitelle",
+          "ability": "competitive",
+          "nature": "calm",
+          "moves": [
+            "psychic",
+            "thunderbolt",
+            "shadow-ball",
+            "calm-mind"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 518,
+          "name": "Musharna",
+          "ability": "synchronize",
+          "nature": "bold",
+          "moves": [
+            "psychic",
+            "energy-ball",
+            "shadow-ball",
+            "calm-mind"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 561,
+          "name": "Sigilyph",
+          "ability": "magic-guard",
+          "nature": "timid",
+          "moves": [
+            "air-slash",
+            "psychic",
+            "energy-ball",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 606,
+          "name": "Beheeyem",
+          "ability": "synchronize",
+          "nature": "quiet",
+          "moves": [
+            "psychic",
+            "energy-ball",
+            "thunderbolt",
+            "shadow-ball"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 528,
+          "name": "Swoobat",
+          "ability": "simple",
+          "nature": "timid",
+          "moves": [
+            "stored-power",
+            "air-slash",
+            "calm-mind",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My Pok\u00e9mon's power leaves you no chance.",
+        "You could not withstand my mind's strength."
+      ],
+      "lose_messages": [
+        "My, you are strong. I lost my composure.",
+        "You have my respect. Please, continue onward."
+      ]
+    }
+  },
+  {
+    "locationId": "unova_champion_alder",
+    "locationName": "Pok\u00e9mon League \u2014 Champion Alder",
+    "isChampion": true,
+    "leader": {
+      "name": "Alder",
+      "title": "Champion",
+      "imageUrl": "assets/sprites/trainers/avatar/alder.png",
+      "prizeMoney": 10000,
+      "team": [
+        {
+          "id": 617,
+          "name": "Accelgor",
+          "ability": "sticky-hold",
+          "nature": "timid",
+          "moves": [
+            "bug-buzz",
+            "focus-blast",
+            "energy-ball",
+            "spikes"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 626,
+          "name": "Bouffalant",
+          "ability": "reckless",
+          "nature": "adamant",
+          "moves": [
+            "head-charge",
+            "earthquake",
+            "megahorn",
+            "wild-charge"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 621,
+          "name": "Druddigon",
+          "ability": "sheer-force",
+          "nature": "adamant",
+          "moves": [
+            "outrage",
+            "fire-punch",
+            "sucker-punch",
+            "earthquake"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 584,
+          "name": "Vanilluxe",
+          "ability": "snow-warning",
+          "nature": "modest",
+          "moves": [
+            "blizzard",
+            "flash-cannon",
+            "ice-beam",
+            "freeze-dry"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 589,
+          "name": "Escavalier",
+          "ability": "overcoat",
+          "nature": "adamant",
+          "moves": [
+            "megahorn",
+            "iron-head",
+            "knock-off",
+            "swords-dance"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 637,
+          "name": "Volcarona",
+          "ability": "flame-body",
+          "nature": "timid",
+          "moves": [
+            "quiver-dance",
+            "bug-buzz",
+            "fiery-dance",
+            "giga-drain"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Hah! The Champion doesn't fall so easily!",
+        "You've a long road ahead before you beat me."
+      ],
+      "lose_messages": [
+        "Marvelous! I haven't lost in ages\u2014wonderful!",
+        "You battle with heart. You're a worthy Champion."
+      ]
+    }
+  }
+]

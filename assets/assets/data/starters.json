@@ -1,0 +1,47 @@
+{
+  "kanto": [
+    { "pokemonId": 1, "name": "Bulbasaur" },
+    { "pokemonId": 4, "name": "Charmander" },
+    { "pokemonId": 7, "name": "Squirtle" }
+  ],
+  "johto": [
+    { "pokemonId": 152, "name": "Chikorita" },
+    { "pokemonId": 155, "name": "Cyndaquil" },
+    { "pokemonId": 158, "name": "Totodile" }
+  ],
+  "hoenn": [
+    { "pokemonId": 252, "name": "Treecko" },
+    { "pokemonId": 255, "name": "Torchic" },
+    { "pokemonId": 258, "name": "Mudkip" }
+  ],
+  "sinnoh": [
+    { "pokemonId": 387, "name": "Turtwig" },
+    { "pokemonId": 390, "name": "Chimchar" },
+    { "pokemonId": 393, "name": "Piplup" }
+  ],
+  "unova": [
+    { "pokemonId": 495, "name": "Snivy" },
+    { "pokemonId": 498, "name": "Tepig" },
+    { "pokemonId": 501, "name": "Oshawott" }
+  ],
+  "kalos": [
+    { "pokemonId": 650, "name": "Chespin" },
+    { "pokemonId": 653, "name": "Fennekin" },
+    { "pokemonId": 656, "name": "Froakie" }
+  ],
+  "alola": [
+    { "pokemonId": 722, "name": "Rowlet" },
+    { "pokemonId": 725, "name": "Litten" },
+    { "pokemonId": 728, "name": "Popplio" }
+  ],
+  "galar": [
+    { "pokemonId": 810, "name": "Grookey" },
+    { "pokemonId": 813, "name": "Scorbunny" },
+    { "pokemonId": 816, "name": "Sobble" }
+  ],
+  "paldea": [
+    { "pokemonId": 906, "name": "Sprigatito" },
+    { "pokemonId": 909, "name": "Fuecoco" },
+    { "pokemonId": 912, "name": "Quaxly" }
+  ]
+}

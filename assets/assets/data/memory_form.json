@@ -1,0 +1,531 @@
+{
+  "773": [
+    {
+      "form_id": 10232,
+      "slug": "silvally-fighting",
+      "display_name": "Silvally Fighting",
+      "category": "other",
+      "battle_only": false,
+      "item": "fighting-memory",
+      "trigger": "item-swap",
+      "form_name": "fighting",
+      "sprite_home": "773-fighting",
+      "sprite_battle": "773-fighting",
+      "types": [
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10233,
+      "slug": "silvally-flying",
+      "display_name": "Silvally Flying",
+      "category": "other",
+      "battle_only": false,
+      "item": "flying-memory",
+      "trigger": "item-swap",
+      "form_name": "flying",
+      "sprite_home": "773-flying",
+      "sprite_battle": "773-flying",
+      "types": [
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10234,
+      "slug": "silvally-poison",
+      "display_name": "Silvally Poison",
+      "category": "other",
+      "battle_only": false,
+      "item": "poison-memory",
+      "trigger": "item-swap",
+      "form_name": "poison",
+      "sprite_home": "773-poison",
+      "sprite_battle": "773-poison",
+      "types": [
+        "poison"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10235,
+      "slug": "silvally-ground",
+      "display_name": "Silvally Ground",
+      "category": "other",
+      "battle_only": false,
+      "item": "ground-memory",
+      "trigger": "item-swap",
+      "form_name": "ground",
+      "sprite_home": "773-ground",
+      "sprite_battle": "773-ground",
+      "types": [
+        "ground"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10236,
+      "slug": "silvally-rock",
+      "display_name": "Silvally Rock",
+      "category": "other",
+      "battle_only": false,
+      "item": "rock-memory",
+      "trigger": "item-swap",
+      "form_name": "rock",
+      "sprite_home": "773-rock",
+      "sprite_battle": "773-rock",
+      "types": [
+        "rock"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10237,
+      "slug": "silvally-bug",
+      "display_name": "Silvally Bug",
+      "category": "other",
+      "battle_only": false,
+      "item": "bug-memory",
+      "trigger": "item-swap",
+      "form_name": "bug",
+      "sprite_home": "773-bug",
+      "sprite_battle": "773-bug",
+      "types": [
+        "bug"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10238,
+      "slug": "silvally-ghost",
+      "display_name": "Silvally Ghost",
+      "category": "other",
+      "battle_only": false,
+      "item": "ghost-memory",
+      "trigger": "item-swap",
+      "form_name": "ghost",
+      "sprite_home": "773-ghost",
+      "sprite_battle": "773-ghost",
+      "types": [
+        "ghost"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10239,
+      "slug": "silvally-steel",
+      "display_name": "Silvally Steel",
+      "category": "other",
+      "battle_only": false,
+      "item": "steel-memory",
+      "trigger": "item-swap",
+      "form_name": "steel",
+      "sprite_home": "773-steel",
+      "sprite_battle": "773-steel",
+      "types": [
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10240,
+      "slug": "silvally-fire",
+      "display_name": "Silvally Fire",
+      "category": "other",
+      "battle_only": false,
+      "item": "fire-memory",
+      "trigger": "item-swap",
+      "form_name": "fire",
+      "sprite_home": "773-fire",
+      "sprite_battle": "773-fire",
+      "types": [
+        "fire"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10241,
+      "slug": "silvally-water",
+      "display_name": "Silvally Water",
+      "category": "other",
+      "battle_only": false,
+      "item": "water-memory",
+      "trigger": "item-swap",
+      "form_name": "water",
+      "sprite_home": "773-water",
+      "sprite_battle": "773-water",
+      "types": [
+        "water"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10242,
+      "slug": "silvally-grass",
+      "display_name": "Silvally Grass",
+      "category": "other",
+      "battle_only": false,
+      "item": "grass-memory",
+      "trigger": "item-swap",
+      "form_name": "grass",
+      "sprite_home": "773-grass",
+      "sprite_battle": "773-grass",
+      "types": [
+        "grass"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10243,
+      "slug": "silvally-electric",
+      "display_name": "Silvally Electric",
+      "category": "other",
+      "battle_only": false,
+      "item": "electric-memory",
+      "trigger": "item-swap",
+      "form_name": "electric",
+      "sprite_home": "773-electric",
+      "sprite_battle": "773-electric",
+      "types": [
+        "electric"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10244,
+      "slug": "silvally-psychic",
+      "display_name": "Silvally Psychic",
+      "category": "other",
+      "battle_only": false,
+      "item": "psychic-memory",
+      "trigger": "item-swap",
+      "form_name": "psychic",
+      "sprite_home": "773-psychic",
+      "sprite_battle": "773-psychic",
+      "types": [
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10245,
+      "slug": "silvally-ice",
+      "display_name": "Silvally Ice",
+      "category": "other",
+      "battle_only": false,
+      "item": "ice-memory",
+      "trigger": "item-swap",
+      "form_name": "ice",
+      "sprite_home": "773-ice",
+      "sprite_battle": "773-ice",
+      "types": [
+        "ice"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10246,
+      "slug": "silvally-dragon",
+      "display_name": "Silvally Dragon",
+      "category": "other",
+      "battle_only": false,
+      "item": "dragon-memory",
+      "trigger": "item-swap",
+      "form_name": "dragon",
+      "sprite_home": "773-dragon",
+      "sprite_battle": "773-dragon",
+      "types": [
+        "dragon"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10247,
+      "slug": "silvally-dark",
+      "display_name": "Silvally Dark",
+      "category": "other",
+      "battle_only": false,
+      "item": "dark-memory",
+      "trigger": "item-swap",
+      "form_name": "dark",
+      "sprite_home": "773-dark",
+      "sprite_battle": "773-dark",
+      "types": [
+        "dark"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    },
+    {
+      "form_id": 10248,
+      "slug": "silvally-fairy",
+      "display_name": "Silvally Fairy",
+      "category": "other",
+      "battle_only": false,
+      "item": "fairy-memory",
+      "trigger": "item-swap",
+      "form_name": "fairy",
+      "sprite_home": "773-fairy",
+      "sprite_battle": "773-fairy",
+      "types": [
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "special_attack": 95,
+        "special_defense": 95,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "rks-system",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    }
+  ]
+}

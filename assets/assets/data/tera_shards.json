@@ -1,0 +1,23 @@
+{
+  "costs": {
+    "terastallize": 500
+  },
+  "tera_raid_ranks": {
+    "ranks": [1, 2, 3, 4],
+    "stat_boost_by_rank": {
+      "1": 2.0,
+      "2": 3.0,
+      "3": 4.0,
+      "4": 5.0
+    }
+  },
+  "tera_raid_rewards": {
+    "default": 2,
+    "by_rank": {
+      "1": 250,
+      "2": 400,
+      "3": 600,
+      "4": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "evolution": {
+    "by_target_stage": {
+      "1": 500,
+      "2": 1000
+    },
+    "default": 500
+  },
+  "ability_change": 1000,
+  "move_change": 250,
+  "egg_move_change": 1000,
+  "machine_move_change": 5000,
+  "nature_change": 1000,
+  "ev_change": 1000,
+  "rename": 5000,
+  "party_preset_save": 10000
+}

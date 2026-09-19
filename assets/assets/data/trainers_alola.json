@@ -1,0 +1,264 @@
+[
+  {
+    "locationId": "melemele_area",
+    "locationName": "Melemele Island",
+    "trainers": [
+      {
+        "name": "Hoku",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 800,
+        "team": [
+          { "id": 172, "name": "pichu" },
+          { "id": 739, "name": "crabrawler" }
+        ]
+      },
+      {
+        "name": "Keanu",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1000,
+        "team": [
+          { "id": 734, "name": "yungoos" },
+          { "id": 731, "name": "pikipek" }
+        ]
+      },
+      {
+        "name": "Alika",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1200,
+        "team": [
+          { "id": 63, "name": "abra" },
+          { "id": 96, "name": "drowzee" },
+          { "id": 52, "name": "meowth" }
+        ]
+      },
+      {
+        "name": "Leilani",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          { "id": 736, "name": "grubbin" },
+          { "id": 742, "name": "cutiefly" },
+          { "id": 744, "name": "rockruff" }
+        ]
+      },
+      {
+        "name": "Makoa",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          { "id": 732, "name": "trumbeak" },
+          { "id": 735, "name": "gumshoos" },
+          { "id": 446, "name": "munchlax" }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "akala_area",
+    "locationName": "Akala Island",
+    "trainers": [
+      {
+        "name": "Noa",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          { "id": 749, "name": "mudbray" },
+          { "id": 759, "name": "stufful" },
+          { "id": 761, "name": "bounsweet" }
+        ]
+      },
+      {
+        "name": "Kaila",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          { "id": 751, "name": "dewpider" },
+          { "id": 746, "name": "wishiwashi" },
+          { "id": 279, "name": "pelipper" }
+        ]
+      },
+      {
+        "name": "Nohea",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1800,
+        "team": [
+          { "id": 741, "name": "oricorio" },
+          { "id": 548, "name": "petilil" },
+          { "id": 752, "name": "araquanid" }
+        ]
+      },
+      {
+        "name": "Kaimana",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2000,
+        "team": [
+          { "id": 766, "name": "passimian" },
+          { "id": 765, "name": "oranguru" },
+          { "id": 745, "name": "lycanroc" }
+        ]
+      },
+      {
+        "name": "Moana",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          { "id": 753, "name": "fomantis" },
+          { "id": 755, "name": "morelull" },
+          { "id": 762, "name": "steenee" },
+          { "id": 757, "name": "salandit" }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "ulaula_area",
+    "locationName": "Ula'ula Island",
+    "trainers": [
+      {
+        "name": "Haruki",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1000,
+        "team": [
+          { "id": 104, "name": "cubone" },
+          { "id": 105, "name": "marowak" }
+        ]
+      },
+      {
+        "name": "Etsuko",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1500,
+        "team": [
+          { "id": 125, "name": "electabuzz" },
+          { "id": 777, "name": "togedemaru" },
+          { "id": 82, "name": "magneton" }
+        ]
+      },
+      {
+        "name": "Ryder",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 1500,
+        "team": [
+          { "id": 551, "name": "sandile" },
+          { "id": 198, "name": "murkrow" },
+          { "id": 552, "name": "krokorok" }
+        ]
+      },
+      {
+        "name": "Suki",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 1800,
+        "team": [
+          { "id": 361, "name": "snorunt" },
+          { "id": 215, "name": "sneasel" },
+          { "id": 362, "name": "glalie" }
+        ]
+      },
+      {
+        "name": "Ola",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          { "id": 775, "name": "komala" },
+          { "id": 774, "name": "minior" },
+          { "id": 776, "name": "turtonator" },
+          { "id": 359, "name": "absol" }
+        ]
+      },
+      {
+        "name": "Nita",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2000,
+        "team": [
+          { "id": 778, "name": "mimikyu" },
+          { "id": 769, "name": "sandygast" },
+          { "id": 426, "name": "drifblim" },
+          { "id": 302, "name": "sableye" }
+        ]
+      }
+    ]
+  },
+  {
+    "locationId": "poni_area",
+    "locationName": "Poni Island",
+    "trainers": [
+      {
+        "name": "Iolana",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2400,
+        "team": [
+          { "id": 743, "name": "ribombee" },
+          { "id": 764, "name": "comfey" },
+          { "id": 703, "name": "carbink" },
+          { "id": 707, "name": "klefki" },
+          { "id": 210, "name": "granbull" },
+          { "id": 756, "name": "shiinotic" }
+        ]
+      },
+      {
+        "name": "Makani",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2400,
+        "team": [
+          { "id": 767, "name": "wimpod" },
+          { "id": 768, "name": "golisopod" },
+          { "id": 284, "name": "masquerain" },
+          { "id": 127, "name": "pinsir" },
+          { "id": 55, "name": "golduck" },
+          { "id": 733, "name": "toucannon" }
+        ]
+      },
+      {
+        "name": "Lani",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_f.png",
+        "prizeMoney": 2400,
+        "team": [
+          { "id": 781, "name": "dhelmise" },
+          { "id": 779, "name": "bruxish" },
+          { "id": 771, "name": "pyukumuku" },
+          { "id": 131, "name": "lapras" },
+          { "id": 321, "name": "wailord" },
+          { "id": 740, "name": "crabominable" }
+        ]
+      },
+      {
+        "name": "Keoni",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2400,
+        "team": [
+          { "id": 782, "name": "jangmoo" },
+          { "id": 783, "name": "hakamoo" },
+          { "id": 525, "name": "boldore" },
+          { "id": 526, "name": "gigalith" },
+          { "id": 148, "name": "dragonair" },
+          { "id": 780, "name": "drampa" }
+        ]
+      },
+      {
+        "name": "Ikaika",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2400,
+        "team": [
+          { "id": 738, "name": "vikavolt" },
+          { "id": 758, "name": "salazzle" },
+          { "id": 763, "name": "tsareena" },
+          { "id": 770, "name": "palossand" },
+          { "id": 103, "name": "exeggutor" },
+          { "id": 760, "name": "bewear" }
+        ]
+      },
+      {
+        "name": "Kai",
+        "imageUrl": "assets/sprites/trainers/avatar/ace_trainer_m.png",
+        "prizeMoney": 2400,
+        "team": [
+          { "id": 623, "name": "golurk" },
+          { "id": 330, "name": "flygon" },
+          { "id": 750, "name": "mudsdale" },
+          { "id": 450, "name": "hippowdon" },
+          { "id": 76, "name": "golem" },
+          { "id": 784, "name": "kommoo" }
+        ]
+      }
+    ]
+  }
+]

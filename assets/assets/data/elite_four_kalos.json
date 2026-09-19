@@ -1,0 +1,647 @@
+[
+  {
+    "locationId": "kalos_elite_malva",
+    "locationName": "Pok\u00e9mon League \u2014 Malva",
+    "isChampion": false,
+    "leader": {
+      "name": "Malva",
+      "title": "Elite Four \u2014 Fire",
+      "imageUrl": "assets/sprites/trainers/avatar/malva.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 668,
+          "name": "Pyroar",
+          "ability": "unnerve",
+          "nature": "timid",
+          "moves": [
+            "fire-blast",
+            "hyper-voice",
+            "dark-pulse",
+            "will-o-wisp"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 663,
+          "name": "Talonflame",
+          "ability": "gale-wings",
+          "nature": "adamant",
+          "moves": [
+            "brave-bird",
+            "flare-blitz",
+            "u-turn",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 609,
+          "name": "Chandelure",
+          "ability": "flash-fire",
+          "nature": "timid",
+          "moves": [
+            "shadow-ball",
+            "fire-blast",
+            "energy-ball",
+            "calm-mind"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 324,
+          "name": "Torkoal",
+          "ability": "white-smoke",
+          "nature": "bold",
+          "moves": [
+            "lava-plume",
+            "earth-power",
+            "yawn",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 229,
+          "name": "Houndoom",
+          "ability": "flash-fire",
+          "nature": "timid",
+          "moves": [
+            "fire-blast",
+            "dark-pulse",
+            "sludge-bomb",
+            "nasty-plot"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 59,
+          "name": "Arcanine",
+          "ability": "intimidate",
+          "nature": "adamant",
+          "moves": [
+            "flare-blitz",
+            "extreme-speed",
+            "wild-charge",
+            "morning-sun"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My flames reduced you to ashes!",
+        "How dare you challenge a star like me!"
+      ],
+      "lose_messages": [
+        "Ugh! You dare extinguish my flames?!",
+        "...Fine. You're strong. I'll admit that much."
+      ]
+    }
+  },
+  {
+    "locationId": "kalos_elite_siebold",
+    "locationName": "Pok\u00e9mon League \u2014 Siebold",
+    "isChampion": false,
+    "leader": {
+      "name": "Siebold",
+      "title": "Elite Four \u2014 Water",
+      "imageUrl": "assets/sprites/trainers/avatar/siebold.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 693,
+          "name": "Clawitzer",
+          "ability": "mega-launcher",
+          "nature": "modest",
+          "moves": [
+            "water-pulse",
+            "dark-pulse",
+            "dragon-pulse",
+            "aura-sphere"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 689,
+          "name": "Barbaracle",
+          "ability": "tough-claws",
+          "nature": "jolly",
+          "moves": [
+            "razor-shell",
+            "stone-edge",
+            "earthquake",
+            "shell-smash"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 130,
+          "name": "Gyarados",
+          "ability": "intimidate",
+          "nature": "adamant",
+          "moves": [
+            "waterfall",
+            "earthquake",
+            "ice-fang",
+            "dragon-dance"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 121,
+          "name": "Starmie",
+          "ability": "natural-cure",
+          "nature": "timid",
+          "moves": [
+            "hydro-pump",
+            "psyshock",
+            "ice-beam",
+            "recover"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 350,
+          "name": "Milotic",
+          "ability": "marvel-scale",
+          "nature": "bold",
+          "moves": [
+            "scald",
+            "ice-beam",
+            "recover",
+            "haze"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 73,
+          "name": "Tentacruel",
+          "ability": "clear-body",
+          "nature": "timid",
+          "moves": [
+            "scald",
+            "sludge-bomb",
+            "ice-beam",
+            "toxic-spikes"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "A battle is art\u2014and mine was a masterpiece.",
+        "Your technique was undercooked, challenger."
+      ],
+      "lose_messages": [
+        "Magnifique! Your battle was a fine cuisine.",
+        "You have exquisite taste in battle. Bravo!"
+      ]
+    }
+  },
+  {
+    "locationId": "kalos_elite_wikstrom",
+    "locationName": "Pok\u00e9mon League \u2014 Wikstrom",
+    "isChampion": false,
+    "leader": {
+      "name": "Wikstrom",
+      "title": "Elite Four \u2014 Steel",
+      "imageUrl": "assets/sprites/trainers/avatar/wikstrom.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 681,
+          "name": "Aegislash",
+          "ability": "stance-change",
+          "nature": "adamant",
+          "moves": [
+            "kings-shield",
+            "iron-head",
+            "sacred-sword",
+            "shadow-sneak"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 707,
+          "name": "Klefki",
+          "ability": "prankster",
+          "nature": "bold",
+          "moves": [
+            "play-rough",
+            "foul-play",
+            "thunder-wave",
+            "spikes"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 212,
+          "name": "Scizor",
+          "ability": "technician",
+          "nature": "adamant",
+          "moves": [
+            "bullet-punch",
+            "u-turn",
+            "knock-off",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 476,
+          "name": "Probopass",
+          "ability": "magnet-pull",
+          "nature": "calm",
+          "moves": [
+            "power-gem",
+            "flash-cannon",
+            "earth-power",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 680,
+          "name": "Doublade",
+          "ability": "no-guard",
+          "nature": "adamant",
+          "moves": [
+            "shadow-claw",
+            "iron-head",
+            "sacred-sword",
+            "swords-dance"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 208,
+          "name": "Steelix",
+          "ability": "sturdy",
+          "nature": "impish",
+          "moves": [
+            "earthquake",
+            "heavy-slam",
+            "stone-edge",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        }
+      ],
+      "win_messages": [
+        "My steel armor turned aside your blade!",
+        "Thou art not yet worthy to pass, young knight!"
+      ],
+      "lose_messages": [
+        "Well fought, noble challenger! Thou hast honor.",
+        "Thy blade is true. I yield the path to thee!"
+      ]
+    }
+  },
+  {
+    "locationId": "kalos_elite_drasna",
+    "locationName": "Pok\u00e9mon League \u2014 Drasna",
+    "isChampion": false,
+    "leader": {
+      "name": "Drasna",
+      "title": "Elite Four \u2014 Dragon",
+      "imageUrl": "assets/sprites/trainers/avatar/drasna.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 691,
+          "name": "Dragalge",
+          "ability": "adaptability",
+          "nature": "modest",
+          "moves": [
+            "draco-meteor",
+            "sludge-wave",
+            "hydro-pump",
+            "toxic-spikes"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 715,
+          "name": "Noivern",
+          "ability": "infiltrator",
+          "nature": "timid",
+          "moves": [
+            "draco-meteor",
+            "boomburst",
+            "flamethrower",
+            "u-turn"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 706,
+          "name": "Goodra",
+          "ability": "sap-sipper",
+          "nature": "modest",
+          "moves": [
+            "draco-meteor",
+            "sludge-bomb",
+            "fire-blast",
+            "thunderbolt"
+          ],
+          "held_item": "assault-vest",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 334,
+          "name": "Altaria",
+          "ability": "natural-cure",
+          "nature": "jolly",
+          "moves": [
+            "dragon-claw",
+            "earthquake",
+            "dragon-dance",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 621,
+          "name": "Druddigon",
+          "ability": "sheer-force",
+          "nature": "adamant",
+          "moves": [
+            "outrage",
+            "fire-punch",
+            "sucker-punch",
+            "earthquake"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 149,
+          "name": "Dragonite",
+          "ability": "multiscale",
+          "nature": "adamant",
+          "moves": [
+            "outrage",
+            "extreme-speed",
+            "earthquake",
+            "dragon-dance"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Oh dear, my dragons were too much for you.",
+        "Come back when you and your Pok\u00e9mon are closer."
+      ],
+      "lose_messages": [
+        "My, my! What a delightful battle that was.",
+        "You and your Pok\u00e9mon share a lovely bond. Off you go!"
+      ]
+    }
+  },
+  {
+    "locationId": "kalos_champion_diantha",
+    "locationName": "Pok\u00e9mon League \u2014 Champion Diantha",
+    "isChampion": true,
+    "leader": {
+      "name": "Diantha",
+      "title": "Champion",
+      "imageUrl": "assets/sprites/trainers/avatar/diantha.png",
+      "prizeMoney": 10000,
+      "team": [
+        {
+          "id": 701,
+          "name": "Hawlucha",
+          "ability": "unburden",
+          "nature": "adamant",
+          "moves": [
+            "acrobatics",
+            "high-jump-kick",
+            "swords-dance",
+            "roost"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 697,
+          "name": "Tyrantrum",
+          "ability": "strong-jaw",
+          "nature": "jolly",
+          "moves": [
+            "head-smash",
+            "earthquake",
+            "crunch",
+            "dragon-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 699,
+          "name": "Aurorus",
+          "ability": "refrigerate",
+          "nature": "modest",
+          "moves": [
+            "hyper-voice",
+            "freeze-dry",
+            "earth-power",
+            "thunderbolt"
+          ],
+          "held_item": "choice-specs",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 711,
+          "name": "Gourgeist",
+          "ability": "frisk",
+          "nature": "impish",
+          "moves": [
+            "seed-bomb",
+            "shadow-sneak",
+            "will-o-wisp",
+            "leech-seed"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 706,
+          "name": "Goodra",
+          "ability": "sap-sipper",
+          "nature": "modest",
+          "moves": [
+            "dragon-pulse",
+            "fire-blast",
+            "thunderbolt",
+            "ice-beam"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 282,
+          "name": "Gardevoir",
+          "ability": "trace",
+          "nature": "timid",
+          "moves": [
+            "moonblast",
+            "psychic",
+            "shadow-ball",
+            "calm-mind"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "The role of Champion is not so easily taken.",
+        "You've yet to give a performance worthy of the crown."
+      ],
+      "lose_messages": [
+        "Witnessing your journey has moved me deeply.",
+        "A whole new world spreads before you, Champion."
+      ]
+    }
+  }
+]

@@ -1,0 +1,531 @@
+{
+  "493": [
+    {
+      "form_id": 10046,
+      "slug": "arceus-fire",
+      "display_name": "Arceus Fire",
+      "category": "other",
+      "battle_only": false,
+      "item": "flame-plate",
+      "trigger": "item-swap",
+      "form_name": "fire",
+      "sprite_home": "493-fire",
+      "sprite_battle": "493-fire",
+      "types": [
+        "fire"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1250
+    },
+    {
+      "form_id": 10056,
+      "slug": "arceus-water",
+      "display_name": "Arceus Water",
+      "category": "other",
+      "battle_only": false,
+      "item": "splash-plate",
+      "trigger": "item-swap",
+      "form_name": "water",
+      "sprite_home": "493-water",
+      "sprite_battle": "493-water",
+      "types": [
+        "water"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 130
+    },
+    {
+      "form_id": 10044,
+      "slug": "arceus-electric",
+      "display_name": "Arceus Electric",
+      "category": "other",
+      "battle_only": false,
+      "item": "zap-plate",
+      "trigger": "item-swap",
+      "form_name": "electric",
+      "sprite_home": "493-electric",
+      "sprite_battle": "493-electric",
+      "types": [
+        "electric"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 330
+    },
+    {
+      "form_id": 10049,
+      "slug": "arceus-grass",
+      "display_name": "Arceus Grass",
+      "category": "other",
+      "battle_only": false,
+      "item": "meadow-plate",
+      "trigger": "item-swap",
+      "form_name": "grass",
+      "sprite_home": "493-grass",
+      "sprite_battle": "493-grass",
+      "types": [
+        "grass"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 2550
+    },
+    {
+      "form_id": 10051,
+      "slug": "arceus-ice",
+      "display_name": "Arceus Ice",
+      "category": "other",
+      "battle_only": false,
+      "item": "icicle-plate",
+      "trigger": "item-swap",
+      "form_name": "ice",
+      "sprite_home": "493-ice",
+      "sprite_battle": "493-ice",
+      "types": [
+        "ice"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 484
+    },
+    {
+      "form_id": 10045,
+      "slug": "arceus-fighting",
+      "display_name": "Arceus Fighting",
+      "category": "other",
+      "battle_only": false,
+      "item": "fist-plate",
+      "trigger": "item-swap",
+      "form_name": "fighting",
+      "sprite_home": "493-fighting",
+      "sprite_battle": "493-fighting",
+      "types": [
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 615
+    },
+    {
+      "form_id": 10052,
+      "slug": "arceus-poison",
+      "display_name": "Arceus Poison",
+      "category": "other",
+      "battle_only": false,
+      "item": "toxic-plate",
+      "trigger": "item-swap",
+      "form_name": "poison",
+      "sprite_home": "493-poison",
+      "sprite_battle": "493-poison",
+      "types": [
+        "poison"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 235
+    },
+    {
+      "form_id": 10050,
+      "slug": "arceus-ground",
+      "display_name": "Arceus Ground",
+      "category": "other",
+      "battle_only": false,
+      "item": "earth-plate",
+      "trigger": "item-swap",
+      "form_name": "ground",
+      "sprite_home": "493-ground",
+      "sprite_battle": "493-ground",
+      "types": [
+        "ground"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 520
+    },
+    {
+      "form_id": 10047,
+      "slug": "arceus-flying",
+      "display_name": "Arceus Flying",
+      "category": "other",
+      "battle_only": false,
+      "item": "sky-plate",
+      "trigger": "item-swap",
+      "form_name": "flying",
+      "sprite_home": "493-flying",
+      "sprite_battle": "493-flying",
+      "types": [
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 625
+    },
+    {
+      "form_id": 10053,
+      "slug": "arceus-psychic",
+      "display_name": "Arceus Psychic",
+      "category": "other",
+      "battle_only": false,
+      "item": "mind-plate",
+      "trigger": "item-swap",
+      "form_name": "psychic",
+      "sprite_home": "493-psychic",
+      "sprite_battle": "493-psychic",
+      "types": [
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 3950
+    },
+    {
+      "form_id": 10041,
+      "slug": "arceus-bug",
+      "display_name": "Arceus Bug",
+      "category": "other",
+      "battle_only": false,
+      "item": "insect-plate",
+      "trigger": "item-swap",
+      "form_name": "bug",
+      "sprite_home": "493-bug",
+      "sprite_battle": "493-bug",
+      "types": [
+        "bug"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 3050
+    },
+    {
+      "form_id": 10054,
+      "slug": "arceus-rock",
+      "display_name": "Arceus Rock",
+      "category": "other",
+      "battle_only": false,
+      "item": "stone-plate",
+      "trigger": "item-swap",
+      "form_name": "rock",
+      "sprite_home": "493-rock",
+      "sprite_battle": "493-rock",
+      "types": [
+        "rock"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 315
+    },
+    {
+      "form_id": 10048,
+      "slug": "arceus-ghost",
+      "display_name": "Arceus Ghost",
+      "category": "other",
+      "battle_only": false,
+      "item": "spooky-plate",
+      "trigger": "item-swap",
+      "form_name": "ghost",
+      "sprite_home": "493-ghost",
+      "sprite_battle": "493-ghost",
+      "types": [
+        "ghost"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 495
+    },
+    {
+      "form_id": 10043,
+      "slug": "arceus-dragon",
+      "display_name": "Arceus Dragon",
+      "category": "other",
+      "battle_only": false,
+      "item": "draco-plate",
+      "trigger": "item-swap",
+      "form_name": "dragon",
+      "sprite_home": "493-dragon",
+      "sprite_battle": "493-dragon",
+      "types": [
+        "dragon"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1270
+    },
+    {
+      "form_id": 10042,
+      "slug": "arceus-dark",
+      "display_name": "Arceus Dark",
+      "category": "other",
+      "battle_only": false,
+      "item": "dread-plate",
+      "trigger": "item-swap",
+      "form_name": "dark",
+      "sprite_home": "493-dark",
+      "sprite_battle": "493-dark",
+      "types": [
+        "dark"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 790
+    },
+    {
+      "form_id": 10055,
+      "slug": "arceus-steel",
+      "display_name": "Arceus Steel",
+      "category": "other",
+      "battle_only": false,
+      "item": "iron-plate",
+      "trigger": "item-swap",
+      "form_name": "steel",
+      "sprite_home": "493-steel",
+      "sprite_battle": "493-steel",
+      "types": [
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 440
+    },
+    {
+      "form_id": 10085,
+      "slug": "arceus-fairy",
+      "display_name": "Arceus Fairy",
+      "category": "other",
+      "battle_only": false,
+      "item": "pixie-plate",
+      "trigger": "item-swap",
+      "form_name": "fairy",
+      "sprite_home": "493-fairy",
+      "sprite_battle": "493-fairy",
+      "types": [
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "special_attack": 120,
+        "special_defense": 120,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "multitype",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 60
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "cabo_poco_area",
+    "region": "paldea",
+    "name": "Cabo Poco Area",
+    "description": "The sunlit southern cape where every Paldean journey begins, from the cobbles of Poco Path up through the olive-dotted fields of South Province Area One.",
+    "mapSprite": "assets/maps/paldea.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "mesagoza_area",
+    "region": "paldea",
+    "name": "Mesagoza Area",
+    "description": "The walled academy city of Mesagoza at the heart of the south, ringed by the terraced hills and dusty badlands of South Province Areas Two and Four.",
+    "mapSprite": "assets/maps/paldea.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "cortondo_area",
+    "region": "paldea",
+    "name": "Cortondo Area",
+    "description": "The olive country west of Mesagoza — Cortondo's pressing mills, the rolling grass of Area Three, and the rockier reaches of Areas Five and Six.",
+    "mapSprite": "assets/maps/paldea.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "artazon_area",
+    "region": "paldea",
+    "name": "Artazon Area",
+    "description": "The garden town of Artazon and its endless sunflower fields, backed by the tangled brambles of Tagtree Thicket.",
+    "mapSprite": "assets/maps/paldea.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "levincia_area",
+    "region": "paldea",
+    "name": "Levincia Area",
+    "description": "The neon port city of Levincia on the eastern shore, wired through the storm-lit plains of East Province Areas Two and Three.",
+    "mapSprite": "assets/maps/paldea.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "cascarrafa_area",
+    "region": "paldea",
+    "name": "Cascarrafa Area",
+    "description": "The oasis city of Cascarrafa raised above the sand, reached across the blistering dunes of the Asado Desert.",
+    "mapSprite": "assets/maps/paldea.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "medali_area",
+    "region": "paldea",
+    "name": "Medali Area",
+    "description": "The food town of Medali in the western uplands, between the wide waters of Casseroya Lake and the scorched stone of Socarrat Trail.",
+    "mapSprite": "assets/maps/paldea.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "montenevera_area",
+    "region": "paldea",
+    "name": "Montenevera Area",
+    "description": "The graveyard town of Montenevera in the frozen north, spanning the fighting grounds of North Province and the snowfields of Glaseado Mountain.",
+    "mapSprite": "assets/maps/paldea.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "area_zero",
+    "region": "paldea",
+    "name": "Area Zero",
+    "description": "The Great Crater of Paldea — a sealed hollow at the centre of the region where impossible Pokémon from other times still walk.",
+    "mapSprite": "assets/maps/paldea.png",
+    "mapBackground": "",
+    "encounters": []
+  }
+]

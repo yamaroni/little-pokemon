@@ -1,0 +1,15 @@
+{
+  "costs": {
+    "dynamax": 500,
+    "gigantamax": 1000
+  },
+  "raid_den_rewards": {
+    "default": 300,
+    "by_rank": {
+      "3": 300,
+      "4": 600,
+      "5": 900,
+      "6": 1200
+    }
+  }
+}

@@ -1,0 +1,2561 @@
+[
+  {
+    "id": "kanto_route_1",
+    "region": "kanto",
+    "parentLocationId": "pallet_area",
+    "name": "Kanto Route 1",
+    "description": "A straight path between Pallet Town and Viridian City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 16,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 10,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 5,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 25,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_2",
+    "region": "kanto",
+    "parentLocationId": "pallet_area",
+    "name": "Kanto Route 2",
+    "description": "A path between Viridian City and Pewter City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 19,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 16,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 10,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 39,
+        "weight": 5,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 1,
+        "weight": 1,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_21",
+    "region": "kanto",
+    "parentLocationId": "pallet_area",
+    "name": "Kanto Route 21",
+    "description": "A coastal road south of Pallet Town running along the western shore toward Cinnabar Island.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 16,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 10,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 114,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_22",
+    "region": "kanto",
+    "parentLocationId": "pallet_area",
+    "name": "Kanto Route 22",
+    "description": "A short road west of Viridian City leading to the Pokémon League entrance.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 29,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 56,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 4,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "viridian_forest",
+    "region": "kanto",
+    "parentLocationId": "pallet_area",
+    "name": "Viridian Forest",
+    "description": "A dense maze of trees north of Viridian City, swarming with Bug-types.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 10,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 16,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 46,
+        "weight": 5,
+        "types": [
+          "bug",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 127,
+        "weight": 1,
+        "types": [
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "digglet_cave",
+    "region": "kanto",
+    "parentLocationId": "pallet_area",
+    "name": "Diglett's Cave",
+    "description": "A tunnel dug by Diglett connecting Vermilion City to Pewter City.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 50,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 1,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_pallet_area",
+    "region": "kanto",
+    "parentLocationId": "pallet_area",
+    "name": "Sea",
+    "description": "A tranquil expanse of sparkling waters teeming with abundant water‑type Pokémon, where gentle waves lull travelers.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 7,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_pallet_area",
+    "region": "kanto",
+    "parentLocationId": "pallet_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 5,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 90,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_3",
+    "region": "kanto",
+    "parentLocationId": "cerulean_area",
+    "name": "Kanto Route 3",
+    "description": "A grassy road near the mountainside with large fallen rocks all about.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 16,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 23,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 39,
+        "weight": 5,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 37,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_4",
+    "region": "kanto",
+    "parentLocationId": "cerulean_area",
+    "name": "Kanto Route 4",
+    "description": "A one-way road down a hill from Mt. Moon that leads to Cerulean City.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 23,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 56,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 63,
+        "weight": 1,
+        "types": [
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_24",
+    "region": "kanto",
+    "parentLocationId": "cerulean_area",
+    "name": "Kanto Route 24",
+    "description": "Nugget Bridge, a road north of Cerulean City crossing a river.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 16,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 48,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 10,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 133,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_25",
+    "region": "kanto",
+    "parentLocationId": "cerulean_area",
+    "name": "Kanto Route 25",
+    "description": "A winding road northeast of Cerulean City leading to Bill's house.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 48,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 20,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 10,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 5,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 58,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mt_moon",
+    "region": "kanto",
+    "parentLocationId": "cerulean_area",
+    "name": "Mt. Moon",
+    "description": "A mountain where a star fell. It now holds a mysterious power.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 50,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 46,
+        "weight": 5,
+        "types": [
+          "bug",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 35,
+        "weight": 1,
+        "types": [
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_cerulean_area",
+    "region": "kanto",
+    "parentLocationId": "cerulean_area",
+    "name": "Sea",
+    "description": "A tranquil expanse of sparkling waters teeming with abundant water‑type Pokémon, where gentle waves lull travelers.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 120,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_cerulean_area",
+    "region": "kanto",
+    "parentLocationId": "cerulean_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 5,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 116,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_5",
+    "region": "kanto",
+    "parentLocationId": "saffron_corridor",
+    "name": "Kanto Route 5",
+    "description": "A road running north of Saffron City connecting to the Underground Path.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 16,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 39,
+        "weight": 20,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 52,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 96,
+        "weight": 1,
+        "types": [
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_6",
+    "region": "kanto",
+    "parentLocationId": "saffron_corridor",
+    "name": "Kanto Route 6",
+    "description": "A road linking Saffron City and Vermilion City. There's an entrance to the Underground Path.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 52,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 39,
+        "weight": 20,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 16,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 5,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 122,
+        "weight": 1,
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_7",
+    "region": "kanto",
+    "parentLocationId": "saffron_corridor",
+    "name": "Kanto Route 7",
+    "description": "A short path connecting Route 8 with the Underground Path.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 39,
+        "weight": 20,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 52,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 16,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 108,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_8",
+    "region": "kanto",
+    "parentLocationId": "saffron_corridor",
+    "name": "Kanto Route 8",
+    "description": "A long road in eastern Kanto connecting Lavender Town and Saffron City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 52,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 84,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 23,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 29,
+        "weight": 5,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 137,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_saffron_corridor",
+    "region": "kanto",
+    "parentLocationId": "saffron_corridor",
+    "name": "Sea",
+    "description": "A tranquil expanse of sparkling waters teeming with abundant water‑type Pokémon, where gentle waves lull travelers.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 54,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 10,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 1,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_saffron_corridor",
+    "region": "kanto",
+    "parentLocationId": "saffron_corridor",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 10,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_9",
+    "region": "kanto",
+    "parentLocationId": "lavender_east",
+    "name": "Kanto Route 9",
+    "description": "A winding road northeast of Cerulean City leading toward Lavender Town.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 29,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 21,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 23,
+        "weight": 5,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 92,
+        "weight": 1,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_10",
+    "region": "kanto",
+    "parentLocationId": "lavender_east",
+    "name": "Kanto Route 10",
+    "description": "A rocky road south of the Rock Tunnel leading to Lavender Town.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 100,
+        "weight": 20,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 29,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 77,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_11",
+    "region": "kanto",
+    "parentLocationId": "lavender_east",
+    "name": "Kanto Route 11",
+    "description": "A road east of Vermilion City leading toward Lavender Town.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 52,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 84,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 21,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 23,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 5,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 83,
+        "weight": 1,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_lavender_east",
+    "region": "kanto",
+    "parentLocationId": "lavender_east",
+    "name": "Sea",
+    "description": "A tranquil expanse of sparkling waters teeming with abundant water‑type Pokémon, where gentle waves lull travelers.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 5,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_lavender_east",
+    "region": "kanto",
+    "parentLocationId": "lavender_east",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 10,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rock_tunnel",
+    "region": "kanto",
+    "parentLocationId": "lavender_east",
+    "name": "Rock Tunnel",
+    "description": "A pitch-black cave connecting Route 9 and Route 10, requiring Flash to navigate.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 50,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 106,
+        "weight": 1,
+        "types": [
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pokemon_tower",
+    "region": "kanto",
+    "parentLocationId": "lavender_east",
+    "name": "Pokémon Tower",
+    "description": "A seven-storey tower in Lavender Town where departed Pokémon are laid to rest.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 16,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 23,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 21,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 104,
+        "weight": 1,
+        "types": [
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "power_plant",
+    "region": "kanto",
+    "parentLocationId": "lavender_east",
+    "name": "Power Plant",
+    "description": "An abandoned power station east of Cerulean City, crawling with Electric- and Poison-types.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 81,
+        "weight": 20,
+        "types": [
+          "electric",
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 100,
+        "weight": 20,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 125,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_12",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Kanto Route 12",
+    "description": "A long coastal road south of Lavender Town running along the eastern shore.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 43,
+        "weight": 20,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 48,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 16,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 39,
+        "weight": 5,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 123,
+        "weight": 1,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_13",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Kanto Route 13",
+    "description": "A winding coastal path south of Lavender Town connecting to Fuchsia City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 48,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 20,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 16,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 29,
+        "weight": 5,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 109,
+        "weight": 1,
+        "types": [
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_14",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Kanto Route 14",
+    "description": "A narrow road running south through tall grass west of Fuchsia City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 48,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 84,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 5,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 88,
+        "weight": 1,
+        "types": [
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_15",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Kanto Route 15",
+    "description": "A long road running east from Fuchsia City toward Lavender Town.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 84,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 48,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 69,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 39,
+        "weight": 5,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 124,
+        "weight": 1,
+        "types": [
+          "ice",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_16",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Kanto Route 16",
+    "description": "A wide road west of Celadon City leading to the Cycling Road.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 19,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 84,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 29,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 56,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 143,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_17",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Kanto Route 17",
+    "description": "The Cycling Road, a long downhill path from Celadon City to Fuchsia City.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 84,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 56,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 128,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_18",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Kanto Route 18",
+    "description": "A short road east of Fuchsia City at the base of the Cycling Road.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 84,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 21,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 19,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 29,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 23,
+        "weight": 5,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 115,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_19",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Kanto Route 19",
+    "description": "A stretch of open water south of Fuchsia City, the start of the swim toward the Seafoam Islands.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 138,
+        "weight": 1,
+        "types": [
+          "rock",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_20",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Kanto Route 20",
+    "description": "A sea route winding past the Seafoam Islands toward Cinnabar Island.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 5,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 140,
+        "weight": 1,
+        "types": [
+          "rock",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "safari_zone",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Safari Zone",
+    "description": "A vast protected preserve north of Fuchsia City where rare Pokémon roam freely.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 29,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 48,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 43,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 102,
+        "weight": 5,
+        "types": [
+          "grass",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 113,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seafoam_islands",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Seafoam Islands",
+    "description": "A pair of frozen sea caves between Cinnabar Island and Fuchsia City.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 10,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 5,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 131,
+        "weight": 1,
+        "types": [
+          "water",
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pokemon_mansion",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Pokémon Mansion",
+    "description": "A burnt-out research mansion on Cinnabar Island, still crawling with poisonous Pokémon.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 19,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 23,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 48,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 52,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 126,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea_fuchsia_south",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Sea",
+    "description": "A tranquil expanse of sparkling waters teeming with abundant water‑type Pokémon, where gentle waves lull travelers.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 79,
+        "weight": 20,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 86,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_fuchsia_south",
+    "region": "kanto",
+    "parentLocationId": "fuchsia_south",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 98,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 79,
+        "weight": 5,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 147,
+        "weight": 1,
+        "types": [
+          "dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kanto_route_23",
+    "region": "kanto",
+    "parentLocationId": "victory_road",
+    "name": "Kanto Route 23",
+    "description": "A long road north of Viridian City leading to the Pokémon League.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 29,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 32,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 21,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 5,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 111,
+        "weight": 1,
+        "types": [
+          "ground",
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "victory_road",
+    "region": "kanto",
+    "parentLocationId": "victory_road",
+    "name": "Victory Road",
+    "description": "A rugged mountain cave that only Trainers with all eight Badges may pass through.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 50,
+        "weight": 5,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 107,
+        "weight": 1,
+        "types": [
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cerulean_cave",
+    "region": "kanto",
+    "parentLocationId": "victory_road",
+    "name": "Cerulean Cave",
+    "description": "A deep cave west of Cerulean City, open only to Champions, where the strongest wild Pokémon lurk.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 27,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 50,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 132,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 142,
+        "weight": 1,
+        "types": [
+          "rock",
+          "flying"
+        ]
+      }
+    ]
+  }
+]

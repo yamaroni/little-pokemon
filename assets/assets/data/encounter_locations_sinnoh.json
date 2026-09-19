@@ -1,0 +1,83 @@
+[
+  {
+    "id": "twinleaf_area",
+    "region": "sinnoh",
+    "name": "Twinleaf Area",
+    "description": "The quiet southern start of Sinnoh around Twinleaf Town and Sandgem, spanning the early routes, Lake Verity, and Jubilife City.",
+    "mapSprite": "assets/maps/sinnoh.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "oreburgh_area",
+    "region": "sinnoh",
+    "name": "Oreburgh Area",
+    "description": "The rugged mining country east of Jubilife, home to Oreburgh City, its gate and mine, and the rocky cycling road.",
+    "mapSprite": "assets/maps/sinnoh.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "eterna_area",
+    "region": "sinnoh",
+    "name": "Eterna Area",
+    "description": "The flowery north around Floaroma Town and Eterna City, including the haunted Eterna Forest and the Old Chateau.",
+    "mapSprite": "assets/maps/sinnoh.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "hearthome_area",
+    "region": "sinnoh",
+    "name": "Hearthome Area",
+    "description": "The central crossroads around Hearthome and Solaceon, dotted with the Lost Tower, the Solaceon Ruins, and the climb toward Mt. Coronet.",
+    "mapSprite": "assets/maps/sinnoh.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "pastoria_area",
+    "region": "sinnoh",
+    "name": "Pastoria Area",
+    "description": "The marshy southeast around Pastoria City and the Great Marsh, ringed by seaside routes and the Valor Lakefront.",
+    "mapSprite": "assets/maps/sinnoh.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "celestic_area",
+    "region": "sinnoh",
+    "name": "Celestic Area",
+    "description": "The ancient heart of Sinnoh around Celestic Town and the towering Mt. Coronet that splits the region in two.",
+    "mapSprite": "assets/maps/sinnoh.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "canalave_area",
+    "region": "sinnoh",
+    "name": "Canalave Area",
+    "description": "The western harbour around Canalave City, the steel-laden Iron Island, and the open sea routes leading out to it.",
+    "mapSprite": "assets/maps/sinnoh.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "snowpoint_area",
+    "region": "sinnoh",
+    "name": "Snowpoint Area",
+    "description": "The frozen north around Snowpoint City, the snowbound routes, the Acuity Lakefront, and the icy Snowpoint Temple.",
+    "mapSprite": "assets/maps/sinnoh.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "sunyshore_area",
+    "region": "sinnoh",
+    "name": "Sunyshore Area",
+    "description": "The sun-baked east around Sunyshore City and the long road to the Pokémon League, climbing through Victory Road.",
+    "mapSprite": "assets/maps/sinnoh.png",
+    "mapBackground": "",
+    "encounters": []
+  }
+]

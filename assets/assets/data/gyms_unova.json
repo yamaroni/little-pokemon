@@ -1,0 +1,1322 @@
+[
+  {
+    "locationId": "striaton_gym",
+    "locationName": "Striaton Gym",
+    "badge": {
+      "name": "Trio Badge",
+      "imageUrl": "assets/sprites/badges/unova/trio.png"
+    },
+    "leader": {
+      "name": "Cilan",
+      "title": "Grass-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/cilan.png",
+      "prizeMoney": 4200,
+      "team": [
+        {
+          "id": 497,
+          "name": "Serperior",
+          "ability": "contrary",
+          "nature": "timid",
+          "moves": [
+            "leaf-storm",
+            "giga-drain",
+            "glare",
+            "dragon-tail"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 512,
+          "name": "Simisage",
+          "ability": "overgrow",
+          "nature": "jolly",
+          "moves": [
+            "seed-bomb",
+            "rock-slide",
+            "low-kick",
+            "crunch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 542,
+          "name": "Leavanny",
+          "ability": "swarm",
+          "nature": "adamant",
+          "moves": [
+            "leaf-blade",
+            "x-scissor",
+            "swords-dance",
+            "shadow-claw"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 549,
+          "name": "Lilligant",
+          "ability": "own-tempo",
+          "nature": "timid",
+          "moves": [
+            "quiver-dance",
+            "giga-drain",
+            "hidden-power",
+            "sleep-powder"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 547,
+          "name": "Whimsicott",
+          "ability": "prankster",
+          "nature": "timid",
+          "moves": [
+            "giga-drain",
+            "moonblast",
+            "u-turn",
+            "cotton-guard"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 586,
+          "name": "Sawsbuck",
+          "ability": "sap-sipper",
+          "nature": "adamant",
+          "moves": [
+            "horn-leech",
+            "double-edge",
+            "jump-kick",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "The taste of victory is exquisite tonight.",
+        "Your battle lacked the proper seasoning."
+      ],
+      "lose_messages": [
+        "Bon app\u00e9tit\u2014your victory is well prepared!",
+        "A full-course battle! You've earned this badge."
+      ]
+    }
+  },
+  {
+    "locationId": "nacrene_gym",
+    "locationName": "Nacrene Gym",
+    "badge": {
+      "name": "Basic Badge",
+      "imageUrl": "assets/sprites/badges/unova/basic.png"
+    },
+    "leader": {
+      "name": "Lenora",
+      "title": "Normal-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/lenora.png",
+      "prizeMoney": 4000,
+      "team": [
+        {
+          "id": 508,
+          "name": "Stoutland",
+          "ability": "intimidate",
+          "nature": "adamant",
+          "moves": [
+            "body-slam",
+            "crunch",
+            "superpower",
+            "wild-charge"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 505,
+          "name": "Watchog",
+          "ability": "analytic",
+          "nature": "jolly",
+          "moves": [
+            "crunch",
+            "low-kick",
+            "super-fang",
+            "hypnosis"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 626,
+          "name": "Bouffalant",
+          "ability": "reckless",
+          "nature": "adamant",
+          "moves": [
+            "head-charge",
+            "earthquake",
+            "megahorn",
+            "wild-charge"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 573,
+          "name": "Cinccino",
+          "ability": "skill-link",
+          "nature": "jolly",
+          "moves": [
+            "tail-slap",
+            "bullet-seed",
+            "rock-blast",
+            "u-turn"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 531,
+          "name": "Audino",
+          "ability": "regenerator",
+          "nature": "calm",
+          "moves": [
+            "hyper-voice",
+            "wish",
+            "protect",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 628,
+          "name": "Braviary",
+          "ability": "defiant",
+          "nature": "adamant",
+          "moves": [
+            "brave-bird",
+            "superpower",
+            "rock-slide",
+            "u-turn"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Did you do your homework, dearie? Clearly not.",
+        "Study harder before you challenge me again!"
+      ],
+      "lose_messages": [
+        "My, my! You passed with flying colors.",
+        "You've done your research. Take the badge, dear."
+      ]
+    }
+  },
+  {
+    "locationId": "virbank_gym",
+    "locationName": "Virbank Gym",
+    "badge": {
+      "name": "Toxic Badge",
+      "imageUrl": "assets/sprites/badges/unova/toxic.png"
+    },
+    "leader": {
+      "name": "Roxie",
+      "title": "Poison-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/roxie.png",
+      "prizeMoney": 4800,
+      "team": [
+        {
+          "id": 545,
+          "name": "Scolipede",
+          "ability": "speed-boost",
+          "nature": "jolly",
+          "moves": [
+            "megahorn",
+            "poison-jab",
+            "earthquake",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 569,
+          "name": "Garbodor",
+          "ability": "aftermath",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "seed-bomb",
+            "drain-punch",
+            "explosion"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 591,
+          "name": "Amoonguss",
+          "ability": "regenerator",
+          "nature": "calm",
+          "moves": [
+            "giga-drain",
+            "sludge-bomb",
+            "spore",
+            "clear-smog"
+          ],
+          "held_item": "black-sludge",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 169,
+          "name": "Crobat",
+          "ability": "infiltrator",
+          "nature": "jolly",
+          "moves": [
+            "cross-poison",
+            "brave-bird",
+            "u-turn",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 454,
+          "name": "Toxicroak",
+          "ability": "dry-skin",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "drain-punch",
+            "sucker-punch",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 407,
+          "name": "Roserade",
+          "ability": "natural-cure",
+          "nature": "timid",
+          "moves": [
+            "sludge-bomb",
+            "giga-drain",
+            "sleep-powder",
+            "leaf-storm"
+          ],
+          "held_item": "black-sludge",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Ha! My toxic riffs blew you away!",
+        "You call that a challenge? Weak sauce!"
+      ],
+      "lose_messages": [
+        "Whoa, you totally rocked my world!",
+        "That was a killer set. Badge's all yours, dude!"
+      ]
+    }
+  },
+  {
+    "locationId": "castelia_gym",
+    "locationName": "Castelia Gym",
+    "badge": {
+      "name": "Insect Badge",
+      "imageUrl": "assets/sprites/badges/unova/insect.png"
+    },
+    "leader": {
+      "name": "Burgh",
+      "title": "Bug-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/burgh.png",
+      "prizeMoney": 5000,
+      "team": [
+        {
+          "id": 542,
+          "name": "Leavanny",
+          "ability": "swarm",
+          "nature": "adamant",
+          "moves": [
+            "leaf-blade",
+            "x-scissor",
+            "swords-dance",
+            "poison-jab"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 545,
+          "name": "Scolipede",
+          "ability": "speed-boost",
+          "nature": "jolly",
+          "moves": [
+            "megahorn",
+            "poison-jab",
+            "earthquake",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 637,
+          "name": "Volcarona",
+          "ability": "flame-body",
+          "nature": "timid",
+          "moves": [
+            "quiver-dance",
+            "bug-buzz",
+            "fiery-dance",
+            "giga-drain"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 596,
+          "name": "Galvantula",
+          "ability": "compound-eyes",
+          "nature": "timid",
+          "moves": [
+            "thunder",
+            "bug-buzz",
+            "volt-switch",
+            "energy-ball"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 589,
+          "name": "Escavalier",
+          "ability": "overcoat",
+          "nature": "adamant",
+          "moves": [
+            "megahorn",
+            "iron-head",
+            "knock-off",
+            "swords-dance"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 617,
+          "name": "Accelgor",
+          "ability": "sticky-hold",
+          "nature": "timid",
+          "moves": [
+            "bug-buzz",
+            "focus-blast",
+            "energy-ball",
+            "spikes"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Ah, my masterpiece of victory is complete!",
+        "Your battle lacked inspiration, hmm."
+      ],
+      "lose_messages": [
+        "Incredible! You've inspired a new artwork!",
+        "Beautiful battling! The badge is your canvas now."
+      ]
+    }
+  },
+  {
+    "locationId": "nimbasa_gym",
+    "locationName": "Nimbasa Gym",
+    "badge": {
+      "name": "Bolt Badge",
+      "imageUrl": "assets/sprites/badges/unova/bolt.png"
+    },
+    "leader": {
+      "name": "Elesa",
+      "title": "Electric-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/elesa.png",
+      "prizeMoney": 4600,
+      "team": [
+        {
+          "id": 523,
+          "name": "Zebstrika",
+          "ability": "lightning-rod",
+          "nature": "jolly",
+          "moves": [
+            "wild-charge",
+            "high-horsepower",
+            "flame-charge",
+            "volt-switch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 604,
+          "name": "Eelektross",
+          "ability": "levitate",
+          "nature": "quiet",
+          "moves": [
+            "thunderbolt",
+            "flamethrower",
+            "giga-drain",
+            "dragon-pulse"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 596,
+          "name": "Galvantula",
+          "ability": "compound-eyes",
+          "nature": "timid",
+          "moves": [
+            "thunder",
+            "bug-buzz",
+            "volt-switch",
+            "energy-ball"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 587,
+          "name": "Emolga",
+          "ability": "motor-drive",
+          "nature": "timid",
+          "moves": [
+            "thunderbolt",
+            "air-slash",
+            "volt-switch",
+            "encore"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 618,
+          "name": "Stunfisk",
+          "ability": "static",
+          "nature": "calm",
+          "moves": [
+            "discharge",
+            "earth-power",
+            "scald",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 601,
+          "name": "Klinklang",
+          "ability": "clear-body",
+          "nature": "adamant",
+          "moves": [
+            "gear-grind",
+            "wild-charge",
+            "shift-gear",
+            "substitute"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Dazzling, wasn't it? You never stood a chance.",
+        "The spotlight was always on me, darling."
+      ],
+      "lose_messages": [
+        "What a shocking upset! You were radiant.",
+        "You stole the show. The badge suits you, star."
+      ]
+    }
+  },
+  {
+    "locationId": "driftveil_gym",
+    "locationName": "Driftveil Gym",
+    "badge": {
+      "name": "Quake Badge",
+      "imageUrl": "assets/sprites/badges/unova/quake.png"
+    },
+    "leader": {
+      "name": "Clay",
+      "title": "Ground-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/clay.png",
+      "prizeMoney": 5000,
+      "team": [
+        {
+          "id": 530,
+          "name": "Excadrill",
+          "ability": "sand-rush",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "iron-head",
+            "rock-slide",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 553,
+          "name": "Krookodile",
+          "ability": "intimidate",
+          "nature": "jolly",
+          "moves": [
+            "earthquake",
+            "knock-off",
+            "stone-edge",
+            "outrage"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 537,
+          "name": "Seismitoad",
+          "ability": "water-absorb",
+          "nature": "modest",
+          "moves": [
+            "hydro-pump",
+            "earth-power",
+            "sludge-bomb",
+            "scald"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 623,
+          "name": "Golurk",
+          "ability": "iron-fist",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "shadow-punch",
+            "ice-punch",
+            "stone-edge"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 618,
+          "name": "Stunfisk",
+          "ability": "static",
+          "nature": "calm",
+          "moves": [
+            "earth-power",
+            "discharge",
+            "scald",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 526,
+          "name": "Gigalith",
+          "ability": "sand-stream",
+          "nature": "adamant",
+          "moves": [
+            "stone-edge",
+            "earthquake",
+            "heavy-slam",
+            "explosion"
+          ],
+          "held_item": "custap-berry",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Hgyah! Ya dug yourself into a hole there!",
+        "Come back when ya've toughened up, pardner!"
+      ],
+      "lose_messages": [
+        "Hgyah! Well, a deal's a deal\u2014ya earned it!",
+        "Ya dug deep and struck gold. Fine work, pardner."
+      ]
+    }
+  },
+  {
+    "locationId": "mistralton_gym",
+    "locationName": "Mistralton Gym",
+    "badge": {
+      "name": "Jet Badge",
+      "imageUrl": "assets/sprites/badges/unova/jet.png"
+    },
+    "leader": {
+      "name": "Skyla",
+      "title": "Flying-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/skyla.png",
+      "prizeMoney": 4600,
+      "team": [
+        {
+          "id": 521,
+          "name": "Unfezant",
+          "ability": "super-luck",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "u-turn",
+            "facade",
+            "steel-wing"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 581,
+          "name": "Swanna",
+          "ability": "big-pecks",
+          "nature": "timid",
+          "moves": [
+            "hurricane",
+            "scald",
+            "ice-beam",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 561,
+          "name": "Sigilyph",
+          "ability": "magic-guard",
+          "nature": "timid",
+          "moves": [
+            "air-slash",
+            "psychic",
+            "energy-ball",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 628,
+          "name": "Braviary",
+          "ability": "defiant",
+          "nature": "adamant",
+          "moves": [
+            "brave-bird",
+            "superpower",
+            "rock-slide",
+            "u-turn"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 567,
+          "name": "Archeops",
+          "ability": "defeatist",
+          "nature": "jolly",
+          "moves": [
+            "rock-slide",
+            "acrobatics",
+            "earthquake",
+            "u-turn"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 630,
+          "name": "Mandibuzz",
+          "ability": "overcoat",
+          "nature": "bold",
+          "moves": [
+            "foul-play",
+            "air-slash",
+            "roost",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        }
+      ],
+      "win_messages": [
+        "My forecast said you'd lose\u2014and I'm never wrong!",
+        "You couldn't reach my altitude, sorry!"
+      ],
+      "lose_messages": [
+        "Whoa, you soared right past my prediction!",
+        "Clear skies ahead for you! Take the badge."
+      ]
+    }
+  },
+  {
+    "locationId": "humilau_gym",
+    "locationName": "Humilau Gym",
+    "badge": {
+      "name": "Wave Badge",
+      "imageUrl": "assets/sprites/badges/unova/wave.png"
+    },
+    "leader": {
+      "name": "Marlon",
+      "title": "Water-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/marlon.png",
+      "prizeMoney": 5000,
+      "team": [
+        {
+          "id": 503,
+          "name": "Samurott",
+          "ability": "torrent",
+          "nature": "adamant",
+          "moves": [
+            "waterfall",
+            "megahorn",
+            "aqua-jet",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 593,
+          "name": "Jellicent",
+          "ability": "water-absorb",
+          "nature": "bold",
+          "moves": [
+            "scald",
+            "shadow-ball",
+            "recover",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 565,
+          "name": "Carracosta",
+          "ability": "solid-rock",
+          "nature": "adamant",
+          "moves": [
+            "waterfall",
+            "stone-edge",
+            "aqua-jet",
+            "shell-smash"
+          ],
+          "held_item": "white-herb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 550,
+          "name": "Basculin",
+          "ability": "adaptability",
+          "nature": "jolly",
+          "moves": [
+            "waterfall",
+            "aqua-jet",
+            "crunch",
+            "head-smash"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 594,
+          "name": "Alomomola",
+          "ability": "regenerator",
+          "nature": "bold",
+          "moves": [
+            "scald",
+            "wish",
+            "protect",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 581,
+          "name": "Swanna",
+          "ability": "big-pecks",
+          "nature": "timid",
+          "moves": [
+            "hurricane",
+            "scald",
+            "ice-beam",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "The sea's too wild for ya, dude!",
+        "You got swept out by my waves, bro!"
+      ],
+      "lose_messages": [
+        "Whoa, you ride the waves like a pro!",
+        "The sea likes you, dude. Badge is yours!"
+      ]
+    }
+  },
+  {
+    "locationId": "icirrus_gym",
+    "locationName": "Icirrus Gym",
+    "badge": {
+      "name": "Freeze Badge",
+      "imageUrl": "assets/sprites/badges/unova/freeze.png"
+    },
+    "leader": {
+      "name": "Brycen",
+      "title": "Ice-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/brycen.png",
+      "prizeMoney": 3600,
+      "team": [
+        {
+          "id": 582,
+          "name": "Vanillite",
+          "ability": "ice-body",
+          "nature": "modest",
+          "moves": [
+            "blizzard",
+            "flash-cannon",
+            "icy-wind",
+            "mirror-shot"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 583,
+          "name": "Vanillish",
+          "ability": "ice-body",
+          "nature": "modest",
+          "moves": [
+            "blizzard",
+            "flash-cannon",
+            "icy-wind",
+            "mirror-shot"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 584,
+          "name": "Vanilluxe",
+          "ability": "snow-warning",
+          "nature": "modest",
+          "moves": [
+            "blizzard",
+            "flash-cannon",
+            "ice-beam",
+            "sludge-bomb"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 613,
+          "name": "Cubchoo",
+          "ability": "snow-cloak",
+          "nature": "adamant",
+          "moves": [
+            "icicle-crash",
+            "superpower",
+            "aqua-jet",
+            "stone-edge"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 614,
+          "name": "Beartic",
+          "ability": "slush-rush",
+          "nature": "adamant",
+          "moves": [
+            "icicle-crash",
+            "superpower",
+            "aqua-jet",
+            "stone-edge"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 615,
+          "name": "Cryogonal",
+          "ability": "levitate",
+          "nature": "timid",
+          "moves": [
+            "ice-beam",
+            "flash-cannon",
+            "recover",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My frozen resolve could not be thawed.",
+        "You lack the cold focus to defeat me."
+      ],
+      "lose_messages": [
+        "Your heart's fire melted my ice. Well done.",
+        "A chilling battle. You have earned your badge."
+      ]
+    }
+  },
+  {
+    "locationId": "opelucid_gym",
+    "locationName": "Opelucid Gym",
+    "badge": {
+      "name": "Legend Badge",
+      "imageUrl": "assets/sprites/badges/unova/legend.png"
+    },
+    "leader": {
+      "name": "Iris",
+      "title": "Dragon-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/iris.png",
+      "prizeMoney": 6500,
+      "team": [
+        {
+          "id": 612,
+          "name": "Haxorus",
+          "ability": "mold-breaker",
+          "nature": "jolly",
+          "moves": [
+            "outrage",
+            "earthquake",
+            "dragon-dance",
+            "poison-jab"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 621,
+          "name": "Druddigon",
+          "ability": "sheer-force",
+          "nature": "adamant",
+          "moves": [
+            "outrage",
+            "fire-punch",
+            "sucker-punch",
+            "earthquake"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 611,
+          "name": "Fraxure",
+          "ability": "mold-breaker",
+          "nature": "adamant",
+          "moves": [
+            "dragon-claw",
+            "earthquake",
+            "shadow-claw",
+            "dragon-dance"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 635,
+          "name": "Hydreigon",
+          "ability": "levitate",
+          "nature": "modest",
+          "moves": [
+            "draco-meteor",
+            "dark-pulse",
+            "flamethrower",
+            "flash-cannon"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 634,
+          "name": "Zweilous",
+          "ability": "hustle",
+          "nature": "adamant",
+          "moves": [
+            "outrage",
+            "crunch",
+            "head-smash",
+            "dragon-dance"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 610,
+          "name": "Axew",
+          "ability": "mold-breaker",
+          "nature": "jolly",
+          "moves": [
+            "outrage",
+            "dragon-dance",
+            "earthquake",
+            "shadow-claw"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Yay! My dragons and I had so much fun beating you!",
+        "You gotta love dragons more to beat me!"
+      ],
+      "lose_messages": [
+        "Wowww, you and your Pok\u00e9mon are amazing!",
+        "You beat me! That was the best battle ever!"
+      ]
+    }
+  }
+]

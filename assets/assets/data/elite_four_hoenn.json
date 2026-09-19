@@ -1,0 +1,647 @@
+[
+  {
+    "locationId": "hoenn_elite_sidney",
+    "locationName": "Ever Grande City \u2014 Sidney",
+    "isChampion": false,
+    "leader": {
+      "name": "Sidney",
+      "title": "Elite Four \u2014 Dark",
+      "imageUrl": "assets/sprites/trainers/avatar/sidney.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 262,
+          "name": "Mightyena",
+          "ability": "intimidate",
+          "nature": "jolly",
+          "moves": [
+            "crunch",
+            "play-rough",
+            "sucker-punch",
+            "fire-fang"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 332,
+          "name": "Cacturne",
+          "ability": "water-absorb",
+          "nature": "adamant",
+          "moves": [
+            "seed-bomb",
+            "sucker-punch",
+            "drain-punch",
+            "swords-dance"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 319,
+          "name": "Sharpedo",
+          "ability": "speed-boost",
+          "nature": "naive",
+          "moves": [
+            "waterfall",
+            "crunch",
+            "ice-fang",
+            "close-combat"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 510,
+          "name": "Liepard",
+          "ability": "prankster",
+          "nature": "jolly",
+          "moves": [
+            "knock-off",
+            "sucker-punch",
+            "play-rough",
+            "thunder-wave"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 430,
+          "name": "Honchkrow",
+          "ability": "moxie",
+          "nature": "adamant",
+          "moves": [
+            "brave-bird",
+            "sucker-punch",
+            "heat-wave",
+            "superpower"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 359,
+          "name": "Absol",
+          "ability": "super-luck",
+          "nature": "adamant",
+          "moves": [
+            "sucker-punch",
+            "play-rough",
+            "knock-off",
+            "swords-dance"
+          ],
+          "held_item": "absolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Heh, no hard feelings\u2014you just lost!",
+        "My Dark-types played dirty and won!"
+      ],
+      "lose_messages": [
+        "Well, well! You beat me fair and square.",
+        "I like your style, kid. On you go!"
+      ]
+    }
+  },
+  {
+    "locationId": "hoenn_elite_phoebe",
+    "locationName": "Ever Grande City \u2014 Phoebe",
+    "isChampion": false,
+    "leader": {
+      "name": "Phoebe",
+      "title": "Elite Four \u2014 Ghost",
+      "imageUrl": "assets/sprites/trainers/avatar/phoebe.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 356,
+          "name": "Dusclops",
+          "ability": "pressure",
+          "nature": "impish",
+          "moves": [
+            "shadow-sneak",
+            "will-o-wisp",
+            "pain-split",
+            "night-shade"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 477,
+          "name": "Dusknoir",
+          "ability": "pressure",
+          "nature": "adamant",
+          "moves": [
+            "shadow-punch",
+            "earthquake",
+            "ice-punch",
+            "fire-punch"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 426,
+          "name": "Drifblim",
+          "ability": "unburden",
+          "nature": "modest",
+          "moves": [
+            "shadow-ball",
+            "hex",
+            "thunderbolt",
+            "calm-mind"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 94,
+          "name": "Gengar",
+          "ability": "cursed-body",
+          "nature": "timid",
+          "moves": [
+            "shadow-ball",
+            "sludge-wave",
+            "focus-blast",
+            "nasty-plot"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 429,
+          "name": "Mismagius",
+          "ability": "levitate",
+          "nature": "timid",
+          "moves": [
+            "shadow-ball",
+            "dazzling-gleam",
+            "mystical-fire",
+            "nasty-plot"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 354,
+          "name": "Banette",
+          "ability": "insomnia",
+          "nature": "adamant",
+          "moves": [
+            "shadow-claw",
+            "sucker-punch",
+            "knock-off",
+            "will-o-wisp"
+          ],
+          "held_item": "banettite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Teehee! My ghosts slipped right past you!",
+        "You couldn't touch my spooky friends!"
+      ],
+      "lose_messages": [
+        "Aww, you saw through my ghosts. Nicely done!",
+        "You're strong! Go give the next one a scare."
+      ]
+    }
+  },
+  {
+    "locationId": "hoenn_elite_glacia",
+    "locationName": "Ever Grande City \u2014 Glacia",
+    "isChampion": false,
+    "leader": {
+      "name": "Glacia",
+      "title": "Elite Four \u2014 Ice",
+      "imageUrl": "assets/sprites/trainers/avatar/glacia.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 364,
+          "name": "Sealeo",
+          "ability": "thick-fat",
+          "nature": "modest",
+          "moves": [
+            "ice-beam",
+            "surf",
+            "freeze-dry",
+            "ice-shard"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 365,
+          "name": "Walrein",
+          "ability": "thick-fat",
+          "nature": "modest",
+          "moves": [
+            "ice-beam",
+            "surf",
+            "freeze-dry",
+            "body-slam"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 461,
+          "name": "Weavile",
+          "ability": "pressure",
+          "nature": "jolly",
+          "moves": [
+            "icicle-crash",
+            "knock-off",
+            "ice-shard",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 478,
+          "name": "Froslass",
+          "ability": "cursed-body",
+          "nature": "timid",
+          "moves": [
+            "ice-beam",
+            "shadow-ball",
+            "destiny-bond",
+            "thunderbolt"
+          ],
+          "held_item": "choice-specs",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 473,
+          "name": "Mamoswine",
+          "ability": "thick-fat",
+          "nature": "adamant",
+          "moves": [
+            "icicle-crash",
+            "earthquake",
+            "ice-shard",
+            "stone-edge"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 362,
+          "name": "Glalie",
+          "ability": "ice-body",
+          "nature": "naive",
+          "moves": [
+            "ice-beam",
+            "earthquake",
+            "freeze-dry",
+            "explosion"
+          ],
+          "held_item": "glalitite",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My cold passion froze your challenge solid.",
+        "Your heat was not enough to melt me."
+      ],
+      "lose_messages": [
+        "Your passion burned away my ice. Magnificent.",
+        "Such fiery spirit! I am pleased to have lost."
+      ]
+    }
+  },
+  {
+    "locationId": "hoenn_elite_drake",
+    "locationName": "Ever Grande City \u2014 Drake",
+    "isChampion": false,
+    "leader": {
+      "name": "Drake",
+      "title": "Elite Four \u2014 Dragon",
+      "imageUrl": "assets/sprites/trainers/avatar/drake.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 373,
+          "name": "Salamence",
+          "ability": "intimidate",
+          "nature": "naive",
+          "moves": [
+            "draco-meteor",
+            "fire-blast",
+            "earthquake",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 330,
+          "name": "Flygon",
+          "ability": "levitate",
+          "nature": "jolly",
+          "moves": [
+            "earthquake",
+            "dragon-claw",
+            "u-turn",
+            "fire-punch"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 334,
+          "name": "Altaria",
+          "ability": "natural-cure",
+          "nature": "adamant",
+          "moves": [
+            "dragon-dance",
+            "dragon-claw",
+            "earthquake",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 372,
+          "name": "Shelgon",
+          "ability": "rock-head",
+          "nature": "adamant",
+          "moves": [
+            "outrage",
+            "dragon-dance",
+            "earthquake",
+            "crunch"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 445,
+          "name": "Garchomp",
+          "ability": "rough-skin",
+          "nature": "jolly",
+          "moves": [
+            "earthquake",
+            "outrage",
+            "stone-edge",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 384,
+          "name": "Rayquaza",
+          "ability": "air-lock",
+          "nature": "adamant",
+          "moves": [
+            "dragon-ascent",
+            "extreme-speed",
+            "earthquake",
+            "dragon-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "A trainer without conviction cannot beat my dragons!",
+        "You lack the bond to command victory!"
+      ],
+      "lose_messages": [
+        "Superb! You battle with true conviction.",
+        "You and your Pok\u00e9mon are as one. Well fought!"
+      ]
+    }
+  },
+  {
+    "locationId": "hoenn_champion_steven",
+    "locationName": "Ever Grande City \u2014 Champion Steven",
+    "isChampion": true,
+    "leader": {
+      "name": "Steven",
+      "title": "Champion",
+      "imageUrl": "assets/sprites/trainers/avatar/steven.png",
+      "prizeMoney": 10000,
+      "team": [
+        {
+          "id": 227,
+          "name": "Skarmory",
+          "ability": "sturdy",
+          "nature": "impish",
+          "moves": [
+            "brave-bird",
+            "spikes",
+            "stealth-rock",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 344,
+          "name": "Claydol",
+          "ability": "levitate",
+          "nature": "bold",
+          "moves": [
+            "earth-power",
+            "stealth-rock",
+            "rapid-spin",
+            "ice-beam"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 306,
+          "name": "Aggron",
+          "ability": "rock-head",
+          "nature": "adamant",
+          "moves": [
+            "head-smash",
+            "earthquake",
+            "heavy-slam",
+            "fire-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 346,
+          "name": "Cradily",
+          "ability": "storm-drain",
+          "nature": "calm",
+          "moves": [
+            "giga-drain",
+            "power-gem",
+            "recover",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 348,
+          "name": "Armaldo",
+          "ability": "battle-armor",
+          "nature": "adamant",
+          "moves": [
+            "x-scissor",
+            "stone-edge",
+            "earthquake",
+            "aqua-jet"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 376,
+          "name": "Metagross",
+          "ability": "clear-body",
+          "nature": "adamant",
+          "moves": [
+            "meteor-mash",
+            "earthquake",
+            "zen-headbutt",
+            "ice-punch"
+          ],
+          "held_item": "metagrossite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My steel is the strongest in Hoenn!",
+        "You have not yet unearthed your true power."
+      ],
+      "lose_messages": [
+        "So I have finally been bested... wonderful.",
+        "You are a rare stone indeed. You're the Champion."
+      ]
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "littleroot_area",
+    "region": "hoenn",
+    "name": "Littleroot Area",
+    "description": "The lush southern start of Hoenn, spanning Littleroot Town, Oldale, and the routes around Petalburg City and its woods.",
+    "mapSprite": "assets/maps/hoenn.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "rustboro_area",
+    "region": "hoenn",
+    "name": "Rustboro Area",
+    "description": "The industrial northwest around Rustboro City, Petalburg Woods, Rusturf Tunnel, and the routes toward the sea.",
+    "mapSprite": "assets/maps/hoenn.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "dewford_area",
+    "region": "hoenn",
+    "name": "Dewford Area",
+    "description": "The rugged southern island of Dewford Town, home to Granite Cave and the surrounding open seas.",
+    "mapSprite": "assets/maps/hoenn.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "mauville_area",
+    "region": "hoenn",
+    "name": "Mauville Area",
+    "description": "The central crossroads around Mauville City and Slateport, including the cycling road, the seaside Route 110, and New Mauville.",
+    "mapSprite": "assets/maps/hoenn.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "lavaridge_area",
+    "region": "hoenn",
+    "name": "Lavaridge Area",
+    "description": "The volcanic highlands around Lavaridge Town, encompassing Mt. Chimney, the Fiery Path, and the Jagged Pass.",
+    "mapSprite": "assets/maps/hoenn.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "fortree_area",
+    "region": "hoenn",
+    "name": "Fortree Area",
+    "description": "The verdant tree-top region around Fortree City, the Weather Institute, and the long routes east toward the coast.",
+    "mapSprite": "assets/maps/hoenn.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "mossdeep_area",
+    "region": "hoenn",
+    "name": "Mossdeep Area",
+    "description": "The eastern sea around Mossdeep City and Shoal Cave, a scattering of islands ringed by deep water.",
+    "mapSprite": "assets/maps/hoenn.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "sootopolis_area",
+    "region": "hoenn",
+    "name": "Sootopolis Area",
+    "description": "The remote crater city of Sootopolis, the Cave of Origin, the towering Sky Pillar, and the waters of Ever Grande.",
+    "mapSprite": "assets/maps/hoenn.png",
+    "mapBackground": "",
+    "encounters": []
+  }
+]

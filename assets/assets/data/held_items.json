@@ -1,0 +1,5321 @@
+[
+  {
+    "id": 112,
+    "name": "adamant-orb",
+    "display_name": "Adamant Orb",
+    "category": "species-specific",
+    "effect": "Held by Dialga\n:   Holder’s Dragon- and Steel-type moves have 1.2× their usual power.",
+    "short_effect": "Boosts the damage from Dialga’s Dragon-type and Steel-type moves by 20%.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 113,
+    "name": "lustrous-orb",
+    "display_name": "Lustrous Orb",
+    "category": "species-specific",
+    "effect": "Held by Palkia\n:   Holder’s Dragon- and Water-type moves have 1.2× their usual power.",
+    "short_effect": "Boosts the damage from Palkia’s Dragon-type and Water-type moves by 20%.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 126,
+    "name": "cheri-berry",
+    "display_name": "Cheri Berry",
+    "category": "medicine",
+    "effect": "Held in battle\n:   When the holder is paralyzed, it consumes this item to cure the paralysis.",
+    "short_effect": "Consumed when paralyzed to cure paralysis.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 300
+  },
+  {
+    "id": 127,
+    "name": "chesto-berry",
+    "display_name": "Chesto Berry",
+    "category": "medicine",
+    "effect": "Held in battle\n:   When the holder is asleep, it consumes this item to wake up.",
+    "short_effect": "Consumed when asleep to cure sleep.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 300
+  },
+  {
+    "id": 128,
+    "name": "pecha-berry",
+    "display_name": "Pecha Berry",
+    "category": "medicine",
+    "effect": "Held in battle\n:   When the holder is poisoned, it consumes this item to cure the poison.",
+    "short_effect": "Consumed when poisoned to cure poison.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 300
+  },
+  {
+    "id": 129,
+    "name": "rawst-berry",
+    "display_name": "Rawst Berry",
+    "category": "medicine",
+    "effect": "Held in battle\n:   When the holder is burned, it consumes this item to cure the burn.",
+    "short_effect": "Consumed when burned to cure a burn.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 300
+  },
+  {
+    "id": 130,
+    "name": "aspear-berry",
+    "display_name": "Aspear Berry",
+    "category": "medicine",
+    "effect": "Held in battle\n:   When the holder is frozen, it consumes this item to thaw itself.",
+    "short_effect": "Consumed when frozen to cure frozen.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 300
+  },
+  {
+    "id": 132,
+    "name": "oran-berry",
+    "display_name": "Oran Berry",
+    "category": "medicine",
+    "effect": "Held in battle\n:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 10 HP.",
+    "short_effect": "Consumed at 1/2 max HP to recover 10 HP.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 300
+  },
+  {
+    "id": 133,
+    "name": "persim-berry",
+    "display_name": "Persim Berry",
+    "category": "medicine",
+    "effect": "Held in battle\n:   When the holder is confused, it consumes this item to cure the confusion.",
+    "short_effect": "Consumed when confused to cure confusion.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 300
+  },
+  {
+    "id": 134,
+    "name": "lum-berry",
+    "display_name": "Lum Berry",
+    "category": "medicine",
+    "effect": "Held in battle\n:   When the holder is afflicted with a non-volatile status condition or confusion, it consumes this item to cure it.",
+    "short_effect": "Consumed to cure any status condition or confusion.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 300
+  },
+  {
+    "id": 135,
+    "name": "sitrus-berry",
+    "display_name": "Sitrus Berry",
+    "category": "medicine",
+    "effect": "Held in battle\n:   When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 1/4 its max HP.",
+    "short_effect": "Consumed at 1/2 max HP to recover 1/4 max HP.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 161,
+    "name": "occa-berry",
+    "display_name": "Occa Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Fire-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Fire-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 162,
+    "name": "passho-berry",
+    "display_name": "Passho Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Water-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Water-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 163,
+    "name": "wacan-berry",
+    "display_name": "Wacan Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Electric-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Electric-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 164,
+    "name": "rindo-berry",
+    "display_name": "Rindo Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Grass-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Grass-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 165,
+    "name": "yache-berry",
+    "display_name": "Yache Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Ice-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Ice-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 166,
+    "name": "chople-berry",
+    "display_name": "Chople Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Fighting-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Fighting-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 167,
+    "name": "kebia-berry",
+    "display_name": "Kebia Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Poison-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Poison-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 168,
+    "name": "shuca-berry",
+    "display_name": "Shuca Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Ground-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Ground-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 169,
+    "name": "coba-berry",
+    "display_name": "Coba Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Flying-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Flying-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 170,
+    "name": "payapa-berry",
+    "display_name": "Payapa Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Psychic-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Psychic-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 171,
+    "name": "tanga-berry",
+    "display_name": "Tanga Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Bug-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Bug-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 172,
+    "name": "charti-berry",
+    "display_name": "Charti Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Rock-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Rock-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 173,
+    "name": "kasib-berry",
+    "display_name": "Kasib Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Ghost-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Ghost-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 174,
+    "name": "haban-berry",
+    "display_name": "Haban Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Dragon-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Dragon-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 175,
+    "name": "colbur-berry",
+    "display_name": "Colbur Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Dark-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Dark-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 176,
+    "name": "babiri-berry",
+    "display_name": "Babiri Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take super-effective Steel-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a super-effective Steel-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 177,
+    "name": "chilan-berry",
+    "display_name": "Chilan Berry",
+    "category": "type-protection",
+    "effect": "Held in battle\n:   When the holder would take Normal-type damage, it consumes this item to halve the amount of damage taken.",
+    "short_effect": "Consumed when struck by a Normal-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 178,
+    "name": "liechi-berry",
+    "display_name": "Liechi Berry",
+    "category": "in-a-pinch",
+    "effect": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Attack by one stage.",
+    "short_effect": "Consumed at 1/4 max HP to boost Attack.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 179,
+    "name": "ganlon-berry",
+    "display_name": "Ganlon Berry",
+    "category": "in-a-pinch",
+    "effect": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Defense by one stage.",
+    "short_effect": "Consumed at 1/4 max HP to boost Defense.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 180,
+    "name": "salac-berry",
+    "display_name": "Salac Berry",
+    "category": "in-a-pinch",
+    "effect": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Speed by one stage.",
+    "short_effect": "Consumed at 1/4 max HP to boost Speed.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 181,
+    "name": "petaya-berry",
+    "display_name": "Petaya Berry",
+    "category": "in-a-pinch",
+    "effect": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Special Attack by one stage.",
+    "short_effect": "Consumed at 1/4 max HP to boost Special Attack.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 182,
+    "name": "apicot-berry",
+    "display_name": "Apicot Berry",
+    "category": "in-a-pinch",
+    "effect": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its Special Defense by one stage.",
+    "short_effect": "Consumed at 1/4 max HP to boost Special Defense.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 183,
+    "name": "lansat-berry",
+    "display_name": "Lansat Berry",
+    "category": "in-a-pinch",
+    "effect": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise its critical hit chance by one stage.",
+    "short_effect": "Consumed at 1/4 max HP to boost critical hit ratio by two stages.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1800
+  },
+  {
+    "id": 184,
+    "name": "starf-berry",
+    "display_name": "Starf Berry",
+    "category": "in-a-pinch",
+    "effect": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item to raise a random stat by two stages.",
+    "short_effect": "Consumed at 1/4 max HP to boost a random stat by two stages.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1800
+  },
+  {
+    "id": 186,
+    "name": "micle-berry",
+    "display_name": "Micle Berry",
+    "category": "in-a-pinch",
+    "effect": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item, and its next used move has 1.2× its normal accuracy.",
+    "short_effect": "Consumed at 1/4 max HP to boost accuracy of next move by 20%.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "berry-effect",
+      "effect": "Immediately activates the berry’s effect on the target."
+    },
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 187,
+    "name": "custap-berry",
+    "display_name": "Custap Berry",
+    "category": "in-a-pinch",
+    "effect": "Held in battle\n:   When the holder has 1/4 its max HP remaining or less, it consumes this item.  On the following turn, the holder will act first among moves with the same priority, regardless of Speed.",
+    "short_effect": "Consumed at 1/4 max HP when using a move to go first.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1800
+  },
+  {
+    "id": 190,
+    "name": "bright-powder",
+    "display_name": "Bright Powder",
+    "category": "held-items",
+    "effect": "Makes the holder harder to hit — enemy moves are 10% more likely to miss.",
+    "short_effect": "Enemy attacks are 10% more likely to miss the holder.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 191,
+    "name": "white-herb",
+    "display_name": "White Herb",
+    "category": "held-items",
+    "effect": "Held in battle\n:   At the end of each turn, if any of the holder’s stats have a negative stat modifier, the holder consumes this item to remove the modifiers from those stats.",
+    "short_effect": "Resets all lowered stats to normal at end of turn. Consumed after use.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "herb-effect",
+      "effect": "Immediately activates the herb’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 194,
+    "name": "quick-claw",
+    "display_name": "Quick Claw",
+    "category": "held-items",
+    "effect": "Held in battle\n:   Whenever the holder attempts to use a move, it has a 3/16 chance to act first among moves with the same priority.",
+    "short_effect": "Holder has a 18,75% chance to move first.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 196,
+    "name": "mental-herb",
+    "display_name": "Mental Herb",
+    "category": "held-items",
+    "effect": "Held in battle\n:   When the holder is attracted, it consumes this item to cure the attraction.",
+    "short_effect": "Consumed to cure infatuation. Also removes Taunt, Encore, Torment, Disable, and Cursed Body.",
+    "fling_power": 10,
+    "fling_effect": {
+      "name": "herb-effect",
+      "effect": "Immediately activates the herb’s effect on the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 197,
+    "name": "choice-band",
+    "display_name": "Choice Band",
+    "category": "choice",
+    "effect": "Held in battle\n:   Holder has 1.5× its Attack.  When the holder attempts to use a move, all its other moves are disabled until it leaves battle or loses this item.",
+    "short_effect": "Increases Attack by 50%, but restricts the holder to only one move.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 198,
+    "name": "kings-rock",
+    "display_name": "King’s Rock",
+    "category": "held-items",
+    "effect": "Held in battle\n:   Holder’s damaging moves have a 10% chance to make their target flinch.",
+    "short_effect": "Damaging moves gain a 10% chance to make their target flinch.",
+    "fling_power": 30,
+    "fling_effect": {
+      "name": "flinch",
+      "effect": "Target will flinch if it has not yet gone this turn."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 199,
+    "name": "silver-powder",
+    "display_name": "Silver Powder",
+    "category": "type-enhancement",
+    "effect": "Held in battle\n:   Holder’s Bug-type moves have 1.2× their power.",
+    "short_effect": "Bug-Type moves from holder do 20% more damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 202,
+    "name": "soul-dew",
+    "display_name": "Soul Dew",
+    "category": "species-specific",
+    "effect": "Held by Latias or Latios: Increases the holder’s Special Attack and Special Defense by 50%.",
+    "short_effect": "Raises Latias and Latios’s Special Attack and Special Defense by 50%.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 203,
+    "name": "deep-sea-tooth",
+    "display_name": "Deep Sea Tooth",
+    "category": "species-specific",
+    "effect": "Held by Clamperl: Doubles the holder’s Special Attack.",
+    "short_effect": "Doubles Clamperl’s Special Attack.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 204,
+    "name": "deep-sea-scale",
+    "display_name": "Deep Sea Scale",
+    "category": "species-specific",
+    "effect": "Held by Clamperl: Doubles the holder’s Special Defense.",
+    "short_effect": "Doubles Clamperl’s Special Defense.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 205,
+    "name": "smoke-ball",
+    "display_name": "Smoke Ball",
+    "category": "held-items",
+    "effect": "In wild battles, attempts to run away on the holder’s turn will always succeed.",
+    "short_effect": "Allows the Holder to escape from any wild battle.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 207,
+    "name": "focus-band",
+    "display_name": "Focus Band",
+    "category": "held-items",
+    "effect": "If the holder is attacked for regular damage that would faint it, this item has a 10% chance to prevent the holder’s HP from lowering below 1.",
+    "short_effect": "Holder has 10% chance to survive attacks or self-inflicted damage at 1 HP.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 209,
+    "name": "scope-lens",
+    "display_name": "Scope Lens",
+    "category": "held-items",
+    "effect": "Raises the holder’s critical hit counter by 1.",
+    "short_effect": "Raises the holder’s critical hit ratio by one stage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 210,
+    "name": "metal-coat",
+    "display_name": "Metal Coat",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Steel moves by 20%.",
+    "short_effect": "Steel-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 211,
+    "name": "leftovers",
+    "display_name": "Leftovers",
+    "category": "held-items",
+    "effect": "Heals the holder by 1/16 its max HP at the end of each turn.",
+    "short_effect": "Restores 6,25% holder’s max HP at the end of each turn.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 213,
+    "name": "light-ball",
+    "display_name": "Light Ball",
+    "category": "species-specific",
+    "effect": "Held by Pikachu: Doubles the holder’s initial Attack and Special Attack.",
+    "short_effect": "Doubles Pikachu’s Attack and Special Attack.",
+    "fling_power": 30,
+    "fling_effect": {
+      "name": "paralyze",
+      "effect": "Paralyzes the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 214,
+    "name": "soft-sand",
+    "display_name": "Soft Sand",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Ground moves by 20%.",
+    "short_effect": "Ground-Type moves from holder do 20% more damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 215,
+    "name": "hard-stone",
+    "display_name": "Hard Stone",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Rock moves by 20%.",
+    "short_effect": "Rock-Type moves from holder do 20% more damage.",
+    "fling_power": 100,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 216,
+    "name": "miracle-seed",
+    "display_name": "Miracle Seed",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Grass moves by 20%.",
+    "short_effect": "Grass-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 217,
+    "name": "black-glasses",
+    "display_name": "Black Glasses",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Dark moves by 20%.",
+    "short_effect": "Dark-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 218,
+    "name": "black-belt",
+    "display_name": "Black Belt",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Fighting moves by 20%.",
+    "short_effect": "Fighting-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 219,
+    "name": "magnet",
+    "display_name": "Magnet",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Electric moves by 20%.",
+    "short_effect": "Electric-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 220,
+    "name": "mystic-water",
+    "display_name": "Mystic Water",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Water moves by 20%.",
+    "short_effect": "Water-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 221,
+    "name": "sharp-beak",
+    "display_name": "Sharp Beak",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Flying moves by 20%.",
+    "short_effect": "Flying-Type moves from holder do 20% more damage.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 222,
+    "name": "poison-barb",
+    "display_name": "Poison Barb",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Poison moves by 20%.",
+    "short_effect": "Poison-Type moves from holder do 20% more damage.",
+    "fling_power": 70,
+    "fling_effect": {
+      "name": "poison",
+      "effect": "Poisons the target."
+    },
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 223,
+    "name": "never-melt-ice",
+    "display_name": "Never-Melt Ice",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Ice moves by 20%.",
+    "short_effect": "Ice-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 224,
+    "name": "spell-tag",
+    "display_name": "Spell Tag",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Ghost moves by 20%.",
+    "short_effect": "Ghost-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 225,
+    "name": "twisted-spoon",
+    "display_name": "Twisted Spoon",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Psychic moves by 20%.",
+    "short_effect": "Psychic-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 226,
+    "name": "charcoal",
+    "display_name": "Charcoal",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Fire moves by 20%.",
+    "short_effect": "Fire-Type moves from holder do 20% more damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 227,
+    "name": "dragon-fang",
+    "display_name": "Dragon Fang",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Dragon moves by 20%.",
+    "short_effect": "Dragon-Type moves from holder do 20% more damage.",
+    "fling_power": 70,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 228,
+    "name": "silk-scarf",
+    "display_name": "Silk Scarf",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Normal moves by 20%.",
+    "short_effect": "Normal-Type moves from holder do 20% more damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 230,
+    "name": "shell-bell",
+    "display_name": "Shell Bell",
+    "category": "held-items",
+    "effect": "Heals the holder by 1/8 of any damage it inflicts.",
+    "short_effect": "Holder receives 1/8 of the damage it deals when attacking.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 231,
+    "name": "sea-incense",
+    "display_name": "Sea Incense",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Water moves by 20%.",
+    "short_effect": "Water-Type moves from holder do 20% more damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 232,
+    "name": "lax-incense",
+    "display_name": "Lax Incense",
+    "category": "held-items",
+    "effect": "Makes the holder harder to hit — enemy moves are 10% more likely to miss.",
+    "short_effect": "Enemy attacks are 10% more likely to miss the holder.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 233,
+    "name": "lucky-punch",
+    "display_name": "Lucky Punch",
+    "category": "species-specific",
+    "effect": "Held by Chansey: Raises the holder’s critical hit counter by 2.",
+    "short_effect": "Raises Chansey’s critical hit ratio by two stages.",
+    "fling_power": 40,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 234,
+    "name": "metal-powder",
+    "display_name": "Metal Powder",
+    "category": "species-specific",
+    "effect": "Held by Ditto: Increases the holder’s initial Defense and Special Defense by 50%.",
+    "short_effect": "Raises Ditto’s Defense and Special Defense by 50%. The boost is lost after transforming.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 235,
+    "name": "thick-club",
+    "display_name": "Thick Club",
+    "category": "species-specific",
+    "effect": "Held by Cubone or Marowak: Doubles the holder’s Attack.",
+    "short_effect": "Doubles Cubone or Marowak’s Attack.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 236,
+    "name": "stick",
+    "display_name": "Leek",
+    "category": "species-specific",
+    "effect": "Held by Farfetch’d: Raises the holder’s critical hit counter by 2.",
+    "short_effect": "Raises Farfetch’d’s critical hit ratio by two stages.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 242,
+    "name": "wide-lens",
+    "display_name": "Wide Lens",
+    "category": "held-items",
+    "effect": "Increases the accuracy of any move the holder uses by 10% (multiplied; i.e. 70% accuracy is increased to 77%).",
+    "short_effect": "Provides a 10% boost in accuracy to the holder.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 243,
+    "name": "muscle-band",
+    "display_name": "Muscle Band",
+    "category": "held-items",
+    "effect": "Increases the power of the holder’s physical moves by 10%.",
+    "short_effect": "Boosts the damage of physical moves used by the holder by 10%.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 244,
+    "name": "wise-glasses",
+    "display_name": "Wise Glasses",
+    "category": "held-items",
+    "effect": "Increases the power of the holder’s special moves by 10%.",
+    "short_effect": "Boosts the damage of special moves used by the holder by 10%.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 245,
+    "name": "expert-belt",
+    "display_name": "Expert Belt",
+    "category": "held-items",
+    "effect": "When the holder hits with a super-effective move, its power is raised by 20%.",
+    "short_effect": "Holder’s Super Effective moves do 20% extra damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 246,
+    "name": "light-clay",
+    "display_name": "Light Clay",
+    "category": "held-items",
+    "effect": "The holder’s Reflect and Light Screen will create effects lasting for eight turns rather than five.",
+    "short_effect": "Light Screen and Reflect used by the holder last 8 rounds instead of 5.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 247,
+    "name": "life-orb",
+    "display_name": "Life Orb",
+    "category": "held-items",
+    "effect": "Damage from the holder’s moves is increased by 30%.  On each turn the holder uses a damage-inflicting move, it takes 10% its max HP in damage.",
+    "short_effect": "Holder’s moves inflict 30% extra damage, but cost 10% max HP.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 248,
+    "name": "power-herb",
+    "display_name": "Power Herb",
+    "category": "held-items",
+    "effect": "Whenever the holder uses a move that requires a turn to charge first (Bounce, Dig, Dive, Fly, Razor Wind, Skull Bash, Sky Attack, or Solarbeam), this item is consumed and the charge is skipped.",
+    "short_effect": "Both turns of a two-turn charge move happen at once. Consumed upon use.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 249,
+    "name": "toxic-orb",
+    "display_name": "Toxic Orb",
+    "category": "bad-held-items",
+    "effect": "Badly poisons the holder at the end of each turn.",
+    "short_effect": "Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur.",
+    "fling_power": 30,
+    "fling_effect": {
+      "name": "badly-poison",
+      "effect": "Badly poisons the target."
+    },
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 250,
+    "name": "flame-orb",
+    "display_name": "Flame Orb",
+    "category": "bad-held-items",
+    "effect": "Burns the holder at the end of each turn.",
+    "short_effect": "Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.",
+    "fling_power": 30,
+    "fling_effect": {
+      "name": "burn",
+      "effect": "Burns the target."
+    },
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 251,
+    "name": "quick-powder",
+    "display_name": "Quick Powder",
+    "category": "species-specific",
+    "effect": "Held by Ditto: Doubles the holder’s initial Speed.",
+    "short_effect": "Doubles Ditto’s Speed when held. The boost is lost after transforming.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 252,
+    "name": "focus-sash",
+    "display_name": "Focus Sash",
+    "category": "held-items",
+    "effect": "If the holder has full HP and is attacked for regular damage that would faint it, this item is consumed and prevents the holder’s HP from lowering below 1.",
+    "short_effect": "Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 253,
+    "name": "zoom-lens",
+    "display_name": "Zoom Lens",
+    "category": "held-items",
+    "effect": "Raises the holder’s Accuracy by 20% when it goes last.",
+    "short_effect": "Provides a 1/5 (20%) boost in accuracy if the holder moves after the target.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 254,
+    "name": "metronome",
+    "display_name": "Metronome",
+    "category": "held-items",
+    "effect": "Each time the holder uses the same move consecutively, its power is increased by another 10% of its original, to a maximum of 100%.",
+    "short_effect": "Consectutive uses of the same attack have a cumulative damage boost of 10%. Maximum 100% boost.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 255,
+    "name": "iron-ball",
+    "display_name": "Iron Ball",
+    "category": "bad-held-items",
+    "effect": "Decreases the holder’s Speed by 50%.",
+    "short_effect": "Holder’s Speed is halved. Negates all Ground-type immunities, and makes Flying-types take neutral damage from Ground-type moves. Arena Trap. Spikes, and Toxic Spikes affect the holder.",
+    "fling_power": 130,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 256,
+    "name": "lagging-tail",
+    "display_name": "Lagging Tail",
+    "category": "bad-held-items",
+    "effect": "The holder will go last within its move’s priority bracket, regardless of Speed.",
+    "short_effect": "Holder moves last in its priority bracket.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 257,
+    "name": "destiny-knot",
+    "display_name": "Destiny Knot",
+    "category": "held-items",
+    "effect": "When the holder becomes Attracted, the Pokémon it is Attracted to becomes Attracted back.",
+    "short_effect": "Infatuates opposing Pokémon when holder is inflicted with infatuation.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 258,
+    "name": "black-sludge",
+    "display_name": "Black Sludge",
+    "category": "held-items",
+    "effect": "If the holder is Poison-type, restores 1/16 max HP at the end of each turn.  Otherwise, damages the holder by 1/16 its max HP at the end of each turn.",
+    "short_effect": "Poison-type holder recovers 6,25% max HP each turn. Non-Poison-Types take 12,5% max HP damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 259,
+    "name": "icy-rock",
+    "display_name": "Icy Rock",
+    "category": "held-items",
+    "effect": "The holder’s Hail will create a hailstorm lasting for eight turns rather than five.",
+    "short_effect": "Hail by the holder lasts 8 rounds instead of 5.",
+    "fling_power": 40,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 260,
+    "name": "smooth-rock",
+    "display_name": "Smooth Rock",
+    "category": "held-items",
+    "effect": "The holder’s Sandstorm will create a sandstorm lasting for eight turns rather than five.",
+    "short_effect": "Sandstorm by the holder lasts 8 rounds instead of 5.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 261,
+    "name": "heat-rock",
+    "display_name": "Heat Rock",
+    "category": "held-items",
+    "effect": "The holder’s Sunny Day will create sunshine lasting for eight turns rather than five.",
+    "short_effect": "Sunny Day by the holder lasts 8 rounds instead of 5.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 262,
+    "name": "damp-rock",
+    "display_name": "Damp Rock",
+    "category": "held-items",
+    "effect": "The holder’s Rain Dance will create rain lasting for eight turns rather than five.",
+    "short_effect": "Rain Dance by the holder lasts 8 rounds instead of 5.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 263,
+    "name": "grip-claw",
+    "display_name": "Grip Claw",
+    "category": "held-items",
+    "effect": "Increases the duration of the holder’s multiturn (2-5 turn) moves by three turns.",
+    "short_effect": "Holder’s multi-turn trapping moves last 5 turns.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 264,
+    "name": "choice-scarf",
+    "display_name": "Choice Scarf",
+    "category": "choice",
+    "effect": "Increases the holder’s Speed by 50%, but restricts it to the first move it uses until it leaves battle or loses this item.  If this item is swapped for another Choice item via Trick or Switcheroo, the holder’s restriction is still lifted, but it will again be restricted to the next move it uses.\n(Quirk: If the holder is switched in by U-Turn and it also knows U-Turn, U-Turn becomes its restricted move.)",
+    "short_effect": "Increases Speed by 50%, but restricts the holder to only one move.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 265,
+    "name": "sticky-barb",
+    "display_name": "Sticky Barb",
+    "category": "bad-held-items",
+    "effect": "Damaged the holder for 1/8 its max HP.  When the holder is struck by a contact move, damages the attacker for 1/8 its max HP; if the attacker is not holding an item, it will take this item.",
+    "short_effect": "Holder takes 12,5% its max HP at the end of each turn. When the holder is hit by a contact move, the attacking Pokémon takes 1/8 its max HP in damage and receive the item if not holding one.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 272,
+    "name": "shed-shell",
+    "display_name": "Shed Shell",
+    "category": "held-items",
+    "effect": "The holder is unaffected by any moves or abilities that would prevent it from actively leaving battle.",
+    "short_effect": "Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 273,
+    "name": "big-root",
+    "display_name": "Big Root",
+    "category": "held-items",
+    "effect": "HP restored from Absorb, Aqua Ring, Drain Punch, Dream Eater, Giga Drain, Ingrain, Leech Life, Leech Seed, and Mega Drain is increased by 30%.  Damage inflicted is not affected.",
+    "short_effect": "Increases HP recovered from draining moves, Ingrain, and Aqua Ring by 30%.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 274,
+    "name": "choice-specs",
+    "display_name": "Choice Specs",
+    "category": "choice",
+    "effect": "Increases the holder’s Special Attack by 50%, but restricts it to the first move it uses until it leaves battle or loses this item.  If this item is swapped for another Choice item via Trick or Switcheroo, the holder’s restriction is still lifted, but it will again be restricted to the next move it uses.\n(Quirk: If the holder is switched in by U-Turn and it also knows U-Turn, U-Turn becomes its restricted move.)",
+    "short_effect": "Increases Special Attack by 50%, but restricts the holder to only one move.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 275,
+    "name": "flame-plate",
+    "display_name": "Flame Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Fire moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Fire.",
+    "short_effect": "Fire-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fire.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 276,
+    "name": "splash-plate",
+    "display_name": "Splash Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Water moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Water.",
+    "short_effect": "Water-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Water.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 277,
+    "name": "zap-plate",
+    "display_name": "Zap Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Electric moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Electric.",
+    "short_effect": "Electric-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Electric.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 278,
+    "name": "meadow-plate",
+    "display_name": "Meadow Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Grass moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Grass.",
+    "short_effect": "Grass-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Grass.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 279,
+    "name": "icicle-plate",
+    "display_name": "Icicle Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Ice moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Ice.",
+    "short_effect": "Ice-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ice.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 280,
+    "name": "fist-plate",
+    "display_name": "Fist Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Fighting moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Fighting.",
+    "short_effect": "Fighting-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fighting.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 281,
+    "name": "toxic-plate",
+    "display_name": "Toxic Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Poison moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Poison.",
+    "short_effect": "Poison-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Poison.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 282,
+    "name": "earth-plate",
+    "display_name": "Earth Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Ground moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Ground.",
+    "short_effect": "Ground-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ground.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 283,
+    "name": "sky-plate",
+    "display_name": "Sky Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Flying moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Flying.",
+    "short_effect": "Flying-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Flying.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 284,
+    "name": "mind-plate",
+    "display_name": "Mind Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Psychic moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Psychic.",
+    "short_effect": "Psychic-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Psychic.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 285,
+    "name": "insect-plate",
+    "display_name": "Insect Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Bug moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Bug.",
+    "short_effect": "Bug-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Bug.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 286,
+    "name": "stone-plate",
+    "display_name": "Stone Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Rock moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Rock.",
+    "short_effect": "Rock-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Rock.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 287,
+    "name": "spooky-plate",
+    "display_name": "Spooky Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Ghost moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Ghost.",
+    "short_effect": "Ghost-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ghost.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 288,
+    "name": "draco-plate",
+    "display_name": "Draco Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Dragon moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Dragon.",
+    "short_effect": "Dragon-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dragon.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 289,
+    "name": "dread-plate",
+    "display_name": "Dread Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Dark moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Dark.",
+    "short_effect": "Dark-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dark.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 290,
+    "name": "iron-plate",
+    "display_name": "Iron Plate",
+    "category": "plates",
+    "effect": "Increases the power of the holder’s Steel moves by 20%.\nHeld by a Multitype Pokémon: Holder’s type becomes Steel.",
+    "short_effect": "Steel-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Steel.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 291,
+    "name": "odd-incense",
+    "display_name": "Odd Incense",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Psychic moves by 20%.",
+    "short_effect": "Psychic-Type moves from holder do 20% more damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 292,
+    "name": "rock-incense",
+    "display_name": "Rock Incense",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Rock moves by 20%.",
+    "short_effect": "Rock-Type moves from holder do 20% more damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 294,
+    "name": "wave-incense",
+    "display_name": "Wave Incense",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Water moves by 20%.",
+    "short_effect": "Water-Type moves from holder do 20% more damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 295,
+    "name": "rose-incense",
+    "display_name": "Rose Incense",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Grass moves by 20%.",
+    "short_effect": "Grass-Type moves from holder do 20% more damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 2500
+  },
+  {
+    "id": 303,
+    "name": "razor-claw",
+    "display_name": "Razor Claw",
+    "category": "held-items",
+    "effect": "Raises the holder’s critical hit counter by 1.",
+    "short_effect": "Raises the holder’s critical hit ratio by one stage.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 304,
+    "name": "razor-fang",
+    "display_name": "Razor Fang",
+    "category": "held-items",
+    "effect": "When the holder attacks with most damaging moves, provides an extra 11.7% (30/256) chance for the target to flinch.",
+    "short_effect": "Damaging moves gain a 10% chance to make their target flinch.",
+    "fling_power": 30,
+    "fling_effect": {
+      "name": "flinch",
+      "effect": "Target will flinch if it has not yet gone this turn."
+    },
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 442,
+    "name": "griseous-orb",
+    "display_name": "Griseous Orb",
+    "category": "species-specific",
+    "effect": "Held by Giratina\n:   Holder’s Dragon and Ghost moves have 1.2× their base power.",
+    "short_effect": "Boosts the damage from Giratina’s Dragon-type and Ghost-type moves by 20%.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 563,
+    "name": "douse-drive",
+    "display_name": "Douse Drive",
+    "category": "species-specific",
+    "effect": "Held by Genesect\n:   Holder’s buster is blue, and its Techno Blast is Water-type.",
+    "short_effect": "Grants Genesect a blue, Water-type Techno Blast.",
+    "fling_power": 70,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 564,
+    "name": "shock-drive",
+    "display_name": "Shock Drive",
+    "category": "species-specific",
+    "effect": "Held by Genesect\n:   Holder’s buster is yellow, and its Techno Blast is Electric-type.",
+    "short_effect": "Grants Genesect a yellow, Electric-type Techno Blast.",
+    "fling_power": 70,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 565,
+    "name": "burn-drive",
+    "display_name": "Burn Drive",
+    "category": "species-specific",
+    "effect": "Held by Genesect\n:   Holder’s buster is red, and its Techno Blast is Fire-type.",
+    "short_effect": "Grants Genesect a red, Fire-type Techno Blast.",
+    "fling_power": 70,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 566,
+    "name": "chill-drive",
+    "display_name": "Chill Drive",
+    "category": "species-specific",
+    "effect": "Held by Genesect\n:   Holder’s buster is white, and its Techno Blast becomes Ice-type.",
+    "short_effect": "Grants Genesect a white, Ice-type Techno Blast.",
+    "fling_power": 70,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 581,
+    "name": "eviolite",
+    "display_name": "Eviolite",
+    "category": "held-items",
+    "effect": "Held by a Pokémon that is not fully evolved\n:   Holder has 1.5× Defense and Special Defense.",
+    "short_effect": "Holder has 1.5× Defense and Special Defense, as long as it’s not fully evolved.",
+    "fling_power": 40,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 582,
+    "name": "float-stone",
+    "display_name": "Float Stone",
+    "category": "held-items",
+    "effect": "Held\n:   Holder has 0.5× weight.",
+    "short_effect": "Holder has 0.5× weight.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 583,
+    "name": "rocky-helmet",
+    "display_name": "Rocky Helmet",
+    "category": "held-items",
+    "effect": "Held\n:   When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage.",
+    "short_effect": "When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 584,
+    "name": "air-balloon",
+    "display_name": "Air Balloon",
+    "category": "held-items",
+    "effect": "Held\n:   Holder is immune to Ground-type moves, Spikes, Toxic Spikes, and Arena Trap.\n\n    When the holder takes damage from a move, this item is consumed.",
+    "short_effect": "Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 585,
+    "name": "red-card",
+    "display_name": "Red Card",
+    "category": "held-items",
+    "effect": "Held\n:   When the holder takes damage directly from a move and does not faint, it switches out for another random, non-fainted Pokémon in its party.",
+    "short_effect": "When the holder takes damage from a move, the opponent switches out for another random party Pokémon. Consumed after use.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 586,
+    "name": "ring-target",
+    "display_name": "Ring Target",
+    "category": "held-items",
+    "effect": "Held\n:   When one of the user’s types would render it immune to damage, that type is ignored for damage calculation.",
+    "short_effect": "Negates the holder’s type immunities. Ability immunities are not removed.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 587,
+    "name": "binding-band",
+    "display_name": "Binding Band",
+    "category": "held-items",
+    "effect": "Held\n:   Moves used by the holder that trap and damage a target for multiple turns (e.g. Bind, Fire Spin) inflict twice their usual per-turn damage.",
+    "short_effect": "Doubles the per-turn damage of multi-turn trapping moves.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 588,
+    "name": "absorb-bulb",
+    "display_name": "Absorb Bulb",
+    "category": "held-items",
+    "effect": "Held\n:   When the holder takes Water-type damage from a move, its Special Attack rises by one stage and this item is consumed.",
+    "short_effect": "Raises the holder’s Special Attack by one stage when it takes Water-type damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 589,
+    "name": "cell-battery",
+    "display_name": "Cell Battery",
+    "category": "held-items",
+    "effect": "Held\n:   When the holder takes Electric-type damage from a move, its Attack rises by one stage and this item is consumed.",
+    "short_effect": "Raises the holder’s Attack by one stage when it takes Electric-type damage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 590,
+    "name": "eject-button",
+    "display_name": "Eject Button",
+    "category": "held-items",
+    "effect": "Held\n:   When the holder takes damage directly from a move and does not faint, it switches out for another non-fainted Pokémon in its party, as chosen by the Trainer.",
+    "short_effect": "When the holder takes damage from a move, it switches out for a party Pokémon of the Trainer’s choice.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 682,
+    "name": "weakness-policy",
+    "display_name": "Weakness Policy",
+    "category": "held-items",
+    "effect": "When the holder is hit by a super effective move, its Attack and Special Attack raise by two stages.",
+    "short_effect": "When the holder is hit by a super effective move, its Attack and Special Attack raise by two stages.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 683,
+    "name": "assault-vest",
+    "display_name": "Assault Vest",
+    "category": "held-items",
+    "effect": "Raises the holder’s Special Defense to 1.5×.  Prevents the holder from selecting a status move.",
+    "short_effect": "Raises the holder’s Special Defense to 1.5×.  Prevents the holder from selecting a status move.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 684,
+    "name": "pixie-plate",
+    "display_name": "Pixie Plate",
+    "category": "plates",
+    "effect": "Fairy-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fairy.",
+    "short_effect": "Fairy-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fairy.",
+    "fling_power": 90,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 688,
+    "name": "luminous-moss",
+    "display_name": "Luminous Moss",
+    "category": "held-items",
+    "effect": "If the holder is hit by a damaging Water move, it consumes this item and raises its Special Defense by one stage.",
+    "short_effect": "If the holder is hit by a damaging Water move, raises its Special Defense by one stage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 689,
+    "name": "snowball",
+    "display_name": "Snowball",
+    "category": "held-items",
+    "effect": "If the holder is hit by a damaging Ice move, raises its Attack by one stage.",
+    "short_effect": "If the holder is hit by a damaging Ice move, raises its Attack by one stage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 690,
+    "name": "safety-goggles",
+    "display_name": "Safety Goggles",
+    "category": "held-items",
+    "effect": "Prevents damage from powder moves and the damage from Hail and Sandstorm.",
+    "short_effect": "Prevents damage from powder moves and the damage from Hail and Sandstorm.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 695,
+    "name": "gengarite",
+    "display_name": "Gengarite",
+    "category": "mega-stones",
+    "effect": "Allows Gengar to Mega Evolve into Mega Gengar.",
+    "short_effect": "Allows Gengar to Mega Evolve into Mega Gengar.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 696,
+    "name": "gardevoirite",
+    "display_name": "Gardevoirite",
+    "category": "mega-stones",
+    "effect": "Allows Gardevoir to Mega Evolve into Mega Gardevoir.",
+    "short_effect": "Allows Gardevoir to Mega Evolve into Mega Gardevoir.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 697,
+    "name": "ampharosite",
+    "display_name": "Ampharosite",
+    "category": "mega-stones",
+    "effect": "Allows Ampharos to Mega Evolve into Mega Ampharos.",
+    "short_effect": "Allows Ampharos to Mega Evolve into Mega Ampharos.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 698,
+    "name": "venusaurite",
+    "display_name": "Venusaurite",
+    "category": "mega-stones",
+    "effect": "Allows Venusaur to Mega Evolve into Mega Venusaur.",
+    "short_effect": "Allows Venusaur to Mega Evolve into Mega Venusaur.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 699,
+    "name": "charizardite-x",
+    "display_name": "Charizardite X",
+    "category": "mega-stones",
+    "effect": "Allows Charizard to Mega Evolve into Mega Charizard X.",
+    "short_effect": "Allows Charizard to Mega Evolve into Mega Charizard X.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 700,
+    "name": "blastoisinite",
+    "display_name": "Blastoisinite",
+    "category": "mega-stones",
+    "effect": "Allows Blastoise to Mega Evolve into Mega Blastoise.",
+    "short_effect": "Allows Blastoise to Mega Evolve into Mega Blastoise.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 701,
+    "name": "mewtwonite-x",
+    "display_name": "Mewtwonite X",
+    "category": "mega-stones",
+    "effect": "Allows Mewtwo to Mega Evolve into Mega Mewtwo X.",
+    "short_effect": "Allows Mewtwo to Mega Evolve into Mega Mewtwo X.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 702,
+    "name": "mewtwonite-y",
+    "display_name": "Mewtwonite Y",
+    "category": "mega-stones",
+    "effect": "Allows Mewtwo to Mega Evolve into Mega Mewtwo Y.",
+    "short_effect": "Allows Mewtwo to Mega Evolve into Mega Mewtwo Y.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 703,
+    "name": "blazikenite",
+    "display_name": "Blazikenite",
+    "category": "mega-stones",
+    "effect": "Allows Blaziken to Mega Evolve into Mega Blaziken.",
+    "short_effect": "Allows Blaziken to Mega Evolve into Mega Blaziken.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 704,
+    "name": "medichamite",
+    "display_name": "Medichamite",
+    "category": "mega-stones",
+    "effect": "Allows Medicham to Mega Evolve into Mega Medicham.",
+    "short_effect": "Allows Medicham to Mega Evolve into Mega Medicham.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 705,
+    "name": "houndoominite",
+    "display_name": "Houndoominite",
+    "category": "mega-stones",
+    "effect": "Allows Houndoom to Mega Evolve into Mega Houndoom.",
+    "short_effect": "Allows Houndoom to Mega Evolve into Mega Houndoom.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 706,
+    "name": "aggronite",
+    "display_name": "Aggronite",
+    "category": "mega-stones",
+    "effect": "Allows Aggron to Mega Evolve into Mega Aggron.",
+    "short_effect": "Allows Aggron to Mega Evolve into Mega Aggron.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 707,
+    "name": "banettite",
+    "display_name": "Banettite",
+    "category": "mega-stones",
+    "effect": "Allows Banette to Mega Evolve into Mega Banette.",
+    "short_effect": "Allows Banette to Mega Evolve into Mega Banette.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 708,
+    "name": "tyranitarite",
+    "display_name": "Tyranitarite",
+    "category": "mega-stones",
+    "effect": "Allows Tyranitar to Mega Evolve into Mega Tyranitar.",
+    "short_effect": "Allows Tyranitar to Mega Evolve into Mega Tyranitar.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 709,
+    "name": "scizorite",
+    "display_name": "Scizorite",
+    "category": "mega-stones",
+    "effect": "Allows Scizor to Mega Evolve into Mega Scizor.",
+    "short_effect": "Allows Scizor to Mega Evolve into Mega Scizor.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 710,
+    "name": "pinsirite",
+    "display_name": "Pinsirite",
+    "category": "mega-stones",
+    "effect": "Allows Pinsir to Mega Evolve into Mega Pinsir.",
+    "short_effect": "Allows Pinsir to Mega Evolve into Mega Pinsir.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 711,
+    "name": "aerodactylite",
+    "display_name": "Aerodactylite",
+    "category": "mega-stones",
+    "effect": "Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.",
+    "short_effect": "Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 712,
+    "name": "lucarionite",
+    "display_name": "Lucarionite",
+    "category": "mega-stones",
+    "effect": "Allows Lucario to Mega Evolve into Mega Lucario.",
+    "short_effect": "Allows Lucario to Mega Evolve into Mega Lucario.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 713,
+    "name": "abomasite",
+    "display_name": "Abomasite",
+    "category": "mega-stones",
+    "effect": "Allows Abomasnow to Mega Evolve into Mega Abomasnow.",
+    "short_effect": "Allows Abomasnow to Mega Evolve into Mega Abomasnow.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 714,
+    "name": "kangaskhanite",
+    "display_name": "Kangaskhanite",
+    "category": "mega-stones",
+    "effect": "Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.",
+    "short_effect": "Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 715,
+    "name": "gyaradosite",
+    "display_name": "Gyaradosite",
+    "category": "mega-stones",
+    "effect": "Allows Gyarados to Mega Evolve into Mega Gyarados.",
+    "short_effect": "Allows Gyarados to Mega Evolve into Mega Gyarados.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 716,
+    "name": "absolite",
+    "display_name": "Absolite",
+    "category": "mega-stones",
+    "effect": "Allows Absol to Mega Evolve into Mega Absol.",
+    "short_effect": "Allows Absol to Mega Evolve into Mega Absol.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 717,
+    "name": "charizardite-y",
+    "display_name": "Charizardite Y",
+    "category": "mega-stones",
+    "effect": "Allows Charizard to Mega Evolve into Mega Charizard Y.",
+    "short_effect": "Allows Charizard to Mega Evolve into Mega Charizard Y.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 718,
+    "name": "alakazite",
+    "display_name": "Alakazite",
+    "category": "mega-stones",
+    "effect": "Allows Alakazam to Mega Evolve into Mega Alakazam.",
+    "short_effect": "Allows Alakazam to Mega Evolve into Mega Alakazam.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 719,
+    "name": "heracronite",
+    "display_name": "Heracronite",
+    "category": "mega-stones",
+    "effect": "Allows Heracross to Mega Evolve into Mega Heracross.",
+    "short_effect": "Allows Heracross to Mega Evolve into Mega Heracross.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 720,
+    "name": "mawilite",
+    "display_name": "Mawilite",
+    "category": "mega-stones",
+    "effect": "Allows Mawile to Mega Evolve into Mega Mawile.",
+    "short_effect": "Allows Mawile to Mega Evolve into Mega Mawile.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 721,
+    "name": "manectite",
+    "display_name": "Manectite",
+    "category": "mega-stones",
+    "effect": "Allows Manectric to Mega Evolve into Mega Manectric.",
+    "short_effect": "Allows Manectric to Mega Evolve into Mega Manectric.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 722,
+    "name": "garchompite",
+    "display_name": "Garchompite",
+    "category": "mega-stones",
+    "effect": "Allows Garchomp to Mega Evolve into Mega Garchomp.",
+    "short_effect": "Allows Garchomp to Mega Evolve into Mega Garchomp.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 723,
+    "name": "roseli-berry",
+    "display_name": "Roseli Berry",
+    "category": "type-protection",
+    "effect": "Consumed when struck by a super-effective Fairy-type attack to halve the damage.",
+    "short_effect": "Consumed when struck by a super-effective Fairy-type attack to halve the damage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 1500
+  },
+  {
+    "id": 760,
+    "name": "latiasite",
+    "display_name": "Latiasite",
+    "category": "mega-stones",
+    "effect": "Allows Latias to Mega Evolve into Mega Latias.",
+    "short_effect": "Allows Latias to Mega Evolve into Mega Latias.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 761,
+    "name": "latiosite",
+    "display_name": "Latiosite",
+    "category": "mega-stones",
+    "effect": "Allows Latios to Mega Evolve into Mega Latios.",
+    "short_effect": "Allows Latios to Mega Evolve into Mega Latios.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 793,
+    "name": "swampertite",
+    "display_name": "Swampertite",
+    "category": "mega-stones",
+    "effect": "Allows Swampert to Mega Evolve into Mega Swampert.",
+    "short_effect": "Allows Swampert to Mega Evolve into Mega Swampert.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 794,
+    "name": "sceptilite",
+    "display_name": "Sceptilite",
+    "category": "mega-stones",
+    "effect": "Allows Sceptile to Mega Evolve into Mega Sceptile.",
+    "short_effect": "Allows Sceptile to Mega Evolve into Mega Sceptile.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 795,
+    "name": "sablenite",
+    "display_name": "Sablenite",
+    "category": "mega-stones",
+    "effect": "Allows Sableye to Mega Evolve into Mega Sableye.",
+    "short_effect": "Allows Sableye to Mega Evolve into Mega Sableye.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 796,
+    "name": "altarianite",
+    "display_name": "Altarianite",
+    "category": "mega-stones",
+    "effect": "Allows Altaria to Mega Evolve into Mega Altaria.",
+    "short_effect": "Allows Altaria to Mega Evolve into Mega Altaria.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 797,
+    "name": "galladite",
+    "display_name": "Galladite",
+    "category": "mega-stones",
+    "effect": "Allows Gallade to Mega Evolve into Mega Gallade.",
+    "short_effect": "Allows Gallade to Mega Evolve into Mega Gallade.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 798,
+    "name": "audinite",
+    "display_name": "Audinite",
+    "category": "mega-stones",
+    "effect": "Allows Audino to Mega Evolve into Mega Audino.",
+    "short_effect": "Allows Audino to Mega Evolve into Mega Audino.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 799,
+    "name": "metagrossite",
+    "display_name": "Metagrossite",
+    "category": "mega-stones",
+    "effect": "Allows Metagross to Mega Evolve into Mega Metagross.",
+    "short_effect": "Allows Metagross to Mega Evolve into Mega Metagross.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 800,
+    "name": "sharpedonite",
+    "display_name": "Sharpedonite",
+    "category": "mega-stones",
+    "effect": "Allows Sharpedo to Mega Evolve into Mega Sharpedo.",
+    "short_effect": "Allows Sharpedo to Mega Evolve into Mega Sharpedo.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 801,
+    "name": "slowbronite",
+    "display_name": "Slowbronite",
+    "category": "mega-stones",
+    "effect": "Allows Slowbro to Mega Evolve into Mega Slowbro.",
+    "short_effect": "Allows Slowbro to Mega Evolve into Mega Slowbro.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 802,
+    "name": "steelixite",
+    "display_name": "Steelixite",
+    "category": "mega-stones",
+    "effect": "Allows Steelix to Mega Evolve into Mega Steelix.",
+    "short_effect": "Allows Steelix to Mega Evolve into Mega Steelix.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 803,
+    "name": "pidgeotite",
+    "display_name": "Pidgeotite",
+    "category": "mega-stones",
+    "effect": "Allows Pidgeot to Mega Evolve into Mega Pidgeot.",
+    "short_effect": "Allows Pidgeot to Mega Evolve into Mega Pidgeot.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 804,
+    "name": "glalitite",
+    "display_name": "Glalitite",
+    "category": "mega-stones",
+    "effect": "Allows Glalie to Mega Evolve into Mega Glalie.",
+    "short_effect": "Allows Glalie to Mega Evolve into Mega Glalie.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 805,
+    "name": "diancite",
+    "display_name": "Diancite",
+    "category": "mega-stones",
+    "effect": "Allows Diancie to Mega Evolve into Mega Diancie.",
+    "short_effect": "Allows Diancie to Mega Evolve into Mega Diancie.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 808,
+    "name": "cameruptite",
+    "display_name": "Cameruptite",
+    "category": "mega-stones",
+    "effect": "Allows Camerupt to Mega Evolve into Mega Camerupt.",
+    "short_effect": "Allows Camerupt to Mega Evolve into Mega Camerupt.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 809,
+    "name": "lopunnite",
+    "display_name": "Lopunnite",
+    "category": "mega-stones",
+    "effect": "Allows Lopunny to Mega Evolve into Mega Lopunny.",
+    "short_effect": "Allows Lopunny to Mega Evolve into Mega Lopunny.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 810,
+    "name": "salamencite",
+    "display_name": "Salamencite",
+    "category": "mega-stones",
+    "effect": "Allows Salamence to Mega Evolve into Mega Salamence.",
+    "short_effect": "Allows Salamence to Mega Evolve into Mega Salamence.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 811,
+    "name": "beedrillite",
+    "display_name": "Beedrillite",
+    "category": "mega-stones",
+    "effect": "Allows Beedrill to Mega Evolve into Mega Beedrill.",
+    "short_effect": "Allows Beedrill to Mega Evolve into Mega Beedrill.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 883,
+    "name": "adrenaline-orb",
+    "display_name": "Adrenaline Orb",
+    "category": "held-items",
+    "effect": "Increases the holder’s Speed by one stage when affected by Intimidate.",
+    "short_effect": "Increases the holder’s Speed by one stage when affected by Intimidate.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 896,
+    "name": "terrain-extender",
+    "display_name": "Terrain Extender",
+    "category": "held-items",
+    "effect": "When the holder changes the Terrain (whether by move or ability), it will last  8 turns instead of 5.",
+    "short_effect": "Extends the holder’s Terrain effects to 8 turns.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 897,
+    "name": "protective-pads",
+    "display_name": "Protective Pads",
+    "category": "held-items",
+    "effect": "Prevents side effects of contact moves used on the holder.",
+    "short_effect": "Prevents side effects of contact moves used on the holder.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 898,
+    "name": "electric-seed",
+    "display_name": "Electric Seed",
+    "category": "held-items",
+    "effect": "If the holder enters battle during Electric Terrain, or if Electric Terrain is activated while the holder is in battle, this item is consumed and the holder’s Defense raises by one stage.",
+    "short_effect": "Consumed on Electric Terrain and raises the holder’s Defense by one stage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 899,
+    "name": "psychic-seed",
+    "display_name": "Psychic Seed",
+    "category": "held-items",
+    "effect": "If the holder enters battle during Psychic Terrain, or if Psychic Terrain is activated while the holder is in battle, this item is consumed and the holder’s Special Defense raises by one stage.",
+    "short_effect": "Consumed on Psychic Terrain and raises the holder’s Special Defense by one stage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 900,
+    "name": "misty-seed",
+    "display_name": "Misty Seed",
+    "category": "held-items",
+    "effect": "If the holder enters battle during Misty Terrain, or if Misty Terrain is activated while the holder is in battle, this item is consumed and the holder’s Special Defense raises by one stage.",
+    "short_effect": "Consumed on Misty Terrain and raises the holder’s Special Defense by one stage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 901,
+    "name": "grassy-seed",
+    "display_name": "Grassy Seed",
+    "category": "held-items",
+    "effect": "If the holder enters battle during Grassy Terrain, or if Grassy Terrain is activated while the holder is in battle, this item is consumed and the holder’s Defense raises by one stage.",
+    "short_effect": "Consumed on Grassy Terrain and raises the holder’s Defense by one stage.",
+    "fling_power": 10,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 902,
+    "name": "fighting-memory",
+    "display_name": "Fighting Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Fighting form.  Changes Multi-Attack’s type to Fighting.",
+    "short_effect": "Changes Silvally to its Fighting form.  Changes Multi-Attack’s type to Fighting.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 903,
+    "name": "flying-memory",
+    "display_name": "Flying Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Flying form.  Changes Multi-Attack’s type to Flying.",
+    "short_effect": "Changes Silvally to its Flying form.  Changes Multi-Attack’s type to Flying.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 904,
+    "name": "poison-memory",
+    "display_name": "Poison Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Poison form.  Changes Multi-Attack’s type to Poison.",
+    "short_effect": "Changes Silvally to its Poison form.  Changes Multi-Attack’s type to Poison.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 905,
+    "name": "ground-memory",
+    "display_name": "Ground Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Ground form.  Changes Multi-Attack’s type to Ground.",
+    "short_effect": "Changes Silvally to its Ground form.  Changes Multi-Attack’s type to Ground.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 906,
+    "name": "rock-memory",
+    "display_name": "Rock Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Rock form.  Changes Multi-Attack’s type to Rock.",
+    "short_effect": "Changes Silvally to its Rock form.  Changes Multi-Attack’s type to Rock.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 907,
+    "name": "bug-memory",
+    "display_name": "Bug Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Bug form.  Changes Multi-Attack’s type to Bug.",
+    "short_effect": "Changes Silvally to its Bug form.  Changes Multi-Attack’s type to Bug.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 908,
+    "name": "ghost-memory",
+    "display_name": "Ghost Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Ghost form.  Changes Multi-Attack’s type to Ghost.",
+    "short_effect": "Changes Silvally to its Ghost form.  Changes Multi-Attack’s type to Ghost.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 909,
+    "name": "steel-memory",
+    "display_name": "Steel Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Steel form.  Changes Multi-Attack’s type to Steel.",
+    "short_effect": "Changes Silvally to its Steel form.  Changes Multi-Attack’s type to Steel.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 910,
+    "name": "fire-memory",
+    "display_name": "Fire Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Fire form.  Changes Multi-Attack’s type to Fire.",
+    "short_effect": "Changes Silvally to its Fire form.  Changes Multi-Attack’s type to Fire.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 911,
+    "name": "water-memory",
+    "display_name": "Water Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Water form.  Changes Multi-Attack’s type to Water.",
+    "short_effect": "Changes Silvally to its Water form.  Changes Multi-Attack’s type to Water.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 912,
+    "name": "grass-memory",
+    "display_name": "Grass Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Grass form.  Changes Multi-Attack’s type to Grass.",
+    "short_effect": "Changes Silvally to its Grass form.  Changes Multi-Attack’s type to Grass.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 913,
+    "name": "electric-memory",
+    "display_name": "Electric Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Electric form.  Changes Multi-Attack’s type to Electric.",
+    "short_effect": "Changes Silvally to its Electric form.  Changes Multi-Attack’s type to Electric.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 914,
+    "name": "psychic-memory",
+    "display_name": "Psychic Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Psychic form.  Changes Multi-Attack’s type to Psychic.",
+    "short_effect": "Changes Silvally to its Psychic form.  Changes Multi-Attack’s type to Psychic.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 915,
+    "name": "ice-memory",
+    "display_name": "Ice Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Ice form.  Changes Multi-Attack’s type to Ice.",
+    "short_effect": "Changes Silvally to its Ice form.  Changes Multi-Attack’s type to Ice.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 916,
+    "name": "dragon-memory",
+    "display_name": "Dragon Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Dragon form.  Changes Multi-Attack’s type to Dragon.",
+    "short_effect": "Changes Silvally to its Dragon form.  Changes Multi-Attack’s type to Dragon.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 917,
+    "name": "dark-memory",
+    "display_name": "Dark Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Dark form.  Changes Multi-Attack’s type to Dark.",
+    "short_effect": "Changes Silvally to its Dark form.  Changes Multi-Attack’s type to Dark.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 918,
+    "name": "fairy-memory",
+    "display_name": "Fairy Memory",
+    "category": "memories",
+    "effect": "Changes Silvally to its Fairy form.  Changes Multi-Attack’s type to Fairy.",
+    "short_effect": "Changes Silvally to its Fairy form.  Changes Multi-Attack’s type to Fairy.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 1161,
+    "name": "rusted-sword",
+    "display_name": "Rusted Sword",
+    "category": "species-specific",
+    "effect": "Held by Zacian\n:   Holder changes into its Crowned Sword form when it enters battle, and its Iron Head becomes Behemoth Blade.",
+    "short_effect": "Zacian transforms into Crowned Sword form; Iron Head becomes Behemoth Blade.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 1162,
+    "name": "rusted-shield",
+    "display_name": "Rusted Shield",
+    "category": "species-specific",
+    "effect": "Held by Zamazenta\n:   Holder changes into its Crowned Shield form when it enters battle, and its Iron Head becomes Behemoth Bash.",
+    "short_effect": "Zamazenta transforms into Crowned Shield form; Iron Head becomes Behemoth Bash.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 1176,
+    "name": "throat-spray",
+    "display_name": "Throat Spray",
+    "category": "held-items",
+    "effect": "Held in battle\n:   When the holder uses a sound-based move, it consumes this item to raise its Special Attack by one stage.",
+    "short_effect": "Consumed when the holder uses a sound-based move to raise Special Attack by one stage.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      8
+    ],
+    "cost": 6000
+  },
+  {
+    "id": 1177,
+    "name": "eject-pack",
+    "display_name": "Eject Pack",
+    "category": "held-items",
+    "effect": "Held in battle\n:   When any of the holder’s stats are lowered, it consumes this item and switches out for another party Pokémon.",
+    "short_effect": "Consumed when the holder’s stats are lowered; the holder switches out.",
+    "fling_power": 50,
+    "fling_effect": null,
+    "generations": [
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 1178,
+    "name": "heavy-duty-boots",
+    "display_name": "Heavy-Duty Boots",
+    "category": "held-items",
+    "effect": "Held in battle\n:   The holder is unaffected by entry hazards (Stealth Rock, Spikes, Toxic Spikes, and Sticky Web) when switching in.",
+    "short_effect": "Holder ignores entry hazards when switching in.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      8
+    ],
+    "cost": 12000
+  },
+  {
+    "id": 1179,
+    "name": "blunder-policy",
+    "display_name": "Blunder Policy",
+    "category": "held-items",
+    "effect": "Held in battle\n:   When the holder misses a move because of its accuracy, it consumes this item to raise its Speed by two stages.",
+    "short_effect": "Consumed when the holder misses due to accuracy to raise Speed by two stages.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 1180,
+    "name": "room-service",
+    "display_name": "Room Service",
+    "category": "held-items",
+    "effect": "Held in battle\n:   When Trick Room takes effect, the holder consumes this item and its Speed is lowered by one stage.",
+    "short_effect": "Consumed when Trick Room takes effect to lower the holder’s Speed by one stage.",
+    "fling_power": 100,
+    "fling_effect": null,
+    "generations": [
+      8
+    ],
+    "cost": 4000
+  },
+  {
+    "id": 1181,
+    "name": "utility-umbrella",
+    "display_name": "Utility Umbrella",
+    "category": "held-items",
+    "effect": "Held in battle\n:   The holder ignores the effects of sun and rain.",
+    "short_effect": "Holder ignores the effects of sun and rain.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 1659,
+    "name": "adamant-crystal",
+    "display_name": "Adamant Crystal",
+    "category": "species-specific",
+    "effect": "Held by Dialga\n:   Holder changes into its Origin Forme, and its Dragon- and Steel-type moves have 1.2× their usual power.",
+    "short_effect": "Dialga changes into Origin Forme; boosts its Dragon- and Steel-type moves by 20%.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      8,
+      9
+    ],
+    "cost": 20000
+  },
+  {
+    "id": 1660,
+    "name": "lustrous-globe",
+    "display_name": "Lustrous Globe",
+    "category": "species-specific",
+    "effect": "Held by Palkia\n:   Holder changes into its Origin Forme, and its Dragon- and Water-type moves have 1.2× their usual power.",
+    "short_effect": "Palkia changes into Origin Forme; boosts its Dragon- and Water-type moves by 20%.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      8,
+      9
+    ],
+    "cost": 20000
+  },
+  {
+    "id": 1661,
+    "name": "griseous-core",
+    "display_name": "Griseous Core",
+    "category": "species-specific",
+    "effect": "Held by Giratina\n:   Holder changes into its Origin Forme, and its Dragon- and Ghost-type moves have 1.2× their usual power.",
+    "short_effect": "Giratina changes into Origin Forme; boosts its Dragon- and Ghost-type moves by 20%.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      8,
+      9
+    ],
+    "cost": 20000
+  },
+  {
+    "id": 1696,
+    "name": "booster-energy",
+    "display_name": "Booster Energy",
+    "category": "species-specific",
+    "effect": "Held by a Pokémon with Protosynthesis or Quark Drive\n:   The holder consumes this item to activate its Ability without harsh sunlight or Electric Terrain.",
+    "short_effect": "Consumed to activate Protosynthesis or Quark Drive without weather or terrain.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2106,
+    "name": "wellspring-mask",
+    "display_name": "Wellspring Mask",
+    "category": "species-specific",
+    "effect": "Held by Ogerpon\n:   Ogerpon changes into its Wellspring Mask form, becoming part Water-type, and its moves have 1.2× their usual power.",
+    "short_effect": "Ogerpon changes into Wellspring Mask form; boosts its moves by 20%.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2107,
+    "name": "hearthflame-mask",
+    "display_name": "Hearthflame Mask",
+    "category": "species-specific",
+    "effect": "Held by Ogerpon\n:   Ogerpon changes into its Hearthflame Mask form, becoming part Fire-type, and its moves have 1.2× their usual power.",
+    "short_effect": "Ogerpon changes into Hearthflame Mask form; boosts its moves by 20%.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2108,
+    "name": "cornerstone-mask",
+    "display_name": "Cornerstone Mask",
+    "category": "species-specific",
+    "effect": "Held by Ogerpon\n:   Ogerpon changes into its Cornerstone Mask form, becoming part Rock-type, and its moves have 1.2× their usual power.",
+    "short_effect": "Ogerpon changes into Cornerstone Mask form; boosts its moves by 20%.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 0
+  },
+  {
+    "id": 1697,
+    "name": "ability-shield",
+    "display_name": "Ability Shield",
+    "category": "held-items",
+    "effect": "Held in battle\n:   The holder’s Ability cannot be changed, suppressed, or replaced by other Pokémon’s moves or Abilities.",
+    "short_effect": "Protects the holder’s Ability from being changed or suppressed.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 18000
+  },
+  {
+    "id": 1698,
+    "name": "clear-amulet",
+    "display_name": "Clear Amulet",
+    "category": "held-items",
+    "effect": "Held in battle\n:   The holder’s stats cannot be lowered by other Pokémon’s moves or Abilities.",
+    "short_effect": "Prevents other Pokémon from lowering the holder’s stats.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 20000
+  },
+  {
+    "id": 1699,
+    "name": "mirror-herb",
+    "display_name": "Mirror Herb",
+    "category": "held-items",
+    "effect": "Held in battle\n:   When an opposing Pokémon’s stats are raised, the holder consumes this item to copy those stat boosts.",
+    "short_effect": "Consumed to mirror an opponent’s stat boosts onto the holder.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 0
+  },
+  {
+    "id": 1700,
+    "name": "punching-glove",
+    "display_name": "Punching Glove",
+    "category": "held-items",
+    "effect": "Held in battle\n:   The holder’s punching moves have 1.1× their usual power and do not make contact.",
+    "short_effect": "Boosts punching moves by 10% and removes their contact effect.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 8000
+  },
+  {
+    "id": 1701,
+    "name": "covert-cloak",
+    "display_name": "Covert Cloak",
+    "category": "held-items",
+    "effect": "Held in battle\n:   The holder is protected from the additional effects of damaging moves used against it.",
+    "short_effect": "Protects the holder from the additional effects of moves.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 15000
+  },
+  {
+    "id": 1702,
+    "name": "loaded-dice",
+    "display_name": "Loaded Dice",
+    "category": "held-items",
+    "effect": "Held in battle\n:   The holder’s multi-strike moves are more likely to hit more times; 2-to-5-strike moves always hit at least four times.",
+    "short_effect": "Multi-strike moves hit more times (at least 4 for 2-to-5-strike moves).",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 18000
+  },
+  {
+    "id": 2105,
+    "name": "fairy-feather",
+    "display_name": "Fairy Feather",
+    "category": "type-enhancement",
+    "effect": "Increases the power of the holder’s Fairy moves by 10%.",
+    "short_effect": "Fairy-Type moves from holder do 10% more damage.",
+    "fling_power": 20,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 1200
+  },
+  {
+    "id": 2106,
+    "name": "red-orb",
+    "display_name": "Red Orb",
+    "category": "species-specific",
+    "effect": "Held by Groudon\n:   Lets Groudon undergo Primal Reversion in battle.",
+    "short_effect": "Triggers Groudon's Primal Reversion.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 20000
+  },
+  {
+    "id": 2107,
+    "name": "blue-orb",
+    "display_name": "Blue Orb",
+    "category": "species-specific",
+    "effect": "Held by Kyogre\n:   Lets Kyogre undergo Primal Reversion in battle.",
+    "short_effect": "Triggers Kyogre's Primal Reversion.",
+    "fling_power": 60,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 20000
+  },
+  {
+    "id": 2108,
+    "name": "reveal-glass",
+    "display_name": "Reveal Glass",
+    "category": "species-specific",
+    "effect": "A glass that reflects truth.\n:   Lets the Forces of Nature switch between their Incarnate and Therian Formes.",
+    "short_effect": "Switches the Forces of Nature to their Therian Forme.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 20000
+  },
+  {
+    "id": 2109,
+    "name": "ultranecrozium-z",
+    "display_name": "Ultranecrozium Z",
+    "category": "species-specific",
+    "effect": "Held by Necrozma fused with Solgaleo or Lunala\n:   Lets it undergo Ultra Burst in battle.",
+    "short_effect": "Triggers Necrozma's Ultra Burst.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      6,
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2110,
+    "name": "buginium",
+    "display_name": "Buginium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Bug-type move, it can upgrade it into the Z-Move Savage Spin-Out once per battle.",
+    "short_effect": "Allows the holder to upgrade a Bug-type move into the Z-Move Savage Spin-Out once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2111,
+    "name": "darkinium",
+    "display_name": "Darkinium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Dark-type move, it can upgrade it into the Z-Move Black Hole Eclipse once per battle.",
+    "short_effect": "Allows the holder to upgrade a Dark-type move into the Z-Move Black Hole Eclipse once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2112,
+    "name": "dragonium",
+    "display_name": "Dragonium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Dragon-type move, it can upgrade it into the Z-Move Devastating Drake once per battle.",
+    "short_effect": "Allows the holder to upgrade a Dragon-type move into the Z-Move Devastating Drake once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2113,
+    "name": "electrium",
+    "display_name": "Electrium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Electric-type move, it can upgrade it into the Z-Move Gigavolt Havoc once per battle.",
+    "short_effect": "Allows the holder to upgrade a Electric-type move into the Z-Move Gigavolt Havoc once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2114,
+    "name": "fairium",
+    "display_name": "Fairium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Fairy-type move, it can upgrade it into the Z-Move Twinkle Tackle once per battle.",
+    "short_effect": "Allows the holder to upgrade a Fairy-type move into the Z-Move Twinkle Tackle once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2115,
+    "name": "fightinium",
+    "display_name": "Fightinium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Fighting-type move, it can upgrade it into the Z-Move All-Out Pummeling once per battle.",
+    "short_effect": "Allows the holder to upgrade a Fighting-type move into the Z-Move All-Out Pummeling once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2116,
+    "name": "firium",
+    "display_name": "Firium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Fire-type move, it can upgrade it into the Z-Move Inferno Overdrive once per battle.",
+    "short_effect": "Allows the holder to upgrade a Fire-type move into the Z-Move Inferno Overdrive once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2117,
+    "name": "flyinium",
+    "display_name": "Flyinium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Flying-type move, it can upgrade it into the Z-Move Supersonic Skystrike once per battle.",
+    "short_effect": "Allows the holder to upgrade a Flying-type move into the Z-Move Supersonic Skystrike once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2118,
+    "name": "ghostium",
+    "display_name": "Ghostium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Ghost-type move, it can upgrade it into the Z-Move Never-Ending Nightmare once per battle.",
+    "short_effect": "Allows the holder to upgrade a Ghost-type move into the Z-Move Never-Ending Nightmare once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2119,
+    "name": "grassium",
+    "display_name": "Grassium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Grass-type move, it can upgrade it into the Z-Move Bloom Doom once per battle.",
+    "short_effect": "Allows the holder to upgrade a Grass-type move into the Z-Move Bloom Doom once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2120,
+    "name": "groundium",
+    "display_name": "Groundium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Ground-type move, it can upgrade it into the Z-Move Tectonic Rage once per battle.",
+    "short_effect": "Allows the holder to upgrade a Ground-type move into the Z-Move Tectonic Rage once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2121,
+    "name": "icium",
+    "display_name": "Icium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Ice-type move, it can upgrade it into the Z-Move Subzero Slammer once per battle.",
+    "short_effect": "Allows the holder to upgrade a Ice-type move into the Z-Move Subzero Slammer once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2122,
+    "name": "normalium",
+    "display_name": "Normalium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Normal-type move, it can upgrade it into the Z-Move Breakneck Blitz once per battle.",
+    "short_effect": "Allows the holder to upgrade a Normal-type move into the Z-Move Breakneck Blitz once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2123,
+    "name": "poisonium",
+    "display_name": "Poisonium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Poison-type move, it can upgrade it into the Z-Move Acid Downpour once per battle.",
+    "short_effect": "Allows the holder to upgrade a Poison-type move into the Z-Move Acid Downpour once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2124,
+    "name": "psychium",
+    "display_name": "Psychium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Psychic-type move, it can upgrade it into the Z-Move Shattered Psyche once per battle.",
+    "short_effect": "Allows the holder to upgrade a Psychic-type move into the Z-Move Shattered Psyche once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2125,
+    "name": "rockium",
+    "display_name": "Rockium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Rock-type move, it can upgrade it into the Z-Move Continental Crush once per battle.",
+    "short_effect": "Allows the holder to upgrade a Rock-type move into the Z-Move Continental Crush once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2126,
+    "name": "steelium",
+    "display_name": "Steelium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Steel-type move, it can upgrade it into the Z-Move Corkscrew Crash once per battle.",
+    "short_effect": "Allows the holder to upgrade a Steel-type move into the Z-Move Corkscrew Crash once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2127,
+    "name": "waterium",
+    "display_name": "Waterium Z",
+    "category": "z-crystals",
+    "effect": "Held in battle\n:   If the holder knows a damaging Water-type move, it can upgrade it into the Z-Move Hydro Vortex once per battle.",
+    "short_effect": "Allows the holder to upgrade a Water-type move into the Z-Move Hydro Vortex once per battle.",
+    "fling_power": null,
+    "fling_effect": null,
+    "generations": [
+      7
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2128,
+    "name": "solganium-z",
+    "display_name": "Solganium Z",
+    "category": "species-specific",
+    "effect": "Held by Solgaleo or Dusk Mane Necrozma\n:   Upgrades Sunsteel Strike into the Z-Move Searing Sunraze Smash once per battle.",
+    "short_effect": "Upgrades Solgaleo's Sunsteel Strike into Searing Sunraze Smash.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2129,
+    "name": "pikanium-z",
+    "display_name": "Pikanium Z",
+    "category": "species-specific",
+    "effect": "Held by Pikachu\n:   Upgrades its signature move into the Z-Move Catastropika once per battle.",
+    "short_effect": "Lets Pikachu use the Z-Move Catastropika.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2130,
+    "name": "decidium-z",
+    "display_name": "Decidium Z",
+    "category": "species-specific",
+    "effect": "Held by Decidueye\n:   Upgrades its signature move into the Z-Move Sinister Arrow Raid once per battle.",
+    "short_effect": "Lets Decidueye use the Z-Move Sinister Arrow Raid.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2131,
+    "name": "incinium-z",
+    "display_name": "Incinium Z",
+    "category": "species-specific",
+    "effect": "Held by Incineroar\n:   Upgrades its signature move into the Z-Move Malicious Moonsault once per battle.",
+    "short_effect": "Lets Incineroar use the Z-Move Malicious Moonsault.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2132,
+    "name": "primarium-z",
+    "display_name": "Primarium Z",
+    "category": "species-specific",
+    "effect": "Held by Primarina\n:   Upgrades its signature move into the Z-Move Oceanic Operetta once per battle.",
+    "short_effect": "Lets Primarina use the Z-Move Oceanic Operetta.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2133,
+    "name": "tapunium-z",
+    "display_name": "Tapunium Z",
+    "category": "species-specific",
+    "effect": "Held by the Tapu guardians\n:   Upgrades its signature move into the Z-Move Guardian of Alola once per battle.",
+    "short_effect": "Lets the Tapu guardians use the Z-Move Guardian of Alola.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2134,
+    "name": "marshadium-z",
+    "display_name": "Marshadium Z",
+    "category": "species-specific",
+    "effect": "Held by Marshadow\n:   Upgrades its signature move into the Z-Move Soul-Stealing 7-Star Strike once per battle.",
+    "short_effect": "Lets Marshadow use the Z-Move Soul-Stealing 7-Star Strike.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2135,
+    "name": "aloraichium-z",
+    "display_name": "Aloraichium Z",
+    "category": "species-specific",
+    "effect": "Held by Alolan Raichu\n:   Upgrades its signature move into the Z-Move Stoked Sparksurfer once per battle.",
+    "short_effect": "Lets Alolan Raichu use the Z-Move Stoked Sparksurfer.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2136,
+    "name": "snorlium-z",
+    "display_name": "Snorlium Z",
+    "category": "species-specific",
+    "effect": "Held by Snorlax\n:   Upgrades its signature move into the Z-Move Pulverizing Pancake once per battle.",
+    "short_effect": "Lets Snorlax use the Z-Move Pulverizing Pancake.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2137,
+    "name": "eevium-z",
+    "display_name": "Eevium Z",
+    "category": "species-specific",
+    "effect": "Held by Eevee\n:   Upgrades its signature move into the Z-Move Extreme Evoboost once per battle.",
+    "short_effect": "Lets Eevee use the Z-Move Extreme Evoboost.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2138,
+    "name": "mewnium-z",
+    "display_name": "Mewnium Z",
+    "category": "species-specific",
+    "effect": "Held by Mew\n:   Upgrades its signature move into the Z-Move Genesis Supernova once per battle.",
+    "short_effect": "Lets Mew use the Z-Move Genesis Supernova.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2139,
+    "name": "pikashunium-z",
+    "display_name": "Pikashunium Z",
+    "category": "species-specific",
+    "effect": "Held by Cap Pikachu\n:   Upgrades its signature move into the Z-Move 10,000,000 Volt Thunderbolt once per battle.",
+    "short_effect": "Lets Cap Pikachu use the Z-Move 10,000,000 Volt Thunderbolt.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2140,
+    "name": "lunalium-z",
+    "display_name": "Lunalium Z",
+    "category": "species-specific",
+    "effect": "Held by Lunala or Dawn Wings Necrozma\n:   Upgrades its signature move into the Z-Move Menacing Moonraze Maelstrom once per battle.",
+    "short_effect": "Lets Lunala or Dawn Wings Necrozma use the Z-Move Menacing Moonraze Maelstrom.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2141,
+    "name": "mimikium-z",
+    "display_name": "Mimikium Z",
+    "category": "species-specific",
+    "effect": "Held by Mimikyu\n:   Upgrades its signature move into the Z-Move Let's Snuggle Forever once per battle.",
+    "short_effect": "Lets Mimikyu use the Z-Move Let's Snuggle Forever.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2142,
+    "name": "lycanium-z",
+    "display_name": "Lycanium Z",
+    "category": "species-specific",
+    "effect": "Held by Lycanroc\n:   Upgrades its signature move into the Z-Move Splintered Stormshards once per battle.",
+    "short_effect": "Lets Lycanroc use the Z-Move Splintered Stormshards.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2143,
+    "name": "kommonium-z",
+    "display_name": "Kommonium Z",
+    "category": "species-specific",
+    "effect": "Held by Kommo-o\n:   Upgrades its signature move into the Z-Move Clangorous Soulblaze once per battle.",
+    "short_effect": "Lets Kommo-o use the Z-Move Clangorous Soulblaze.",
+    "fling_power": 30,
+    "fling_effect": null,
+    "generations": [
+      7,
+      8
+    ],
+    "cost": 0
+  },
+  {
+    "id": 2233,
+    "name": "clefablite",
+    "display_name": "Clefablite",
+    "category": "mega-stones",
+    "effect": "Allows Clefable to Mega Evolve into Mega Clefable.",
+    "short_effect": "Allows Clefable to Mega Evolve into Mega Clefable.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2234,
+    "name": "victreebelite",
+    "display_name": "Victreebelite",
+    "category": "mega-stones",
+    "effect": "Allows Victreebel to Mega Evolve into Mega Victreebel.",
+    "short_effect": "Allows Victreebel to Mega Evolve into Mega Victreebel.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2235,
+    "name": "starminite",
+    "display_name": "Starminite",
+    "category": "mega-stones",
+    "effect": "Allows Starmie to Mega Evolve into Mega Starmie.",
+    "short_effect": "Allows Starmie to Mega Evolve into Mega Starmie.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2236,
+    "name": "dragoninite",
+    "display_name": "Dragoninite",
+    "category": "mega-stones",
+    "effect": "Allows Dragonite to Mega Evolve into Mega Dragonite.",
+    "short_effect": "Allows Dragonite to Mega Evolve into Mega Dragonite.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2237,
+    "name": "meganiumite",
+    "display_name": "Meganiumite",
+    "category": "mega-stones",
+    "effect": "Allows Meganium to Mega Evolve into Mega Meganium.",
+    "short_effect": "Allows Meganium to Mega Evolve into Mega Meganium.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2238,
+    "name": "feraligite",
+    "display_name": "Feraligite",
+    "category": "mega-stones",
+    "effect": "Allows Feraligatr to Mega Evolve into Mega Feraligatr.",
+    "short_effect": "Allows Feraligatr to Mega Evolve into Mega Feraligatr.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2239,
+    "name": "skarmorite",
+    "display_name": "Skarmorite",
+    "category": "mega-stones",
+    "effect": "Allows Skarmory to Mega Evolve into Mega Skarmory.",
+    "short_effect": "Allows Skarmory to Mega Evolve into Mega Skarmory.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2240,
+    "name": "froslassite",
+    "display_name": "Froslassite",
+    "category": "mega-stones",
+    "effect": "Allows Froslass to Mega Evolve into Mega Froslass.",
+    "short_effect": "Allows Froslass to Mega Evolve into Mega Froslass.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2243,
+    "name": "emboarite",
+    "display_name": "Emboarite",
+    "category": "mega-stones",
+    "effect": "Allows Emboar to Mega Evolve into Mega Emboar.",
+    "short_effect": "Allows Emboar to Mega Evolve into Mega Emboar.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2244,
+    "name": "excadrite",
+    "display_name": "Excadrite",
+    "category": "mega-stones",
+    "effect": "Allows Excadrill to Mega Evolve into Mega Excadrill.",
+    "short_effect": "Allows Excadrill to Mega Evolve into Mega Excadrill.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2245,
+    "name": "scolipite",
+    "display_name": "Scolipite",
+    "category": "mega-stones",
+    "effect": "Allows Scolipede to Mega Evolve into Mega Scolipede.",
+    "short_effect": "Allows Scolipede to Mega Evolve into Mega Scolipede.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2246,
+    "name": "scraftinite",
+    "display_name": "Scraftinite",
+    "category": "mega-stones",
+    "effect": "Allows Scrafty to Mega Evolve into Mega Scrafty.",
+    "short_effect": "Allows Scrafty to Mega Evolve into Mega Scrafty.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2247,
+    "name": "eelektrossite",
+    "display_name": "Eelektrossite",
+    "category": "mega-stones",
+    "effect": "Allows Eelektross to Mega Evolve into Mega Eelektross.",
+    "short_effect": "Allows Eelektross to Mega Evolve into Mega Eelektross.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2248,
+    "name": "chandelurite",
+    "display_name": "Chandelurite",
+    "category": "mega-stones",
+    "effect": "Allows Chandelure to Mega Evolve into Mega Chandelure.",
+    "short_effect": "Allows Chandelure to Mega Evolve into Mega Chandelure.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2249,
+    "name": "chesnaughtite",
+    "display_name": "Chesnaughtite",
+    "category": "mega-stones",
+    "effect": "Allows Chesnaught to Mega Evolve into Mega Chesnaught.",
+    "short_effect": "Allows Chesnaught to Mega Evolve into Mega Chesnaught.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2250,
+    "name": "delphoxite",
+    "display_name": "Delphoxite",
+    "category": "mega-stones",
+    "effect": "Allows Delphox to Mega Evolve into Mega Delphox.",
+    "short_effect": "Allows Delphox to Mega Evolve into Mega Delphox.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2251,
+    "name": "greninjite",
+    "display_name": "Greninjite",
+    "category": "mega-stones",
+    "effect": "Allows Greninja to Mega Evolve into Mega Greninja.",
+    "short_effect": "Allows Greninja to Mega Evolve into Mega Greninja.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2252,
+    "name": "pyroarite",
+    "display_name": "Pyroarite",
+    "category": "mega-stones",
+    "effect": "Allows Pyroar to Mega Evolve into Mega Pyroar.",
+    "short_effect": "Allows Pyroar to Mega Evolve into Mega Pyroar.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2253,
+    "name": "floettite",
+    "display_name": "Floettite",
+    "category": "mega-stones",
+    "effect": "Allows Floette to Mega Evolve into Mega Floette.",
+    "short_effect": "Allows Floette to Mega Evolve into Mega Floette.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2254,
+    "name": "malamarite",
+    "display_name": "Malamarite",
+    "category": "mega-stones",
+    "effect": "Allows Malamar to Mega Evolve into Mega Malamar.",
+    "short_effect": "Allows Malamar to Mega Evolve into Mega Malamar.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2255,
+    "name": "barbaracite",
+    "display_name": "Barbaracite",
+    "category": "mega-stones",
+    "effect": "Allows Barbaracle to Mega Evolve into Mega Barbaracle.",
+    "short_effect": "Allows Barbaracle to Mega Evolve into Mega Barbaracle.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2256,
+    "name": "dragalgite",
+    "display_name": "Dragalgite",
+    "category": "mega-stones",
+    "effect": "Allows Dragalge to Mega Evolve into Mega Dragalge.",
+    "short_effect": "Allows Dragalge to Mega Evolve into Mega Dragalge.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2257,
+    "name": "hawluchanite",
+    "display_name": "Hawluchanite",
+    "category": "mega-stones",
+    "effect": "Allows Hawlucha to Mega Evolve into Mega Hawlucha.",
+    "short_effect": "Allows Hawlucha to Mega Evolve into Mega Hawlucha.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2259,
+    "name": "drampanite",
+    "display_name": "Drampanite",
+    "category": "mega-stones",
+    "effect": "Allows Drampa to Mega Evolve into Mega Drampa.",
+    "short_effect": "Allows Drampa to Mega Evolve into Mega Drampa.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2261,
+    "name": "falinksite",
+    "display_name": "Falinksite",
+    "category": "mega-stones",
+    "effect": "Allows Falinks to Mega Evolve into Mega Falinks.",
+    "short_effect": "Allows Falinks to Mega Evolve into Mega Falinks.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2262,
+    "name": "raichunite-x",
+    "display_name": "Raichunite X",
+    "category": "mega-stones",
+    "effect": "Allows Raichu to Mega Evolve into Mega Raichu X.",
+    "short_effect": "Allows Raichu to Mega Evolve into Mega Raichu X.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2263,
+    "name": "raichunite-y",
+    "display_name": "Raichunite Y",
+    "category": "mega-stones",
+    "effect": "Allows Raichu to Mega Evolve into Mega Raichu Y.",
+    "short_effect": "Allows Raichu to Mega Evolve into Mega Raichu Y.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2264,
+    "name": "chimechite",
+    "display_name": "Chimechite",
+    "category": "mega-stones",
+    "effect": "Allows Chimecho to Mega Evolve into Mega Chimecho.",
+    "short_effect": "Allows Chimecho to Mega Evolve into Mega Chimecho.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2266,
+    "name": "staraptite",
+    "display_name": "Staraptite",
+    "category": "mega-stones",
+    "effect": "Allows Staraptor to Mega Evolve into Mega Staraptor.",
+    "short_effect": "Allows Staraptor to Mega Evolve into Mega Staraptor.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2269,
+    "name": "golurkite",
+    "display_name": "Golurkite",
+    "category": "mega-stones",
+    "effect": "Allows Golurk to Mega Evolve into Mega Golurk.",
+    "short_effect": "Allows Golurk to Mega Evolve into Mega Golurk.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2270,
+    "name": "meowsticite",
+    "display_name": "Meowsticite",
+    "category": "mega-stones",
+    "effect": "Allows Meowstic to Mega Evolve into Mega Meowstic.",
+    "short_effect": "Allows Meowstic to Mega Evolve into Mega Meowstic.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2271,
+    "name": "crabominite",
+    "display_name": "Crabominite",
+    "category": "mega-stones",
+    "effect": "Allows Crabominable to Mega Evolve into Mega Crabominable.",
+    "short_effect": "Allows Crabominable to Mega Evolve into Mega Crabominable.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2274,
+    "name": "scovillainite",
+    "display_name": "Scovillainite",
+    "category": "mega-stones",
+    "effect": "Allows Scovillain to Mega Evolve into Mega Scovillain.",
+    "short_effect": "Allows Scovillain to Mega Evolve into Mega Scovillain.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2277,
+    "name": "glimmoranite",
+    "display_name": "Glimmoranite",
+    "category": "mega-stones",
+    "effect": "Allows Glimmora to Mega Evolve into Mega Glimmora.",
+    "short_effect": "Allows Glimmora to Mega Evolve into Mega Glimmora.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2278,
+    "name": "absolite-z",
+    "display_name": "Absolite Z",
+    "category": "mega-stones",
+    "effect": "Allows Absol to Mega Evolve into Mega Absol Z.",
+    "short_effect": "Allows Absol to Mega Evolve into Mega Absol Z.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2279,
+    "name": "garchompite-z",
+    "display_name": "Garchompite Z",
+    "category": "mega-stones",
+    "effect": "Allows Garchomp to Mega Evolve into Mega Garchomp Z.",
+    "short_effect": "Allows Garchomp to Mega Evolve into Mega Garchomp Z.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2280,
+    "name": "lucarionite-z",
+    "display_name": "Lucarionite Z",
+    "category": "mega-stones",
+    "effect": "Allows Lucario to Mega Evolve into Mega Lucario Z.",
+    "short_effect": "Allows Lucario to Mega Evolve into Mega Lucario Z.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2281,
+    "name": "heatranite",
+    "display_name": "Heatranite",
+    "category": "mega-stones",
+    "effect": "Allows Heatran to Mega Evolve into Mega Heatran.",
+    "short_effect": "Allows Heatran to Mega Evolve into Mega Heatran.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2282,
+    "name": "darkranite",
+    "display_name": "Darkranite",
+    "category": "mega-stones",
+    "effect": "Allows Darkrai to Mega Evolve into Mega Darkrai.",
+    "short_effect": "Allows Darkrai to Mega Evolve into Mega Darkrai.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2283,
+    "name": "zygardite",
+    "display_name": "Zygardite",
+    "category": "mega-stones",
+    "effect": "Allows Zygarde to Mega Evolve into Mega Zygarde.",
+    "short_effect": "Allows Zygarde to Mega Evolve into Mega Zygarde.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2284,
+    "name": "golisopite",
+    "display_name": "Golisopite",
+    "category": "mega-stones",
+    "effect": "Allows Golisopod to Mega Evolve into Mega Golisopod.",
+    "short_effect": "Allows Golisopod to Mega Evolve into Mega Golisopod.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2285,
+    "name": "magearnite",
+    "display_name": "Magearnite",
+    "category": "mega-stones",
+    "effect": "Allows Magearna to Mega Evolve into Mega Magearna.",
+    "short_effect": "Allows Magearna to Mega Evolve into Mega Magearna.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2286,
+    "name": "zeraorite",
+    "display_name": "Zeraorite",
+    "category": "mega-stones",
+    "effect": "Allows Zeraora to Mega Evolve into Mega Zeraora.",
+    "short_effect": "Allows Zeraora to Mega Evolve into Mega Zeraora.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2287,
+    "name": "tatsugirinite",
+    "display_name": "Tatsugirinite",
+    "category": "mega-stones",
+    "effect": "Allows Tatsugiri to Mega Evolve into Mega Tatsugiri.",
+    "short_effect": "Allows Tatsugiri to Mega Evolve into Mega Tatsugiri.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  },
+  {
+    "id": 2288,
+    "name": "baxcalibrite",
+    "display_name": "Baxcalibrite",
+    "category": "mega-stones",
+    "effect": "Allows Baxcalibur to Mega Evolve into Mega Baxcalibur.",
+    "short_effect": "Allows Baxcalibur to Mega Evolve into Mega Baxcalibur.",
+    "fling_power": 80,
+    "fling_effect": null,
+    "generations": [
+      9
+    ],
+    "cost": 10000
+  }
+]

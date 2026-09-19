@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "santalune_forest",
+    "region": "kalos",
+    "parentLocationId": "vaniville_area",
+    "name": "Santalune Forest",
+    "description": "A dappled woodland north of Aquacorde where fluttering bug Pokémon fill the shafts of sunlight.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 664,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 10,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 13,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 661,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 172,
+        "weight": 5,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 650,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_2",
+    "region": "kalos",
+    "parentLocationId": "vaniville_area",
+    "name": "Kalos Route 2",
+    "description": "A gentle grass-lined avenue between Aquacorde Town and the eaves of Santalune Forest.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 659,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 661,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 664,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 263,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 412,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 653,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_3",
+    "region": "kalos",
+    "parentLocationId": "vaniville_area",
+    "name": "Kalos Route 3",
+    "description": "A sunny riverside path of ponds and tall grass running up to Santalune City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 659,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 263,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 669,
+        "weight": 10,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 298,
+        "weight": 10,
+        "types": [
+          "normal",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 656,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_4",
+    "region": "kalos",
+    "parentLocationId": "lumiose_area",
+    "name": "Kalos Route 4",
+    "description": "A parterre of hedge mazes and flower beds stretching toward the gates of Lumiose City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 669,
+        "weight": 20,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 280,
+        "weight": 20,
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 684,
+        "weight": 10,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 415,
+        "weight": 10,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 406,
+        "weight": 5,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 682,
+        "weight": 1,
+        "types": [
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_5",
+    "region": "kalos",
+    "parentLocationId": "lumiose_area",
+    "name": "Kalos Route 5",
+    "description": "A skater-friendly boulevard of ledges and tall grass linking Lumiose to Camphrier Town.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 672,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 677,
+        "weight": 20,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 674,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 453,
+        "weight": 10,
+        "types": [
+          "poison",
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 263,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 676,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_8",
+    "region": "kalos",
+    "parentLocationId": "cyllage_area",
+    "name": "Kalos Route 8",
+    "description": "A cliffside coastal road above Ambrette where the sea wind carries drifting Inkay.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 359,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 686,
+        "weight": 10,
+        "types": [
+          "dark",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 690,
+        "weight": 10,
+        "types": [
+          "poison",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 557,
+        "weight": 5,
+        "types": [
+          "bug",
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 688,
+        "weight": 1,
+        "types": [
+          "rock",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glittering_cave",
+    "region": "kalos",
+    "parentLocationId": "cyllage_area",
+    "name": "Glittering Cave",
+    "description": "A crystal-studded cavern beneath the coast where ancient fossil Pokémon still stir.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 20,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 104,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 527,
+        "weight": 10,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 524,
+        "weight": 5,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 696,
+        "weight": 1,
+        "types": [
+          "rock",
+          "dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reflection_cave",
+    "region": "kalos",
+    "parentLocationId": "shalour_area",
+    "name": "Reflection Cave",
+    "description": "A hall of mirrored crystal walls where jewelled Carbink glitter in the half-light.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 703,
+        "weight": 20,
+        "types": [
+          "rock",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 439,
+        "weight": 20,
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 524,
+        "weight": 10,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 677,
+        "weight": 10,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 679,
+        "weight": 5,
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 577,
+        "weight": 1,
+        "types": [
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_11",
+    "region": "kalos",
+    "parentLocationId": "shalour_area",
+    "name": "Kalos Route 11",
+    "description": "A shining mineral valley descending from the mountains toward Shalour City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 694,
+        "weight": 20,
+        "types": [
+          "electric",
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 701,
+        "weight": 20,
+        "types": [
+          "fighting",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 686,
+        "weight": 10,
+        "types": [
+          "dark",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 280,
+        "weight": 10,
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 703,
+        "weight": 5,
+        "types": [
+          "rock",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 702,
+        "weight": 1,
+        "types": [
+          "electric",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_12",
+    "region": "kalos",
+    "parentLocationId": "coumarine_area",
+    "name": "Kalos Route 12",
+    "description": "A sun-warmed orchard road where Skiddo graze along the fences above the bay.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 672,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 241,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 179,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 128,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 684,
+        "weight": 5,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 667,
+        "weight": 1,
+        "types": [
+          "fire",
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azure_bay",
+    "region": "kalos",
+    "parentLocationId": "coumarine_area",
+    "name": "Azure Bay",
+    "description": "A glittering expanse of open sea dotted with islets, alive with snapping Clauncher.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 692,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 10,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 170,
+        "weight": 10,
+        "types": [
+          "water",
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 690,
+        "weight": 5,
+        "types": [
+          "poison",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 592,
+        "weight": 1,
+        "types": [
+          "water",
+          "ghost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_14",
+    "region": "kalos",
+    "parentLocationId": "laverre_area",
+    "name": "Kalos Route 14",
+    "description": "A murky swamp trail of knee-deep pools and gnarled trees on the way to Laverre City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 453,
+        "weight": 20,
+        "types": [
+          "poison",
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 704,
+        "weight": 20,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 60,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 708,
+        "weight": 5,
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 451,
+        "weight": 1,
+        "types": [
+          "poison",
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_15",
+    "region": "kalos",
+    "parentLocationId": "laverre_area",
+    "name": "Kalos Route 15",
+    "description": "An autumn-hued scrapyard road where mischievous Klefki jangle among fallen leaves.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 672,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 708,
+        "weight": 20,
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 568,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 590,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 677,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 707,
+        "weight": 1,
+        "types": [
+          "steel",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_16",
+    "region": "kalos",
+    "parentLocationId": "anistar_area",
+    "name": "Kalos Route 16",
+    "description": "A melancholy lakeside path where lone Pumpkaboo drift between the poplars at dusk.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 708,
+        "weight": 20,
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 672,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 568,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 590,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 694,
+        "weight": 5,
+        "types": [
+          "electric",
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 710,
+        "weight": 1,
+        "types": [
+          "ghost",
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "terminus_cave",
+    "region": "kalos",
+    "parentLocationId": "anistar_area",
+    "name": "Terminus Cave",
+    "description": "A deep abandoned mine of creaking timbers and echoing shafts, said to hide a great serpent.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 95,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 679,
+        "weight": 20,
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 246,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 632,
+        "weight": 10,
+        "types": [
+          "bug",
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 527,
+        "weight": 5,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 1,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frost_cavern",
+    "region": "kalos",
+    "parentLocationId": "snowbelle_area",
+    "name": "Frost Cavern",
+    "description": "A towering glacier cave north of Dendemille where the walls groan with shifting ice.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 712,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 582,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 613,
+        "weight": 10,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 238,
+        "weight": 10,
+        "types": [
+          "ice",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 459,
+        "weight": 5,
+        "types": [
+          "grass",
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 698,
+        "weight": 1,
+        "types": [
+          "rock",
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalos_route_19",
+    "region": "kalos",
+    "parentLocationId": "snowbelle_area",
+    "name": "Kalos Route 19",
+    "description": "A rain-soaked marsh valley crossed by a great suspension bridge, where Goomy huddle in the wet grass.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 704,
+        "weight": 20,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 714,
+        "weight": 20,
+        "types": [
+          "flying",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 616,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 590,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 701,
+        "weight": 5,
+        "types": [
+          "fighting",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 588,
+        "weight": 1,
+        "types": [
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pokemon_village",
+    "region": "kalos",
+    "parentLocationId": "snowbelle_area",
+    "name": "Pokémon Village",
+    "description": "A hidden hollow deep in the Winding Woods where Pokémon abandoned by trainers live in peace.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 133,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 438,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 336,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 531,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 108,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 335,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "victory_road_kalos",
+    "region": "kalos",
+    "parentLocationId": "snowbelle_area",
+    "name": "Victory Road",
+    "description": "A crumbling fortress of cliffs, caves, and ruined battlements guarding the Pokémon League.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 714,
+        "weight": 20,
+        "types": [
+          "flying",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 701,
+        "weight": 20,
+        "types": [
+          "fighting",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 679,
+        "weight": 10,
+        "types": [
+          "steel",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 674,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 621,
+        "weight": 1,
+        "types": [
+          "dragon"
+        ]
+      }
+    ]
+  }
+]

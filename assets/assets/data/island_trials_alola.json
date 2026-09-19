@@ -1,0 +1,796 @@
+[
+  {
+    "trialId": "verdant_cavern",
+    "trialName": "Verdant Cavern Trial",
+    "islandLocationId": "melemele_gym",
+    "zCrystal": "Normalium Z",
+    "badge": {
+      "name": "Normalium Z",
+      "imageUrl": "assets/sprites/badges/alola/normalium.png"
+    },
+    "captainName": "Ilima",
+    "imageUrl": "assets/icons/735.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 735,
+      "name": "Gumshoos",
+      "ability": "strong-jaw",
+      "held_item": "normalium",
+      "nature": "adamant",
+      "moves": [
+        "crunch",
+        "earthquake",
+        "ice-fang",
+        "hyper-fang"
+      ]
+    },
+    "allies": [
+      {
+        "id": 734,
+        "name": "Yungoos"
+      },
+      {
+        "id": 19,
+        "name": "Alolan Rattata",
+        "form": "rattata-alola"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon's roar drives you back!",
+      "The trial site rejects you. Return when you are ready."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon bows and retreats into the cavern.",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "ten_carat_hill_trial",
+    "trialName": "Ten Carat Hill Trial",
+    "islandLocationId": "melemele_gym",
+    "zCrystal": "Flyinium Z",
+    "badge": {
+      "name": "Flyinium Z",
+      "imageUrl": "assets/sprites/badges/alola/flyinium.png"
+    },
+    "captainName": "Kahili",
+    "imageUrl": "assets/icons/733.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 733,
+      "name": "Toucannon",
+      "ability": "skill-link",
+      "held_item": "flyinium",
+      "nature": "adamant",
+      "moves": [
+        "beak-blast",
+        "rock-blast",
+        "bullet-seed",
+        "brave-bird"
+      ]
+    },
+    "allies": [
+      {
+        "id": 732,
+        "name": "Trumbeak"
+      },
+      {
+        "id": 731,
+        "name": "Pikipek"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon of Ten Carat Hill proves too strong!",
+      "Kahili shakes their head. Come back stronger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon of Ten Carat Hill yields!",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "kalae_bay_trial",
+    "trialName": "Kala'e Bay Trial",
+    "islandLocationId": "melemele_gym",
+    "zCrystal": "Poisonium Z",
+    "badge": {
+      "name": "Poisonium Z",
+      "imageUrl": "assets/sprites/badges/alola/poisonium.png"
+    },
+    "captainName": "Plumeria",
+    "imageUrl": "assets/icons/748.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 748,
+      "name": "Toxapex",
+      "ability": "merciless",
+      "held_item": "poisonium",
+      "nature": "adamant",
+      "moves": [
+        "poison-jab",
+        "liquidation",
+        "toxic",
+        "baneful-bunker"
+      ]
+    },
+    "allies": [
+      {
+        "id": 747,
+        "name": "Mareanie"
+      },
+      {
+        "id": 222,
+        "name": "Corsola"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon of Kala'e Bay proves too strong!",
+      "Plumeria shakes their head. Come back stronger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon of Kala'e Bay yields!",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "melemele_grand_trial",
+    "trialName": "Melemele Grand Trial",
+    "islandLocationId": "melemele_gym",
+    "zCrystal": "Fightinium Z",
+    "badge": {
+      "name": "Fightinium Z",
+      "imageUrl": "assets/sprites/badges/alola/fightinium.png"
+    },
+    "captainName": "Hala",
+    "imageUrl": "assets/icons/740.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 740,
+      "name": "Crabominable",
+      "ability": "iron-fist",
+      "held_item": "fightinium",
+      "nature": "adamant",
+      "moves": [
+        "close-combat",
+        "ice-hammer",
+        "earthquake",
+        "stone-edge"
+      ]
+    },
+    "allies": [
+      {
+        "id": 297,
+        "name": "Hariyama"
+      },
+      {
+        "id": 739,
+        "name": "Crabrawler"
+      }
+    ],
+    "win_messages": [
+      "Kahuna Hala's Totem Pokémon overwhelms you!",
+      "The grand trial is not over. Train and return."
+    ],
+    "lose_messages": [
+      "Kahuna Hala nods with respect. The grand trial is complete!",
+      "Grand trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "brooklet_hill_trial",
+    "trialName": "Brooklet Hill Trial",
+    "islandLocationId": "akala_gym",
+    "zCrystal": "Waterium Z",
+    "badge": {
+      "name": "Waterium Z",
+      "imageUrl": "assets/sprites/badges/alola/waterium.png"
+    },
+    "captainName": "Lana",
+    "imageUrl": "assets/icons/752.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 752,
+      "name": "Araquanid",
+      "ability": "water-bubble",
+      "held_item": "waterium",
+      "nature": "adamant",
+      "moves": [
+        "liquidation",
+        "leech-life",
+        "crunch",
+        "lunge"
+      ]
+    },
+    "allies": [
+      {
+        "id": 751,
+        "name": "Dewpider"
+      },
+      {
+        "id": 746,
+        "name": "Wishiwashi"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon washes you out of the trial!",
+      "The waters turn you away. Come back stronger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon slips beneath the pools.",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "wela_volcano_trial",
+    "trialName": "Wela Volcano Trial",
+    "islandLocationId": "akala_gym",
+    "zCrystal": "Firium Z",
+    "badge": {
+      "name": "Firium Z",
+      "imageUrl": "assets/sprites/badges/alola/firium.png"
+    },
+    "captainName": "Kiawe",
+    "imageUrl": "assets/icons/758.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 758,
+      "name": "Salazzle",
+      "ability": "corrosion",
+      "held_item": "firium",
+      "nature": "timid",
+      "moves": [
+        "sludge-wave",
+        "flamethrower",
+        "dragon-pulse",
+        "nasty-plot"
+      ]
+    },
+    "allies": [
+      {
+        "id": 757,
+        "name": "Salandit"
+      },
+      {
+        "id": 105,
+        "name": "Alolan Marowak",
+        "form": "marowak-alola"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon's flames scorch your path!",
+      "The volcano's trial is not yet yours to pass."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon slinks back into the smoke.",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "lush_jungle_trial",
+    "trialName": "Lush Jungle Trial",
+    "islandLocationId": "akala_gym",
+    "zCrystal": "Grassium Z",
+    "badge": {
+      "name": "Grassium Z",
+      "imageUrl": "assets/sprites/badges/alola/grassium.png"
+    },
+    "captainName": "Mallow",
+    "imageUrl": "assets/icons/754.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 754,
+      "name": "Lurantis",
+      "ability": "contrary",
+      "held_item": "grassium",
+      "nature": "adamant",
+      "moves": [
+        "leaf-blade",
+        "x-scissor",
+        "superpower",
+        "synthesis"
+      ]
+    },
+    "allies": [
+      {
+        "id": 753,
+        "name": "Fomantis"
+      },
+      {
+        "id": 351,
+        "name": "Castform"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon's blades cut short your trial!",
+      "The jungle closes around you. Not yet, challenger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon folds its blades and withdraws.",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "hano_beach_trial",
+    "trialName": "Hano Beach Trial",
+    "islandLocationId": "akala_gym",
+    "zCrystal": "Psychium Z",
+    "badge": {
+      "name": "Psychium Z",
+      "imageUrl": "assets/sprites/badges/alola/psychium.png"
+    },
+    "captainName": "Dexio",
+    "imageUrl": "assets/icons/779.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 779,
+      "name": "Bruxish",
+      "ability": "strong-jaw",
+      "held_item": "psychium",
+      "nature": "jolly",
+      "moves": [
+        "psychic-fangs",
+        "crunch",
+        "aqua-tail",
+        "ice-fang"
+      ]
+    },
+    "allies": [
+      {
+        "id": 765,
+        "name": "Oranguru"
+      },
+      {
+        "id": 278,
+        "name": "Wingull"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon of Hano Beach proves too strong!",
+      "Dexio shakes their head. Come back stronger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon of Hano Beach yields!",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "akala_grand_trial",
+    "trialName": "Akala Grand Trial",
+    "islandLocationId": "akala_gym",
+    "zCrystal": "Rockium Z",
+    "badge": {
+      "name": "Rockium Z",
+      "imageUrl": "assets/sprites/badges/alola/rockium.png"
+    },
+    "captainName": "Olivia",
+    "imageUrl": "assets/icons/745.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 745,
+      "name": "Lycanroc",
+      "ability": "keen-eye",
+      "held_item": "rockium",
+      "nature": "jolly",
+      "moves": [
+        "stone-edge",
+        "accelerock",
+        "crunch",
+        "drill-run"
+      ]
+    },
+    "allies": [
+      {
+        "id": 525,
+        "name": "Boldore"
+      },
+      {
+        "id": 299,
+        "name": "Nosepass"
+      }
+    ],
+    "win_messages": [
+      "Kahuna Olivia's Totem Pokémon overwhelms you!",
+      "The grand trial is not over. Train and return."
+    ],
+    "lose_messages": [
+      "Kahuna Olivia nods with respect. The grand trial is complete!",
+      "Grand trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "hokulani_trial",
+    "trialName": "Hokulani Observatory Trial",
+    "islandLocationId": "ulaula_gym",
+    "zCrystal": "Electrium Z",
+    "badge": {
+      "name": "Electrium Z",
+      "imageUrl": "assets/sprites/badges/alola/electrium.png"
+    },
+    "captainName": "Sophocles",
+    "imageUrl": "assets/icons/738.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 738,
+      "name": "Vikavolt",
+      "ability": "levitate",
+      "held_item": "electrium",
+      "nature": "modest",
+      "moves": [
+        "thunderbolt",
+        "bug-buzz",
+        "energy-ball",
+        "air-slash"
+      ]
+    },
+    "allies": [
+      {
+        "id": 737,
+        "name": "Charjabug"
+      },
+      {
+        "id": 736,
+        "name": "Grubbin"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon's charge blasts you away!",
+      "The observatory's trial shorts out. Return stronger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon powers down and drifts off.",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "thrifty_megamart_trial",
+    "trialName": "Thrifty Megamart Trial",
+    "islandLocationId": "ulaula_gym",
+    "zCrystal": "Ghostium Z",
+    "badge": {
+      "name": "Ghostium Z",
+      "imageUrl": "assets/sprites/badges/alola/ghostium.png"
+    },
+    "captainName": "Acerola",
+    "imageUrl": "assets/icons/778.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 778,
+      "name": "Mimikyu",
+      "ability": "disguise",
+      "held_item": "ghostium",
+      "nature": "jolly",
+      "moves": [
+        "play-rough",
+        "shadow-claw",
+        "shadow-sneak",
+        "swords-dance"
+      ]
+    },
+    "allies": [
+      {
+        "id": 93,
+        "name": "Haunter"
+      },
+      {
+        "id": 354,
+        "name": "Banette"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon vanishes and you flee in fright!",
+      "The haunted aisles reject you. Come back braver."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon fades quietly into the dark.",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "shady_house_trial",
+    "trialName": "Shady House Trial",
+    "islandLocationId": "ulaula_gym",
+    "zCrystal": "Buginium Z",
+    "badge": {
+      "name": "Buginium Z",
+      "imageUrl": "assets/sprites/badges/alola/buginium.png"
+    },
+    "captainName": "Guzma",
+    "imageUrl": "assets/icons/768.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 768,
+      "name": "Golisopod",
+      "ability": "tough-claws",
+      "held_item": "buginium",
+      "nature": "adamant",
+      "moves": [
+        "rock-slide",
+        "leech-life",
+        "liquidation",
+        "crunch"
+      ]
+    },
+    "allies": [
+      {
+        "id": 767,
+        "name": "Wimpod"
+      },
+      {
+        "id": 284,
+        "name": "Masquerain"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon of the Shady House proves too strong!",
+      "Guzma shakes their head. Come back stronger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon of the Shady House yields!",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "blush_mountain_trial",
+    "trialName": "Blush Mountain Trial",
+    "islandLocationId": "ulaula_gym",
+    "zCrystal": "Steelium Z",
+    "badge": {
+      "name": "Steelium Z",
+      "imageUrl": "assets/sprites/badges/alola/steelium.png"
+    },
+    "captainName": "Molayne",
+    "imageUrl": "assets/icons/777.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 777,
+      "name": "Togedemaru",
+      "ability": "iron-barbs",
+      "held_item": "steelium",
+      "nature": "jolly",
+      "moves": [
+        "iron-head",
+        "zing-zap",
+        "wild-charge",
+        "fell-stinger"
+      ]
+    },
+    "allies": [
+      {
+        "id": 82,
+        "name": "Magneton"
+      },
+      {
+        "id": 227,
+        "name": "Skarmory"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon of Blush Mountain proves too strong!",
+      "Molayne shakes their head. Come back stronger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon of Blush Mountain yields!",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "mount_lanakila_trial",
+    "trialName": "Mount Lanakila Trial",
+    "islandLocationId": "ulaula_gym",
+    "zCrystal": "Icium Z",
+    "badge": {
+      "name": "Icium Z",
+      "imageUrl": "assets/sprites/badges/alola/icium.png"
+    },
+    "captainName": "Hau",
+    "imageUrl": "assets/icons/713.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 713,
+      "name": "Avalugg",
+      "ability": "sturdy",
+      "held_item": "icium",
+      "nature": "impish",
+      "moves": [
+        "avalanche",
+        "earthquake",
+        "crunch",
+        "recover"
+      ]
+    },
+    "allies": [
+      {
+        "id": 712,
+        "name": "Bergmite"
+      },
+      {
+        "id": 215,
+        "name": "Sneasel"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon of Mount Lanakila proves too strong!",
+      "Hau shakes their head. Come back stronger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon of Mount Lanakila yields!",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "ulaula_grand_trial",
+    "trialName": "Ulaula Grand Trial",
+    "islandLocationId": "ulaula_gym",
+    "zCrystal": "Darkinium Z",
+    "badge": {
+      "name": "Darkinium Z",
+      "imageUrl": "assets/sprites/badges/alola/darkinium.png"
+    },
+    "captainName": "Nanu",
+    "imageUrl": "assets/icons/553.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 553,
+      "name": "Krookodile",
+      "ability": "intimidate",
+      "held_item": "darkinium",
+      "nature": "jolly",
+      "moves": [
+        "crunch",
+        "earthquake",
+        "stone-edge",
+        "knock-off"
+      ]
+    },
+    "allies": [
+      {
+        "id": 302,
+        "name": "Sableye"
+      },
+      {
+        "id": 359,
+        "name": "Absol"
+      }
+    ],
+    "win_messages": [
+      "Kahuna Nanu's Totem Pokémon overwhelms you!",
+      "The grand trial is not over. Train and return."
+    ],
+    "lose_messages": [
+      "Kahuna Nanu nods with respect. The grand trial is complete!",
+      "Grand trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "vast_poni_canyon_trial",
+    "trialName": "Vast Poni Canyon Trial",
+    "islandLocationId": "poni_gym",
+    "zCrystal": "Dragonium Z",
+    "badge": {
+      "name": "Dragonium Z",
+      "imageUrl": "assets/sprites/badges/alola/dragonium.png"
+    },
+    "captainName": "Mina",
+    "imageUrl": "assets/icons/784.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 784,
+      "name": "Kommo-o",
+      "ability": "bulletproof",
+      "held_item": "dragonium",
+      "nature": "adamant",
+      "moves": [
+        "close-combat",
+        "dragon-claw",
+        "poison-jab",
+        "dragon-dance"
+      ]
+    },
+    "allies": [
+      {
+        "id": 783,
+        "name": "Hakamo-o"
+      },
+      {
+        "id": 782,
+        "name": "Jangmo-o"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon's scales turn back your assault!",
+      "The canyon's final trial is beyond you for now."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon roars once and stands aside.",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "seafolk_village_trial",
+    "trialName": "Seafolk Village Trial",
+    "islandLocationId": "poni_gym",
+    "zCrystal": "Fairium Z",
+    "badge": {
+      "name": "Fairium Z",
+      "imageUrl": "assets/sprites/badges/alola/fairium.png"
+    },
+    "captainName": "Lillie",
+    "imageUrl": "assets/icons/743.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 743,
+      "name": "Ribombee",
+      "ability": "shield-dust",
+      "held_item": "fairium",
+      "nature": "timid",
+      "moves": [
+        "moonblast",
+        "bug-buzz",
+        "dazzling-gleam",
+        "pollen-puff"
+      ]
+    },
+    "allies": [
+      {
+        "id": 742,
+        "name": "Cutiefly"
+      },
+      {
+        "id": 764,
+        "name": "Comfey"
+      }
+    ],
+    "win_messages": [
+      "The Totem Pokémon of Seafolk Village proves too strong!",
+      "Lillie shakes their head. Come back stronger."
+    ],
+    "lose_messages": [
+      "The Totem Pokémon of Seafolk Village yields!",
+      "Trial cleared! The Z-Crystal is yours."
+    ]
+  },
+  {
+    "trialId": "poni_grand_trial",
+    "trialName": "Poni Grand Trial",
+    "islandLocationId": "poni_gym",
+    "zCrystal": "Groundium Z",
+    "badge": {
+      "name": "Groundium Z",
+      "imageUrl": "assets/sprites/badges/alola/groundium.png"
+    },
+    "captainName": "Hapu",
+    "imageUrl": "assets/icons/750.png",
+    "prizeMoney": 0,
+    "totem": {
+      "id": 750,
+      "name": "Mudsdale",
+      "ability": "stamina",
+      "held_item": "groundium",
+      "nature": "adamant",
+      "moves": [
+        "high-horsepower",
+        "heavy-slam",
+        "rock-slide",
+        "superpower"
+      ]
+    },
+    "allies": [
+      {
+        "id": 423,
+        "name": "Gastrodon"
+      },
+      {
+        "id": 749,
+        "name": "Mudbray"
+      }
+    ],
+    "win_messages": [
+      "Kahuna Hapu's Totem Pokémon overwhelms you!",
+      "The grand trial is not over. Train and return."
+    ],
+    "lose_messages": [
+      "Kahuna Hapu nods with respect. The grand trial is complete!",
+      "Grand trial cleared! The Z-Crystal is yours."
+    ]
+  }
+]

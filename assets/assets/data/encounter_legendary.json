@@ -1,0 +1,1181 @@
+{
+  "regionsWithData": [
+    "kanto",
+    "johto",
+    "hoenn",
+    "sinnoh",
+    "unova",
+    "kalos",
+    "alola",
+    "galar",
+    "paldea"
+  ],
+  "legendaryIdsByRegion": {
+    "kanto": [
+      {
+        "id": 144,
+        "ability": "pressure",
+        "nature": "calm",
+        "moves": [
+          "ice-beam",
+          "hurricane",
+          "freeze-dry",
+          "roost"
+        ]
+      },
+      {
+        "id": 145,
+        "ability": "pressure",
+        "nature": "timid",
+        "moves": [
+          "thunderbolt",
+          "heat-wave",
+          "hurricane",
+          "roost"
+        ]
+      },
+      {
+        "id": 146,
+        "ability": "pressure",
+        "nature": "timid",
+        "moves": [
+          "flamethrower",
+          "air-slash",
+          "hurricane",
+          "roost"
+        ]
+      },
+      {
+        "id": 150,
+        "ability": "pressure",
+        "nature": "timid",
+        "moves": [
+          "psystrike",
+          "aura-sphere",
+          "ice-beam",
+          "recover"
+        ]
+      },
+      {
+        "id": 151,
+        "ability": "synchronize",
+        "nature": "timid",
+        "moves": [
+          "psychic",
+          "aura-sphere",
+          "ice-beam",
+          "roost"
+        ]
+      }
+    ],
+    "johto": [
+      {
+        "id": 243,
+        "ability": "pressure",
+        "nature": "timid",
+        "moves": [
+          "thunderbolt",
+          "volt-switch",
+          "extrasensory",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 244,
+        "ability": "pressure",
+        "nature": "adamant",
+        "moves": [
+          "sacred-fire",
+          "extreme-speed",
+          "stone-edge",
+          "flare-blitz"
+        ]
+      },
+      {
+        "id": 245,
+        "ability": "pressure",
+        "nature": "bold",
+        "moves": [
+          "scald",
+          "ice-beam",
+          "calm-mind",
+          "rest"
+        ]
+      },
+      {
+        "id": 249,
+        "ability": "pressure",
+        "nature": "bold",
+        "moves": [
+          "aeroblast",
+          "ice-beam",
+          "roost",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 250,
+        "ability": "pressure",
+        "nature": "adamant",
+        "moves": [
+          "sacred-fire",
+          "brave-bird",
+          "earthquake",
+          "recover"
+        ]
+      },
+      {
+        "id": 251,
+        "ability": "natural-cure",
+        "nature": "timid",
+        "moves": [
+          "leaf-storm",
+          "psychic",
+          "giga-drain",
+          "recover"
+        ]
+      }
+    ],
+    "hoenn": [
+      {
+        "id": 377,
+        "ability": "clear-body",
+        "nature": "adamant",
+        "moves": [
+          "stone-edge",
+          "earthquake",
+          "drain-punch",
+          "curse"
+        ]
+      },
+      {
+        "id": 378,
+        "ability": "clear-body",
+        "nature": "calm",
+        "moves": [
+          "ice-beam",
+          "thunderbolt",
+          "focus-blast",
+          "rest"
+        ]
+      },
+      {
+        "id": 379,
+        "ability": "clear-body",
+        "nature": "careful",
+        "moves": [
+          "iron-head",
+          "earthquake",
+          "curse",
+          "rest"
+        ]
+      },
+      {
+        "id": 380,
+        "ability": "levitate",
+        "nature": "timid",
+        "moves": [
+          "draco-meteor",
+          "psychic",
+          "mist-ball",
+          "recover"
+        ]
+      },
+      {
+        "id": 381,
+        "ability": "levitate",
+        "nature": "timid",
+        "moves": [
+          "draco-meteor",
+          "psychic",
+          "luster-purge",
+          "recover"
+        ]
+      },
+      {
+        "id": 382,
+        "ability": "drizzle",
+        "nature": "modest",
+        "moves": [
+          "water-spout",
+          "origin-pulse",
+          "ice-beam",
+          "thunder"
+        ]
+      },
+      {
+        "id": 383,
+        "ability": "drought",
+        "nature": "adamant",
+        "moves": [
+          "precipice-blades",
+          "earthquake",
+          "fire-punch",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 384,
+        "ability": "air-lock",
+        "nature": "adamant",
+        "moves": [
+          "dragon-ascent",
+          "extreme-speed",
+          "earthquake",
+          "dragon-dance"
+        ]
+      },
+      {
+        "id": 385,
+        "ability": "serene-grace",
+        "nature": "jolly",
+        "moves": [
+          "iron-head",
+          "zen-headbutt",
+          "body-slam",
+          "wish"
+        ]
+      },
+      {
+        "id": 386,
+        "ability": "pressure",
+        "nature": "timid",
+        "moves": [
+          "psycho-boost",
+          "ice-beam",
+          "knock-off",
+          "recover"
+        ]
+      }
+    ],
+    "sinnoh": [
+      {
+        "id": 480,
+        "ability": "levitate",
+        "nature": "bold",
+        "moves": [
+          "psychic",
+          "thunder-wave",
+          "yawn",
+          "u-turn"
+        ]
+      },
+      {
+        "id": 481,
+        "ability": "levitate",
+        "nature": "modest",
+        "moves": [
+          "psychic",
+          "ice-beam",
+          "calm-mind",
+          "healing-wish"
+        ]
+      },
+      {
+        "id": 482,
+        "ability": "levitate",
+        "nature": "timid",
+        "moves": [
+          "psychic",
+          "fire-blast",
+          "nasty-plot",
+          "u-turn"
+        ]
+      },
+      {
+        "id": 483,
+        "ability": "pressure",
+        "nature": "modest",
+        "moves": [
+          "roar-of-time",
+          "flash-cannon",
+          "draco-meteor",
+          "thunderbolt"
+        ]
+      },
+      {
+        "id": 484,
+        "ability": "pressure",
+        "nature": "modest",
+        "moves": [
+          "spacial-rend",
+          "hydro-pump",
+          "draco-meteor",
+          "fire-blast"
+        ]
+      },
+      {
+        "id": 485,
+        "ability": "flash-fire",
+        "nature": "timid",
+        "moves": [
+          "magma-storm",
+          "earth-power",
+          "flash-cannon",
+          "taunt"
+        ]
+      },
+      {
+        "id": 486,
+        "ability": "slow-start",
+        "nature": "adamant",
+        "moves": [
+          "crush-grip",
+          "earthquake",
+          "knock-off",
+          "thunder-wave"
+        ]
+      },
+      {
+        "id": 487,
+        "ability": "pressure",
+        "nature": "adamant",
+        "moves": [
+          "shadow-force",
+          "dragon-claw",
+          "earthquake",
+          "rest"
+        ]
+      },
+      {
+        "id": 488,
+        "ability": "levitate",
+        "nature": "bold",
+        "moves": [
+          "moonblast",
+          "ice-beam",
+          "calm-mind",
+          "moonlight"
+        ]
+      },
+      {
+        "id": 489,
+        "ability": "hydration",
+        "nature": "timid",
+        "moves": [
+          "scald",
+          "ice-beam",
+          "u-turn",
+          "rest"
+        ]
+      },
+      {
+        "id": 490,
+        "ability": "hydration",
+        "nature": "timid",
+        "moves": [
+          "tail-glow",
+          "surf",
+          "ice-beam",
+          "energy-ball"
+        ]
+      },
+      {
+        "id": 491,
+        "ability": "bad-dreams",
+        "nature": "timid",
+        "moves": [
+          "dark-void",
+          "dark-pulse",
+          "sludge-bomb",
+          "nasty-plot"
+        ]
+      },
+      {
+        "id": 492,
+        "ability": "natural-cure",
+        "nature": "timid",
+        "moves": [
+          "seed-flare",
+          "earth-power",
+          "air-slash",
+          "synthesis"
+        ]
+      },
+      {
+        "id": 493,
+        "ability": "multitype",
+        "nature": "adamant",
+        "moves": [
+          "judgment",
+          "extreme-speed",
+          "earthquake",
+          "recover"
+        ]
+      }
+    ],
+    "unova": [
+      {
+        "id": 494,
+        "ability": "victory-star",
+        "nature": "adamant",
+        "moves": [
+          "v-create",
+          "wild-charge",
+          "u-turn",
+          "zen-headbutt"
+        ]
+      },
+      {
+        "id": 638,
+        "ability": "justified",
+        "nature": "jolly",
+        "moves": [
+          "iron-head",
+          "close-combat",
+          "stone-edge",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 639,
+        "ability": "justified",
+        "nature": "jolly",
+        "moves": [
+          "close-combat",
+          "stone-edge",
+          "earthquake",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 640,
+        "ability": "justified",
+        "nature": "jolly",
+        "moves": [
+          "leaf-blade",
+          "close-combat",
+          "stone-edge",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 641,
+        "ability": "prankster",
+        "nature": "timid",
+        "moves": [
+          "hurricane",
+          "heat-wave",
+          "focus-blast",
+          "taunt"
+        ]
+      },
+      {
+        "id": 642,
+        "ability": "prankster",
+        "nature": "timid",
+        "moves": [
+          "thunderbolt",
+          "focus-blast",
+          "sludge-wave",
+          "nasty-plot"
+        ]
+      },
+      {
+        "id": 643,
+        "ability": "turboblaze",
+        "nature": "modest",
+        "moves": [
+          "blue-flare",
+          "draco-meteor",
+          "earth-power",
+          "roost"
+        ]
+      },
+      {
+        "id": 644,
+        "ability": "teravolt",
+        "nature": "adamant",
+        "moves": [
+          "bolt-strike",
+          "dragon-claw",
+          "outrage",
+          "dragon-dance"
+        ]
+      },
+      {
+        "id": 645,
+        "ability": "sand-force",
+        "nature": "timid",
+        "moves": [
+          "earth-power",
+          "sludge-wave",
+          "focus-blast",
+          "rock-slide"
+        ]
+      },
+      {
+        "id": 646,
+        "ability": "pressure",
+        "nature": "modest",
+        "moves": [
+          "ice-beam",
+          "dragon-pulse",
+          "earth-power",
+          "roost"
+        ]
+      },
+      {
+        "id": 647,
+        "ability": "justified",
+        "nature": "timid",
+        "moves": [
+          "secret-sword",
+          "hydro-pump",
+          "calm-mind",
+          "scald"
+        ]
+      },
+      {
+        "id": 648,
+        "ability": "serene-grace",
+        "nature": "modest",
+        "moves": [
+          "psychic",
+          "hyper-voice",
+          "focus-blast",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 649,
+        "ability": "download",
+        "nature": "hasty",
+        "moves": [
+          "techno-blast",
+          "iron-head",
+          "u-turn",
+          "ice-beam"
+        ]
+      }
+    ],
+    "kalos": [
+      {
+        "id": 716,
+        "ability": "fairy-aura",
+        "nature": "modest",
+        "moves": [
+          "moonblast",
+          "geomancy",
+          "thunder",
+          "focus-blast"
+        ]
+      },
+      {
+        "id": 717,
+        "ability": "dark-aura",
+        "nature": "modest",
+        "moves": [
+          "oblivion-wing",
+          "dark-pulse",
+          "heat-wave",
+          "sucker-punch"
+        ]
+      },
+      {
+        "id": 718,
+        "ability": "aura-break",
+        "nature": "adamant",
+        "moves": [
+          "thousand-arrows",
+          "dragon-dance",
+          "extreme-speed",
+          "outrage"
+        ]
+      },
+      {
+        "id": 719,
+        "ability": "clear-body",
+        "nature": "modest",
+        "moves": [
+          "diamond-storm",
+          "moonblast",
+          "earth-power",
+          "power-gem"
+        ]
+      },
+      {
+        "id": 720,
+        "ability": "magician",
+        "nature": "timid",
+        "moves": [
+          "hyperspace-hole",
+          "psychic",
+          "shadow-ball",
+          "nasty-plot"
+        ]
+      },
+      {
+        "id": 721,
+        "ability": "water-absorb",
+        "nature": "modest",
+        "moves": [
+          "steam-eruption",
+          "flamethrower",
+          "sludge-wave",
+          "earth-power"
+        ]
+      }
+    ],
+    "alola": [
+      {
+        "id": 772,
+        "ability": "battle-armor",
+        "nature": "adamant",
+        "moves": [
+          "crush-claw",
+          "u-turn",
+          "rest",
+          "sleep-talk"
+        ]
+      },
+      {
+        "id": 785,
+        "ability": "electric-surge",
+        "nature": "timid",
+        "moves": [
+          "thunderbolt",
+          "dazzling-gleam",
+          "u-turn",
+          "roost"
+        ]
+      },
+      {
+        "id": 786,
+        "ability": "psychic-surge",
+        "nature": "timid",
+        "moves": [
+          "psychic",
+          "moonblast",
+          "focus-blast",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 787,
+        "ability": "grassy-surge",
+        "nature": "adamant",
+        "moves": [
+          "wood-hammer",
+          "horn-leech",
+          "superpower",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 788,
+        "ability": "misty-surge",
+        "nature": "timid",
+        "moves": [
+          "moonblast",
+          "surf",
+          "calm-mind",
+          "taunt"
+        ]
+      },
+      {
+        "id": 791,
+        "ability": "full-metal-body",
+        "nature": "adamant",
+        "moves": [
+          "sunsteel-strike",
+          "flare-blitz",
+          "psychic-fangs",
+          "earthquake"
+        ]
+      },
+      {
+        "id": 792,
+        "ability": "shadow-shield",
+        "nature": "timid",
+        "moves": [
+          "moongeist-beam",
+          "psyshock",
+          "calm-mind",
+          "moonlight"
+        ]
+      },
+      {
+        "id": 800,
+        "ability": "prism-armor",
+        "nature": "timid",
+        "moves": [
+          "photon-geyser",
+          "earth-power",
+          "heat-wave",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 801,
+        "ability": "soul-heart",
+        "nature": "modest",
+        "moves": [
+          "fleur-cannon",
+          "flash-cannon",
+          "thunderbolt",
+          "aura-sphere"
+        ]
+      },
+      {
+        "id": 802,
+        "ability": "technician",
+        "nature": "jolly",
+        "moves": [
+          "spectral-thief",
+          "close-combat",
+          "shadow-sneak",
+          "bulk-up"
+        ]
+      },
+      {
+        "id": 807,
+        "ability": "volt-absorb",
+        "nature": "jolly",
+        "moves": [
+          "plasma-fists",
+          "close-combat",
+          "throat-chop",
+          "bulk-up"
+        ]
+      },
+      {
+        "id": 808,
+        "ability": "magnet-pull",
+        "nature": "modest",
+        "moves": [
+          "flash-cannon",
+          "thunderbolt",
+          "acid-armor",
+          "thunder-wave"
+        ]
+      }
+    ],
+    "galar": [
+      {
+        "id": 888,
+        "ability": "intrepid-sword",
+        "nature": "jolly",
+        "moves": [
+          "play-rough",
+          "sacred-sword",
+          "crunch",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 889,
+        "ability": "dauntless-shield",
+        "nature": "jolly",
+        "moves": [
+          "iron-head",
+          "close-combat",
+          "crunch",
+          "iron-defense"
+        ]
+      },
+      {
+        "id": 891,
+        "ability": "inner-focus",
+        "nature": "jolly",
+        "moves": [
+          "brick-break",
+          "aerial-ace",
+          "iron-head",
+          "bulk-up"
+        ]
+      },
+      {
+        "id": 893,
+        "ability": "leaf-guard",
+        "nature": "jolly",
+        "moves": [
+          "power-whip",
+          "darkest-lariat",
+          "close-combat",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 894,
+        "ability": "transistor",
+        "nature": "timid",
+        "moves": [
+          "thunderbolt",
+          "volt-switch",
+          "thunder-cage",
+          "explosion"
+        ]
+      },
+      {
+        "id": 895,
+        "ability": "dragons-maw",
+        "nature": "hasty",
+        "moves": [
+          "dragon-energy",
+          "draco-meteor",
+          "dragon-claw",
+          "crunch"
+        ]
+      },
+      {
+        "id": 896,
+        "ability": "chilling-neigh",
+        "nature": "adamant",
+        "moves": [
+          "high-horsepower",
+          "icicle-crash",
+          "close-combat",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 897,
+        "ability": "grim-neigh",
+        "nature": "timid",
+        "moves": [
+          "shadow-ball",
+          "dark-pulse",
+          "will-o-wisp",
+          "nasty-plot"
+        ]
+      },
+      {
+        "id": 898,
+        "ability": "unnerve",
+        "nature": "timid",
+        "moves": [
+          "psychic",
+          "giga-drain",
+          "leech-seed",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 905,
+        "ability": "contrary",
+        "nature": "timid",
+        "moves": [
+          "springtide-storm",
+          "moonblast",
+          "earth-power",
+          "mystical-fire"
+        ]
+      }
+    ],
+    "paldea": [
+      {
+        "id": 1001,
+        "ability": "tablets-of-ruin",
+        "nature": "bold",
+        "moves": [
+          "leaf-storm",
+          "foul-play",
+          "leech-seed",
+          "protect"
+        ]
+      },
+      {
+        "id": 1002,
+        "ability": "sword-of-ruin",
+        "nature": "jolly",
+        "moves": [
+          "icicle-crash",
+          "crunch",
+          "sacred-sword",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 1003,
+        "ability": "vessel-of-ruin",
+        "nature": "careful",
+        "moves": [
+          "earthquake",
+          "ruination",
+          "stealth-rock",
+          "whirlwind"
+        ]
+      },
+      {
+        "id": 1004,
+        "ability": "beads-of-ruin",
+        "nature": "timid",
+        "moves": [
+          "dark-pulse",
+          "overheat",
+          "flamethrower",
+          "nasty-plot"
+        ]
+      },
+      {
+        "id": 1007,
+        "ability": "orichalcum-pulse",
+        "nature": "jolly",
+        "moves": [
+          "collision-course",
+          "flare-blitz",
+          "close-combat",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 1008,
+        "ability": "hadron-engine",
+        "nature": "timid",
+        "moves": [
+          "electro-drift",
+          "draco-meteor",
+          "overheat",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 1009,
+        "ability": "protosynthesis",
+        "nature": "timid",
+        "moves": [
+          "hydro-steam",
+          "draco-meteor",
+          "flamethrower",
+          "sunny-day"
+        ]
+      },
+      {
+        "id": 1010,
+        "ability": "quark-drive",
+        "nature": "jolly",
+        "moves": [
+          "leaf-blade",
+          "psyblade",
+          "close-combat",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 1014,
+        "ability": "toxic-chain",
+        "nature": "adamant",
+        "moves": [
+          "gunk-shot",
+          "drain-punch",
+          "crunch",
+          "bulk-up"
+        ]
+      },
+      {
+        "id": 1015,
+        "ability": "toxic-chain",
+        "nature": "timid",
+        "moves": [
+          "sludge-bomb",
+          "psychic",
+          "nasty-plot",
+          "u-turn"
+        ]
+      },
+      {
+        "id": 1016,
+        "ability": "toxic-chain",
+        "nature": "timid",
+        "moves": [
+          "moonblast",
+          "air-slash",
+          "roost",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 1017,
+        "ability": "defiant",
+        "nature": "jolly",
+        "moves": [
+          "ivy-cudgel",
+          "horn-leech",
+          "knock-off",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 1020,
+        "ability": "protosynthesis",
+        "nature": "adamant",
+        "moves": [
+          "heat-crash",
+          "dragon-dance",
+          "earthquake",
+          "flare-blitz"
+        ]
+      },
+      {
+        "id": 1021,
+        "ability": "protosynthesis",
+        "nature": "modest",
+        "moves": [
+          "thunderclap",
+          "draco-meteor",
+          "thunderbolt",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 1022,
+        "ability": "quark-drive",
+        "nature": "jolly",
+        "moves": [
+          "mighty-cleave",
+          "close-combat",
+          "earthquake",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 1023,
+        "ability": "quark-drive",
+        "nature": "timid",
+        "moves": [
+          "tachyon-cutter",
+          "psyshock",
+          "focus-blast",
+          "calm-mind"
+        ]
+      },
+      {
+        "id": 1024,
+        "ability": "tera-shift",
+        "nature": "modest",
+        "moves": [
+          "tera-starstorm",
+          "earth-power",
+          "calm-mind",
+          "rest"
+        ]
+      },
+      {
+        "id": 1025,
+        "ability": "poison-puppeteer",
+        "nature": "timid",
+        "moves": [
+          "malignant-chain",
+          "shadow-ball",
+          "nasty-plot",
+          "recover"
+        ]
+      }
+    ]
+  },
+  "ultraBeastIdsByRegion": {
+    "alola": [
+      {
+        "id": 793,
+        "ability": "beast-boost",
+        "nature": "timid",
+        "moves": [
+          "power-gem",
+          "sludge-wave",
+          "thunderbolt",
+          "grass-knot"
+        ]
+      },
+      {
+        "id": 794,
+        "ability": "beast-boost",
+        "nature": "adamant",
+        "moves": [
+          "close-combat",
+          "leech-life",
+          "ice-punch",
+          "bulk-up"
+        ]
+      },
+      {
+        "id": 795,
+        "ability": "beast-boost",
+        "nature": "naive",
+        "moves": [
+          "close-combat",
+          "bug-buzz",
+          "ice-beam",
+          "quiver-dance"
+        ]
+      },
+      {
+        "id": 796,
+        "ability": "beast-boost",
+        "nature": "timid",
+        "moves": [
+          "thunderbolt",
+          "energy-ball",
+          "dazzling-gleam",
+          "tail-glow"
+        ]
+      },
+      {
+        "id": 797,
+        "ability": "beast-boost",
+        "nature": "careful",
+        "moves": [
+          "heavy-slam",
+          "leech-seed",
+          "flamethrower",
+          "protect"
+        ]
+      },
+      {
+        "id": 798,
+        "ability": "beast-boost",
+        "nature": "jolly",
+        "moves": [
+          "leaf-blade",
+          "sacred-sword",
+          "night-slash",
+          "swords-dance"
+        ]
+      },
+      {
+        "id": 799,
+        "ability": "beast-boost",
+        "nature": "adamant",
+        "moves": [
+          "dragon-claw",
+          "knock-off",
+          "heavy-slam",
+          "dragon-tail"
+        ]
+      },
+      {
+        "id": 803,
+        "ability": "beast-boost",
+        "nature": "timid",
+        "moves": [
+          "sludge-wave",
+          "dragon-pulse",
+          "nasty-plot",
+          "venoshock"
+        ]
+      },
+      {
+        "id": 805,
+        "ability": "beast-boost",
+        "nature": "brave",
+        "moves": [
+          "gyro-ball",
+          "stone-edge",
+          "earthquake",
+          "trick-room"
+        ]
+      },
+      {
+        "id": 806,
+        "ability": "beast-boost",
+        "nature": "timid",
+        "moves": [
+          "mind-blown",
+          "shadow-ball",
+          "flamethrower",
+          "calm-mind"
+        ]
+      }
+    ]
+  }
+}

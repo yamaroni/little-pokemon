@@ -1,0 +1,1058 @@
+[
+  {
+    "locationId": "oreburgh_gym",
+    "locationName": "Oreburgh Gym",
+    "badge": {
+      "name": "Coal Badge",
+      "imageUrl": "assets/sprites/badges/sinnoh/coal.png"
+    },
+    "leader": {
+      "name": "Roark",
+      "title": "Rock-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/roark.png",
+      "prizeMoney": 2900,
+      "team": [
+        {
+          "id": 76,
+          "name": "Golem",
+          "ability": "sturdy",
+          "nature": "brave",
+          "moves": [
+            "earthquake",
+            "stone-edge",
+            "fire-punch",
+            "explosion"
+          ],
+          "held_item": "hard-stone",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 476,
+          "name": "Probopass",
+          "ability": "magnet-pull",
+          "nature": "modest",
+          "moves": [
+            "flash-cannon",
+            "power-gem",
+            "thunderbolt",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 464,
+          "name": "Rhyperior",
+          "ability": "solid-rock",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "stone-edge",
+            "megahorn",
+            "ice-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 346,
+          "name": "Cradily",
+          "ability": "storm-drain",
+          "nature": "relaxed",
+          "moves": [
+            "giga-drain",
+            "stone-edge",
+            "earthquake",
+            "recover"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_attack": 4
+          }
+        },
+        {
+          "id": 142,
+          "name": "Aerodactyl",
+          "ability": "rock-head",
+          "nature": "jolly",
+          "moves": [
+            "stone-edge",
+            "earthquake",
+            "fire-fang",
+            "aerial-ace"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 409,
+          "name": "Rampardos",
+          "ability": "mold-breaker",
+          "nature": "adamant",
+          "moves": [
+            "head-smash",
+            "earthquake",
+            "zen-headbutt",
+            "fire-punch"
+          ],
+          "held_item": "choice-scarf",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My rocks dug in and held their ground!",
+        "Back to the mines with you, rookie!"
+      ],
+      "lose_messages": [
+        "Argh! My rocks crumbled before you.",
+        "You unearthed a real gem of a victory. Nice!"
+      ]
+    }
+  },
+  {
+    "locationId": "eterna_gym",
+    "locationName": "Eterna Gym",
+    "badge": {
+      "name": "Forest Badge",
+      "imageUrl": "assets/sprites/badges/sinnoh/forest.png"
+    },
+    "leader": {
+      "name": "Gardenia",
+      "title": "Grass-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/gardenia.png",
+      "prizeMoney": 3400,
+      "team": [
+        {
+          "id": 254,
+          "name": "Sceptile",
+          "ability": "overgrow",
+          "nature": "timid",
+          "moves": [
+            "leaf-storm",
+            "dragon-pulse",
+            "focus-blast",
+            "giga-drain"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 286,
+          "name": "Breloom",
+          "ability": "poison-heal",
+          "nature": "jolly",
+          "moves": [
+            "seed-bomb",
+            "drain-punch",
+            "swords-dance",
+            "spore"
+          ],
+          "held_item": "toxic-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 465,
+          "name": "Tangrowth",
+          "ability": "chlorophyll",
+          "nature": "relaxed",
+          "moves": [
+            "power-whip",
+            "earthquake",
+            "sleep-powder",
+            "knock-off"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_attack": 4
+          }
+        },
+        {
+          "id": 470,
+          "name": "Leafeon",
+          "ability": "leaf-guard",
+          "nature": "adamant",
+          "moves": [
+            "leaf-blade",
+            "x-scissor",
+            "swords-dance",
+            "synthesis"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 407,
+          "name": "Roserade",
+          "ability": "natural-cure",
+          "nature": "timid",
+          "moves": [
+            "leaf-storm",
+            "sludge-bomb",
+            "shadow-ball",
+            "sleep-powder"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 389,
+          "name": "Torterra",
+          "ability": "overgrow",
+          "nature": "adamant",
+          "moves": [
+            "wood-hammer",
+            "earthquake",
+            "stone-edge",
+            "synthesis"
+          ],
+          "held_item": "yache-berry",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Teehee! My grasses tangled you all up!",
+        "You wilted before my garden!"
+      ],
+      "lose_messages": [
+        "Eeek! You mowed right through me!",
+        "Wow, you're strong! My plants surrender."
+      ]
+    }
+  },
+  {
+    "locationId": "veilstone_gym",
+    "locationName": "Veilstone Gym",
+    "badge": {
+      "name": "Cobble Badge",
+      "imageUrl": "assets/sprites/badges/sinnoh/cobble.png"
+    },
+    "leader": {
+      "name": "Maylene",
+      "title": "Fighting-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/maylene.png",
+      "prizeMoney": 3800,
+      "team": [
+        {
+          "id": 237,
+          "name": "Hitmontop",
+          "ability": "technician",
+          "nature": "adamant",
+          "moves": [
+            "triple-kick",
+            "mach-punch",
+            "stone-edge",
+            "earthquake"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 308,
+          "name": "Medicham",
+          "ability": "pure-power",
+          "nature": "jolly",
+          "moves": [
+            "high-jump-kick",
+            "zen-headbutt",
+            "ice-punch",
+            "bullet-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 68,
+          "name": "Machamp",
+          "ability": "no-guard",
+          "nature": "adamant",
+          "moves": [
+            "dynamic-punch",
+            "stone-edge",
+            "earthquake",
+            "bullet-punch"
+          ],
+          "held_item": "assault-vest",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 454,
+          "name": "Toxicroak",
+          "ability": "dry-skin",
+          "nature": "adamant",
+          "moves": [
+            "drain-punch",
+            "sucker-punch",
+            "poison-jab",
+            "swords-dance"
+          ],
+          "held_item": "black-sludge",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 475,
+          "name": "Gallade",
+          "ability": "steadfast",
+          "nature": "adamant",
+          "moves": [
+            "close-combat",
+            "psycho-cut",
+            "leaf-blade",
+            "swords-dance"
+          ],
+          "held_item": "expert-belt",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 448,
+          "name": "Lucario",
+          "ability": "steadfast",
+          "nature": "adamant",
+          "moves": [
+            "close-combat",
+            "bullet-punch",
+            "crunch",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My fighting spirit stood tall!",
+        "I trained hard for this\u2014and it showed!"
+      ],
+      "lose_messages": [
+        "I still have so much to learn...",
+        "Thank you. Battling you made me stronger."
+      ]
+    }
+  },
+  {
+    "locationId": "pastoria_gym",
+    "locationName": "Pastoria Gym",
+    "badge": {
+      "name": "Fen Badge",
+      "imageUrl": "assets/sprites/badges/sinnoh/fen.png"
+    },
+    "leader": {
+      "name": "Crasher Wake",
+      "title": "Water-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/crasher_wake.png",
+      "prizeMoney": 4200,
+      "team": [
+        {
+          "id": 230,
+          "name": "Kingdra",
+          "ability": "swift-swim",
+          "nature": "modest",
+          "moves": [
+            "hydro-pump",
+            "dragon-pulse",
+            "ice-beam",
+            "rain-dance"
+          ],
+          "held_item": "mystic-water",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 350,
+          "name": "Milotic",
+          "ability": "marvel-scale",
+          "nature": "bold",
+          "moves": [
+            "scald",
+            "ice-beam",
+            "recover",
+            "dragon-tail"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 419,
+          "name": "Floatzel",
+          "ability": "swift-swim",
+          "nature": "jolly",
+          "moves": [
+            "waterfall",
+            "ice-fang",
+            "crunch",
+            "aqua-jet"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 423,
+          "name": "Gastrodon",
+          "ability": "storm-drain",
+          "nature": "modest",
+          "moves": [
+            "surf",
+            "earth-power",
+            "ice-beam",
+            "recover"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 130,
+          "name": "Gyarados",
+          "ability": "intimidate",
+          "nature": "adamant",
+          "moves": [
+            "waterfall",
+            "crunch",
+            "ice-fang",
+            "dragon-dance"
+          ],
+          "held_item": "wacan-berry",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 395,
+          "name": "Empoleon",
+          "ability": "torrent",
+          "nature": "modest",
+          "moves": [
+            "hydro-pump",
+            "flash-cannon",
+            "ice-beam",
+            "grass-knot"
+          ],
+          "held_item": "mystic-water",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Crash! My tidal wave washed you out!",
+        "Bwahaha! You're all wet, challenger!"
+      ],
+      "lose_messages": [
+        "Gwaaah! You crashed through my defense!",
+        "A tidal victory! You've earned my respect, hero!"
+      ]
+    }
+  },
+  {
+    "locationId": "hearthome_gym",
+    "locationName": "Hearthome Gym",
+    "badge": {
+      "name": "Relic Badge",
+      "imageUrl": "assets/sprites/badges/sinnoh/relic.png"
+    },
+    "leader": {
+      "name": "Fantina",
+      "title": "Ghost-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/fantina.png",
+      "prizeMoney": 4400,
+      "team": [
+        {
+          "id": 442,
+          "name": "Spiritomb",
+          "ability": "pressure",
+          "nature": "bold",
+          "moves": [
+            "shadow-ball",
+            "dark-pulse",
+            "will-o-wisp",
+            "calm-mind"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 426,
+          "name": "Drifblim",
+          "ability": "aftermath",
+          "nature": "modest",
+          "moves": [
+            "shadow-ball",
+            "thunderbolt",
+            "sludge-bomb",
+            "calm-mind"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 429,
+          "name": "Mismagius",
+          "ability": "levitate",
+          "nature": "timid",
+          "moves": [
+            "shadow-ball",
+            "thunderbolt",
+            "dazzling-gleam",
+            "nasty-plot"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 477,
+          "name": "Dusknoir",
+          "ability": "pressure",
+          "nature": "adamant",
+          "moves": [
+            "shadow-sneak",
+            "earthquake",
+            "ice-punch",
+            "will-o-wisp"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 478,
+          "name": "Froslass",
+          "ability": "snow-cloak",
+          "nature": "timid",
+          "moves": [
+            "shadow-ball",
+            "ice-beam",
+            "thunderbolt",
+            "destiny-bond"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 94,
+          "name": "Gengar",
+          "ability": "levitate",
+          "nature": "timid",
+          "moves": [
+            "shadow-ball",
+            "sludge-bomb",
+            "thunderbolt",
+            "focus-blast"
+          ],
+          "held_item": "choice-specs",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Oho ho! My ghosts danced past you, non?",
+        "Your defeat is tr\u00e8s magnifique!"
+      ],
+      "lose_messages": [
+        "Oh non! You have outshone my performance!",
+        "Magnifique! Your battling is a work of art."
+      ]
+    }
+  },
+  {
+    "locationId": "canalave_gym",
+    "locationName": "Canalave Gym",
+    "badge": {
+      "name": "Mine Badge",
+      "imageUrl": "assets/sprites/badges/sinnoh/mine.png"
+    },
+    "leader": {
+      "name": "Byron",
+      "title": "Steel-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/byron.png",
+      "prizeMoney": 4800,
+      "team": [
+        {
+          "id": 411,
+          "name": "Bastiodon",
+          "ability": "sturdy",
+          "nature": "relaxed",
+          "moves": [
+            "stealth-rock",
+            "metal-burst",
+            "stone-edge",
+            "earthquake"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_attack": 4
+          }
+        },
+        {
+          "id": 208,
+          "name": "Steelix",
+          "ability": "sturdy",
+          "nature": "impish",
+          "moves": [
+            "iron-head",
+            "earthquake",
+            "stone-edge",
+            "crunch"
+          ],
+          "held_item": "rocky-helmet",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 227,
+          "name": "Skarmory",
+          "ability": "sturdy",
+          "nature": "impish",
+          "moves": [
+            "brave-bird",
+            "iron-head",
+            "roost",
+            "spikes"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 306,
+          "name": "Aggron",
+          "ability": "rock-head",
+          "nature": "adamant",
+          "moves": [
+            "head-smash",
+            "earthquake",
+            "iron-head",
+            "ice-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 462,
+          "name": "Magnezone",
+          "ability": "magnet-pull",
+          "nature": "modest",
+          "moves": [
+            "thunderbolt",
+            "flash-cannon",
+            "thunder-wave",
+            "magnet-rise"
+          ],
+          "held_item": "expert-belt",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 437,
+          "name": "Bronzong",
+          "ability": "levitate",
+          "nature": "sassy",
+          "moves": [
+            "gyro-ball",
+            "earthquake",
+            "psychic",
+            "stealth-rock"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "attack": 4
+          }
+        }
+      ],
+      "win_messages": [
+        "My iron will would not bend!",
+        "You need more grit to move this old miner!"
+      ],
+      "lose_messages": [
+        "Gwahaha! You've got iron in you, kid!",
+        "My steel is bent. The badge is yours, well earned."
+      ]
+    }
+  },
+  {
+    "locationId": "snowpoint_gym",
+    "locationName": "Snowpoint Gym",
+    "badge": {
+      "name": "Icicle Badge",
+      "imageUrl": "assets/sprites/badges/sinnoh/icicle.png"
+    },
+    "leader": {
+      "name": "Candice",
+      "title": "Ice-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/candice.png",
+      "prizeMoney": 5200,
+      "team": [
+        {
+          "id": 365,
+          "name": "Walrein",
+          "ability": "thick-fat",
+          "nature": "calm",
+          "moves": [
+            "surf",
+            "ice-beam",
+            "protect",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 471,
+          "name": "Glaceon",
+          "ability": "snow-cloak",
+          "nature": "modest",
+          "moves": [
+            "blizzard",
+            "shadow-ball",
+            "signal-beam",
+            "hidden-power"
+          ],
+          "held_item": "never-melt-ice",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 478,
+          "name": "Froslass",
+          "ability": "snow-cloak",
+          "nature": "timid",
+          "moves": [
+            "ice-beam",
+            "shadow-ball",
+            "thunderbolt",
+            "destiny-bond"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 461,
+          "name": "Weavile",
+          "ability": "pressure",
+          "nature": "jolly",
+          "moves": [
+            "ice-punch",
+            "ice-shard",
+            "night-slash",
+            "swords-dance"
+          ],
+          "held_item": "expert-belt",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 473,
+          "name": "Mamoswine",
+          "ability": "thick-fat",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "ice-shard",
+            "icicle-crash",
+            "stone-edge"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 460,
+          "name": "Abomasnow",
+          "ability": "snow-warning",
+          "nature": "quiet",
+          "moves": [
+            "blizzard",
+            "energy-ball",
+            "ice-shard",
+            "earthquake"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        }
+      ],
+      "win_messages": [
+        "Brr! My focus froze you solid!",
+        "You melted before my icy passion!"
+      ],
+      "lose_messages": [
+        "Wow! You broke through my ice with sheer heart!",
+        "Amazing! Your fiery focus beat my frost."
+      ]
+    }
+  },
+  {
+    "locationId": "sunyshore_gym",
+    "locationName": "Sunyshore Gym",
+    "badge": {
+      "name": "Beacon Badge",
+      "imageUrl": "assets/sprites/badges/sinnoh/beacon.png"
+    },
+    "leader": {
+      "name": "Volkner",
+      "title": "Electric-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/volkner.png",
+      "prizeMoney": 5600,
+      "team": [
+        {
+          "id": 135,
+          "name": "Jolteon",
+          "ability": "volt-absorb",
+          "nature": "timid",
+          "moves": [
+            "thunderbolt",
+            "shadow-ball",
+            "volt-switch",
+            "hidden-power"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 26,
+          "name": "Raichu",
+          "ability": "lightning-rod",
+          "nature": "timid",
+          "moves": [
+            "thunderbolt",
+            "surf",
+            "focus-blast",
+            "nasty-plot"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 479,
+          "name": "Rotom",
+          "ability": "levitate",
+          "nature": "timid",
+          "moves": [
+            "thunderbolt",
+            "shadow-ball",
+            "thunder-wave",
+            "volt-switch"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 405,
+          "name": "Luxray",
+          "ability": "intimidate",
+          "nature": "adamant",
+          "moves": [
+            "wild-charge",
+            "crunch",
+            "ice-fang",
+            "superpower"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 181,
+          "name": "Ampharos",
+          "ability": "static",
+          "nature": "modest",
+          "moves": [
+            "thunderbolt",
+            "dragon-pulse",
+            "focus-blast",
+            "thunder-wave"
+          ],
+          "held_item": "expert-belt",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 466,
+          "name": "Electivire",
+          "ability": "motor-drive",
+          "nature": "adamant",
+          "moves": [
+            "wild-charge",
+            "earthquake",
+            "ice-punch",
+            "cross-chop"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Hah, finally\u2014a spark! But not enough.",
+        "You've lit up my day, but you still lost."
+      ],
+      "lose_messages": [
+        "Now THAT was electrifying! You win.",
+        "You reignited my passion for battle. Thank you."
+      ]
+    }
+  }
+]

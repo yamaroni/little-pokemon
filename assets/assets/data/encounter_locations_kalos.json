@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vaniville_area",
+    "region": "kalos",
+    "name": "Vaniville Area",
+    "description": "The quiet southern start of Kalos around Vaniville Town and Aquacorde, spanning the first routes, Santalune Forest, and Santalune City.",
+    "mapSprite": "assets/maps/kalos.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "lumiose_area",
+    "region": "kalos",
+    "name": "Lumiose Area",
+    "description": "The dazzling central metropolis of Lumiose City and the flower-lined routes that radiate from its boulevards.",
+    "mapSprite": "assets/maps/kalos.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "cyllage_area",
+    "region": "kalos",
+    "name": "Cyllage Area",
+    "description": "The breezy western coast around Cyllage City, from the fossil cliffs of Route 8 to the sparkling Glittering Cave.",
+    "mapSprite": "assets/maps/kalos.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "shalour_area",
+    "region": "kalos",
+    "name": "Shalour Area",
+    "description": "The seaside city of Shalour and its Tower of Mastery, reached through the mirrored halls of Reflection Cave.",
+    "mapSprite": "assets/maps/kalos.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "coumarine_area",
+    "region": "kalos",
+    "name": "Coumarine Area",
+    "description": "The terraced port of Coumarine City, the orchard road of Route 12, and the drifting currents of Azure Bay.",
+    "mapSprite": "assets/maps/kalos.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "laverre_area",
+    "region": "kalos",
+    "name": "Laverre Area",
+    "description": "The misty fairy-tale town of Laverre, the swampy Routes 14 and 15, and the humming Poké Ball Factory.",
+    "mapSprite": "assets/maps/kalos.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "anistar_area",
+    "region": "kalos",
+    "name": "Anistar Area",
+    "description": "The sundial city of Anistar in the frosted east, past the windswept Route 16 and the deep tunnels of Terminus Cave.",
+    "mapSprite": "assets/maps/kalos.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "snowbelle_area",
+    "region": "kalos",
+    "name": "Snowbelle Area",
+    "description": "The snowbound south around Snowbelle City, the freezing Frost Cavern, and the final climb of Victory Road.",
+    "mapSprite": "assets/maps/kalos.png",
+    "mapBackground": "",
+    "encounters": []
+  }
+]

@@ -1,0 +1,1635 @@
+[
+  {
+    "id": 9001,
+    "name": "breakneck-blitz",
+    "type": "normal",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Breakneck Blitz is the Normal-type Z-Move. A damaging normal-type move held by a Pokémon carrying Normalium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Breakneck Blitz",
+      "crystal": "normalium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9002,
+    "name": "all-out-pummeling",
+    "type": "fighting",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "All-Out Pummeling is the Fighting-type Z-Move. A damaging fighting-type move held by a Pokémon carrying Fightinium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "All-Out Pummeling",
+      "crystal": "fightinium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9003,
+    "name": "supersonic-skystrike",
+    "type": "flying",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Supersonic Skystrike is the Flying-type Z-Move. A damaging flying-type move held by a Pokémon carrying Flyinium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Supersonic Skystrike",
+      "crystal": "flyinium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9004,
+    "name": "acid-downpour",
+    "type": "poison",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Acid Downpour is the Poison-type Z-Move. A damaging poison-type move held by a Pokémon carrying Poisonium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Acid Downpour",
+      "crystal": "poisonium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9005,
+    "name": "tectonic-rage",
+    "type": "ground",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Tectonic Rage is the Ground-type Z-Move. A damaging ground-type move held by a Pokémon carrying Groundium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Tectonic Rage",
+      "crystal": "groundium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9006,
+    "name": "continental-crush",
+    "type": "rock",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Continental Crush is the Rock-type Z-Move. A damaging rock-type move held by a Pokémon carrying Rockium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Continental Crush",
+      "crystal": "rockium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9007,
+    "name": "savage-spin-out",
+    "type": "bug",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Savage Spin-Out is the Bug-type Z-Move. A damaging bug-type move held by a Pokémon carrying Buginium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Savage Spin-Out",
+      "crystal": "buginium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9008,
+    "name": "never-ending-nightmare",
+    "type": "ghost",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Never-Ending Nightmare is the Ghost-type Z-Move. A damaging ghost-type move held by a Pokémon carrying Ghostium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Never-Ending Nightmare",
+      "crystal": "ghostium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9009,
+    "name": "corkscrew-crash",
+    "type": "steel",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Corkscrew Crash is the Steel-type Z-Move. A damaging steel-type move held by a Pokémon carrying Steelium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Corkscrew Crash",
+      "crystal": "steelium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9010,
+    "name": "inferno-overdrive",
+    "type": "fire",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Inferno Overdrive is the Fire-type Z-Move. A damaging fire-type move held by a Pokémon carrying Firium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Inferno Overdrive",
+      "crystal": "firium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9011,
+    "name": "hydro-vortex",
+    "type": "water",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Hydro Vortex is the Water-type Z-Move. A damaging water-type move held by a Pokémon carrying Waterium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Hydro Vortex",
+      "crystal": "waterium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9012,
+    "name": "bloom-doom",
+    "type": "grass",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Bloom Doom is the Grass-type Z-Move. A damaging grass-type move held by a Pokémon carrying Grassium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Bloom Doom",
+      "crystal": "grassium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9013,
+    "name": "gigavolt-havoc",
+    "type": "electric",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Gigavolt Havoc is the Electric-type Z-Move. A damaging electric-type move held by a Pokémon carrying Electrium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Gigavolt Havoc",
+      "crystal": "electrium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9014,
+    "name": "shattered-psyche",
+    "type": "psychic",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Shattered Psyche is the Psychic-type Z-Move. A damaging psychic-type move held by a Pokémon carrying Psychium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Shattered Psyche",
+      "crystal": "psychium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9015,
+    "name": "subzero-slammer",
+    "type": "ice",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Subzero Slammer is the Ice-type Z-Move. A damaging ice-type move held by a Pokémon carrying Icium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Subzero Slammer",
+      "crystal": "icium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9016,
+    "name": "devastating-drake",
+    "type": "dragon",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Devastating Drake is the Dragon-type Z-Move. A damaging dragon-type move held by a Pokémon carrying Dragonium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Devastating Drake",
+      "crystal": "dragonium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9017,
+    "name": "black-hole-eclipse",
+    "type": "dark",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Black Hole Eclipse is the Dark-type Z-Move. A damaging dark-type move held by a Pokémon carrying Darkinium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Black Hole Eclipse",
+      "crystal": "darkinium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9018,
+    "name": "twinkle-tackle",
+    "type": "fairy",
+    "damage_class": "varies",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Twinkle Tackle is the Fairy-type Z-Move. A damaging fairy-type move held by a Pokémon carrying Fairium Z is upgraded into this once per battle; its power is derived from the base move's power.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "typed",
+      "display_name": "Twinkle Tackle",
+      "crystal": "fairium",
+      "z_power": null,
+      "z_effect": null,
+      "z_power_from_base_class": true,
+      "z_power_by_base_power": [
+        [
+          55,
+          100
+        ],
+        [
+          65,
+          120
+        ],
+        [
+          75,
+          140
+        ],
+        [
+          85,
+          160
+        ],
+        [
+          95,
+          175
+        ],
+        [
+          100,
+          180
+        ],
+        [
+          110,
+          185
+        ],
+        [
+          125,
+          190
+        ],
+        [
+          130,
+          195
+        ],
+        [
+          10000,
+          200
+        ]
+      ]
+    }
+  },
+  {
+    "id": 9019,
+    "name": "catastropika",
+    "type": "electric",
+    "damage_class": "physical",
+    "power": 210,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Catastropika is Pikachu's exclusive Z-Move, upgraded from Volt Tackle.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Catastropika",
+      "crystal": "pikanium-z",
+      "base_move": "volt-tackle",
+      "signature_pokemon": "Pikachu",
+      "z_power": 210,
+      "z_effect": null
+    }
+  },
+  {
+    "id": 9020,
+    "name": "sinister-arrow-raid",
+    "type": "ghost",
+    "damage_class": "physical",
+    "power": 180,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Sinister Arrow Raid is Decidueye's exclusive Z-Move, upgraded from Spirit Shackle.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Sinister Arrow Raid",
+      "crystal": "decidium-z",
+      "base_move": "spirit-shackle",
+      "signature_pokemon": "Decidueye",
+      "z_power": 180,
+      "z_effect": null
+    }
+  },
+  {
+    "id": 9021,
+    "name": "malicious-moonsault",
+    "type": "dark",
+    "damage_class": "physical",
+    "power": 180,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Malicious Moonsault is Incineroar's exclusive Z-Move, upgraded from Darkest Lariat.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Malicious Moonsault",
+      "crystal": "incinium-z",
+      "base_move": "darkest-lariat",
+      "signature_pokemon": "Incineroar",
+      "z_power": 180,
+      "z_effect": null
+    }
+  },
+  {
+    "id": 9022,
+    "name": "oceanic-operetta",
+    "type": "water",
+    "damage_class": "special",
+    "power": 195,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Oceanic Operetta is Primarina's exclusive Z-Move, upgraded from Sparkling Aria.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Oceanic Operetta",
+      "crystal": "primarium-z",
+      "base_move": "sparkling-aria",
+      "signature_pokemon": "Primarina",
+      "z_power": 195,
+      "z_effect": null
+    }
+  },
+  {
+    "id": 9023,
+    "name": "guardian-of-alola",
+    "type": "fairy",
+    "damage_class": "special",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Deals damage equal to 3/4 of the target's current HP.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Guardian of Alola",
+      "crystal": "tapunium-z",
+      "base_move": "natures-madness",
+      "signature_pokemon": "Tapu (Koko/Lele/Bulu/Fini)",
+      "z_power": null,
+      "z_effect": "Deals damage equal to 3/4 of the target's current HP."
+    }
+  },
+  {
+    "id": 9024,
+    "name": "soul-stealing-7-star-strike",
+    "type": "ghost",
+    "damage_class": "physical",
+    "power": 195,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Soul-Stealing 7-Star Strike is Marshadow's exclusive Z-Move, upgraded from Spectral Thief.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Soul-Stealing 7-Star Strike",
+      "crystal": "marshadium-z",
+      "base_move": "spectral-thief",
+      "signature_pokemon": "Marshadow",
+      "z_power": 195,
+      "z_effect": null
+    }
+  },
+  {
+    "id": 9025,
+    "name": "stoked-sparksurfer",
+    "type": "electric",
+    "damage_class": "special",
+    "power": 175,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Paralyzes the target.",
+    "flavor_text": null,
+    "meta": {
+      "category": "damage-ailment",
+      "ailment": "paralysis",
+      "ailment_chance": 100
+    },
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Stoked Sparksurfer",
+      "crystal": "aloraichium-z",
+      "base_move": "thunderbolt",
+      "signature_pokemon": "Raichu (Alola)",
+      "z_power": 175,
+      "z_effect": "Paralyzes the target."
+    }
+  },
+  {
+    "id": 9026,
+    "name": "pulverizing-pancake",
+    "type": "normal",
+    "damage_class": "physical",
+    "power": 210,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Pulverizing Pancake is Snorlax's exclusive Z-Move, upgraded from Giga Impact.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Pulverizing Pancake",
+      "crystal": "snorlium-z",
+      "base_move": "giga-impact",
+      "signature_pokemon": "Snorlax",
+      "z_power": 210,
+      "z_effect": null
+    }
+  },
+  {
+    "id": 9027,
+    "name": "extreme-evoboost",
+    "type": "normal",
+    "damage_class": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "user",
+    "generation": "generation-vii",
+    "effect": "Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by two stages each.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Extreme Evoboost",
+      "crystal": "eevium-z",
+      "base_move": "last-resort",
+      "signature_pokemon": "Eevee",
+      "z_power": null,
+      "z_effect": "Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by two stages each."
+    }
+  },
+  {
+    "id": 9028,
+    "name": "genesis-supernova",
+    "type": "psychic",
+    "damage_class": "special",
+    "power": 185,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Sets Psychic Terrain.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Genesis Supernova",
+      "crystal": "mewnium-z",
+      "base_move": "psychic",
+      "signature_pokemon": "Mew",
+      "z_power": 185,
+      "z_effect": "Sets Psychic Terrain."
+    }
+  },
+  {
+    "id": 9029,
+    "name": "10-million-volt-thunderbolt",
+    "type": "electric",
+    "damage_class": "special",
+    "power": 195,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Has a high critical-hit ratio.",
+    "flavor_text": null,
+    "meta": {
+      "category": "damage",
+      "crit_rate": 2
+    },
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "10,000,000 Volt Thunderbolt",
+      "crystal": "pikashunium-z",
+      "base_move": "thunderbolt",
+      "signature_pokemon": "Pikachu (cap)",
+      "z_power": 195,
+      "z_effect": "Has a high critical-hit ratio."
+    }
+  },
+  {
+    "id": 9030,
+    "name": "light-that-burns-the-sky",
+    "type": "psychic",
+    "damage_class": "special",
+    "power": 200,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Ignores the target's ability; hits using whichever is higher of the user's Attack or Special Attack.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Light That Burns the Sky",
+      "crystal": "ultranecrozium-z",
+      "base_move": "photon-geyser",
+      "signature_pokemon": "Necrozma (Ultra)",
+      "z_power": 200,
+      "z_effect": "Ignores the target's ability; hits using whichever is higher of the user's Attack or Special Attack.",
+      "requires_form": ["necrozma-ultra"]
+    }
+  },
+  {
+    "id": 9031,
+    "name": "searing-sunraze-smash",
+    "type": "steel",
+    "damage_class": "physical",
+    "power": 200,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Ignores the target's ability.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Searing Sunraze Smash",
+      "crystal": "solganium-z",
+      "base_move": "sunsteel-strike",
+      "signature_pokemon": "Solgaleo / Necrozma (Dusk Mane)",
+      "z_power": 200,
+      "z_effect": "Ignores the target's ability."
+    }
+  },
+  {
+    "id": 9032,
+    "name": "menacing-moonraze-maelstrom",
+    "type": "ghost",
+    "damage_class": "special",
+    "power": 200,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Ignores the target's ability.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Menacing Moonraze Maelstrom",
+      "crystal": "lunalium-z",
+      "base_move": "moongeist-beam",
+      "signature_pokemon": "Lunala / Necrozma (Dawn Wings)",
+      "z_power": 200,
+      "z_effect": "Ignores the target's ability."
+    }
+  },
+  {
+    "id": 9033,
+    "name": "lets-snuggle-forever",
+    "type": "fairy",
+    "damage_class": "physical",
+    "power": 190,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Let's Snuggle Forever is Mimikyu's exclusive Z-Move, upgraded from Play Rough.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Let's Snuggle Forever",
+      "crystal": "mimikium-z",
+      "base_move": "play-rough",
+      "signature_pokemon": "Mimikyu",
+      "z_power": 190,
+      "z_effect": null
+    }
+  },
+  {
+    "id": 9034,
+    "name": "splintered-stormshards",
+    "type": "rock",
+    "damage_class": "physical",
+    "power": 190,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Removes the active terrain from the field.",
+    "flavor_text": null,
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Splintered Stormshards",
+      "crystal": "lycanium-z",
+      "base_move": "stone-edge",
+      "signature_pokemon": "Lycanroc",
+      "z_power": 190,
+      "z_effect": "Removes the active terrain from the field."
+    }
+  },
+  {
+    "id": 9035,
+    "name": "clangorous-soulblaze",
+    "type": "dragon",
+    "damage_class": "special",
+    "power": 185,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "effect_chance": null,
+    "target": "selected-pokemon",
+    "generation": "generation-vii",
+    "effect": "Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by one stage each.",
+    "flavor_text": null,
+    "meta": {
+      "category": "damage-raise"
+    },
+    "stat_changes": [
+      { "stat": "attack", "change": 1 },
+      { "stat": "defense", "change": 1 },
+      { "stat": "special-attack", "change": 1 },
+      { "stat": "special-defense", "change": 1 },
+      { "stat": "speed", "change": 1 }
+    ],
+    "z_move": {
+      "is_z": true,
+      "kind": "signature",
+      "display_name": "Clangorous Soulblaze",
+      "crystal": "kommonium-z",
+      "base_move": "clanging-scales",
+      "signature_pokemon": "Kommo-o",
+      "z_power": 185,
+      "z_effect": "Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by one stage each."
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "new_bark_area",
+    "region": "johto",
+    "name": "New Bark Area",
+    "description": "The windswept eastern edge of Johto where the journey begins, spanning the routes around Cherrygrove City.",
+    "mapSprite": "assets/maps/johto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "violet_area",
+    "region": "johto",
+    "name": "Violet Area",
+    "description": "The rolling hills around Violet City, home to Sprout Tower, the Ruins of Alph, and Union Cave.",
+    "mapSprite": "assets/maps/johto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "azalea_area",
+    "region": "johto",
+    "name": "Azalea Area",
+    "description": "The forested southwest around Azalea Town and Goldenrod City, including Ilex Forest and the National Park.",
+    "mapSprite": "assets/maps/johto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "ecruteak_area",
+    "region": "johto",
+    "name": "Ecruteak Area",
+    "description": "The historic central routes surrounding Ecruteak City and the ruined Burned Tower.",
+    "mapSprite": "assets/maps/johto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "olivine_area",
+    "region": "johto",
+    "name": "Olivine Area",
+    "description": "The western coast around Olivine and Cianwood Cities, dotted with sea routes, the Whirl Islands, and Mt. Mortar.",
+    "mapSprite": "assets/maps/johto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "mahogany_area",
+    "region": "johto",
+    "name": "Mahogany Area",
+    "description": "The cold northern highlands around Mahogany Town, the Lake of Rage, and the Ice Path.",
+    "mapSprite": "assets/maps/johto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "blackthorn_area",
+    "region": "johto",
+    "name": "Blackthorn Area",
+    "description": "The remote mountains around Blackthorn City, including the Dragon's Den, Tohjo Falls, and Mt. Silver.",
+    "mapSprite": "assets/maps/johto.png",
+    "mapBackground": "",
+    "encounters": []
+  }
+]

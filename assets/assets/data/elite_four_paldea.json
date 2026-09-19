@@ -1,0 +1,622 @@
+[
+  {
+    "locationId": "paldea_elite_rika",
+    "locationName": "Pokémon League — Rika",
+    "isChampion": false,
+    "leader": {
+      "name": "Rika",
+      "title": "Elite Four — Ground",
+      "imageUrl": "assets/sprites/trainers/avatar/rika.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 340,
+          "name": "Whiscash",
+          "ability": "oblivious",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "liquidation",
+            "zen-headbutt",
+            "dragon-dance"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 323,
+          "name": "Camerupt",
+          "ability": "solid-rock",
+          "nature": "modest",
+          "moves": [
+            "earth-power",
+            "fire-blast",
+            "will-o-wisp",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 232,
+          "name": "Donphan",
+          "ability": "sturdy",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "knock-off",
+            "stone-edge",
+            "rapid-spin"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 51,
+          "name": "Dugtrio",
+          "ability": "arena-trap",
+          "nature": "jolly",
+          "moves": [
+            "earthquake",
+            "sucker-punch",
+            "stone-edge",
+            "reversal"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 980,
+          "name": "Clodsire",
+          "ability": "unaware",
+          "nature": "careful",
+          "moves": [
+            "earthquake",
+            "poison-jab",
+            "toxic",
+            "recover"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 445,
+          "name": "Garchomp",
+          "ability": "rough-skin",
+          "nature": "jolly",
+          "moves": [
+            "earthquake",
+            "dragon-claw",
+            "stone-edge",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "ground"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "paldea_elite_poppy",
+    "locationName": "Pokémon League — Poppy",
+    "isChampion": false,
+    "leader": {
+      "name": "Poppy",
+      "title": "Elite Four — Steel",
+      "imageUrl": "assets/sprites/trainers/avatar/poppy.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 879,
+          "name": "Copperajah",
+          "ability": "sheer-force",
+          "nature": "adamant",
+          "moves": [
+            "heavy-slam",
+            "earthquake",
+            "play-rough",
+            "rock-slide"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 823,
+          "name": "Corviknight",
+          "ability": "pressure",
+          "nature": "impish",
+          "moves": [
+            "brave-bird",
+            "iron-head",
+            "body-press",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 437,
+          "name": "Bronzong",
+          "ability": "levitate",
+          "nature": "sassy",
+          "moves": [
+            "gyro-ball",
+            "earthquake",
+            "body-press",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 462,
+          "name": "Magnezone",
+          "ability": "magnet-pull",
+          "nature": "modest",
+          "moves": [
+            "thunderbolt",
+            "flash-cannon",
+            "body-press",
+            "thunder-wave"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 959,
+          "name": "Tinkaton",
+          "ability": "mold-breaker",
+          "nature": "jolly",
+          "moves": [
+            "gigaton-hammer",
+            "play-rough",
+            "swords-dance",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 376,
+          "name": "Metagross",
+          "ability": "clear-body",
+          "nature": "adamant",
+          "moves": [
+            "meteor-mash",
+            "bullet-punch",
+            "earthquake",
+            "zen-headbutt"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "steel"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "paldea_elite_larry",
+    "locationName": "Pokémon League — Larry",
+    "isChampion": false,
+    "leader": {
+      "name": "Larry",
+      "title": "Elite Four — Flying",
+      "imageUrl": "assets/sprites/trainers/avatar/larry.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 357,
+          "name": "Tropius",
+          "ability": "harvest",
+          "nature": "careful",
+          "moves": [
+            "air-slash",
+            "giga-drain",
+            "leech-seed",
+            "synthesis"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 398,
+          "name": "Staraptor",
+          "ability": "reckless",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "close-combat",
+            "double-edge",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 334,
+          "name": "Altaria",
+          "ability": "natural-cure",
+          "nature": "bold",
+          "moves": [
+            "hurricane",
+            "dragon-pulse",
+            "flamethrower",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_attack": 4
+          }
+        },
+        {
+          "id": 741,
+          "name": "Oricorio",
+          "ability": "dancer",
+          "nature": "timid",
+          "moves": [
+            "revelation-dance",
+            "air-slash",
+            "calm-mind",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 973,
+          "name": "Flamigo",
+          "ability": "scrappy",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "close-combat",
+            "throat-chop",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 373,
+          "name": "Salamence",
+          "ability": "intimidate",
+          "nature": "jolly",
+          "moves": [
+            "dragon-claw",
+            "dual-wingbeat",
+            "earthquake",
+            "dragon-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "flying"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "paldea_elite_hassel",
+    "locationName": "Pokémon League — Hassel",
+    "isChampion": false,
+    "leader": {
+      "name": "Hassel",
+      "title": "Elite Four — Dragon",
+      "imageUrl": "assets/sprites/trainers/avatar/hassel.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 715,
+          "name": "Noivern",
+          "ability": "infiltrator",
+          "nature": "timid",
+          "moves": [
+            "hurricane",
+            "draco-meteor",
+            "flamethrower",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 691,
+          "name": "Dragalge",
+          "ability": "adaptability",
+          "nature": "modest",
+          "moves": [
+            "sludge-bomb",
+            "draco-meteor",
+            "thunderbolt",
+            "toxic-spikes"
+          ],
+          "held_item": "black-sludge",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 612,
+          "name": "Haxorus",
+          "ability": "mold-breaker",
+          "nature": "jolly",
+          "moves": [
+            "dragon-claw",
+            "earthquake",
+            "close-combat",
+            "dragon-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 841,
+          "name": "Flapple",
+          "ability": "hustle",
+          "nature": "adamant",
+          "moves": [
+            "grav-apple",
+            "outrage",
+            "sucker-punch",
+            "dragon-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 978,
+          "name": "Tatsugiri",
+          "ability": "storm-drain",
+          "nature": "timid",
+          "moves": [
+            "draco-meteor",
+            "surf",
+            "icy-wind",
+            "nasty-plot"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 998,
+          "name": "Baxcalibur",
+          "ability": "thermal-exchange",
+          "nature": "jolly",
+          "moves": [
+            "glaive-rush",
+            "icicle-crash",
+            "earthquake",
+            "dragon-dance"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "dragon"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "paldea_champion_geeta",
+    "locationName": "Pokémon League — Champion Geeta",
+    "isChampion": true,
+    "leader": {
+      "name": "Geeta",
+      "title": "Champion",
+      "imageUrl": "assets/sprites/trainers/avatar/geeta.png",
+      "prizeMoney": 10000,
+      "team": [
+        {
+          "id": 956,
+          "name": "Espathra",
+          "ability": "speed-boost",
+          "nature": "timid",
+          "moves": [
+            "lumina-crash",
+            "dazzling-gleam",
+            "shadow-ball",
+            "calm-mind"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 673,
+          "name": "Gogoat",
+          "ability": "sap-sipper",
+          "nature": "adamant",
+          "moves": [
+            "horn-leech",
+            "earthquake",
+            "rock-slide",
+            "bulk-up"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 976,
+          "name": "Veluza",
+          "ability": "mold-breaker",
+          "nature": "jolly",
+          "moves": [
+            "aqua-cutter",
+            "psycho-cut",
+            "night-slash",
+            "aqua-jet"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 713,
+          "name": "Avalugg",
+          "ability": "sturdy",
+          "nature": "impish",
+          "moves": [
+            "avalanche",
+            "body-press",
+            "crunch",
+            "recover"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 983,
+          "name": "Kingambit",
+          "ability": "defiant",
+          "nature": "adamant",
+          "moves": [
+            "kowtow-cleave",
+            "sucker-punch",
+            "iron-head",
+            "swords-dance"
+          ],
+          "held_item": "black-glasses",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 970,
+          "name": "Glimmora",
+          "ability": "toxic-debris",
+          "nature": "timid",
+          "moves": [
+            "power-gem",
+            "sludge-wave",
+            "earth-power",
+            "stealth-rock"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "rock"
+        }
+      ]
+    }
+  }
+]

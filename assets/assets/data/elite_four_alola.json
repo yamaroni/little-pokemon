@@ -1,0 +1,377 @@
+[
+  {
+    "locationId": "alola_elite_molayne",
+    "locationName": "Pokémon League — Molayne",
+    "isChampion": false,
+    "leader": {
+      "name": "Molayne",
+      "title": "Elite Four — Steel",
+      "imageUrl": "assets/sprites/trainers/avatar/molayne.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 376,
+          "name": "Metagross",
+          "ability": "clear-body",
+          "nature": "adamant",
+          "moves": ["meteor-mash", "earthquake", "bullet-punch", "zen-headbutt"],
+          "held_item": "steelium",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 462,
+          "name": "Magnezone",
+          "ability": "magnet-pull",
+          "nature": "modest",
+          "moves": ["thunderbolt", "flash-cannon", "volt-switch", "thunder-wave"],
+          "held_item": "air-balloon",
+          "evs": { "hp": 4, "special_attack": 252, "speed": 252 }
+        },
+        {
+          "id": 707,
+          "name": "Klefki",
+          "ability": "prankster",
+          "nature": "bold",
+          "moves": ["dazzling-gleam", "foul-play", "thunder-wave", "spikes"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "defense": 252, "special_defense": 4 }
+        },
+        {
+          "id": 227,
+          "name": "Skarmory",
+          "ability": "sturdy",
+          "nature": "impish",
+          "moves": ["brave-bird", "body-press", "roost", "stealth-rock"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "defense": 252, "special_defense": 4 }
+        },
+        {
+          "id": 208,
+          "name": "Steelix",
+          "ability": "sturdy",
+          "nature": "impish",
+          "moves": ["earthquake", "heavy-slam", "stone-edge", "stealth-rock"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "defense": 252, "special_defense": 4 }
+        },
+        {
+          "id": 625,
+          "name": "Bisharp",
+          "ability": "defiant",
+          "nature": "adamant",
+          "moves": ["knock-off", "iron-head", "sucker-punch", "swords-dance"],
+          "held_item": "life-orb",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        }
+      ],
+      "win_messages": [
+        "My steel defense held firm. Study harder, cousin.",
+        "The stars weren't aligned for you today."
+      ],
+      "lose_messages": [
+        "Impressive! Your team shines brighter than Alolan stars.",
+        "You've earned the right to move on. Good luck!"
+      ]
+    }
+  },
+  {
+    "locationId": "alola_elite_olivia",
+    "locationName": "Pokémon League — Olivia",
+    "isChampion": false,
+    "leader": {
+      "name": "Olivia",
+      "title": "Elite Four — Rock",
+      "imageUrl": "assets/sprites/trainers/avatar/olivia.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 248,
+          "name": "Tyranitar",
+          "ability": "sand-stream",
+          "nature": "adamant",
+          "moves": ["stone-edge", "crunch", "earthquake", "dragon-dance"],
+          "held_item": "rockium",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 526,
+          "name": "Gigalith",
+          "ability": "sand-force",
+          "nature": "adamant",
+          "moves": ["stone-edge", "earthquake", "heavy-slam", "superpower"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "attack": 252, "special_defense": 4 }
+        },
+        {
+          "id": 745,
+          "name": "Lycanroc",
+          "ability": "sand-rush",
+          "nature": "jolly",
+          "moves": ["accelerock", "stone-edge", "close-combat", "swords-dance"],
+          "held_item": "life-orb",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 142,
+          "name": "Aerodactyl",
+          "ability": "pressure",
+          "nature": "jolly",
+          "moves": ["stone-edge", "earthquake", "aerial-ace", "aqua-tail"],
+          "held_item": "choice-band",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 76,
+          "name": "Golem",
+          "ability": "sturdy",
+          "nature": "adamant",
+          "moves": ["stone-edge", "earthquake", "explosion", "stealth-rock"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "attack": 252, "speed": 4 }
+        },
+        {
+          "id": 464,
+          "name": "Rhyperior",
+          "ability": "solid-rock",
+          "nature": "adamant",
+          "moves": ["stone-edge", "earthquake", "megahorn", "swords-dance"],
+          "held_item": "weakness-policy",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        }
+      ],
+      "win_messages": [
+        "My stones outlasted you. A shame, truly.",
+        "You're rough around the edges still. Come again."
+      ],
+      "lose_messages": [
+        "Gorgeous! Your bond is a jewel beyond price.",
+        "You've polished your skills to a brilliant shine!"
+      ]
+    }
+  },
+  {
+    "locationId": "alola_elite_acerola",
+    "locationName": "Pokémon League — Acerola",
+    "isChampion": false,
+    "leader": {
+      "name": "Acerola",
+      "title": "Elite Four — Ghost",
+      "imageUrl": "assets/sprites/trainers/avatar/acerola.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 778,
+          "name": "Mimikyu",
+          "ability": "disguise",
+          "nature": "jolly",
+          "moves": ["play-rough", "shadow-claw", "shadow-sneak", "swords-dance"],
+          "held_item": "ghostium",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 770,
+          "name": "Palossand",
+          "ability": "water-compaction",
+          "nature": "bold",
+          "moves": ["shadow-ball", "earth-power", "shore-up", "stealth-rock"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "defense": 252, "special_defense": 4 }
+        },
+        {
+          "id": 781,
+          "name": "Dhelmise",
+          "ability": "steelworker",
+          "nature": "brave",
+          "moves": ["power-whip", "anchor-shot", "earthquake", "shadow-claw"],
+          "held_item": "assault-vest",
+          "evs": { "hp": 252, "attack": 252, "special_defense": 4 }
+        },
+        {
+          "id": 426,
+          "name": "Drifblim",
+          "ability": "unburden",
+          "nature": "modest",
+          "moves": ["shadow-ball", "air-slash", "calm-mind", "substitute"],
+          "held_item": "sitrus-berry",
+          "evs": { "hp": 4, "special_attack": 252, "speed": 252 }
+        },
+        {
+          "id": 302,
+          "name": "Sableye",
+          "ability": "prankster",
+          "nature": "bold",
+          "moves": ["foul-play", "will-o-wisp", "recover", "taunt"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "defense": 252, "special_defense": 4 }
+        },
+        {
+          "id": 478,
+          "name": "Froslass",
+          "ability": "cursed-body",
+          "nature": "timid",
+          "moves": ["shadow-ball", "ice-beam", "destiny-bond", "spikes"],
+          "held_item": "focus-sash",
+          "evs": { "hp": 4, "special_attack": 252, "speed": 252 }
+        }
+      ],
+      "win_messages": [
+        "Boo! Did my ghosts give you a good scare?",
+        "The spirits aren't done with you yet, hee hee!"
+      ],
+      "lose_messages": [
+        "Wow, you saw right through my tricks! Amazing!",
+        "You're so strong it's almost spooky. You pass!"
+      ]
+    }
+  },
+  {
+    "locationId": "alola_elite_kahili",
+    "locationName": "Pokémon League — Kahili",
+    "isChampion": false,
+    "leader": {
+      "name": "Kahili",
+      "title": "Elite Four — Flying",
+      "imageUrl": "assets/sprites/trainers/avatar/kahili.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 733,
+          "name": "Toucannon",
+          "ability": "skill-link",
+          "nature": "adamant",
+          "moves": ["beak-blast", "bullet-seed", "rock-blast", "brave-bird"],
+          "held_item": "life-orb",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 169,
+          "name": "Crobat",
+          "ability": "infiltrator",
+          "nature": "jolly",
+          "moves": ["brave-bird", "cross-poison", "u-turn", "roost"],
+          "held_item": "black-sludge",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 630,
+          "name": "Mandibuzz",
+          "ability": "overcoat",
+          "nature": "bold",
+          "moves": ["foul-play", "air-slash", "roost", "toxic"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "defense": 252, "special_defense": 4 }
+        },
+        {
+          "id": 628,
+          "name": "Braviary",
+          "ability": "defiant",
+          "nature": "adamant",
+          "moves": ["brave-bird", "close-combat", "u-turn", "rock-slide"],
+          "held_item": "choice-band",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 227,
+          "name": "Skarmory",
+          "ability": "sturdy",
+          "nature": "impish",
+          "moves": ["brave-bird", "body-press", "roost", "spikes"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "defense": 252, "special_defense": 4 }
+        },
+        {
+          "id": 741,
+          "name": "Oricorio",
+          "ability": "serene-grace",
+          "nature": "timid",
+          "moves": ["revelation-dance", "air-slash", "hurricane", "quiver-dance"],
+          "held_item": "flyinium",
+          "evs": { "hp": 4, "special_attack": 252, "speed": 252 }
+        }
+      ],
+      "win_messages": [
+        "That's a birdie for me. Better luck next round.",
+        "You're still below par, challenger."
+      ],
+      "lose_messages": [
+        "A hole-in-one! Your skill is the real deal.",
+        "You soared clean over me. On to the Champion!"
+      ]
+    }
+  },
+  {
+    "locationId": "alola_champion_kukui",
+    "locationName": "Pokémon League — Champion Kukui",
+    "isChampion": true,
+    "leader": {
+      "name": "Kukui",
+      "title": "Champion",
+      "imageUrl": "assets/sprites/trainers/avatar/kukui.png",
+      "prizeMoney": 10000,
+      "team": [
+        {
+          "id": 745,
+          "name": "Lycanroc",
+          "ability": "steadfast",
+          "nature": "jolly",
+          "moves": ["accelerock", "stone-edge", "close-combat", "crunch"],
+          "held_item": "life-orb",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 38,
+          "name": "Ninetales",
+          "ability": "drought",
+          "nature": "timid",
+          "moves": ["fire-blast", "solar-beam", "nasty-plot", "will-o-wisp"],
+          "held_item": "leftovers",
+          "evs": { "hp": 4, "special_attack": 252, "speed": 252 }
+        },
+        {
+          "id": 628,
+          "name": "Braviary",
+          "ability": "sheer-force",
+          "nature": "adamant",
+          "moves": ["brave-bird", "rock-slide", "close-combat", "bulk-up"],
+          "held_item": "life-orb",
+          "evs": { "hp": 4, "attack": 252, "speed": 252 }
+        },
+        {
+          "id": 462,
+          "name": "Magnezone",
+          "ability": "analytic",
+          "nature": "modest",
+          "moves": ["thunderbolt", "flash-cannon", "volt-switch", "thunder-wave"],
+          "held_item": "air-balloon",
+          "evs": { "hp": 4, "special_attack": 252, "speed": 252 }
+        },
+        {
+          "id": 143,
+          "name": "Snorlax",
+          "ability": "thick-fat",
+          "nature": "careful",
+          "moves": ["body-slam", "high-horsepower", "crunch", "curse"],
+          "held_item": "leftovers",
+          "evs": { "hp": 252, "attack": 4, "special_defense": 252 }
+        },
+        {
+          "id": 727,
+          "name": "Incineroar",
+          "ability": "intimidate",
+          "nature": "adamant",
+          "moves": ["flare-blitz", "darkest-lariat", "close-combat", "swords-dance"],
+          "held_item": "firium",
+          "evs": { "hp": 252, "attack": 252, "speed": 4 }
+        }
+      ],
+      "win_messages": [
+        "Woo! Now THAT'S the Champion's power, cousin!",
+        "The mantle of Champion isn't handed out easy!"
+      ],
+      "lose_messages": [
+        "Yeeeah! You're the first Champion of Alola!",
+        "That was the most masterful battle I've ever seen!"
+      ]
+    }
+  }
+]

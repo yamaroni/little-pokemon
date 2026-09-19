@@ -1,0 +1,3150 @@
+{
+  "3": [
+    {
+      "form_id": 10033,
+      "slug": "venusaur-mega",
+      "display_name": "Venusaur Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "venusaurite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10033",
+      "sprite_battle": "10033",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 123,
+        "special_attack": 122,
+        "special_defense": 120,
+        "speed": 80
+      },
+      "abilities": [
+        {
+          "name": "thick-fat",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1555
+    }
+  ],
+  "6": [
+    {
+      "form_id": 10034,
+      "slug": "charizard-mega-x",
+      "display_name": "Charizard Mega X",
+      "category": "mega",
+      "battle_only": true,
+      "item": "charizardite-x",
+      "trigger": "manual",
+      "form_name": "mega-x",
+      "sprite_home": "10034",
+      "sprite_battle": "10034",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "stats_cached": {
+        "hp": 78,
+        "attack": 130,
+        "defense": 111,
+        "special_attack": 130,
+        "special_defense": 85,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "tough-claws",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1105
+    },
+    {
+      "form_id": 10035,
+      "slug": "charizard-mega-y",
+      "display_name": "Charizard Mega Y",
+      "category": "mega",
+      "battle_only": true,
+      "item": "charizardite-y",
+      "trigger": "manual",
+      "form_name": "mega-y",
+      "sprite_home": "10035",
+      "sprite_battle": "10035",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 78,
+        "attack": 104,
+        "defense": 78,
+        "special_attack": 159,
+        "special_defense": 115,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "drought",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1005
+    }
+  ],
+  "9": [
+    {
+      "form_id": 10036,
+      "slug": "blastoise-mega",
+      "display_name": "Blastoise Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "blastoisinite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10036",
+      "sprite_battle": "10036",
+      "types": [
+        "water"
+      ],
+      "stats_cached": {
+        "hp": 79,
+        "attack": 103,
+        "defense": 120,
+        "special_attack": 135,
+        "special_defense": 115,
+        "speed": 78
+      },
+      "abilities": [
+        {
+          "name": "mega-launcher",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1011
+    }
+  ],
+  "15": [
+    {
+      "form_id": 10090,
+      "slug": "beedrill-mega",
+      "display_name": "Beedrill Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "beedrillite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10090",
+      "sprite_battle": "10090",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 150,
+        "defense": 40,
+        "special_attack": 15,
+        "special_defense": 80,
+        "speed": 145
+      },
+      "abilities": [
+        {
+          "name": "adaptability",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 405
+    }
+  ],
+  "18": [
+    {
+      "form_id": 10073,
+      "slug": "pidgeot-mega",
+      "display_name": "Pidgeot Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "pidgeotite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10073",
+      "sprite_battle": "10073",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 80,
+        "special_attack": 135,
+        "special_defense": 80,
+        "speed": 121
+      },
+      "abilities": [
+        {
+          "name": "no-guard",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 505
+    }
+  ],
+  "26": [
+    {
+      "form_id": 10304,
+      "slug": "raichu-mega-x",
+      "display_name": "Raichu Mega X",
+      "category": "mega",
+      "battle_only": true,
+      "item": "raichunite-x",
+      "trigger": "manual",
+      "form_name": "mega-x",
+      "sprite_home": "10304",
+      "sprite_battle": "10304",
+      "types": [
+        "electric"
+      ],
+      "stats_cached": {
+        "hp": 60,
+        "attack": 135,
+        "defense": 95,
+        "special_attack": 90,
+        "special_defense": 95,
+        "speed": 110
+      },
+      "abilities": [
+        {
+          "name": "electric-surge",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 380
+    },
+    {
+      "form_id": 10305,
+      "slug": "raichu-mega-y",
+      "display_name": "Raichu Mega Y",
+      "category": "mega",
+      "battle_only": true,
+      "item": "raichunite-y",
+      "trigger": "manual",
+      "form_name": "mega-y",
+      "sprite_home": "10305",
+      "sprite_battle": "10305",
+      "types": [
+        "electric"
+      ],
+      "stats_cached": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 55,
+        "special_attack": 160,
+        "special_defense": 80,
+        "speed": 130
+      },
+      "abilities": [
+        {
+          "name": "no-guard",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 260
+    }
+  ],
+  "36": [
+    {
+      "form_id": 10278,
+      "slug": "clefable-mega",
+      "display_name": "Clefable Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "clefablite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10278",
+      "sprite_battle": "10278",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 80,
+        "defense": 93,
+        "special_attack": 135,
+        "special_defense": 110,
+        "speed": 70
+      },
+      "abilities": [
+        {
+          "name": "magic-bounce",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 423
+    }
+  ],
+  "65": [
+    {
+      "form_id": 10037,
+      "slug": "alakazam-mega",
+      "display_name": "Alakazam Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "alakazite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10037",
+      "sprite_battle": "10037",
+      "types": [
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 55,
+        "attack": 50,
+        "defense": 65,
+        "special_attack": 175,
+        "special_defense": 105,
+        "speed": 150
+      },
+      "abilities": [
+        {
+          "name": "trace",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 480
+    }
+  ],
+  "71": [
+    {
+      "form_id": 10279,
+      "slug": "victreebel-mega",
+      "display_name": "Victreebel Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "victreebelite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10279",
+      "sprite_battle": "10279",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 125,
+        "defense": 85,
+        "special_attack": 135,
+        "special_defense": 95,
+        "speed": 70
+      },
+      "abilities": [
+        {
+          "name": "innards-out",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1255
+    }
+  ],
+  "80": [
+    {
+      "form_id": 10071,
+      "slug": "slowbro-mega",
+      "display_name": "Slowbro Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "slowbronite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10071",
+      "sprite_battle": "10071",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 75,
+        "defense": 180,
+        "special_attack": 130,
+        "special_defense": 80,
+        "speed": 30
+      },
+      "abilities": [
+        {
+          "name": "shell-armor",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1200
+    }
+  ],
+  "94": [
+    {
+      "form_id": 10038,
+      "slug": "gengar-mega",
+      "display_name": "Gengar Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "gengarite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10038",
+      "sprite_battle": "10038",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "stats_cached": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 80,
+        "special_attack": 170,
+        "special_defense": 95,
+        "speed": 130
+      },
+      "abilities": [
+        {
+          "name": "shadow-tag",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 405
+    }
+  ],
+  "115": [
+    {
+      "form_id": 10039,
+      "slug": "kangaskhan-mega",
+      "display_name": "Kangaskhan Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "kangaskhanite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10039",
+      "sprite_battle": "10039",
+      "types": [
+        "normal"
+      ],
+      "stats_cached": {
+        "hp": 105,
+        "attack": 125,
+        "defense": 100,
+        "special_attack": 60,
+        "special_defense": 100,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "parental-bond",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1000
+    }
+  ],
+  "121": [
+    {
+      "form_id": 10280,
+      "slug": "starmie-mega",
+      "display_name": "Starmie Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "starminite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10280",
+      "sprite_battle": "10280",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 105,
+        "special_attack": 130,
+        "special_defense": 105,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "huge-power",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 800
+    }
+  ],
+  "127": [
+    {
+      "form_id": 10040,
+      "slug": "pinsir-mega",
+      "display_name": "Pinsir Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "pinsirite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10040",
+      "sprite_battle": "10040",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 155,
+        "defense": 120,
+        "special_attack": 65,
+        "special_defense": 90,
+        "speed": 105
+      },
+      "abilities": [
+        {
+          "name": "aerilate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 590
+    }
+  ],
+  "130": [
+    {
+      "form_id": 10041,
+      "slug": "gyarados-mega",
+      "display_name": "Gyarados Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "gyaradosite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10041",
+      "sprite_battle": "10041",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 155,
+        "defense": 109,
+        "special_attack": 70,
+        "special_defense": 130,
+        "speed": 81
+      },
+      "abilities": [
+        {
+          "name": "mold-breaker",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 3050
+    }
+  ],
+  "142": [
+    {
+      "form_id": 10042,
+      "slug": "aerodactyl-mega",
+      "display_name": "Aerodactyl Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "aerodactylite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10042",
+      "sprite_battle": "10042",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 135,
+        "defense": 85,
+        "special_attack": 70,
+        "special_defense": 95,
+        "speed": 150
+      },
+      "abilities": [
+        {
+          "name": "tough-claws",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 790
+    }
+  ],
+  "149": [
+    {
+      "form_id": 10281,
+      "slug": "dragonite-mega",
+      "display_name": "Dragonite Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "dragoninite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10281",
+      "sprite_battle": "10281",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 91,
+        "attack": 124,
+        "defense": 115,
+        "special_attack": 145,
+        "special_defense": 125,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "multiscale",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 2900
+    }
+  ],
+  "150": [
+    {
+      "form_id": 10043,
+      "slug": "mewtwo-mega-x",
+      "display_name": "Mewtwo Mega X",
+      "category": "mega",
+      "battle_only": true,
+      "item": "mewtwonite-x",
+      "trigger": "manual",
+      "form_name": "mega-x",
+      "sprite_home": "10043",
+      "sprite_battle": "10043",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 106,
+        "attack": 190,
+        "defense": 100,
+        "special_attack": 154,
+        "special_defense": 100,
+        "speed": 130
+      },
+      "abilities": [
+        {
+          "name": "steadfast",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1270
+    },
+    {
+      "form_id": 10044,
+      "slug": "mewtwo-mega-y",
+      "display_name": "Mewtwo Mega Y",
+      "category": "mega",
+      "battle_only": true,
+      "item": "mewtwonite-y",
+      "trigger": "manual",
+      "form_name": "mega-y",
+      "sprite_home": "10044",
+      "sprite_battle": "10044",
+      "types": [
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 106,
+        "attack": 150,
+        "defense": 70,
+        "special_attack": 194,
+        "special_defense": 120,
+        "speed": 140
+      },
+      "abilities": [
+        {
+          "name": "insomnia",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 330
+    }
+  ],
+  "154": [
+    {
+      "form_id": 10282,
+      "slug": "meganium-mega",
+      "display_name": "Meganium Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "meganiumite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10282",
+      "sprite_battle": "10282",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 92,
+        "defense": 115,
+        "special_attack": 143,
+        "special_defense": 115,
+        "speed": 80
+      },
+      "abilities": [
+        {
+          "name": "mega-sol",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 2010
+    }
+  ],
+  "160": [
+    {
+      "form_id": 10283,
+      "slug": "feraligatr-mega",
+      "display_name": "Feraligatr Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "feraligite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10283",
+      "sprite_battle": "10283",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "stats_cached": {
+        "hp": 85,
+        "attack": 160,
+        "defense": 125,
+        "special_attack": 89,
+        "special_defense": 93,
+        "speed": 78
+      },
+      "abilities": [
+        {
+          "name": "dragonize",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1088
+    }
+  ],
+  "181": [
+    {
+      "form_id": 10045,
+      "slug": "ampharos-mega",
+      "display_name": "Ampharos Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "ampharosite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10045",
+      "sprite_battle": "10045",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "stats_cached": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 105,
+        "special_attack": 165,
+        "special_defense": 110,
+        "speed": 45
+      },
+      "abilities": [
+        {
+          "name": "mold-breaker",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 615
+    }
+  ],
+  "208": [
+    {
+      "form_id": 10072,
+      "slug": "steelix-mega",
+      "display_name": "Steelix Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "steelixite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10072",
+      "sprite_battle": "10072",
+      "types": [
+        "steel",
+        "ground"
+      ],
+      "stats_cached": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 230,
+        "special_attack": 55,
+        "special_defense": 95,
+        "speed": 30
+      },
+      "abilities": [
+        {
+          "name": "sand-force",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 7400
+    }
+  ],
+  "212": [
+    {
+      "form_id": 10046,
+      "slug": "scizor-mega",
+      "display_name": "Scizor Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "scizorite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10046",
+      "sprite_battle": "10046",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 150,
+        "defense": 140,
+        "special_attack": 65,
+        "special_defense": 100,
+        "speed": 75
+      },
+      "abilities": [
+        {
+          "name": "technician",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1250
+    }
+  ],
+  "214": [
+    {
+      "form_id": 10047,
+      "slug": "heracross-mega",
+      "display_name": "Heracross Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "heracronite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10047",
+      "sprite_battle": "10047",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 185,
+        "defense": 115,
+        "special_attack": 40,
+        "special_defense": 105,
+        "speed": 75
+      },
+      "abilities": [
+        {
+          "name": "skill-link",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 625
+    }
+  ],
+  "227": [
+    {
+      "form_id": 10284,
+      "slug": "skarmory-mega",
+      "display_name": "Skarmory Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "skarmorite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10284",
+      "sprite_battle": "10284",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 140,
+        "defense": 110,
+        "special_attack": 40,
+        "special_defense": 100,
+        "speed": 110
+      },
+      "abilities": [
+        {
+          "name": "stalwart",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 404
+    }
+  ],
+  "229": [
+    {
+      "form_id": 10048,
+      "slug": "houndoom-mega",
+      "display_name": "Houndoom Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "houndoominite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10048",
+      "sprite_battle": "10048",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "stats_cached": {
+        "hp": 75,
+        "attack": 90,
+        "defense": 90,
+        "special_attack": 140,
+        "special_defense": 90,
+        "speed": 115
+      },
+      "abilities": [
+        {
+          "name": "solar-power",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 495
+    }
+  ],
+  "248": [
+    {
+      "form_id": 10049,
+      "slug": "tyranitar-mega",
+      "display_name": "Tyranitar Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "tyranitarite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10049",
+      "sprite_battle": "10049",
+      "types": [
+        "rock",
+        "dark"
+      ],
+      "stats_cached": {
+        "hp": 100,
+        "attack": 164,
+        "defense": 150,
+        "special_attack": 95,
+        "special_defense": 120,
+        "speed": 71
+      },
+      "abilities": [
+        {
+          "name": "sand-stream",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 2550
+    }
+  ],
+  "254": [
+    {
+      "form_id": 10065,
+      "slug": "sceptile-mega",
+      "display_name": "Sceptile Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "sceptilite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10065",
+      "sprite_battle": "10065",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 75,
+        "special_attack": 145,
+        "special_defense": 85,
+        "speed": 145
+      },
+      "abilities": [
+        {
+          "name": "lightning-rod",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 552
+    }
+  ],
+  "257": [
+    {
+      "form_id": 10050,
+      "slug": "blaziken-mega",
+      "display_name": "Blaziken Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "blazikenite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10050",
+      "sprite_battle": "10050",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 160,
+        "defense": 80,
+        "special_attack": 130,
+        "special_defense": 80,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "speed-boost",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 520
+    }
+  ],
+  "260": [
+    {
+      "form_id": 10064,
+      "slug": "swampert-mega",
+      "display_name": "Swampert Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "swampertite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10064",
+      "sprite_battle": "10064",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "stats_cached": {
+        "hp": 100,
+        "attack": 150,
+        "defense": 110,
+        "special_attack": 95,
+        "special_defense": 110,
+        "speed": 70
+      },
+      "abilities": [
+        {
+          "name": "swift-swim",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1020
+    }
+  ],
+  "282": [
+    {
+      "form_id": 10051,
+      "slug": "gardevoir-mega",
+      "display_name": "Gardevoir Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "gardevoirite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10051",
+      "sprite_battle": "10051",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 68,
+        "attack": 85,
+        "defense": 65,
+        "special_attack": 165,
+        "special_defense": 135,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "pixilate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 484
+    }
+  ],
+  "302": [
+    {
+      "form_id": 10066,
+      "slug": "sableye-mega",
+      "display_name": "Sableye Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "sablenite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10066",
+      "sprite_battle": "10066",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "stats_cached": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 125,
+        "special_attack": 85,
+        "special_defense": 115,
+        "speed": 20
+      },
+      "abilities": [
+        {
+          "name": "magic-bounce",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1610
+    }
+  ],
+  "303": [
+    {
+      "form_id": 10052,
+      "slug": "mawile-mega",
+      "display_name": "Mawile Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "mawilite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10052",
+      "sprite_battle": "10052",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 50,
+        "attack": 105,
+        "defense": 125,
+        "special_attack": 55,
+        "special_defense": 95,
+        "speed": 50
+      },
+      "abilities": [
+        {
+          "name": "huge-power",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 235
+    }
+  ],
+  "306": [
+    {
+      "form_id": 10053,
+      "slug": "aggron-mega",
+      "display_name": "Aggron Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "aggronite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10053",
+      "sprite_battle": "10053",
+      "types": [
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 140,
+        "defense": 230,
+        "special_attack": 60,
+        "special_defense": 80,
+        "speed": 50
+      },
+      "abilities": [
+        {
+          "name": "filter",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 3950
+    }
+  ],
+  "308": [
+    {
+      "form_id": 10054,
+      "slug": "medicham-mega",
+      "display_name": "Medicham Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "medichamite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10054",
+      "sprite_battle": "10054",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 85,
+        "special_attack": 80,
+        "special_defense": 85,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "pure-power",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 315
+    }
+  ],
+  "310": [
+    {
+      "form_id": 10055,
+      "slug": "manectric-mega",
+      "display_name": "Manectric Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "manectite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10055",
+      "sprite_battle": "10055",
+      "types": [
+        "electric"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 80,
+        "special_attack": 135,
+        "special_defense": 80,
+        "speed": 135
+      },
+      "abilities": [
+        {
+          "name": "intimidate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 440
+    }
+  ],
+  "319": [
+    {
+      "form_id": 10070,
+      "slug": "sharpedo-mega",
+      "display_name": "Sharpedo Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "sharpedonite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10070",
+      "sprite_battle": "10070",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 140,
+        "defense": 70,
+        "special_attack": 110,
+        "special_defense": 65,
+        "speed": 105
+      },
+      "abilities": [
+        {
+          "name": "strong-jaw",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1303
+    }
+  ],
+  "323": [
+    {
+      "form_id": 10087,
+      "slug": "camerupt-mega",
+      "display_name": "Camerupt Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "cameruptite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10087",
+      "sprite_battle": "10087",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 100,
+        "special_attack": 145,
+        "special_defense": 105,
+        "speed": 20
+      },
+      "abilities": [
+        {
+          "name": "sheer-force",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 3205
+    }
+  ],
+  "334": [
+    {
+      "form_id": 10067,
+      "slug": "altaria-mega",
+      "display_name": "Altaria Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "altarianite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10067",
+      "sprite_battle": "10067",
+      "types": [
+        "dragon",
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 110,
+        "special_attack": 110,
+        "special_defense": 105,
+        "speed": 80
+      },
+      "abilities": [
+        {
+          "name": "pixilate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 206
+    }
+  ],
+  "354": [
+    {
+      "form_id": 10056,
+      "slug": "banette-mega",
+      "display_name": "Banette Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "banettite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10056",
+      "sprite_battle": "10056",
+      "types": [
+        "ghost"
+      ],
+      "stats_cached": {
+        "hp": 64,
+        "attack": 165,
+        "defense": 75,
+        "special_attack": 93,
+        "special_defense": 83,
+        "speed": 75
+      },
+      "abilities": [
+        {
+          "name": "prankster",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 130
+    }
+  ],
+  "358": [
+    {
+      "form_id": 10306,
+      "slug": "chimecho-mega",
+      "display_name": "Chimecho Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "chimechite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10306",
+      "sprite_battle": "10306",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 75,
+        "attack": 50,
+        "defense": 110,
+        "special_attack": 135,
+        "special_defense": 120,
+        "speed": 65
+      },
+      "abilities": [
+        {
+          "name": "levitate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 80
+    }
+  ],
+  "359": [
+    {
+      "form_id": 10057,
+      "slug": "absol-mega",
+      "display_name": "Absol Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "absolite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10057",
+      "sprite_battle": "10057",
+      "types": [
+        "dark"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 150,
+        "defense": 60,
+        "special_attack": 115,
+        "special_defense": 60,
+        "speed": 115
+      },
+      "abilities": [
+        {
+          "name": "magic-bounce",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 490
+    },
+    {
+      "form_id": 10307,
+      "slug": "absol-mega-z",
+      "display_name": "Absol Mega Z",
+      "category": "mega",
+      "battle_only": true,
+      "item": "absolite-z",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10307",
+      "sprite_battle": "10307",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 154,
+        "defense": 60,
+        "special_attack": 75,
+        "special_defense": 60,
+        "speed": 151
+      },
+      "abilities": [
+        {
+          "name": "magic-bounce",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 490
+    }
+  ],
+  "362": [
+    {
+      "form_id": 10074,
+      "slug": "glalie-mega",
+      "display_name": "Glalie Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "glalitite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10074",
+      "sprite_battle": "10074",
+      "types": [
+        "ice"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 80,
+        "special_attack": 120,
+        "special_defense": 80,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "refrigerate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 3502
+    }
+  ],
+  "373": [
+    {
+      "form_id": 10089,
+      "slug": "salamence-mega",
+      "display_name": "Salamence Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "salamencite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10089",
+      "sprite_battle": "10089",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 95,
+        "attack": 145,
+        "defense": 130,
+        "special_attack": 120,
+        "special_defense": 90,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "aerilate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1126
+    }
+  ],
+  "376": [
+    {
+      "form_id": 10076,
+      "slug": "metagross-mega",
+      "display_name": "Metagross Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "metagrossite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10076",
+      "sprite_battle": "10076",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 145,
+        "defense": 150,
+        "special_attack": 105,
+        "special_defense": 110,
+        "speed": 110
+      },
+      "abilities": [
+        {
+          "name": "tough-claws",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 9429
+    }
+  ],
+  "380": [
+    {
+      "form_id": 10062,
+      "slug": "latias-mega",
+      "display_name": "Latias Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "latiasite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10062",
+      "sprite_battle": "10062",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 120,
+        "special_attack": 140,
+        "special_defense": 150,
+        "speed": 110
+      },
+      "abilities": [
+        {
+          "name": "levitate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 520
+    }
+  ],
+  "381": [
+    {
+      "form_id": 10063,
+      "slug": "latios-mega",
+      "display_name": "Latios Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "latiosite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10063",
+      "sprite_battle": "10063",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 130,
+        "defense": 100,
+        "special_attack": 160,
+        "special_defense": 120,
+        "speed": 110
+      },
+      "abilities": [
+        {
+          "name": "levitate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 700
+    }
+  ],
+  "384": [
+    {
+      "form_id": 10079,
+      "slug": "rayquaza-mega",
+      "display_name": "Rayquaza Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": null,
+      "required_move": "dragon-ascent",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10079",
+      "sprite_battle": "10079",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 105,
+        "attack": 180,
+        "defense": 100,
+        "special_attack": 180,
+        "special_defense": 100,
+        "speed": 115
+      },
+      "abilities": [
+        {
+          "name": "delta-stream",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 3920
+    }
+  ],
+  "398": [
+    {
+      "form_id": 10308,
+      "slug": "staraptor-mega",
+      "display_name": "Staraptor Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "staraptite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10308",
+      "sprite_battle": "10308",
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 85,
+        "attack": 140,
+        "defense": 100,
+        "special_attack": 60,
+        "special_defense": 90,
+        "speed": 110
+      },
+      "abilities": [
+        {
+          "name": "contrary",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 500
+    }
+  ],
+  "428": [
+    {
+      "form_id": 10088,
+      "slug": "lopunny-mega",
+      "display_name": "Lopunny Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "lopunnite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10088",
+      "sprite_battle": "10088",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 136,
+        "defense": 94,
+        "special_attack": 54,
+        "special_defense": 96,
+        "speed": 135
+      },
+      "abilities": [
+        {
+          "name": "scrappy",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 283
+    }
+  ],
+  "445": [
+    {
+      "form_id": 10058,
+      "slug": "garchomp-mega",
+      "display_name": "Garchomp Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "garchompite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10058",
+      "sprite_battle": "10058",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats_cached": {
+        "hp": 108,
+        "attack": 170,
+        "defense": 115,
+        "special_attack": 120,
+        "special_defense": 95,
+        "speed": 92
+      },
+      "abilities": [
+        {
+          "name": "sand-force",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 950
+    },
+    {
+      "form_id": 10309,
+      "slug": "garchomp-mega-z",
+      "display_name": "Garchomp Mega Z",
+      "category": "mega",
+      "battle_only": true,
+      "item": "garchompite-z",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10309",
+      "sprite_battle": "10309",
+      "types": [
+        "dragon"
+      ],
+      "stats_cached": {
+        "hp": 108,
+        "attack": 130,
+        "defense": 85,
+        "special_attack": 141,
+        "special_defense": 85,
+        "speed": 151
+      },
+      "abilities": [
+        {
+          "name": "sand-force",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 990
+    }
+  ],
+  "448": [
+    {
+      "form_id": 10059,
+      "slug": "lucario-mega",
+      "display_name": "Lucario Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "lucarionite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10059",
+      "sprite_battle": "10059",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 145,
+        "defense": 88,
+        "special_attack": 140,
+        "special_defense": 70,
+        "speed": 112
+      },
+      "abilities": [
+        {
+          "name": "adaptability",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 575
+    },
+    {
+      "form_id": 10310,
+      "slug": "lucario-mega-z",
+      "display_name": "Lucario Mega Z",
+      "category": "mega",
+      "battle_only": true,
+      "item": "lucarionite-z",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10310",
+      "sprite_battle": "10310",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "special_attack": 164,
+        "special_defense": 70,
+        "speed": 151
+      },
+      "abilities": [
+        {
+          "name": "adaptability",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 494
+    }
+  ],
+  "460": [
+    {
+      "form_id": 10060,
+      "slug": "abomasnow-mega",
+      "display_name": "Abomasnow Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "abomasite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10060",
+      "sprite_battle": "10060",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "stats_cached": {
+        "hp": 90,
+        "attack": 132,
+        "defense": 105,
+        "special_attack": 132,
+        "special_defense": 105,
+        "speed": 30
+      },
+      "abilities": [
+        {
+          "name": "snow-warning",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1850
+    }
+  ],
+  "475": [
+    {
+      "form_id": 10068,
+      "slug": "gallade-mega",
+      "display_name": "Gallade Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "galladite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10068",
+      "sprite_battle": "10068",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 68,
+        "attack": 165,
+        "defense": 95,
+        "special_attack": 65,
+        "special_defense": 115,
+        "speed": 110
+      },
+      "abilities": [
+        {
+          "name": "inner-focus",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 564
+    }
+  ],
+  "478": [
+    {
+      "form_id": 10285,
+      "slug": "froslass-mega",
+      "display_name": "Froslass Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "froslassite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10285",
+      "sprite_battle": "10285",
+      "types": [
+        "ice",
+        "ghost"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 70,
+        "special_attack": 140,
+        "special_defense": 100,
+        "speed": 120
+      },
+      "abilities": [
+        {
+          "name": "snow-warning",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 296
+    }
+  ],
+  "485": [
+    {
+      "form_id": 10311,
+      "slug": "heatran-mega",
+      "display_name": "Heatran Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "heatranite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10311",
+      "sprite_battle": "10311",
+      "types": [
+        "fire",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 91,
+        "attack": 120,
+        "defense": 106,
+        "special_attack": 175,
+        "special_defense": 141,
+        "speed": 67
+      },
+      "abilities": [
+        {
+          "name": "flash-fire",
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "name": "flame-body",
+          "is_hidden": true,
+          "slot": 3
+        }
+      ],
+      "weight": 5700
+    }
+  ],
+  "491": [
+    {
+      "form_id": 10312,
+      "slug": "darkrai-mega",
+      "display_name": "Darkrai Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "darkranite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10312",
+      "sprite_battle": "10312",
+      "types": [
+        "dark"
+      ],
+      "stats_cached": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 130,
+        "special_attack": 165,
+        "special_defense": 130,
+        "speed": 85
+      },
+      "abilities": [
+        {
+          "name": "bad-dreams",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 2400
+    }
+  ],
+  "500": [
+    {
+      "form_id": 10286,
+      "slug": "emboar-mega",
+      "display_name": "Emboar Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "emboarite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10286",
+      "sprite_battle": "10286",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 110,
+        "attack": 148,
+        "defense": 75,
+        "special_attack": 110,
+        "special_defense": 110,
+        "speed": 75
+      },
+      "abilities": [
+        {
+          "name": "mold-breaker",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1803
+    }
+  ],
+  "530": [
+    {
+      "form_id": 10287,
+      "slug": "excadrill-mega",
+      "display_name": "Excadrill Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "excadrite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10287",
+      "sprite_battle": "10287",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 110,
+        "attack": 165,
+        "defense": 100,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 103
+      },
+      "abilities": [
+        {
+          "name": "piercing-drill",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 600
+    }
+  ],
+  "531": [
+    {
+      "form_id": 10069,
+      "slug": "audino-mega",
+      "display_name": "Audino Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "audinite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10069",
+      "sprite_battle": "10069",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 103,
+        "attack": 60,
+        "defense": 126,
+        "special_attack": 80,
+        "special_defense": 126,
+        "speed": 50
+      },
+      "abilities": [
+        {
+          "name": "healer",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 320
+    }
+  ],
+  "545": [
+    {
+      "form_id": 10288,
+      "slug": "scolipede-mega",
+      "display_name": "Scolipede Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "scolipite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10288",
+      "sprite_battle": "10288",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats_cached": {
+        "hp": 60,
+        "attack": 140,
+        "defense": 149,
+        "special_attack": 75,
+        "special_defense": 99,
+        "speed": 62
+      },
+      "abilities": [
+        {
+          "name": "shell-armor",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 2305
+    }
+  ],
+  "560": [
+    {
+      "form_id": 10289,
+      "slug": "scrafty-mega",
+      "display_name": "Scrafty Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "scraftinite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10289",
+      "sprite_battle": "10289",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 135,
+        "special_attack": 55,
+        "special_defense": 135,
+        "speed": 68
+      },
+      "abilities": [
+        {
+          "name": "intimidate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 310
+    }
+  ],
+  "604": [
+    {
+      "form_id": 10290,
+      "slug": "eelektross-mega",
+      "display_name": "Eelektross Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "eelektrossite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10290",
+      "sprite_battle": "10290",
+      "types": [
+        "electric"
+      ],
+      "stats_cached": {
+        "hp": 85,
+        "attack": 145,
+        "defense": 80,
+        "special_attack": 135,
+        "special_defense": 90,
+        "speed": 80
+      },
+      "abilities": [
+        {
+          "name": "eelevate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1800
+    }
+  ],
+  "609": [
+    {
+      "form_id": 10291,
+      "slug": "chandelure-mega",
+      "display_name": "Chandelure Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "chandelurite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10291",
+      "sprite_battle": "10291",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "stats_cached": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 110,
+        "special_attack": 175,
+        "special_defense": 110,
+        "speed": 90
+      },
+      "abilities": [
+        {
+          "name": "infiltrator",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 696
+    }
+  ],
+  "623": [
+    {
+      "form_id": 10313,
+      "slug": "golurk-mega",
+      "display_name": "Golurk Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "golurkite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10313",
+      "sprite_battle": "10313",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "stats_cached": {
+        "hp": 89,
+        "attack": 159,
+        "defense": 105,
+        "special_attack": 70,
+        "special_defense": 105,
+        "speed": 55
+      },
+      "abilities": [
+        {
+          "name": "unseen-fist",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 3300
+    }
+  ],
+  "652": [
+    {
+      "form_id": 10292,
+      "slug": "chesnaught-mega",
+      "display_name": "Chesnaught Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "chesnaughtite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10292",
+      "sprite_battle": "10292",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 88,
+        "attack": 137,
+        "defense": 172,
+        "special_attack": 74,
+        "special_defense": 115,
+        "speed": 44
+      },
+      "abilities": [
+        {
+          "name": "bulletproof",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 900
+    }
+  ],
+  "655": [
+    {
+      "form_id": 10293,
+      "slug": "delphox-mega",
+      "display_name": "Delphox Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "delphoxite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10293",
+      "sprite_battle": "10293",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 75,
+        "attack": 69,
+        "defense": 72,
+        "special_attack": 159,
+        "special_defense": 125,
+        "speed": 134
+      },
+      "abilities": [
+        {
+          "name": "levitate",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 390
+    }
+  ],
+  "658": [
+    {
+      "form_id": 10294,
+      "slug": "greninja-mega",
+      "display_name": "Greninja Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "greninjite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10294",
+      "sprite_battle": "10294",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats_cached": {
+        "hp": 72,
+        "attack": 125,
+        "defense": 77,
+        "special_attack": 133,
+        "special_defense": 81,
+        "speed": 142
+      },
+      "abilities": [
+        {
+          "name": "protean",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 400
+    }
+  ],
+  "668": [
+    {
+      "form_id": 10295,
+      "slug": "pyroar-mega",
+      "display_name": "Pyroar Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "pyroarite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10295",
+      "sprite_battle": "10295",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "stats_cached": {
+        "hp": 86,
+        "attack": 88,
+        "defense": 92,
+        "special_attack": 129,
+        "special_defense": 86,
+        "speed": 126
+      },
+      "abilities": [
+        {
+          "name": "fire-mane",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 933
+    }
+  ],
+  "670": [
+    {
+      "form_id": 10296,
+      "slug": "floette-mega",
+      "display_name": "Floette Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "floettite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10296",
+      "sprite_battle": "10296",
+      "types": [
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 74,
+        "attack": 85,
+        "defense": 87,
+        "special_attack": 155,
+        "special_defense": 148,
+        "speed": 102
+      },
+      "abilities": [
+        {
+          "name": "fairy-aura",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1008
+    }
+  ],
+  "678": [
+    {
+      "form_id": 10314,
+      "slug": "meowstic-mega",
+      "display_name": "Meowstic Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "meowsticite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10314",
+      "sprite_battle": "10314",
+      "types": [
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 74,
+        "attack": 48,
+        "defense": 76,
+        "special_attack": 143,
+        "special_defense": 101,
+        "speed": 124
+      },
+      "abilities": [
+        {
+          "name": "trace",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 101
+    }
+  ],
+  "687": [
+    {
+      "form_id": 10297,
+      "slug": "malamar-mega",
+      "display_name": "Malamar Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "malamarite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10297",
+      "sprite_battle": "10297",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "stats_cached": {
+        "hp": 86,
+        "attack": 102,
+        "defense": 88,
+        "special_attack": 98,
+        "special_defense": 120,
+        "speed": 88
+      },
+      "abilities": [
+        {
+          "name": "contrary",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 698
+    }
+  ],
+  "689": [
+    {
+      "form_id": 10298,
+      "slug": "barbaracle-mega",
+      "display_name": "Barbaracle Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "barbaracite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10298",
+      "sprite_battle": "10298",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 72,
+        "attack": 140,
+        "defense": 130,
+        "special_attack": 64,
+        "special_defense": 106,
+        "speed": 88
+      },
+      "abilities": [
+        {
+          "name": "tough-claws",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1000
+    }
+  ],
+  "691": [
+    {
+      "form_id": 10299,
+      "slug": "dragalge-mega",
+      "display_name": "Dragalge Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "dragalgite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10299",
+      "sprite_battle": "10299",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 85,
+        "defense": 105,
+        "special_attack": 132,
+        "special_defense": 163,
+        "speed": 44
+      },
+      "abilities": [
+        {
+          "name": "regenerator",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1003
+    }
+  ],
+  "701": [
+    {
+      "form_id": 10300,
+      "slug": "hawlucha-mega",
+      "display_name": "Hawlucha Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "hawluchanite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10300",
+      "sprite_battle": "10300",
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "stats_cached": {
+        "hp": 78,
+        "attack": 137,
+        "defense": 100,
+        "special_attack": 74,
+        "special_defense": 93,
+        "speed": 118
+      },
+      "abilities": [
+        {
+          "name": "no-guard",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 250
+    }
+  ],
+  "718": [
+    {
+      "form_id": 10301,
+      "slug": "zygarde-mega",
+      "display_name": "Zygarde Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "zygardite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10301",
+      "sprite_battle": "10301",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats_cached": {
+        "hp": 216,
+        "attack": 70,
+        "defense": 91,
+        "special_attack": 216,
+        "special_defense": 85,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "aura-break",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 6100
+    }
+  ],
+  "719": [
+    {
+      "form_id": 10075,
+      "slug": "diancie-mega",
+      "display_name": "Diancie Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "diancite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10075",
+      "sprite_battle": "10075",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 50,
+        "attack": 160,
+        "defense": 110,
+        "special_attack": 160,
+        "special_defense": 110,
+        "speed": 110
+      },
+      "abilities": [
+        {
+          "name": "magic-bounce",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 278
+    }
+  ],
+  "740": [
+    {
+      "form_id": 10315,
+      "slug": "crabominable-mega",
+      "display_name": "Crabominable Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "crabominite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10315",
+      "sprite_battle": "10315",
+      "types": [
+        "fighting",
+        "ice"
+      ],
+      "stats_cached": {
+        "hp": 97,
+        "attack": 157,
+        "defense": 122,
+        "special_attack": 62,
+        "special_defense": 107,
+        "speed": 33
+      },
+      "abilities": [
+        {
+          "name": "iron-fist",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 2528
+    }
+  ],
+  "768": [
+    {
+      "form_id": 10316,
+      "slug": "golisopod-mega",
+      "display_name": "Golisopod Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "golisopite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10316",
+      "sprite_battle": "10316",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats_cached": {
+        "hp": 75,
+        "attack": 150,
+        "defense": 175,
+        "special_attack": 70,
+        "special_defense": 120,
+        "speed": 40
+      },
+      "abilities": [
+        {
+          "name": "emergency-exit",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 1480
+    }
+  ],
+  "780": [
+    {
+      "form_id": 10302,
+      "slug": "drampa-mega",
+      "display_name": "Drampa Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "drampanite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10302",
+      "sprite_battle": "10302",
+      "types": [
+        "normal",
+        "dragon"
+      ],
+      "stats_cached": {
+        "hp": 78,
+        "attack": 85,
+        "defense": 110,
+        "special_attack": 160,
+        "special_defense": 116,
+        "speed": 36
+      },
+      "abilities": [
+        {
+          "name": "berserk",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 2405
+    }
+  ],
+  "801": [
+    {
+      "form_id": 10318,
+      "slug": "magearna-mega",
+      "display_name": "Magearna Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "magearnite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10318",
+      "sprite_battle": "10318",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "stats_cached": {
+        "hp": 80,
+        "attack": 125,
+        "defense": 115,
+        "special_attack": 170,
+        "special_defense": 115,
+        "speed": 95
+      },
+      "abilities": [
+        {
+          "name": "soul-heart",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 2481
+    }
+  ],
+  "807": [
+    {
+      "form_id": 10319,
+      "slug": "zeraora-mega",
+      "display_name": "Zeraora Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "zeraorite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10319",
+      "sprite_battle": "10319",
+      "types": [
+        "electric"
+      ],
+      "stats_cached": {
+        "hp": 88,
+        "attack": 157,
+        "defense": 75,
+        "special_attack": 147,
+        "special_defense": 80,
+        "speed": 153
+      },
+      "abilities": [
+        {
+          "name": "volt-absorb",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 445
+    }
+  ],
+  "870": [
+    {
+      "form_id": 10303,
+      "slug": "falinks-mega",
+      "display_name": "Falinks Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "falinksite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10303",
+      "sprite_battle": "10303",
+      "types": [
+        "fighting"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 135,
+        "defense": 135,
+        "special_attack": 70,
+        "special_defense": 65,
+        "speed": 100
+      },
+      "abilities": [
+        {
+          "name": "defiant",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 990
+    }
+  ],
+  "952": [
+    {
+      "form_id": 10320,
+      "slug": "scovillain-mega",
+      "display_name": "Scovillain Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "scovillainite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10320",
+      "sprite_battle": "10320",
+      "types": [
+        "grass",
+        "fire"
+      ],
+      "stats_cached": {
+        "hp": 65,
+        "attack": 138,
+        "defense": 85,
+        "special_attack": 138,
+        "special_defense": 85,
+        "speed": 75
+      },
+      "abilities": [
+        {
+          "name": "spicy-spray",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 220
+    }
+  ],
+  "970": [
+    {
+      "form_id": 10321,
+      "slug": "glimmora-mega",
+      "display_name": "Glimmora Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "glimmoranite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10321",
+      "sprite_battle": "10321",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "stats_cached": {
+        "hp": 83,
+        "attack": 90,
+        "defense": 105,
+        "special_attack": 150,
+        "special_defense": 96,
+        "speed": 101
+      },
+      "abilities": [
+        {
+          "name": "adaptability",
+          "is_hidden": false,
+          "slot": 1
+        }
+      ],
+      "weight": 770
+    }
+  ],
+  "978": [
+    {
+      "form_id": 10322,
+      "slug": "tatsugiri-mega",
+      "display_name": "Tatsugiri Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "tatsugirinite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10322",
+      "sprite_battle": "10322",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "stats_cached": {
+        "hp": 68,
+        "attack": 65,
+        "defense": 90,
+        "special_attack": 135,
+        "special_defense": 125,
+        "speed": 92
+      },
+      "abilities": [
+        {
+          "name": "commander",
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "name": "storm-drain",
+          "is_hidden": true,
+          "slot": 3
+        }
+      ],
+      "weight": 240
+    }
+  ],
+  "998": [
+    {
+      "form_id": 10325,
+      "slug": "baxcalibur-mega",
+      "display_name": "Baxcalibur Mega",
+      "category": "mega",
+      "battle_only": true,
+      "item": "baxcalibrite",
+      "trigger": "manual",
+      "form_name": "mega",
+      "sprite_home": "10325",
+      "sprite_battle": "10325",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "stats_cached": {
+        "hp": 115,
+        "attack": 175,
+        "defense": 117,
+        "special_attack": 105,
+        "special_defense": 101,
+        "speed": 87
+      },
+      "abilities": [
+        {
+          "name": "thermal-exchange",
+          "is_hidden": false,
+          "slot": 1
+        },
+        {
+          "name": "ice-body",
+          "is_hidden": true,
+          "slot": 3
+        }
+      ],
+      "weight": 3150
+    }
+  ]
+}

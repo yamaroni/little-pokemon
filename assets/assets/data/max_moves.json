@@ -1,0 +1,164 @@
+[
+  {
+    "name": "max-strike",
+    "display_name": "Max Strike",
+    "type": "normal",
+    "forms": [],
+    "power": null,
+    "effect": "A Normal-type attack that Dynamax Pokémon use. This lowers the target's Speed stat.",
+    "gmax_effect": { "kind": "stat-drop", "stat": "speed", "stages": 1 }
+  },
+  {
+    "name": "max-flare",
+    "display_name": "Max Flare",
+    "type": "fire",
+    "forms": [],
+    "power": null,
+    "effect": "A Fire-type attack that Dynamax Pokémon use. This intensifies the sun for five turns.",
+    "gmax_effect": { "kind": "weather", "weather": "sun" }
+  },
+  {
+    "name": "max-geyser",
+    "display_name": "Max Geyser",
+    "type": "water",
+    "forms": [],
+    "power": null,
+    "effect": "A Water-type attack that Dynamax Pokémon use. This summons rain for five turns.",
+    "gmax_effect": { "kind": "weather", "weather": "rain" }
+  },
+  {
+    "name": "max-lightning",
+    "display_name": "Max Lightning",
+    "type": "electric",
+    "forms": [],
+    "power": null,
+    "effect": "An Electric-type attack that Dynamax Pokémon use. This turns the ground into Electric Terrain for five turns.",
+    "gmax_effect": { "kind": "terrain", "terrain": "electric" }
+  },
+  {
+    "name": "max-overgrowth",
+    "display_name": "Max Overgrowth",
+    "type": "grass",
+    "forms": [],
+    "power": null,
+    "effect": "A Grass-type attack that Dynamax Pokémon use. This turns the ground into Grassy Terrain for five turns.",
+    "gmax_effect": { "kind": "terrain", "terrain": "grassy" }
+  },
+  {
+    "name": "max-hailstorm",
+    "display_name": "Max Hailstorm",
+    "type": "ice",
+    "forms": [],
+    "power": null,
+    "effect": "An Ice-type attack that Dynamax Pokémon use. This summons a hailstorm for five turns.",
+    "gmax_effect": { "kind": "weather", "weather": "snow" }
+  },
+  {
+    "name": "max-knuckle",
+    "display_name": "Max Knuckle",
+    "type": "fighting",
+    "forms": [],
+    "power": null,
+    "effect": "A Fighting-type attack that Dynamax Pokémon use. This raises the user's Attack stat.",
+    "gmax_effect": { "kind": "user-boost", "stat": "attack", "stages": 1 }
+  },
+  {
+    "name": "max-airstream",
+    "display_name": "Max Airstream",
+    "type": "flying",
+    "forms": [],
+    "power": null,
+    "effect": "A Flying-type attack that Dynamax Pokémon use. This raises the user's Speed stat.",
+    "gmax_effect": { "kind": "user-boost", "stat": "speed", "stages": 1 }
+  },
+  {
+    "name": "max-ooze",
+    "display_name": "Max Ooze",
+    "type": "poison",
+    "forms": [],
+    "power": null,
+    "effect": "A Poison-type attack that Dynamax Pokémon use. This raises the user's Sp. Atk stat.",
+    "gmax_effect": { "kind": "user-boost", "stat": "special-attack", "stages": 1 }
+  },
+  {
+    "name": "max-quake",
+    "display_name": "Max Quake",
+    "type": "ground",
+    "forms": [],
+    "power": null,
+    "effect": "A Ground-type attack that Dynamax Pokémon use. This raises the user's Sp. Def stat.",
+    "gmax_effect": { "kind": "user-boost", "stat": "special-defense", "stages": 1 }
+  },
+  {
+    "name": "max-rockfall",
+    "display_name": "Max Rockfall",
+    "type": "rock",
+    "forms": [],
+    "power": null,
+    "effect": "A Rock-type attack that Dynamax Pokémon use. This summons a sandstorm for five turns.",
+    "gmax_effect": { "kind": "weather", "weather": "sand" }
+  },
+  {
+    "name": "max-flutterby",
+    "display_name": "Max Flutterby",
+    "type": "bug",
+    "forms": [],
+    "power": null,
+    "effect": "A Bug-type attack that Dynamax Pokémon use. This lowers the target's Sp. Atk stat.",
+    "gmax_effect": { "kind": "stat-drop", "stat": "special-attack", "stages": 1 }
+  },
+  {
+    "name": "max-phantasm",
+    "display_name": "Max Phantasm",
+    "type": "ghost",
+    "forms": [],
+    "power": null,
+    "effect": "A Ghost-type attack that Dynamax Pokémon use. This lowers the target's Defense stat.",
+    "gmax_effect": { "kind": "stat-drop", "stat": "defense", "stages": 1 }
+  },
+  {
+    "name": "max-steelspike",
+    "display_name": "Max Steelspike",
+    "type": "steel",
+    "forms": [],
+    "power": null,
+    "effect": "A Steel-type attack that Dynamax Pokémon use. This raises the user's Defense stat.",
+    "gmax_effect": { "kind": "user-boost", "stat": "defense", "stages": 1 }
+  },
+  {
+    "name": "max-mindstorm",
+    "display_name": "Max Mindstorm",
+    "type": "psychic",
+    "forms": [],
+    "power": null,
+    "effect": "A Psychic-type attack that Dynamax Pokémon use. This turns the ground into Psychic Terrain for five turns.",
+    "gmax_effect": { "kind": "terrain", "terrain": "psychic" }
+  },
+  {
+    "name": "max-darkness",
+    "display_name": "Max Darkness",
+    "type": "dark",
+    "forms": [],
+    "power": null,
+    "effect": "A Dark-type attack that Dynamax Pokémon use. This lowers the target's Sp. Def stat.",
+    "gmax_effect": { "kind": "stat-drop", "stat": "special-defense", "stages": 1 }
+  },
+  {
+    "name": "max-wyrmwind",
+    "display_name": "Max Wyrmwind",
+    "type": "dragon",
+    "forms": [],
+    "power": null,
+    "effect": "A Dragon-type attack that Dynamax Pokémon use. This lowers the target's Attack stat.",
+    "gmax_effect": { "kind": "stat-drop", "stat": "attack", "stages": 1 }
+  },
+  {
+    "name": "max-starfall",
+    "display_name": "Max Starfall",
+    "type": "fairy",
+    "forms": [],
+    "power": null,
+    "effect": "A Fairy-type attack that Dynamax Pokémon use. This turns the ground into Misty Terrain for five turns.",
+    "gmax_effect": { "kind": "terrain", "terrain": "misty" }
+  }
+]

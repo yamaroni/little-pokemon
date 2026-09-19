@@ -1,0 +1,13 @@
+{
+  "moves": ["return", "frustration", "hidden-power", "secret-power", "camouflage", "captivate", "synchronoise", "spotlight", "hail"],
+  "abilities": [],
+  "held_items": [],
+  "forms": [
+    "eevee-starter",
+    "pikachu-starter"
+  ],
+  "balls": [
+    "beast-ball",
+    "strange-ball"
+  ]
+}

@@ -1,0 +1,2121 @@
+[
+  {
+    "id": "sinnoh_route_201",
+    "region": "sinnoh",
+    "parentLocationId": "twinleaf_area",
+    "name": "Sinnoh Route 201",
+    "description": "A short grassy path between Twinleaf Town and Sandgem where new trainers take their first steps.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 396,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 399,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 401,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 265,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 387,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_202",
+    "region": "sinnoh",
+    "parentLocationId": "twinleaf_area",
+    "name": "Sinnoh Route 202",
+    "description": "A grassy road north of Sandgem Town leading toward Jubilife City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 396,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 399,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 401,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 5,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 403,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_203",
+    "region": "sinnoh",
+    "parentLocationId": "twinleaf_area",
+    "name": "Sinnoh Route 203",
+    "description": "A breezy route east of Jubilife City running toward the Oreburgh Gate.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 396,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 399,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 63,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 390,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_204",
+    "region": "sinnoh",
+    "parentLocationId": "twinleaf_area",
+    "name": "Sinnoh Route 204",
+    "description": "A wooded road north of Jubilife winding toward Floaroma Town.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 396,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 399,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 401,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 265,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 5,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 406,
+        "weight": 1,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lake_verity",
+    "region": "sinnoh",
+    "parentLocationId": "twinleaf_area",
+    "name": "Lake Verity",
+    "description": "A serene lake west of Twinleaf Town, one of the three sacred lakes of Sinnoh.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 54,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 422,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 399,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 458,
+        "weight": 1,
+        "types": [
+          "water",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_twinleaf_area",
+    "region": "sinnoh",
+    "parentLocationId": "twinleaf_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 223,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 422,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 339,
+        "weight": 1,
+        "types": [
+          "water",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oreburgh_gate",
+    "region": "sinnoh",
+    "parentLocationId": "oreburgh_area",
+    "name": "Oreburgh Gate",
+    "description": "A cavernous tunnel linking Route 203 to Oreburgh City, with flooded lower levels.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 54,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 5,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 408,
+        "weight": 1,
+        "types": [
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oreburgh_mine",
+    "region": "sinnoh",
+    "parentLocationId": "oreburgh_area",
+    "name": "Oreburgh Mine",
+    "description": "The working coal mine beneath Oreburgh City, alive with rock-dwelling Pokémon.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 434,
+        "weight": 5,
+        "types": [
+          "poison",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 410,
+        "weight": 1,
+        "types": [
+          "rock",
+          "steel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_207",
+    "region": "sinnoh",
+    "parentLocationId": "oreburgh_area",
+    "name": "Sinnoh Route 207",
+    "description": "A dry, rocky slope north of Oreburgh City strewn with boulders.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 77,
+        "weight": 20,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 401,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 434,
+        "weight": 5,
+        "types": [
+          "poison",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 438,
+        "weight": 1,
+        "types": [
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_206",
+    "region": "sinnoh",
+    "parentLocationId": "oreburgh_area",
+    "name": "Sinnoh Route 206",
+    "description": "The Cycling Road, a raised highway running north past the Wayward Cave.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 77,
+        "weight": 20,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 401,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 434,
+        "weight": 10,
+        "types": [
+          "poison",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 415,
+        "weight": 1,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wayward_cave",
+    "region": "sinnoh",
+    "parentLocationId": "oreburgh_area",
+    "name": "Wayward Cave",
+    "description": "A pitch-black cavern beneath the Cycling Road where Gible burrow in the gloom.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 434,
+        "weight": 5,
+        "types": [
+          "poison",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 453,
+        "weight": 1,
+        "types": [
+          "poison",
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_205",
+    "region": "sinnoh",
+    "parentLocationId": "eterna_area",
+    "name": "Sinnoh Route 205",
+    "description": "A river-fed road past the Valley Windworks and the southern edge of Eterna Forest.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 399,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 401,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 396,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 265,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 425,
+        "weight": 1,
+        "types": [
+          "ghost",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eterna_forest",
+    "region": "sinnoh",
+    "parentLocationId": "eterna_area",
+    "name": "Eterna Forest",
+    "description": "A dim, misty old-growth forest between Floaroma and Eterna City, alive with the buzz of Bug Pokémon.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 265,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 190,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 401,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 451,
+        "weight": 10,
+        "types": [
+          "poison",
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 92,
+        "weight": 5,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 412,
+        "weight": 1,
+        "types": [
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "old_chateau",
+    "region": "sinnoh",
+    "parentLocationId": "eterna_area",
+    "name": "Old Chateau",
+    "description": "A derelict mansion deep in Eterna Forest, said to be haunted by restless spirits.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 92,
+        "weight": 20,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 200,
+        "weight": 20,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 355,
+        "weight": 10,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 198,
+        "weight": 5,
+        "types": [
+          "dark",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 479,
+        "weight": 1,
+        "types": [
+          "electric",
+          "ghost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_208",
+    "region": "sinnoh",
+    "parentLocationId": "hearthome_area",
+    "name": "Sinnoh Route 208",
+    "description": "A grassy lane along the foot of Mt. Coronet leading into Hearthome City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 399,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 396,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 436,
+        "weight": 10,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 190,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 440,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_209",
+    "region": "sinnoh",
+    "parentLocationId": "hearthome_area",
+    "name": "Sinnoh Route 209",
+    "description": "A peaceful road north of Hearthome City passing the Lost Tower on its way to Solaceon.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 399,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 436,
+        "weight": 20,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 190,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 114,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 439,
+        "weight": 1,
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lost_tower",
+    "region": "sinnoh",
+    "parentLocationId": "hearthome_area",
+    "name": "Lost Tower",
+    "description": "A solemn five-story tower on Route 209 where trainers lay their fallen partners to rest.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 92,
+        "weight": 20,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 198,
+        "weight": 20,
+        "types": [
+          "dark",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 355,
+        "weight": 10,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 200,
+        "weight": 5,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 442,
+        "weight": 1,
+        "types": [
+          "ghost",
+          "dark"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "solaceon_ruins",
+    "region": "sinnoh",
+    "parentLocationId": "hearthome_area",
+    "name": "Solaceon Ruins",
+    "description": "A maze of ancient underground chambers near Solaceon Town swarming with the mysterious Unown.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 355,
+        "weight": 20,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 436,
+        "weight": 5,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 433,
+        "weight": 1,
+        "types": [
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_210",
+    "region": "sinnoh",
+    "parentLocationId": "hearthome_area",
+    "name": "Sinnoh Route 210",
+    "description": "A foggy highland road north of Solaceon climbing toward Celestic Town.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 77,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 193,
+        "weight": 5,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 446,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "great_marsh",
+    "region": "sinnoh",
+    "parentLocationId": "pastoria_area",
+    "name": "Great Marsh",
+    "description": "Pastoria's vast safari wetland, home to a wide mix of marsh-dwelling Pokémon.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 434,
+        "weight": 20,
+        "types": [
+          "poison",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 114,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 10,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 451,
+        "weight": 10,
+        "types": [
+          "poison",
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 193,
+        "weight": 5,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 455,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_212",
+    "region": "sinnoh",
+    "parentLocationId": "pastoria_area",
+    "name": "Sinnoh Route 212",
+    "description": "A rain-soaked road between Hearthome and Pastoria, muddy and thick with grass.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 399,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 396,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 193,
+        "weight": 10,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 451,
+        "weight": 10,
+        "types": [
+          "poison",
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 422,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 431,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_213",
+    "region": "sinnoh",
+    "parentLocationId": "pastoria_area",
+    "name": "Sinnoh Route 213",
+    "description": "A sunny seaside road east of Pastoria lined with beach houses and tide pools.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 422,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 72,
+        "weight": 10,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 120,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_214",
+    "region": "sinnoh",
+    "parentLocationId": "pastoria_area",
+    "name": "Sinnoh Route 214",
+    "description": "A rugged road north of Pastoria climbing toward Veilstone City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 434,
+        "weight": 20,
+        "types": [
+          "poison",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 77,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 401,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 359,
+        "weight": 5,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 449,
+        "weight": 1,
+        "types": [
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "valor_lakefront",
+    "region": "sinnoh",
+    "parentLocationId": "pastoria_area",
+    "name": "Valor Lakefront",
+    "description": "The wooded shore of Lake Valor, the largest of Sinnoh's three sacred lakes.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 54,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 422,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 399,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 417,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mt_coronet",
+    "region": "sinnoh",
+    "parentLocationId": "celestic_area",
+    "name": "Mt. Coronet",
+    "description": "The colossal mountain at the heart of Sinnoh, a sprawling network of caves dividing the region.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 436,
+        "weight": 10,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 173,
+        "weight": 1,
+        "types": [
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_211",
+    "region": "sinnoh",
+    "parentLocationId": "celestic_area",
+    "name": "Sinnoh Route 211",
+    "description": "A misty mountain pass on the Celestic side of Mt. Coronet.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 77,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 436,
+        "weight": 5,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 201,
+        "weight": 1,
+        "types": [
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iron_island",
+    "region": "sinnoh",
+    "parentLocationId": "canalave_area",
+    "name": "Iron Island",
+    "description": "A disused mine on an island off Canalave City, riddled with steel and rock Pokémon.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 436,
+        "weight": 5,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 447,
+        "weight": 1,
+        "types": [
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_218",
+    "region": "sinnoh",
+    "parentLocationId": "canalave_area",
+    "name": "Sinnoh Route 218",
+    "description": "A short stretch of open sea between Jubilife and Canalave City.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 456,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 422,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 393,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_219",
+    "region": "sinnoh",
+    "parentLocationId": "canalave_area",
+    "name": "Sinnoh Route 219",
+    "description": "A windswept sea route south of Canalave City scattered with tiny islands.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 422,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 456,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_canalave_area",
+    "region": "sinnoh",
+    "parentLocationId": "canalave_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 223,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 10,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 1,
+        "types": [
+          "water",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_216",
+    "region": "sinnoh",
+    "parentLocationId": "snowpoint_area",
+    "name": "Sinnoh Route 216",
+    "description": "A snowbound mountain road climbing north toward Snowpoint City.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 396,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 238,
+        "weight": 20,
+        "types": [
+          "ice",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 220,
+        "weight": 10,
+        "types": [
+          "ice",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 361,
+        "weight": 10,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 459,
+        "weight": 1,
+        "types": [
+          "grass",
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_217",
+    "region": "sinnoh",
+    "parentLocationId": "snowpoint_area",
+    "name": "Sinnoh Route 217",
+    "description": "A blizzard-blasted road of deep snow on the final approach to Snowpoint City.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 396,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 361,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 163,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 220,
+        "weight": 10,
+        "types": [
+          "ice",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 5,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 427,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "acuity_lakefront",
+    "region": "sinnoh",
+    "parentLocationId": "snowpoint_area",
+    "name": "Acuity Lakefront",
+    "description": "The frozen shore of Lake Acuity, the northernmost of Sinnoh's three sacred lakes.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 54,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 399,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 361,
+        "weight": 5,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 420,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "snowpoint_temple",
+    "region": "sinnoh",
+    "parentLocationId": "snowpoint_area",
+    "name": "Snowpoint Temple",
+    "description": "An ancient ice-bound temple beneath Snowpoint City, its lower floors slick with frost.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 436,
+        "weight": 20,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 361,
+        "weight": 10,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 220,
+        "weight": 10,
+        "types": [
+          "ice",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 5,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 215,
+        "weight": 1,
+        "types": [
+          "dark",
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_222",
+    "region": "sinnoh",
+    "parentLocationId": "sunyshore_area",
+    "name": "Sinnoh Route 222",
+    "description": "A sunny coastal road west of Sunyshore City lined with summer cottages.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 422,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 456,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 441,
+        "weight": 1,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "victory_road",
+    "region": "sinnoh",
+    "parentLocationId": "sunyshore_area",
+    "name": "Victory Road",
+    "description": "The grueling cave gauntlet east of Sunyshore that guards the path to the Pokémon League.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 74,
+        "weight": 20,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 41,
+        "weight": 20,
+        "types": [
+          "poison",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 95,
+        "weight": 10,
+        "types": [
+          "rock",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 66,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 443,
+        "weight": 5,
+        "types": [
+          "dragon",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 299,
+        "weight": 1,
+        "types": [
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinnoh_route_223",
+    "region": "sinnoh",
+    "parentLocationId": "sunyshore_area",
+    "name": "Sinnoh Route 223",
+    "description": "A vast open sea route north of Sunyshore leading to the Pokémon League's island gate.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 72,
+        "weight": 20,
+        "types": [
+          "water",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 456,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 422,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fishing_sunyshore_area",
+    "region": "sinnoh",
+    "parentLocationId": "sunyshore_area",
+    "name": "Fishing",
+    "description": "Fishing is a recreation that is commonly seen in the Pokémon world.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 129,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 456,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 120,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 118,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 223,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 1,
+        "types": [
+          "water",
+          "flying"
+        ]
+      }
+    ]
+  }
+]

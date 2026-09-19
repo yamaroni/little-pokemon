@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "poco_path",
+    "region": "paldea",
+    "parentLocationId": "cabo_poco_area",
+    "name": "Poco Path",
+    "description": "The gentle coastal walk out of Cabo Poco, hemmed by low stone walls and sea grass.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 915,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 917,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 661,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 10,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 187,
+        "weight": 5,
+        "types": [
+          "grass",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 912,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "south_province_area_one",
+    "region": "paldea",
+    "parentLocationId": "cabo_poco_area",
+    "name": "South Province (Area One)",
+    "description": "Wide open pasture north of the cape, the first real stretch of Paldean wilderness.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 915,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 919,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 921,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 734,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 906,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "los_platos_outskirts",
+    "region": "paldea",
+    "parentLocationId": "cabo_poco_area",
+    "name": "Los Platos Outskirts",
+    "description": "Sun-warmed slopes above the village of Los Platos, thick with drowsing grass Pokemon.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 915,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 187,
+        "weight": 20,
+        "types": [
+          "grass",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 191,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 194,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 917,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 909,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "inlet_grotto",
+    "region": "paldea",
+    "parentLocationId": "cabo_poco_area",
+    "name": "Inlet Grotto",
+    "description": "A salt-worn sea cave cut into the southern cliffs, floored with damp sand.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 960,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 932,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 50,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 422,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 688,
+        "weight": 5,
+        "types": [
+          "rock",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 692,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "south_province_area_two",
+    "region": "paldea",
+    "parentLocationId": "mesagoza_area",
+    "name": "South Province (Area Two)",
+    "description": "Terraced fruit country climbing toward Mesagoza's south gate.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 761,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 915,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 840,
+        "weight": 10,
+        "types": [
+          "grass",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 280,
+        "weight": 10,
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 928,
+        "weight": 5,
+        "types": [
+          "grass",
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 924,
+        "weight": 1,
+        "types": [
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "south_province_area_four",
+    "region": "paldea",
+    "parentLocationId": "mesagoza_area",
+    "name": "South Province (Area Four)",
+    "description": "Dry red badlands east of the academy where ground Pokemon burrow under loose scree.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 953,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 449,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 749,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 968,
+        "weight": 10,
+        "types": [
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 438,
+        "weight": 5,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 744,
+        "weight": 1,
+        "types": [
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mesagoza_outskirts",
+    "region": "paldea",
+    "parentLocationId": "mesagoza_area",
+    "name": "Mesagoza Outskirts",
+    "description": "The scrubby fringe outside the city walls, worked over by scavengers and strays.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 931,
+        "weight": 20,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 942,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 944,
+        "weight": 10,
+        "types": [
+          "poison",
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 96,
+        "weight": 10,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 52,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 967,
+        "weight": 1,
+        "types": [
+          "dragon",
+          "normal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "south_province_area_three",
+    "region": "paldea",
+    "parentLocationId": "cortondo_area",
+    "name": "South Province (Area Three)",
+    "description": "Long green swells of olive grass rolling west from Mesagoza to Cortondo.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 928,
+        "weight": 20,
+        "types": [
+          "grass",
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 917,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 946,
+        "weight": 10,
+        "types": [
+          "grass",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 548,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 919,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 585,
+        "weight": 1,
+        "types": [
+          "normal",
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cortondo_olive_fields",
+    "region": "paldea",
+    "parentLocationId": "cortondo_area",
+    "name": "Cortondo Olive Fields",
+    "description": "Ordered rows of olive trees around the pressing mills, humming with pollinators.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 415,
+        "weight": 20,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 917,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 926,
+        "weight": 10,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 928,
+        "weight": 10,
+        "types": [
+          "grass",
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 919,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 742,
+        "weight": 1,
+        "types": [
+          "bug",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "south_province_area_five",
+    "region": "paldea",
+    "parentLocationId": "cortondo_area",
+    "name": "South Province (Area Five)",
+    "description": "Hot southern flatland where embers drift over cracked earth after dark.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 921,
+        "weight": 20,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 942,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 757,
+        "weight": 10,
+        "types": [
+          "poison",
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 322,
+        "weight": 10,
+        "types": [
+          "fire",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 228,
+        "weight": 5,
+        "types": [
+          "dark",
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 935,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "south_province_area_six",
+    "region": "paldea",
+    "parentLocationId": "cortondo_area",
+    "name": "South Province (Area Six)",
+    "description": "A shattered plain of salt pillars and standing rock at the region's southern rim.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 932,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 948,
+        "weight": 20,
+        "types": [
+          "ground",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 953,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 969,
+        "weight": 10,
+        "types": [
+          "rock",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 950,
+        "weight": 5,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 769,
+        "weight": 1,
+        "types": [
+          "ghost",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "east_province_area_one",
+    "region": "paldea",
+    "parentLocationId": "artazon_area",
+    "name": "East Province (Area One)",
+    "description": "Flower-scattered meadow spilling east out of Artazon's garden gates.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 548,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 702,
+        "weight": 20,
+        "types": [
+          "electric",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 280,
+        "weight": 10,
+        "types": [
+          "psychic",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 926,
+        "weight": 10,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 919,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 957,
+        "weight": 1,
+        "types": [
+          "fairy",
+          "steel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "artazon_sunflower_fields",
+    "region": "paldea",
+    "parentLocationId": "artazon_area",
+    "name": "Artazon Sunflower Fields",
+    "description": "Acres of sunflowers kept by the town, all of them turned the same way at noon.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 191,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 928,
+        "weight": 20,
+        "types": [
+          "grass",
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 415,
+        "weight": 10,
+        "types": [
+          "bug",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 985,
+        "weight": 10,
+        "types": [
+          "fairy",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 669,
+        "weight": 5,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 955,
+        "weight": 1,
+        "types": [
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tagtree_thicket",
+    "region": "paldea",
+    "parentLocationId": "artazon_area",
+    "name": "Tagtree Thicket",
+    "description": "A knot of dead-looking trees north of Artazon where tumbleweeds move on their own.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 946,
+        "weight": 20,
+        "types": [
+          "grass",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 948,
+        "weight": 20,
+        "types": [
+          "ground",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 840,
+        "weight": 10,
+        "types": [
+          "grass",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 753,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 885,
+        "weight": 5,
+        "types": [
+          "dragon",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 1012,
+        "weight": 1,
+        "types": [
+          "grass",
+          "ghost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "east_province_area_two",
+    "region": "paldea",
+    "parentLocationId": "levincia_area",
+    "name": "East Province (Area Two)",
+    "description": "Storm-lit grassland strung with transmission towers on the road to Levincia.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 940,
+        "weight": 20,
+        "types": [
+          "electric",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 921,
+        "weight": 20,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 81,
+        "weight": 10,
+        "types": [
+          "electric",
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 100,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 522,
+        "weight": 5,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 938,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "east_province_area_three",
+    "region": "paldea",
+    "parentLocationId": "levincia_area",
+    "name": "East Province (Area Three)",
+    "description": "Industrial scrubland behind the port, sour with fumes and abandoned machinery.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 944,
+        "weight": 20,
+        "types": [
+          "poison",
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 942,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 88,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 109,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 92,
+        "weight": 5,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 965,
+        "weight": 1,
+        "types": [
+          "steel",
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "levincia_beachfront",
+    "region": "paldea",
+    "parentLocationId": "levincia_area",
+    "name": "Levincia Beachfront",
+    "description": "The city's floodlit waterfront, where dolphins race the harbour ferries.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 960,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 278,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 833,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 963,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 978,
+        "weight": 5,
+        "types": [
+          "dragon",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 129,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "west_province_area_one",
+    "region": "paldea",
+    "parentLocationId": "cascarrafa_area",
+    "name": "West Province (Area One)",
+    "description": "Hard-baked western plain between the olive belt and the open desert.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 942,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 749,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 932,
+        "weight": 10,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 951,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 96,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 962,
+        "weight": 1,
+        "types": [
+          "flying",
+          "dark"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "asado_desert",
+    "region": "paldea",
+    "parentLocationId": "cascarrafa_area",
+    "name": "Asado Desert",
+    "description": "A furnace of shifting dunes and buried stone, crossed only by the old caravan line.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 843,
+        "weight": 20,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 953,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 328,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 449,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 331,
+        "weight": 5,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 551,
+        "weight": 1,
+        "types": [
+          "ground",
+          "dark"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cascarrafa_waterway",
+    "region": "paldea",
+    "parentLocationId": "cascarrafa_area",
+    "name": "Cascarrafa Waterway",
+    "description": "The aqueduct channels that keep the raised oasis city alive, cool and fish-thick.",
+    "mapSprite": "fishing",
+    "mapBackground": "assets/sprites/battle_bg/fishing.jpg",
+    "encounters": [
+      {
+        "pokemonId": 194,
+        "weight": 20,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 418,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 339,
+        "weight": 10,
+        "types": [
+          "water",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 963,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 960,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 976,
+        "weight": 1,
+        "types": [
+          "water",
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "west_province_area_two",
+    "region": "paldea",
+    "parentLocationId": "medali_area",
+    "name": "West Province (Area Two)",
+    "description": "Quiet hedgerow country south of Medali, patrolled by well-fed strays.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 926,
+        "weight": 20,
+        "types": [
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 203,
+        "weight": 20,
+        "types": [
+          "normal",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 436,
+        "weight": 10,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 778,
+        "weight": 10,
+        "types": [
+          "ghost",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 942,
+        "weight": 5,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 971,
+        "weight": 1,
+        "types": [
+          "ghost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "west_province_area_three",
+    "region": "paldea",
+    "parentLocationId": "medali_area",
+    "name": "West Province (Area Three)",
+    "description": "Cold upland pasture where the first frost of the northern range settles.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 361,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 712,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 459,
+        "weight": 10,
+        "types": [
+          "grass",
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 974,
+        "weight": 10,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 225,
+        "weight": 5,
+        "types": [
+          "ice",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 878,
+        "weight": 1,
+        "types": [
+          "steel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "casseroya_lake",
+    "region": "paldea",
+    "parentLocationId": "medali_area",
+    "name": "Casseroya Lake",
+    "description": "A vast island-studded lake in the west, deep enough to hide something enormous.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 550,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 963,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 978,
+        "weight": 10,
+        "types": [
+          "dragon",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 845,
+        "weight": 10,
+        "types": [
+          "flying",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 147,
+        "weight": 5,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 977,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "socarrat_trail",
+    "region": "paldea",
+    "parentLocationId": "medali_area",
+    "name": "Socarrat Trail",
+    "description": "A blackened volcanic shelf above Medali, too hot to cross without care.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 951,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 324,
+        "weight": 20,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 757,
+        "weight": 10,
+        "types": [
+          "poison",
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 240,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 636,
+        "weight": 5,
+        "types": [
+          "bug",
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 994,
+        "weight": 1,
+        "types": [
+          "fire",
+          "poison"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "north_province_area_one",
+    "region": "paldea",
+    "parentLocationId": "montenevera_area",
+    "name": "North Province (Area One)",
+    "description": "Fog-bound moorland around Montenevera's graveyard, where the dead are kept company.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 946,
+        "weight": 20,
+        "types": [
+          "grass",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 200,
+        "weight": 20,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 355,
+        "weight": 10,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 92,
+        "weight": 10,
+        "types": [
+          "ghost",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 854,
+        "weight": 5,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 999,
+        "weight": 1,
+        "types": [
+          "ghost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "north_province_area_two",
+    "region": "paldea",
+    "parentLocationId": "montenevera_area",
+    "name": "North Province (Area Two)",
+    "description": "Stony training ground in the northern foothills, loud with sparring Pokemon.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 296,
+        "weight": 20,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 56,
+        "weight": 20,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 447,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 766,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 714,
+        "weight": 5,
+        "types": [
+          "flying",
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 973,
+        "weight": 1,
+        "types": [
+          "flying",
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "north_province_area_three",
+    "region": "paldea",
+    "parentLocationId": "montenevera_area",
+    "name": "North Province (Area Three)",
+    "description": "The windward slope of the northern range, half-buried in dry powder snow.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 974,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 712,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 459,
+        "weight": 10,
+        "types": [
+          "grass",
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 613,
+        "weight": 10,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 615,
+        "weight": 5,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 996,
+        "weight": 1,
+        "types": [
+          "dragon",
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glaseado_mountain",
+    "region": "paldea",
+    "parentLocationId": "montenevera_area",
+    "name": "Glaseado Mountain",
+    "description": "Paldea's frozen roof, a ski slope on one face and a whiteout on the other.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 582,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 446,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 225,
+        "weight": 10,
+        "types": [
+          "ice",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 615,
+        "weight": 10,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 969,
+        "weight": 5,
+        "types": [
+          "rock",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 872,
+        "weight": 1,
+        "types": [
+          "ice",
+          "bug"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zapapico_crags",
+    "region": "paldea",
+    "parentLocationId": "montenevera_area",
+    "name": "Zapapico Crags",
+    "description": "Old mining cuts above Zapapico, salt-crusted and stacked with coin-shaped rubble.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 932,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 436,
+        "weight": 20,
+        "types": [
+          "steel",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 969,
+        "weight": 10,
+        "types": [
+          "rock",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 968,
+        "weight": 10,
+        "types": [
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 302,
+        "weight": 5,
+        "types": [
+          "dark",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 995,
+        "weight": 1,
+        "types": [
+          "rock",
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "great_crater_entrance",
+    "region": "paldea",
+    "parentLocationId": "area_zero",
+    "name": "Great Crater Entrance",
+    "description": "The lip of the sealed crater, where the air already smells of another era.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 984,
+        "weight": 20,
+        "types": [
+          "ground",
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 986,
+        "weight": 20,
+        "types": [
+          "grass",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 988,
+        "weight": 10,
+        "types": [
+          "bug",
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 990,
+        "weight": 10,
+        "types": [
+          "ground",
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 992,
+        "weight": 5,
+        "types": [
+          "fighting",
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 1005,
+        "weight": 1,
+        "types": [
+          "dragon",
+          "dark"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "research_station_depths",
+    "region": "paldea",
+    "parentLocationId": "area_zero",
+    "name": "Research Station Depths",
+    "description": "Abandoned research levels far below the crater floor, still humming with power.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 985,
+        "weight": 20,
+        "types": [
+          "fairy",
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 987,
+        "weight": 20,
+        "types": [
+          "ghost",
+          "fairy"
+        ]
+      },
+      {
+        "pokemonId": 989,
+        "weight": 10,
+        "types": [
+          "electric",
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 991,
+        "weight": 10,
+        "types": [
+          "ice",
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 993,
+        "weight": 5,
+        "types": [
+          "dark",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 1006,
+        "weight": 1,
+        "types": [
+          "fairy",
+          "fighting"
+        ]
+      }
+    ]
+  }
+]

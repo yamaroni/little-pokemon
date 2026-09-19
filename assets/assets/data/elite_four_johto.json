@@ -1,0 +1,647 @@
+[
+  {
+    "locationId": "johto_elite_will",
+    "locationName": "Indigo Plateau \u2014 Will",
+    "isChampion": false,
+    "leader": {
+      "name": "Will",
+      "title": "Elite Four \u2014 Psychic",
+      "imageUrl": "assets/sprites/trainers/avatar/will.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 178,
+          "name": "Xatu",
+          "ability": "magic-bounce",
+          "nature": "timid",
+          "moves": [
+            "psychic",
+            "air-slash",
+            "heat-wave",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 124,
+          "name": "Jynx",
+          "ability": "dry-skin",
+          "nature": "timid",
+          "moves": [
+            "psychic",
+            "ice-beam",
+            "lovely-kiss",
+            "nasty-plot"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 122,
+          "name": "Mr. Mime",
+          "ability": "filter",
+          "nature": "timid",
+          "moves": [
+            "psychic",
+            "dazzling-gleam",
+            "focus-blast",
+            "nasty-plot"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 199,
+          "name": "Slowking",
+          "ability": "regenerator",
+          "nature": "calm",
+          "moves": [
+            "scald",
+            "psychic",
+            "ice-beam",
+            "slack-off"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 579,
+          "name": "Reuniclus",
+          "ability": "magic-guard",
+          "nature": "modest",
+          "moves": [
+            "psychic",
+            "shadow-ball",
+            "focus-blast",
+            "calm-mind"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 65,
+          "name": "Alakazam",
+          "ability": "magic-guard",
+          "nature": "timid",
+          "moves": [
+            "psychic",
+            "focus-blast",
+            "shadow-ball",
+            "nasty-plot"
+          ],
+          "held_item": "alakazite",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My mind and my Pok\u00e9mon are flawless!",
+        "I have trained all over the world\u2014you cannot win."
+      ],
+      "lose_messages": [
+        "I... I still have training to do. Well done.",
+        "Even a perfect mind can be surpassed. Go on."
+      ]
+    }
+  },
+  {
+    "locationId": "johto_elite_koga",
+    "locationName": "Indigo Plateau \u2014 Koga",
+    "isChampion": false,
+    "leader": {
+      "name": "Koga",
+      "title": "Elite Four \u2014 Poison",
+      "imageUrl": "assets/sprites/trainers/avatar/koga.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 169,
+          "name": "Crobat",
+          "ability": "infiltrator",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "cross-poison",
+            "u-turn",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 49,
+          "name": "Venomoth",
+          "ability": "tinted-lens",
+          "nature": "timid",
+          "moves": [
+            "bug-buzz",
+            "sludge-bomb",
+            "quiver-dance",
+            "sleep-powder"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 89,
+          "name": "Muk",
+          "ability": "poison-touch",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "shadow-sneak",
+            "ice-punch",
+            "fire-punch"
+          ],
+          "held_item": "black-sludge",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 73,
+          "name": "Tentacruel",
+          "ability": "liquid-ooze",
+          "nature": "timid",
+          "moves": [
+            "scald",
+            "sludge-bomb",
+            "ice-beam",
+            "rapid-spin"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 454,
+          "name": "Toxicroak",
+          "ability": "dry-skin",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "drain-punch",
+            "sucker-punch",
+            "swords-dance"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 34,
+          "name": "Nidoking",
+          "ability": "sheer-force",
+          "nature": "modest",
+          "moves": [
+            "earth-power",
+            "sludge-wave",
+            "ice-beam",
+            "thunderbolt"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "A poison seeps into every corner of victory!",
+        "You fell into my ninja trap!"
+      ],
+      "lose_messages": [
+        "Humph! You have proven your worth. Proceed.",
+        "My poison could not stop you. Impressive."
+      ]
+    }
+  },
+  {
+    "locationId": "johto_elite_bruno",
+    "locationName": "Indigo Plateau \u2014 Bruno",
+    "isChampion": false,
+    "leader": {
+      "name": "Bruno",
+      "title": "Elite Four \u2014 Fighting",
+      "imageUrl": "assets/sprites/trainers/avatar/bruno.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 68,
+          "name": "Machamp",
+          "ability": "no-guard",
+          "nature": "adamant",
+          "moves": [
+            "dynamic-punch",
+            "stone-edge",
+            "ice-punch",
+            "earthquake"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 95,
+          "name": "Onix",
+          "ability": "sturdy",
+          "nature": "impish",
+          "moves": [
+            "earthquake",
+            "stone-edge",
+            "stealth-rock",
+            "dragon-tail"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 107,
+          "name": "Hitmonchan",
+          "ability": "iron-fist",
+          "nature": "adamant",
+          "moves": [
+            "drain-punch",
+            "ice-punch",
+            "thunder-punch",
+            "mach-punch"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 106,
+          "name": "Hitmonlee",
+          "ability": "reckless",
+          "nature": "adamant",
+          "moves": [
+            "high-jump-kick",
+            "blaze-kick",
+            "earthquake",
+            "stone-edge"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 297,
+          "name": "Hariyama",
+          "ability": "thick-fat",
+          "nature": "adamant",
+          "moves": [
+            "close-combat",
+            "knock-off",
+            "bullet-punch",
+            "earthquake"
+          ],
+          "held_item": "assault-vest",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 534,
+          "name": "Conkeldurr",
+          "ability": "guts",
+          "nature": "adamant",
+          "moves": [
+            "drain-punch",
+            "mach-punch",
+            "knock-off",
+            "ice-punch"
+          ],
+          "held_item": "flame-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "My Fighting-types pummeled you into dust!",
+        "Strength is everything\u2014and you lack it!"
+      ],
+      "lose_messages": [
+        "Hmph! You've grown far stronger than I.",
+        "A true warrior. Continue to the next hall."
+      ]
+    }
+  },
+  {
+    "locationId": "johto_elite_karen",
+    "locationName": "Indigo Plateau \u2014 Karen",
+    "isChampion": false,
+    "leader": {
+      "name": "Karen",
+      "title": "Elite Four \u2014 Dark",
+      "imageUrl": "assets/sprites/trainers/avatar/karen.png",
+      "prizeMoney": 8000,
+      "team": [
+        {
+          "id": 197,
+          "name": "Umbreon",
+          "ability": "synchronize",
+          "nature": "calm",
+          "moves": [
+            "foul-play",
+            "toxic",
+            "wish",
+            "protect"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 4,
+            "special_defense": 252
+          }
+        },
+        {
+          "id": 229,
+          "name": "Houndoom",
+          "ability": "flash-fire",
+          "nature": "timid",
+          "moves": [
+            "dark-pulse",
+            "fire-blast",
+            "sludge-bomb",
+            "nasty-plot"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 198,
+          "name": "Murkrow",
+          "ability": "prankster",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "sucker-punch",
+            "thunder-wave",
+            "roost"
+          ],
+          "held_item": "eviolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 461,
+          "name": "Weavile",
+          "ability": "pressure",
+          "nature": "jolly",
+          "moves": [
+            "knock-off",
+            "icicle-crash",
+            "ice-shard",
+            "swords-dance"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 248,
+          "name": "Tyranitar",
+          "ability": "sand-stream",
+          "nature": "adamant",
+          "moves": [
+            "stone-edge",
+            "crunch",
+            "earthquake",
+            "ice-punch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 359,
+          "name": "Absol",
+          "ability": "super-luck",
+          "nature": "adamant",
+          "moves": [
+            "sucker-punch",
+            "play-rough",
+            "knock-off",
+            "swords-dance"
+          ],
+          "held_item": "absolite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "Strong Pok\u00e9mon, weak Pok\u00e9mon\u2014only skill wins.",
+        "You battled without heart. That's why you lost."
+      ],
+      "lose_messages": [
+        "A trainer wins with the Pok\u00e9mon they love. Well said by your battle.",
+        "You are strong. I look forward to what you become."
+      ]
+    }
+  },
+  {
+    "locationId": "johto_champion_lance",
+    "locationName": "Indigo Plateau \u2014 Champion Lance",
+    "isChampion": true,
+    "leader": {
+      "name": "Lance",
+      "title": "Champion",
+      "imageUrl": "assets/sprites/trainers/avatar/lance.png",
+      "prizeMoney": 10000,
+      "team": [
+        {
+          "id": 149,
+          "name": "Dragonite",
+          "ability": "multiscale",
+          "nature": "adamant",
+          "moves": [
+            "dragon-dance",
+            "outrage",
+            "earthquake",
+            "extreme-speed"
+          ],
+          "held_item": "haban-berry",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 130,
+          "name": "Gyarados",
+          "ability": "intimidate",
+          "nature": "jolly",
+          "moves": [
+            "dragon-dance",
+            "waterfall",
+            "earthquake",
+            "ice-fang"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 230,
+          "name": "Kingdra",
+          "ability": "swift-swim",
+          "nature": "modest",
+          "moves": [
+            "draco-meteor",
+            "hydro-pump",
+            "ice-beam",
+            "flip-turn"
+          ],
+          "held_item": "choice-specs",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 6,
+          "name": "Charizard",
+          "ability": "blaze",
+          "nature": "timid",
+          "moves": [
+            "flamethrower",
+            "air-slash",
+            "dragon-pulse",
+            "roost"
+          ],
+          "held_item": "heavy-duty-boots",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 142,
+          "name": "Aerodactyl",
+          "ability": "rock-head",
+          "nature": "jolly",
+          "moves": [
+            "stone-edge",
+            "earthquake",
+            "crunch",
+            "dual-wingbeat"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 373,
+          "name": "Salamence",
+          "ability": "moxie",
+          "nature": "jolly",
+          "moves": [
+            "dragon-dance",
+            "dragon-claw",
+            "earthquake",
+            "fire-fang"
+          ],
+          "held_item": "salamencite",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        }
+      ],
+      "win_messages": [
+        "I am the Champion! My dragons are invincible!",
+        "You lack the power to claim this title!"
+      ],
+      "lose_messages": [
+        "I never dreamed I'd be beaten like this...",
+        "You are a magnificent Champion. The title is yours."
+      ]
+    }
+  }
+]

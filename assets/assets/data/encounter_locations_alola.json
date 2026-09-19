@@ -1,0 +1,38 @@
+[
+  {
+    "id": "melemele_area",
+    "region": "alola",
+    "name": "Melemele Island",
+    "description": "The sun-drenched first island of the Alola region, home to Iki Town, the bustling streets of Hau'oli City, and the flower-filled Melemele Meadow.",
+    "mapSprite": "assets/maps/alola.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "akala_area",
+    "region": "alola",
+    "name": "Akala Island",
+    "description": "The lush middle island, spanning the Paniola ranch lands, the flowing pools of Brooklet Hill, the smoking Wela Volcano, and the humid Lush Jungle.",
+    "mapSprite": "assets/maps/alola.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "ulaula_area",
+    "region": "alola",
+    "name": "Ula'ula Island",
+    "description": "The largest island, from the arid Haina Desert and the stargazing slopes of Mount Hokulani to quiet Tapu Village and Malie Garden.",
+    "mapSprite": "assets/maps/alola.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "poni_area",
+    "region": "alola",
+    "name": "Poni Island",
+    "description": "The wild, sparsely settled final island, home to the untamed Poni Wilds, the towering Vast Poni Canyon, and the windswept Poni Meadow.",
+    "mapSprite": "assets/maps/alola.png",
+    "mapBackground": "",
+    "encounters": []
+  }
+]

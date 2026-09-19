@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pallet_area",
+    "region": "kanto",
+    "name": "Pallet Area",
+    "description": "The southern tip of Kanto surrounding Pallet Town.",
+    "mapSprite": "assets/maps/kanto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "cerulean_area",
+    "region": "kanto",
+    "name": "Cerulean Area",
+    "description": "Northern routes connecting Mt. Moon to Cerulean City.",
+    "mapSprite": "assets/maps/kanto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "saffron_corridor",
+    "region": "kanto",
+    "name": "Saffron Corridor",
+    "description": "Central routes linking Saffron City to Celadon and Vermilion.",
+    "mapSprite": "assets/maps/kanto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "lavender_east",
+    "region": "kanto",
+    "name": "Lavender East",
+    "description": "Routes east of Saffron City winding toward Lavender Town.",
+    "mapSprite": "assets/maps/kanto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "fuchsia_south",
+    "region": "kanto",
+    "name": "Fuchsia South",
+    "description": "Southern routes around Fuchsia City and the Cycling Road.",
+    "mapSprite": "assets/maps/kanto.png",
+    "mapBackground": "",
+    "encounters": []
+  },
+  {
+    "id": "victory_road",
+    "region": "kanto",
+    "name": "Victory Road",
+    "description": "The final stretch north of Viridian City leading to the Pokémon League.",
+    "mapSprite": "assets/maps/kanto.png",
+    "mapBackground": "",
+    "encounters": []
+  }
+]

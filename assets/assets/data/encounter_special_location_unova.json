@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "unova_route_1",
+    "region": "unova",
+    "parentLocationId": "nuvema_area",
+    "name": "Unova Route 1",
+    "description": "A gentle grassy path north of Nuvema Town where beginning trainers meet their first wild Pokémon.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 504,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 506,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 509,
+        "weight": 10,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 519,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 517,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 495,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unova_route_2",
+    "region": "unova",
+    "parentLocationId": "nuvema_area",
+    "name": "Unova Route 2",
+    "description": "A short road running north from Accumula Town toward Striaton City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 504,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 506,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 509,
+        "weight": 10,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 519,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 531,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 498,
+        "weight": 1,
+        "types": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dreamyard",
+    "region": "unova",
+    "parentLocationId": "nuvema_area",
+    "name": "Dreamyard",
+    "description": "The overgrown ruins behind Striaton City where dozing Munna gather among the rubble.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 517,
+        "weight": 20,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 504,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 513,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 515,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 509,
+        "weight": 5,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 511,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unova_route_3",
+    "region": "unova",
+    "parentLocationId": "nuvema_area",
+    "name": "Unova Route 3",
+    "description": "A breezy route winding west of Striaton toward the Wellspring Cave and Nacrene.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 509,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 572,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 519,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 585,
+        "weight": 10,
+        "types": [
+          "normal",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 531,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 522,
+        "weight": 1,
+        "types": [
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pinwheel_forest",
+    "region": "unova",
+    "parentLocationId": "nacrene_area",
+    "name": "Pinwheel Forest",
+    "description": "A vast, humid woodland teeming with bug Pokémon and the fighting types that train beneath its canopy.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 540,
+        "weight": 20,
+        "types": [
+          "bug",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 543,
+        "weight": 20,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 532,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 548,
+        "weight": 10,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 539,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 538,
+        "weight": 1,
+        "types": [
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wellspring_cave",
+    "region": "unova",
+    "parentLocationId": "nacrene_area",
+    "name": "Wellspring Cave",
+    "description": "A damp, echoing cavern where Woobat cling to the ceiling and Roggenrola lurk in the dark.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 527,
+        "weight": 20,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 524,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 529,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 562,
+        "weight": 10,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 532,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 501,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unova_route_4",
+    "region": "unova",
+    "parentLocationId": "castelia_area",
+    "name": "Unova Route 4",
+    "description": "A sand-blown avenue on the edge of Castelia's desert, cut by half-built construction lots.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 551,
+        "weight": 20,
+        "types": [
+          "ground",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 554,
+        "weight": 20,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 568,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 557,
+        "weight": 10,
+        "types": [
+          "bug",
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 524,
+        "weight": 5,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 559,
+        "weight": 1,
+        "types": [
+          "dark",
+          "fighting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "desert_resort",
+    "region": "unova",
+    "parentLocationId": "castelia_area",
+    "name": "Desert Resort",
+    "description": "A sun-scorched expanse of shifting dunes ringing the ancient Relic Castle.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 551,
+        "weight": 20,
+        "types": [
+          "ground",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 554,
+        "weight": 20,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 527,
+        "weight": 10,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 529,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 557,
+        "weight": 5,
+        "types": [
+          "bug",
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 556,
+        "weight": 1,
+        "types": [
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "relic_castle",
+    "region": "unova",
+    "parentLocationId": "castelia_area",
+    "name": "Relic Castle",
+    "description": "A crumbling castle sunken beneath the Desert Resort's sands, haunted by the guardians of an ancient civilisation.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 562,
+        "weight": 20,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 557,
+        "weight": 20,
+        "types": [
+          "bug",
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 529,
+        "weight": 10,
+        "types": [
+          "ground"
+        ]
+      },
+      {
+        "pokemonId": 622,
+        "weight": 10,
+        "types": [
+          "ground",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 636,
+        "weight": 5,
+        "types": [
+          "bug",
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 566,
+        "weight": 1,
+        "types": [
+          "rock",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unova_route_5",
+    "region": "unova",
+    "parentLocationId": "nimbasa_area",
+    "name": "Unova Route 5",
+    "description": "A lively road of street performers linking Castelia to the Nimbasa fairgrounds.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 509,
+        "weight": 20,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 572,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 568,
+        "weight": 10,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 577,
+        "weight": 10,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 531,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 574,
+        "weight": 1,
+        "types": [
+          "psychic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "driftveil_drawbridge",
+    "region": "unova",
+    "parentLocationId": "nimbasa_area",
+    "name": "Driftveil Drawbridge",
+    "description": "A great red drawbridge over the bay where sea birds wheel on the wind above the water.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 580,
+        "weight": 20,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 592,
+        "weight": 20,
+        "types": [
+          "water",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 515,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 535,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 618,
+        "weight": 5,
+        "types": [
+          "ground",
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 550,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lostlorn_forest",
+    "region": "unova",
+    "parentLocationId": "nimbasa_area",
+    "name": "Lostlorn Forest",
+    "description": "A hushed woodland at the end of Route 16 where illusions play tricks on wandering trainers.",
+    "mapSprite": "forest",
+    "mapBackground": "assets/sprites/battle_bg/forest.jpg",
+    "encounters": [
+      {
+        "pokemonId": 636,
+        "weight": 20,
+        "types": [
+          "bug",
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 540,
+        "weight": 20,
+        "types": [
+          "bug",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 590,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 543,
+        "weight": 10,
+        "types": [
+          "bug",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 513,
+        "weight": 5,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 570,
+        "weight": 1,
+        "types": [
+          "dark"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unova_route_6",
+    "region": "unova",
+    "parentLocationId": "driftveil_area",
+    "name": "Unova Route 6",
+    "description": "A riverside meadow of tall grass leading up toward the glittering Chargestone Cave.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 585,
+        "weight": 20,
+        "types": [
+          "normal",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 535,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 588,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 616,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 590,
+        "weight": 5,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 587,
+        "weight": 1,
+        "types": [
+          "electric",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chargestone_cave",
+    "region": "unova",
+    "parentLocationId": "driftveil_area",
+    "name": "Chargestone Cave",
+    "description": "A crystalline cavern crackling with static, its floating stones humming with electricity.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 540,
+        "weight": 20,
+        "types": [
+          "bug",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 599,
+        "weight": 20,
+        "types": [
+          "steel"
+        ]
+      },
+      {
+        "pokemonId": 524,
+        "weight": 10,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 602,
+        "weight": 10,
+        "types": [
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 605,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 597,
+        "weight": 1,
+        "types": [
+          "grass",
+          "steel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cold_storage",
+    "region": "unova",
+    "parentLocationId": "driftveil_area",
+    "name": "Cold Storage",
+    "description": "A frozen warehouse district on Driftveil's outskirts where ice Pokémon huddle among the containers.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 613,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 504,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 506,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 531,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 509,
+        "weight": 5,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 582,
+        "weight": 1,
+        "types": [
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seaside_cave",
+    "region": "unova",
+    "parentLocationId": "driftveil_area",
+    "name": "Seaside Cave",
+    "description": "A tide-carved cavern east of Driftveil whose flooded tunnels crackle with eel Pokémon.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 527,
+        "weight": 20,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 524,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 592,
+        "weight": 10,
+        "types": [
+          "water",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 580,
+        "weight": 10,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 532,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 561,
+        "weight": 1,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unova_route_7",
+    "region": "unova",
+    "parentLocationId": "mistralton_area",
+    "name": "Unova Route 7",
+    "description": "A high grassy road across the plateau leading to Mistralton City and Celestial Tower.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 585,
+        "weight": 20,
+        "types": [
+          "normal",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 572,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 519,
+        "weight": 10,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 590,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 540,
+        "weight": 5,
+        "types": [
+          "bug",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 627,
+        "weight": 1,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "celestial_tower",
+    "region": "unova",
+    "parentLocationId": "mistralton_area",
+    "name": "Celestial Tower",
+    "description": "A solemn bell tower where the spirits of departed Pokémon are laid to rest.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 605,
+        "weight": 20,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 562,
+        "weight": 20,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 622,
+        "weight": 10,
+        "types": [
+          "ground",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 527,
+        "weight": 10,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 517,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 607,
+        "weight": 1,
+        "types": [
+          "ghost",
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "twist_mountain",
+    "region": "unova",
+    "parentLocationId": "mistralton_area",
+    "name": "Twist Mountain",
+    "description": "A labyrinthine mountain of tunnels and ledges, bitterly cold in the deeper seasons.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 524,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 557,
+        "weight": 20,
+        "types": [
+          "bug",
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 631,
+        "weight": 10,
+        "types": [
+          "fire"
+        ]
+      },
+      {
+        "pokemonId": 527,
+        "weight": 10,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 613,
+        "weight": 5,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 632,
+        "weight": 1,
+        "types": [
+          "bug",
+          "steel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unova_route_8",
+    "region": "unova",
+    "parentLocationId": "icirrus_area",
+    "name": "Unova Route 8",
+    "description": "A boardwalk winding through the marshland south of Icirrus City.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 535,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 588,
+        "weight": 20,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 616,
+        "weight": 10,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 590,
+        "weight": 10,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 504,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 595,
+        "weight": 1,
+        "types": [
+          "bug",
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "moor_of_icirrus",
+    "region": "unova",
+    "parentLocationId": "icirrus_area",
+    "name": "Moor of Icirrus",
+    "description": "A misty wetland of reeds and shallow pools that floods when the rains come.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 535,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 618,
+        "weight": 20,
+        "types": [
+          "ground",
+          "electric"
+        ]
+      },
+      {
+        "pokemonId": 580,
+        "weight": 10,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 592,
+        "weight": 10,
+        "types": [
+          "water",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 616,
+        "weight": 5,
+        "types": [
+          "bug"
+        ]
+      },
+      {
+        "pokemonId": 594,
+        "weight": 1,
+        "types": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dragonspiral_tower",
+    "region": "unova",
+    "parentLocationId": "icirrus_area",
+    "name": "Dragonspiral Tower",
+    "description": "The oldest structure in Unova, a spiralling ruin said to hold the legend of the dragons.",
+    "mapSprite": "indoor",
+    "mapBackground": "assets/sprites/battle_bg/indoor.jpg",
+    "encounters": [
+      {
+        "pokemonId": 622,
+        "weight": 20,
+        "types": [
+          "ground",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 619,
+        "weight": 20,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 562,
+        "weight": 10,
+        "types": [
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 621,
+        "weight": 10,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 605,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 610,
+        "weight": 1,
+        "types": [
+          "dragon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unova_route_9",
+    "region": "unova",
+    "parentLocationId": "opelucid_area",
+    "name": "Unova Route 9",
+    "description": "A cluttered shopping road east of the moor, littered with refuse where scavengers prowl.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 572,
+        "weight": 20,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 568,
+        "weight": 20,
+        "types": [
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 504,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 577,
+        "weight": 10,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 531,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 624,
+        "weight": 1,
+        "types": [
+          "dark",
+          "steel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unova_route_10",
+    "region": "unova",
+    "parentLocationId": "opelucid_area",
+    "name": "Unova Route 10",
+    "description": "The final road before the Pokémon League, sweeping down from Opelucid toward Victory Road.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 585,
+        "weight": 20,
+        "types": [
+          "normal",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 551,
+        "weight": 20,
+        "types": [
+          "ground",
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 619,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 509,
+        "weight": 10,
+        "types": [
+          "dark"
+        ]
+      },
+      {
+        "pokemonId": 519,
+        "weight": 5,
+        "types": [
+          "normal",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 629,
+        "weight": 1,
+        "types": [
+          "dark",
+          "flying"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "undella_bay",
+    "region": "unova",
+    "parentLocationId": "opelucid_area",
+    "name": "Undella Bay",
+    "description": "A resort bay of clear blue water on Unova's eastern shore, alive with drifting sea Pokémon.",
+    "mapSprite": "sea",
+    "mapBackground": "assets/sprites/battle_bg/sea.jpg",
+    "encounters": [
+      {
+        "pokemonId": 592,
+        "weight": 20,
+        "types": [
+          "water",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 594,
+        "weight": 20,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 580,
+        "weight": 10,
+        "types": [
+          "water",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 515,
+        "weight": 10,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 535,
+        "weight": 5,
+        "types": [
+          "water"
+        ]
+      },
+      {
+        "pokemonId": 564,
+        "weight": 1,
+        "types": [
+          "water",
+          "rock"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "abundant_shrine",
+    "region": "unova",
+    "parentLocationId": "opelucid_area",
+    "name": "Abundant Shrine",
+    "description": "A remote mountain shrine surrounded by flowering meadows where rare grass Pokémon gather.",
+    "mapSprite": "grass",
+    "mapBackground": "assets/sprites/battle_bg/grass.jpg",
+    "encounters": [
+      {
+        "pokemonId": 548,
+        "weight": 20,
+        "types": [
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 590,
+        "weight": 20,
+        "types": [
+          "grass",
+          "poison"
+        ]
+      },
+      {
+        "pokemonId": 626,
+        "weight": 10,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 585,
+        "weight": 10,
+        "types": [
+          "normal",
+          "grass"
+        ]
+      },
+      {
+        "pokemonId": 572,
+        "weight": 5,
+        "types": [
+          "normal"
+        ]
+      },
+      {
+        "pokemonId": 546,
+        "weight": 1,
+        "types": [
+          "grass",
+          "fairy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "giant_chasm",
+    "region": "unova",
+    "parentLocationId": "opelucid_area",
+    "name": "Giant Chasm",
+    "description": "A vast frozen crater deep in northeastern Unova, its icy floor home to strange and powerful Pokémon.",
+    "mapSprite": "cave",
+    "mapBackground": "assets/sprites/battle_bg/cave.jpg",
+    "encounters": [
+      {
+        "pokemonId": 613,
+        "weight": 20,
+        "types": [
+          "ice"
+        ]
+      },
+      {
+        "pokemonId": 577,
+        "weight": 20,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 605,
+        "weight": 10,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 527,
+        "weight": 10,
+        "types": [
+          "psychic",
+          "flying"
+        ]
+      },
+      {
+        "pokemonId": 517,
+        "weight": 5,
+        "types": [
+          "psychic"
+        ]
+      },
+      {
+        "pokemonId": 615,
+        "weight": 1,
+        "types": [
+          "ice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "victory_road_unova",
+    "region": "unova",
+    "parentLocationId": "opelucid_area",
+    "name": "Victory Road",
+    "description": "A treacherous mountain gauntlet of caves and cliffs that only the strongest trainers survive.",
+    "mapSprite": "mountain",
+    "mapBackground": "assets/sprites/battle_bg/mountain.jpg",
+    "encounters": [
+      {
+        "pokemonId": 621,
+        "weight": 20,
+        "types": [
+          "dragon"
+        ]
+      },
+      {
+        "pokemonId": 524,
+        "weight": 20,
+        "types": [
+          "rock"
+        ]
+      },
+      {
+        "pokemonId": 622,
+        "weight": 10,
+        "types": [
+          "ground",
+          "ghost"
+        ]
+      },
+      {
+        "pokemonId": 532,
+        "weight": 10,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 619,
+        "weight": 5,
+        "types": [
+          "fighting"
+        ]
+      },
+      {
+        "pokemonId": 633,
+        "weight": 1,
+        "types": [
+          "dark",
+          "dragon"
+        ]
+      }
+    ]
+  }
+]

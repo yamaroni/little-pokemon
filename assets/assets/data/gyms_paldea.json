@@ -1,0 +1,2298 @@
+[
+  {
+    "locationId": "cortondo_gym",
+    "locationName": "Cortondo Gym",
+    "badge": {
+      "name": "Bug Badge",
+      "imageUrl": "assets/sprites/badges/paldea/bug.png"
+    },
+    "leader": {
+      "name": "Katy",
+      "title": "Bug-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/katy.png",
+      "prizeMoney": 3200,
+      "team": [
+        {
+          "id": 918,
+          "name": "Spidops",
+          "ability": "insomnia",
+          "nature": "adamant",
+          "moves": [
+            "skitter-smack",
+            "throat-chop",
+            "brick-break",
+            "sticky-web"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 920,
+          "name": "Lokix",
+          "ability": "tinted-lens",
+          "nature": "jolly",
+          "moves": [
+            "leech-life",
+            "throat-chop",
+            "brick-break",
+            "u-turn"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 168,
+          "name": "Ariados",
+          "ability": "insomnia",
+          "nature": "adamant",
+          "moves": [
+            "megahorn",
+            "poison-jab",
+            "leech-life",
+            "toxic-spikes"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 954,
+          "name": "Rabsca",
+          "ability": "synchronize",
+          "nature": "modest",
+          "moves": [
+            "bug-buzz",
+            "psychic",
+            "shadow-ball",
+            "energy-ball"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 416,
+          "name": "Vespiquen",
+          "ability": "pressure",
+          "nature": "bold",
+          "moves": [
+            "bug-buzz",
+            "air-slash",
+            "roost",
+            "toxic"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "special_attack": 4
+          }
+        },
+        {
+          "id": 214,
+          "name": "Heracross",
+          "ability": "guts",
+          "nature": "adamant",
+          "moves": [
+            "megahorn",
+            "close-combat",
+            "knock-off",
+            "rock-slide"
+          ],
+          "held_item": "flame-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "bug"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "artazon_gym",
+    "locationName": "Artazon Gym",
+    "badge": {
+      "name": "Grass Badge",
+      "imageUrl": "assets/sprites/badges/paldea/grass.png"
+    },
+    "leader": {
+      "name": "Brassius",
+      "title": "Grass-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/brassius.png",
+      "prizeMoney": 3600,
+      "team": [
+        {
+          "id": 930,
+          "name": "Arboliva",
+          "ability": "seed-sower",
+          "nature": "modest",
+          "moves": [
+            "energy-ball",
+            "earth-power",
+            "hyper-voice",
+            "giga-drain"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 763,
+          "name": "Tsareena",
+          "ability": "queenly-majesty",
+          "nature": "jolly",
+          "moves": [
+            "power-whip",
+            "play-rough",
+            "triple-axel",
+            "low-kick"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 952,
+          "name": "Scovillain",
+          "ability": "chlorophyll",
+          "nature": "naive",
+          "moves": [
+            "flamethrower",
+            "energy-ball",
+            "earth-power",
+            "seed-bomb"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 947,
+          "name": "Brambleghast",
+          "ability": "wind-rider",
+          "nature": "adamant",
+          "moves": [
+            "power-whip",
+            "shadow-claw",
+            "rock-slide",
+            "rapid-spin"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 949,
+          "name": "Toedscruel",
+          "ability": "mycelium-might",
+          "nature": "timid",
+          "moves": [
+            "energy-ball",
+            "earth-power",
+            "sludge-bomb",
+            "giga-drain"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "speed": 4
+          }
+        },
+        {
+          "id": 908,
+          "name": "Meowscarada",
+          "ability": "protean",
+          "nature": "jolly",
+          "moves": [
+            "flower-trick",
+            "knock-off",
+            "play-rough",
+            "u-turn"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "grass"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "levincia_gym",
+    "locationName": "Levincia Gym",
+    "badge": {
+      "name": "Electric Badge",
+      "imageUrl": "assets/sprites/badges/paldea/electric.png"
+    },
+    "leader": {
+      "name": "Iono",
+      "title": "Electric-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/iono.png",
+      "prizeMoney": 4200,
+      "team": [
+        {
+          "id": 939,
+          "name": "Bellibolt",
+          "ability": "static",
+          "nature": "modest",
+          "moves": [
+            "thunderbolt",
+            "muddy-water",
+            "volt-switch",
+            "slack-off"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 941,
+          "name": "Kilowattrel",
+          "ability": "volt-absorb",
+          "nature": "timid",
+          "moves": [
+            "thunderbolt",
+            "hurricane",
+            "u-turn",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 405,
+          "name": "Luxray",
+          "ability": "intimidate",
+          "nature": "adamant",
+          "moves": [
+            "wild-charge",
+            "crunch",
+            "ice-fang",
+            "play-rough"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 923,
+          "name": "Pawmot",
+          "ability": "volt-absorb",
+          "nature": "jolly",
+          "moves": [
+            "wild-charge",
+            "close-combat",
+            "ice-punch",
+            "iron-head"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 479,
+          "name": "Rotom",
+          "ability": "levitate",
+          "nature": "timid",
+          "moves": [
+            "thunderbolt",
+            "shadow-ball",
+            "volt-switch",
+            "thunder-wave"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 849,
+          "name": "Toxtricity",
+          "ability": "punk-rock",
+          "nature": "modest",
+          "moves": [
+            "overdrive",
+            "boomburst",
+            "sludge-wave",
+            "volt-switch"
+          ],
+          "held_item": "choice-specs",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "electric"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "cascarrafa_gym",
+    "locationName": "Cascarrafa Gym",
+    "badge": {
+      "name": "Water Badge",
+      "imageUrl": "assets/sprites/badges/paldea/water.png"
+    },
+    "leader": {
+      "name": "Kofu",
+      "title": "Water-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/kofu.png",
+      "prizeMoney": 4600,
+      "team": [
+        {
+          "id": 847,
+          "name": "Barraskewda",
+          "ability": "swift-swim",
+          "nature": "jolly",
+          "moves": [
+            "liquidation",
+            "close-combat",
+            "psychic-fangs",
+            "ice-fang"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 976,
+          "name": "Veluza",
+          "ability": "mold-breaker",
+          "nature": "adamant",
+          "moves": [
+            "aqua-cutter",
+            "psycho-cut",
+            "night-slash",
+            "ice-fang"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 740,
+          "name": "Crabominable",
+          "ability": "iron-fist",
+          "nature": "adamant",
+          "moves": [
+            "ice-hammer",
+            "close-combat",
+            "drain-punch",
+            "earthquake"
+          ],
+          "held_item": "assault-vest",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 977,
+          "name": "Dondozo",
+          "ability": "unaware",
+          "nature": "impish",
+          "moves": [
+            "wave-crash",
+            "body-press",
+            "earthquake",
+            "ice-fang"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 914,
+          "name": "Quaquaval",
+          "ability": "moxie",
+          "nature": "jolly",
+          "moves": [
+            "aqua-step",
+            "close-combat",
+            "ice-spinner",
+            "u-turn"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 130,
+          "name": "Gyarados",
+          "ability": "intimidate",
+          "nature": "jolly",
+          "moves": [
+            "waterfall",
+            "crunch",
+            "earthquake",
+            "ice-fang"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "water"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "medali_gym",
+    "locationName": "Medali Gym",
+    "badge": {
+      "name": "Normal Badge",
+      "imageUrl": "assets/sprites/badges/paldea/normal.png"
+    },
+    "leader": {
+      "name": "Larry",
+      "title": "Normal-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/larry.png",
+      "prizeMoney": 5000,
+      "team": [
+        {
+          "id": 775,
+          "name": "Komala",
+          "ability": "comatose",
+          "nature": "adamant",
+          "moves": [
+            "double-edge",
+            "wood-hammer",
+            "play-rough",
+            "earthquake"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 982,
+          "name": "Dudunsparce",
+          "ability": "serene-grace",
+          "nature": "modest",
+          "moves": [
+            "boomburst",
+            "air-slash",
+            "earth-power",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 398,
+          "name": "Staraptor",
+          "ability": "reckless",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "close-combat",
+            "double-edge",
+            "u-turn"
+          ],
+          "held_item": "choice-scarf",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 916,
+          "name": "Oinkologne",
+          "ability": "thick-fat",
+          "nature": "adamant",
+          "moves": [
+            "double-edge",
+            "earthquake",
+            "iron-head",
+            "play-rough"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 925,
+          "name": "Maushold",
+          "ability": "technician",
+          "nature": "jolly",
+          "moves": [
+            "population-bomb",
+            "bite",
+            "u-turn",
+            "thunder-wave"
+          ],
+          "held_item": "wide-lens",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 981,
+          "name": "Farigiraf",
+          "ability": "sap-sipper",
+          "nature": "modest",
+          "moves": [
+            "hyper-voice",
+            "psychic",
+            "shadow-ball",
+            "energy-ball"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "normal"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "montenevera_gym",
+    "locationName": "Montenevera Gym",
+    "badge": {
+      "name": "Ghost Badge",
+      "imageUrl": "assets/sprites/badges/paldea/ghost.png"
+    },
+    "leader": {
+      "name": "Ryme",
+      "title": "Ghost-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/ryme.png",
+      "prizeMoney": 5400,
+      "team": [
+        {
+          "id": 778,
+          "name": "Mimikyu",
+          "ability": "disguise",
+          "nature": "jolly",
+          "moves": [
+            "play-rough",
+            "shadow-claw",
+            "drain-punch",
+            "wood-hammer"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 972,
+          "name": "Houndstone",
+          "ability": "fluffy",
+          "nature": "adamant",
+          "moves": [
+            "last-respects",
+            "play-rough",
+            "crunch",
+            "body-press"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 354,
+          "name": "Banette",
+          "ability": "cursed-body",
+          "nature": "adamant",
+          "moves": [
+            "shadow-claw",
+            "knock-off",
+            "will-o-wisp",
+            "destiny-bond"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 426,
+          "name": "Drifblim",
+          "ability": "unburden",
+          "nature": "modest",
+          "moves": [
+            "shadow-ball",
+            "hex",
+            "air-slash",
+            "will-o-wisp"
+          ],
+          "held_item": "sitrus-berry",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 1013,
+          "name": "Sinistcha",
+          "ability": "heatproof",
+          "nature": "modest",
+          "moves": [
+            "matcha-gotcha",
+            "shadow-ball",
+            "energy-ball",
+            "will-o-wisp"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 887,
+          "name": "Dragapult",
+          "ability": "infiltrator",
+          "nature": "timid",
+          "moves": [
+            "shadow-ball",
+            "dragon-pulse",
+            "flamethrower",
+            "thunderbolt"
+          ],
+          "held_item": "choice-specs",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "ghost"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "alfornada_gym",
+    "locationName": "Alfornada Gym",
+    "badge": {
+      "name": "Psychic Badge",
+      "imageUrl": "assets/sprites/badges/paldea/psychic.png"
+    },
+    "leader": {
+      "name": "Tulip",
+      "title": "Psychic-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/tulip.png",
+      "prizeMoney": 5800,
+      "team": [
+        {
+          "id": 956,
+          "name": "Espathra",
+          "ability": "speed-boost",
+          "nature": "timid",
+          "moves": [
+            "lumina-crash",
+            "shadow-ball",
+            "dazzling-gleam",
+            "air-slash"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 282,
+          "name": "Gardevoir",
+          "ability": "trace",
+          "nature": "timid",
+          "moves": [
+            "psychic",
+            "moonblast",
+            "shadow-ball",
+            "energy-ball"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 936,
+          "name": "Armarouge",
+          "ability": "flash-fire",
+          "nature": "modest",
+          "moves": [
+            "armor-cannon",
+            "psyshock",
+            "energy-ball",
+            "aura-sphere"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 199,
+          "name": "Slowking",
+          "ability": "regenerator",
+          "nature": "calm",
+          "moves": [
+            "scald",
+            "psychic",
+            "slack-off",
+            "thunder-wave"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 779,
+          "name": "Bruxish",
+          "ability": "strong-jaw",
+          "nature": "jolly",
+          "moves": [
+            "psychic-fangs",
+            "crunch",
+            "ice-fang",
+            "liquidation"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 858,
+          "name": "Hatterene",
+          "ability": "magic-bounce",
+          "nature": "modest",
+          "moves": [
+            "expanding-force",
+            "dazzling-gleam",
+            "mystical-fire",
+            "shadow-ball"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "defense": 4
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "psychic"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "glaseado_gym",
+    "locationName": "Glaseado Gym",
+    "badge": {
+      "name": "Ice Badge",
+      "imageUrl": "assets/sprites/badges/paldea/ice.png"
+    },
+    "leader": {
+      "name": "Grusha",
+      "title": "Ice-type Gym Leader",
+      "imageUrl": "assets/sprites/trainers/avatar/grusha.png",
+      "prizeMoney": 6400,
+      "team": [
+        {
+          "id": 975,
+          "name": "Cetitan",
+          "ability": "thick-fat",
+          "nature": "adamant",
+          "moves": [
+            "ice-spinner",
+            "liquidation",
+            "earthquake",
+            "superpower"
+          ],
+          "held_item": "assault-vest",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 873,
+          "name": "Frosmoth",
+          "ability": "ice-scales",
+          "nature": "timid",
+          "moves": [
+            "ice-beam",
+            "bug-buzz",
+            "hurricane",
+            "giga-drain"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 614,
+          "name": "Beartic",
+          "ability": "slush-rush",
+          "nature": "adamant",
+          "moves": [
+            "icicle-crash",
+            "liquidation",
+            "close-combat",
+            "crunch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 615,
+          "name": "Cryogonal",
+          "ability": "levitate",
+          "nature": "timid",
+          "moves": [
+            "freeze-dry",
+            "ice-beam",
+            "rapid-spin",
+            "recover"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "speed": 4
+          }
+        },
+        {
+          "id": 471,
+          "name": "Glaceon",
+          "ability": "ice-body",
+          "nature": "modest",
+          "moves": [
+            "ice-beam",
+            "freeze-dry",
+            "shadow-ball",
+            "hyper-voice"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 998,
+          "name": "Baxcalibur",
+          "ability": "thermal-exchange",
+          "nature": "adamant",
+          "moves": [
+            "icicle-crash",
+            "glaive-rush",
+            "earthquake",
+            "crunch"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "ice"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "segin_squad_base",
+    "locationName": "Segin Squad Base",
+    "category": "star",
+    "badge": {
+      "name": "Segin Star Badge",
+      "imageUrl": "assets/sprites/badges/paldea/dark.png"
+    },
+    "leader": {
+      "name": "Giacomo",
+      "title": "Dark-type Team Star Boss",
+      "imageUrl": "assets/sprites/trainers/avatar/giacomo.png",
+      "prizeMoney": 4800,
+      "team": [
+        {
+          "id": 625,
+          "name": "Bisharp",
+          "ability": "defiant",
+          "nature": "adamant",
+          "moves": [
+            "iron-head",
+            "knock-off",
+            "brick-break",
+            "psycho-cut"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 197,
+          "name": "Umbreon",
+          "ability": "synchronize",
+          "nature": "calm",
+          "moves": [
+            "foul-play",
+            "toxic",
+            "moonlight",
+            "dark-pulse"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 943,
+          "name": "Mabosstiff",
+          "ability": "intimidate",
+          "nature": "adamant",
+          "moves": [
+            "crunch",
+            "play-rough",
+            "psychic-fangs",
+            "wild-charge"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 908,
+          "name": "Meowscarada",
+          "ability": "protean",
+          "nature": "jolly",
+          "moves": [
+            "flower-trick",
+            "knock-off",
+            "play-rough",
+            "u-turn"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 966,
+          "name": "Revavroom",
+          "ability": "overcoat",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "iron-head",
+            "high-horsepower",
+            "crunch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 983,
+          "name": "Kingambit",
+          "ability": "defiant",
+          "nature": "adamant",
+          "moves": [
+            "kowtow-cleave",
+            "iron-head",
+            "brick-break",
+            "stone-edge"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "dark"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "schedar_squad_base",
+    "locationName": "Schedar Squad Base",
+    "category": "star",
+    "badge": {
+      "name": "Schedar Star Badge",
+      "imageUrl": "assets/sprites/badges/paldea/fire.png"
+    },
+    "leader": {
+      "name": "Mela",
+      "title": "Fire-type Team Star Boss",
+      "imageUrl": "assets/sprites/trainers/avatar/mela.png",
+      "prizeMoney": 5200,
+      "team": [
+        {
+          "id": 324,
+          "name": "Torkoal",
+          "ability": "drought",
+          "nature": "bold",
+          "moves": [
+            "lava-plume",
+            "body-press",
+            "stealth-rock",
+            "rapid-spin"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 229,
+          "name": "Houndoom",
+          "ability": "flash-fire",
+          "nature": "timid",
+          "moves": [
+            "flamethrower",
+            "dark-pulse",
+            "sludge-bomb",
+            "solar-beam"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 936,
+          "name": "Armarouge",
+          "ability": "flash-fire",
+          "nature": "modest",
+          "moves": [
+            "armor-cannon",
+            "psyshock",
+            "energy-ball",
+            "aura-sphere"
+          ],
+          "held_item": "weakness-policy",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 937,
+          "name": "Ceruledge",
+          "ability": "flash-fire",
+          "nature": "adamant",
+          "moves": [
+            "bitter-blade",
+            "close-combat",
+            "shadow-claw",
+            "psycho-cut"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 966,
+          "name": "Revavroom",
+          "ability": "overcoat",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "iron-head",
+            "high-horsepower",
+            "crunch"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 911,
+          "name": "Skeledirge",
+          "ability": "unaware",
+          "nature": "calm",
+          "moves": [
+            "torch-song",
+            "shadow-ball",
+            "will-o-wisp",
+            "hex"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "defense": 4
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "fire"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "navi_squad_base",
+    "locationName": "Navi Squad Base",
+    "category": "star",
+    "badge": {
+      "name": "Navi Star Badge",
+      "imageUrl": "assets/sprites/badges/paldea/poison.png"
+    },
+    "leader": {
+      "name": "Atticus",
+      "title": "Poison-type Team Star Boss",
+      "imageUrl": "assets/sprites/trainers/avatar/atticus.png",
+      "prizeMoney": 5000,
+      "team": [
+        {
+          "id": 435,
+          "name": "Skuntank",
+          "ability": "aftermath",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "crunch",
+            "fire-fang",
+            "toxic-spikes"
+          ],
+          "held_item": "black-sludge",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 89,
+          "name": "Muk",
+          "ability": "poison-touch",
+          "nature": "careful",
+          "moves": [
+            "gunk-shot",
+            "knock-off",
+            "ice-punch",
+            "brick-break"
+          ],
+          "held_item": "black-sludge",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 849,
+          "name": "Toxtricity",
+          "ability": "punk-rock",
+          "nature": "modest",
+          "moves": [
+            "overdrive",
+            "sludge-wave",
+            "boomburst",
+            "volt-switch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 980,
+          "name": "Clodsire",
+          "ability": "unaware",
+          "nature": "careful",
+          "moves": [
+            "earthquake",
+            "gunk-shot",
+            "toxic",
+            "recover"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 970,
+          "name": "Glimmora",
+          "ability": "toxic-debris",
+          "nature": "timid",
+          "moves": [
+            "power-gem",
+            "sludge-wave",
+            "earth-power",
+            "stealth-rock"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 966,
+          "name": "Revavroom",
+          "ability": "overcoat",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "iron-head",
+            "high-horsepower",
+            "crunch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "poison"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "ruchbah_squad_base",
+    "locationName": "Ruchbah Squad Base",
+    "category": "star",
+    "badge": {
+      "name": "Ruchbah Star Badge",
+      "imageUrl": "assets/sprites/badges/paldea/fairy.png"
+    },
+    "leader": {
+      "name": "Ortega",
+      "title": "Fairy-type Team Star Boss",
+      "imageUrl": "assets/sprites/trainers/avatar/ortega.png",
+      "prizeMoney": 5400,
+      "team": [
+        {
+          "id": 927,
+          "name": "Dachsbun",
+          "ability": "aroma-veil",
+          "nature": "impish",
+          "moves": [
+            "play-rough",
+            "body-press",
+            "crunch",
+            "wild-charge"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 700,
+          "name": "Sylveon",
+          "ability": "pixilate",
+          "nature": "modest",
+          "moves": [
+            "hyper-voice",
+            "moonblast",
+            "mystical-fire",
+            "shadow-ball"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 778,
+          "name": "Mimikyu",
+          "ability": "disguise",
+          "nature": "jolly",
+          "moves": [
+            "play-rough",
+            "shadow-claw",
+            "drain-punch",
+            "wood-hammer"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 985,
+          "name": "Scream Tail",
+          "ability": "protosynthesis",
+          "nature": "timid",
+          "moves": [
+            "dazzling-gleam",
+            "psychic",
+            "hyper-voice",
+            "thunder-wave"
+          ],
+          "held_item": "booster-energy",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 966,
+          "name": "Revavroom",
+          "ability": "overcoat",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "iron-head",
+            "high-horsepower",
+            "crunch"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 959,
+          "name": "Tinkaton",
+          "ability": "mold-breaker",
+          "nature": "jolly",
+          "moves": [
+            "gigaton-hammer",
+            "play-rough",
+            "knock-off",
+            "brick-break"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "fairy"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "caph_squad_base",
+    "locationName": "Caph Squad Base",
+    "category": "star",
+    "badge": {
+      "name": "Caph Star Badge",
+      "imageUrl": "assets/sprites/badges/paldea/fighting.png"
+    },
+    "leader": {
+      "name": "Eri",
+      "title": "Fighting-type Team Star Boss",
+      "imageUrl": "assets/sprites/trainers/avatar/eri.png",
+      "prizeMoney": 5800,
+      "team": [
+        {
+          "id": 297,
+          "name": "Hariyama",
+          "ability": "guts",
+          "nature": "adamant",
+          "moves": [
+            "close-combat",
+            "knock-off",
+            "ice-punch",
+            "earthquake"
+          ],
+          "held_item": "flame-orb",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 973,
+          "name": "Flamigo",
+          "ability": "scrappy",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "close-combat",
+            "u-turn",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 914,
+          "name": "Quaquaval",
+          "ability": "moxie",
+          "nature": "jolly",
+          "moves": [
+            "aqua-step",
+            "close-combat",
+            "ice-spinner",
+            "u-turn"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 448,
+          "name": "Lucario",
+          "ability": "justified",
+          "nature": "adamant",
+          "moves": [
+            "close-combat",
+            "meteor-mash",
+            "extreme-speed",
+            "crunch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 966,
+          "name": "Revavroom",
+          "ability": "overcoat",
+          "nature": "adamant",
+          "moves": [
+            "gunk-shot",
+            "iron-head",
+            "high-horsepower",
+            "crunch"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 979,
+          "name": "Annihilape",
+          "ability": "vital-spirit",
+          "nature": "adamant",
+          "moves": [
+            "rage-fist",
+            "drain-punch",
+            "close-combat",
+            "stone-edge"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "fighting"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "stony_cliff_titan",
+    "locationName": "South Province Stony Cliff",
+    "category": "titan",
+    "badge": {
+      "name": "Stony Cliff Titan Badge",
+      "imageUrl": "assets/sprites/badges/paldea/rock.png"
+    },
+    "leader": {
+      "name": "Klawf the Stony Cliff Titan",
+      "title": "Rock-type Titan",
+      "imageUrl": "assets/sprites/trainers/avatar/arven.png",
+      "prizeMoney": 5200,
+      "team": [
+        {
+          "id": 526,
+          "name": "Gigalith",
+          "ability": "sand-stream",
+          "nature": "adamant",
+          "moves": [
+            "stone-edge",
+            "earthquake",
+            "heavy-slam",
+            "rock-blast"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 745,
+          "name": "Lycanroc",
+          "ability": "sand-rush",
+          "nature": "jolly",
+          "moves": [
+            "stone-edge",
+            "close-combat",
+            "crunch",
+            "psychic-fangs"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 934,
+          "name": "Garganacl",
+          "ability": "sturdy",
+          "nature": "careful",
+          "moves": [
+            "salt-cure",
+            "body-press",
+            "stealth-rock",
+            "recover"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "special_defense": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 248,
+          "name": "Tyranitar",
+          "ability": "sand-stream",
+          "nature": "adamant",
+          "moves": [
+            "stone-edge",
+            "crunch",
+            "earthquake",
+            "ice-punch"
+          ],
+          "held_item": "assault-vest",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 464,
+          "name": "Rhyperior",
+          "ability": "solid-rock",
+          "nature": "adamant",
+          "moves": [
+            "stone-edge",
+            "earthquake",
+            "megahorn",
+            "ice-punch"
+          ],
+          "held_item": "weakness-policy",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 950,
+          "name": "Klawf",
+          "ability": "anger-shell",
+          "nature": "adamant",
+          "moves": [
+            "stone-edge",
+            "crabhammer",
+            "high-horsepower",
+            "x-scissor"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "rock"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "open_sky_titan",
+    "locationName": "West Province Open Sky",
+    "category": "titan",
+    "badge": {
+      "name": "Open Sky Titan Badge",
+      "imageUrl": "assets/sprites/badges/paldea/flying.png"
+    },
+    "leader": {
+      "name": "Bombirdier the Open Sky Titan",
+      "title": "Flying-type Titan",
+      "imageUrl": "assets/sprites/trainers/avatar/arven.png",
+      "prizeMoney": 5400,
+      "team": [
+        {
+          "id": 398,
+          "name": "Staraptor",
+          "ability": "intimidate",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "close-combat",
+            "double-edge",
+            "u-turn"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 663,
+          "name": "Talonflame",
+          "ability": "flame-body",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "flare-blitz",
+            "u-turn",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 941,
+          "name": "Kilowattrel",
+          "ability": "volt-absorb",
+          "nature": "timid",
+          "moves": [
+            "thunderbolt",
+            "hurricane",
+            "volt-switch",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 823,
+          "name": "Corviknight",
+          "ability": "pressure",
+          "nature": "impish",
+          "moves": [
+            "brave-bird",
+            "body-press",
+            "iron-head",
+            "roost"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 973,
+          "name": "Flamigo",
+          "ability": "scrappy",
+          "nature": "jolly",
+          "moves": [
+            "brave-bird",
+            "close-combat",
+            "u-turn",
+            "roost"
+          ],
+          "held_item": "focus-sash",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 962,
+          "name": "Bombirdier",
+          "ability": "big-pecks",
+          "nature": "adamant",
+          "moves": [
+            "brave-bird",
+            "knock-off",
+            "stone-edge",
+            "roost"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "flying"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "lurking_steel_titan",
+    "locationName": "East Province Lurking Steel",
+    "category": "titan",
+    "badge": {
+      "name": "Lurking Steel Titan Badge",
+      "imageUrl": "assets/sprites/badges/paldea/steel.png"
+    },
+    "leader": {
+      "name": "Orthworm the Lurking Steel Titan",
+      "title": "Steel-type Titan",
+      "imageUrl": "assets/sprites/trainers/avatar/arven.png",
+      "prizeMoney": 5800,
+      "team": [
+        {
+          "id": 437,
+          "name": "Bronzong",
+          "ability": "levitate",
+          "nature": "sassy",
+          "moves": [
+            "gyro-ball",
+            "earthquake",
+            "psychic",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 530,
+          "name": "Excadrill",
+          "ability": "mold-breaker",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "iron-head",
+            "rock-slide",
+            "rapid-spin"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 212,
+          "name": "Scizor",
+          "ability": "technician",
+          "nature": "adamant",
+          "moves": [
+            "bullet-punch",
+            "u-turn",
+            "close-combat",
+            "knock-off"
+          ],
+          "held_item": "choice-band",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 462,
+          "name": "Magnezone",
+          "ability": "analytic",
+          "nature": "modest",
+          "moves": [
+            "thunderbolt",
+            "flash-cannon",
+            "tri-attack",
+            "volt-switch"
+          ],
+          "held_item": "assault-vest",
+          "evs": {
+            "hp": 252,
+            "special_attack": 252,
+            "special_defense": 4
+          }
+        },
+        {
+          "id": 1000,
+          "name": "Gholdengo",
+          "ability": "good-as-gold",
+          "nature": "timid",
+          "moves": [
+            "make-it-rain",
+            "shadow-ball",
+            "thunderbolt",
+            "recover"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 968,
+          "name": "Orthworm",
+          "ability": "sand-veil",
+          "nature": "impish",
+          "moves": [
+            "heavy-slam",
+            "body-press",
+            "earthquake",
+            "stone-edge"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "steel"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "quaking_earth_titan",
+    "locationName": "Asado Desert Quaking Earth",
+    "category": "titan",
+    "badge": {
+      "name": "Quaking Earth Titan Badge",
+      "imageUrl": "assets/sprites/badges/paldea/ground.png"
+    },
+    "leader": {
+      "name": "Great Tusk the Quaking Earth Titan",
+      "title": "Ground-type Titan",
+      "imageUrl": "assets/sprites/trainers/avatar/arven.png",
+      "prizeMoney": 6800,
+      "team": [
+        {
+          "id": 232,
+          "name": "Donphan",
+          "ability": "sturdy",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "knock-off",
+            "rapid-spin",
+            "stealth-rock"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 450,
+          "name": "Hippowdon",
+          "ability": "sand-stream",
+          "nature": "impish",
+          "moves": [
+            "earthquake",
+            "stone-edge",
+            "ice-fang",
+            "slack-off"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          }
+        },
+        {
+          "id": 553,
+          "name": "Krookodile",
+          "ability": "intimidate",
+          "nature": "jolly",
+          "moves": [
+            "earthquake",
+            "knock-off",
+            "stone-edge",
+            "close-combat"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 445,
+          "name": "Garchomp",
+          "ability": "rough-skin",
+          "nature": "jolly",
+          "moves": [
+            "earthquake",
+            "dragon-claw",
+            "stone-edge",
+            "fire-fang"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 530,
+          "name": "Excadrill",
+          "ability": "sand-rush",
+          "nature": "adamant",
+          "moves": [
+            "earthquake",
+            "iron-head",
+            "rock-slide",
+            "x-scissor"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 984,
+          "name": "Great Tusk",
+          "ability": "protosynthesis",
+          "nature": "jolly",
+          "moves": [
+            "headlong-rush",
+            "close-combat",
+            "ice-spinner",
+            "knock-off"
+          ],
+          "held_item": "booster-energy",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "ground"
+        }
+      ]
+    }
+  },
+  {
+    "locationId": "false_dragon_titan",
+    "locationName": "Casseroya Lake False Dragon",
+    "category": "titan",
+    "badge": {
+      "name": "False Dragon Titan Badge",
+      "imageUrl": "assets/sprites/badges/paldea/dragon.png"
+    },
+    "leader": {
+      "name": "Dondozo the False Dragon Titan",
+      "title": "Water-type Titan",
+      "imageUrl": "assets/sprites/trainers/avatar/arven.png",
+      "prizeMoney": 6800,
+      "team": [
+        {
+          "id": 779,
+          "name": "Bruxish",
+          "ability": "strong-jaw",
+          "nature": "jolly",
+          "moves": [
+            "psychic-fangs",
+            "crunch",
+            "ice-fang",
+            "liquidation"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 976,
+          "name": "Veluza",
+          "ability": "mold-breaker",
+          "nature": "adamant",
+          "moves": [
+            "aqua-cutter",
+            "psycho-cut",
+            "night-slash",
+            "ice-fang"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 978,
+          "name": "Tatsugiri",
+          "ability": "storm-drain",
+          "nature": "modest",
+          "moves": [
+            "hydro-pump",
+            "dragon-pulse",
+            "dark-pulse",
+            "icy-wind"
+          ],
+          "held_item": "life-orb",
+          "evs": {
+            "hp": 4,
+            "special_attack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "id": 998,
+          "name": "Baxcalibur",
+          "ability": "thermal-exchange",
+          "nature": "adamant",
+          "moves": [
+            "glaive-rush",
+            "icicle-crash",
+            "earthquake",
+            "crunch"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 149,
+          "name": "Dragonite",
+          "ability": "multiscale",
+          "nature": "adamant",
+          "moves": [
+            "dragon-claw",
+            "earthquake",
+            "extreme-speed",
+            "fire-punch"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "attack": 252,
+            "defense": 4
+          }
+        },
+        {
+          "id": 977,
+          "name": "Dondozo",
+          "ability": "unaware",
+          "nature": "impish",
+          "moves": [
+            "wave-crash",
+            "body-press",
+            "earthquake",
+            "ice-fang"
+          ],
+          "held_item": "leftovers",
+          "evs": {
+            "hp": 252,
+            "defense": 252,
+            "attack": 4
+          },
+          "dynamax": false,
+          "tera": true,
+          "tera_type": "water"
+        }
+      ]
+    }
+  }
+]
