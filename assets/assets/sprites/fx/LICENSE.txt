@@ -1,0 +1,19 @@
+Battle move-impact effect sprites
+=================================
+
+Source: Pokémon Showdown client, `play.pokemonshowdown.com/fx/`
+        https://github.com/smogon/pokemon-showdown-client
+
+License: CC0 1.0 Universal (public domain dedication)
+         http://creativecommons.org/publicdomain/zero/1.0/
+
+The Showdown client states (header of `play.pokemonshowdown.com/src/
+battle-animations.ts`) that the CC0 dedication "DOES extend to all images in
+the fx/ folder, with the exception of icicle.png, lightning.png, and bone.png"
+plus `rocks.png` / `rock1.png` / `rock2.png` (GPLv3, by PO user "Gilad").
+
+None of those exceptions are bundled here — every file in this directory is
+CC0, so the app carries no copyleft obligation from them.
+
+Files: bottombite, feather, fist, impact, leftslash, petal, rightslash, shine,
+       topbite, wisp
