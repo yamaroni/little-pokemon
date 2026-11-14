@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yamaroni.github.io/little-pokemon/">Play in browser</a> ·
+  <a href="https://little-pokemon.web.id/play/">Play in browser</a> ·
   <a href="https://github.com/yamaroni/lil-poke/releases">Download for Android / iOS</a>
 </p>
 
@@ -121,7 +121,7 @@ There's no account to make and nothing to sign into. Your progress stays on your
 
 | Platform | How |
 |---|---|
-| Browser | [yamaroni.github.io/little-pokemon](https://yamaroni.github.io/little-pokemon/). Works on desktop and mobile browsers |
+| Browser | [little-pokemon.web.id/play](https://little-pokemon.web.id/play/). Works on desktop and mobile browsers |
 | Android / iOS | Builds on the [releases page](https://github.com/yamaroni/lil-poke/releases) |
 
 The first visit in a browser takes a moment to load. After that, it starts fast.
